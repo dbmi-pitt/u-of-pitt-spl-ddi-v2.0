@@ -1,0 +1,49 @@
+A script pipeline to run the SPL drug NER and PK PDDI NLP
+
+Authors: Richard D Boyce, Peter Randall, Greg Gardner
+
+------------------------------------------------------------
+DEPENDENCIES
+------------------------------------------------------------
+* u-of-pitt-SPL-drug-NER : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-SPL-drug-NER>. Be sure to configure the 'dictionary_path' variable in etc/file_properties.xml so the the path to the WordNet dictionary resolves correctly
+
+* SPL-PDDI-NLP-server : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-server>. Be sure to read the README in that project's folder and configure for your site
+
+* SPL-PDDI-NLP-client : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-client>. The client requires Python 2.7, simplejson, and the Python Suds SOAP client.
+
+------------------------------------------------------------
+INSTRUCTIONS
+------------------------------------------------------------
+1) configure the paths at the top of pipeline.sh
+
+2) write the setids for the SPLs to process in the setIDs.txt file
+(NOTE: currently, the pipeline only the processes the "Drug
+Interactions" section of an SPL. It can easily be extended to other
+sections by editing the code in retrieveSPLSquery.py. For example, you
+could call getAllSPLSectionsSparql or write a new method that selects
+a custom set of sections.)
+
+3) make sure that SPL-PDDI-NLP-server is running (see the README in
+that project's folder)
+
+3) run the pipeline as follows:
+$ ./pipeline.sh
+
+------------------------------------------------------------
+LICENSE
+------------------------------------------------------------
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Library General Public
+License as published by the Free Software Foundation; either
+version 2 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Library General Public License for more details.
+
+You should have received a copy of the GNU Library General Public
+License along with this library; if not, write to the
+Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+Boston, MA 02111-1307, USA.
