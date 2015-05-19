@@ -1,0 +1,57 @@
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 178
+8: KEY: rifampin *** Initial position according to JSON Object -----> 171
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: rosiglitazone *** RXCUI -----> 84108
+2: KEY: rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: rosiglitazone *** Concept Type -----> IN
+4: KEY: rosiglitazone *** Drug mention in text -----> rosiglitazone
+5: KEY: rosiglitazone *** Source language -----> MSH
+6 KEY: rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: rosiglitazone *** Final position in text according to JSON Object -----> 327
+8: KEY: rosiglitazone *** Initial position according to JSON Object -----> 315
+9: KEY: rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: rosiglitazone *** RXCUI -----> 84108
+2: KEY: rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: rosiglitazone *** Concept Type -----> IN
+4: KEY: rosiglitazone *** Drug mention in text -----> rosiglitazone
+5: KEY: rosiglitazone *** Source language -----> MSH
+6 KEY: rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: rosiglitazone *** Final position in text according to JSON Object -----> 327
+8: KEY: rosiglitazone *** Initial position according to JSON Object -----> 315
+9: KEY: rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: rosiglitazone *** RXCUI -----> 84108
+2: KEY: rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: rosiglitazone *** Concept Type -----> IN
+4: KEY: rosiglitazone *** Drug mention in text -----> rosiglitazone
+5: KEY: rosiglitazone *** Source language -----> MSH
+6 KEY: rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: rosiglitazone *** Final position in text according to JSON Object -----> 327
+8: KEY: rosiglitazone *** Initial position according to JSON Object -----> 315
+9: KEY: rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: gemfibrozil *** RXCUI -----> 4719
+2: KEY: gemfibrozil *** Concept from RXNORM -----> Gemfibrozil
+3: KEY: gemfibrozil *** Concept Type -----> IN
+4: KEY: gemfibrozil *** Drug mention in text -----> gemfibrozil
+5: KEY: gemfibrozil *** Source language -----> MSH
+6 KEY: gemfibrozil *** CUI CODE in original terminology -----> D015248
+7: KEY: gemfibrozil *** Final position in text according to JSON Object -----> 98
+8: KEY: gemfibrozil *** Initial position according to JSON Object -----> 88
+9: KEY: gemfibrozil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015248
+10: KEY: gemfibrozil *** Preferred name according to JSON Object -----> Gemfibrozil
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

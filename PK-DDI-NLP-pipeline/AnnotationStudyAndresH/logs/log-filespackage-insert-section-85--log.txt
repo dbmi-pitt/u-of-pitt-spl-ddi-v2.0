@@ -1,0 +1,57 @@
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 94
+8: KEY: fluvoxamine *** Initial position according to JSON Object -----> 84
+9: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+10: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 73
+8: KEY: tacrine *** Initial position according to JSON Object -----> 67
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 73
+8: KEY: tacrine *** Initial position according to JSON Object -----> 67
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 73
+8: KEY: tacrine *** Initial position according to JSON Object -----> 67
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 73
+8: KEY: tacrine *** Initial position according to JSON Object -----> 67
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

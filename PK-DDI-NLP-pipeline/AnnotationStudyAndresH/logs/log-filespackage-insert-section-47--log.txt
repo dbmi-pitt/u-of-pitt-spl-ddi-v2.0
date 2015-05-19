@@ -1,0 +1,255 @@
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 390
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 381
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 390
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 381
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 390
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 381
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 390
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 381
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  atomoxetin *** RXCUI -----> 38400
+2: KEY:  atomoxetin *** Concept from RXNORM -----> atomoxetine
+3: KEY:  atomoxetin *** Concept Type -----> IN
+4: KEY:  atomoxetin *** Drug mention in text ----->  atomoxetin
+5: KEY:  atomoxetin *** Source language -----> MSH
+6 KEY:  atomoxetin *** CUI CODE in original terminology -----> C041930
+7: KEY:  atomoxetin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  atomoxetin *** Initial position according to JSON Object -----> 1580
+9: KEY:  atomoxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C041930
+10: KEY:  atomoxetin *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  9-hydroxyrisperidon *** RXCUI -----> 679314
+2: KEY:  9-hydroxyrisperidon *** Concept from RXNORM -----> paliperidone
+3: KEY:  9-hydroxyrisperidon *** Concept Type -----> IN
+4: KEY:  9-hydroxyrisperidon *** Drug mention in text ----->  9-hydroxyrisperidon
+5: KEY:  9-hydroxyrisperidon *** Source language -----> MSH
+6 KEY:  9-hydroxyrisperidon *** CUI CODE in original terminology -----> C079150
+7: KEY:  9-hydroxyrisperidon *** Final position in text according to JSON Object -----> 1061
+8: KEY:  9-hydroxyrisperidon *** Initial position according to JSON Object -----> 1042
+9: KEY:  9-hydroxyrisperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY:  9-hydroxyrisperidon *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY:  9-hydroxyrisperidon *** RXCUI -----> 679314
+2: KEY:  9-hydroxyrisperidon *** Concept from RXNORM -----> paliperidone
+3: KEY:  9-hydroxyrisperidon *** Concept Type -----> IN
+4: KEY:  9-hydroxyrisperidon *** Drug mention in text ----->  9-hydroxyrisperidon
+5: KEY:  9-hydroxyrisperidon *** Source language -----> MSH
+6 KEY:  9-hydroxyrisperidon *** CUI CODE in original terminology -----> C079150
+7: KEY:  9-hydroxyrisperidon *** Final position in text according to JSON Object -----> 1061
+8: KEY:  9-hydroxyrisperidon *** Initial position according to JSON Object -----> 1042
+9: KEY:  9-hydroxyrisperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY:  9-hydroxyrisperidon *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 1704
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 1695
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 1704
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 1695
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 1704
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 1695
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 1704
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 1695
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 1704
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 1695
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 539
+8: KEY: desipramine *** Initial position according to JSON Object -----> 529
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 1035
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 1025
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 1035
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 1025
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 1035
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 1025
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 1035
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 1025
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+removed duplications 13
+Number of missed JSON elements: 0

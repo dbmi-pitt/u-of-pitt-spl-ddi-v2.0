@@ -1,0 +1,233 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 1194
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 1185
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1073
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1064
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 10
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 1
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+removed duplications 64
+Number of missed JSON elements: 0

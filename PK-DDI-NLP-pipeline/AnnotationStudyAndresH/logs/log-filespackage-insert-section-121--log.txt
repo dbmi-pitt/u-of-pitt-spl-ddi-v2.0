@@ -1,0 +1,24 @@
+1: KEY: metronidazole *** RXCUI -----> 6922
+2: KEY: metronidazole *** Concept from RXNORM -----> Metronidazole
+3: KEY: metronidazole *** Concept Type -----> IN
+4: KEY: metronidazole *** Drug mention in text -----> metronidazole
+5: KEY: metronidazole *** Source language -----> RXNORM
+6 KEY: metronidazole *** CUI CODE in original terminology -----> 6922
+7: KEY: metronidazole *** Final position in text according to JSON Object -----> 273
+8: KEY: metronidazole *** Initial position according to JSON Object -----> 261
+9: KEY: metronidazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6922
+10: KEY: metronidazole *** Preferred name according to JSON Object -----> Metronidazole
+---------------------------------------------------------
+1: KEY: FLAGYL *** RXCUI -----> 0
+2: KEY: FLAGYL *** Concept from RXNORM -----> ()
+3: KEY: FLAGYL *** Concept Type -----> ()
+4: KEY: FLAGYL *** Drug mention in text -----> FLAGYL
+5: KEY: FLAGYL *** Source language -----> RXNORM
+6 KEY: FLAGYL *** CUI CODE in original terminology -----> 202866
+7: KEY: FLAGYL *** Final position in text according to JSON Object -----> 432
+8: KEY: FLAGYL *** Initial position according to JSON Object -----> 427
+9: KEY: FLAGYL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/202866
+10: KEY: FLAGYL *** Preferred name according to JSON Object -----> Flagyl
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

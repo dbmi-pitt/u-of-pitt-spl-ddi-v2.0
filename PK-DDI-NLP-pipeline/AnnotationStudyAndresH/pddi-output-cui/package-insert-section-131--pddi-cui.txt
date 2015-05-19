@@ -1,0 +1,6 @@
+cholestyramine	colestipol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2447	2685	D002792	2685
+cholestyramine	colestipol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2447	2685	D002792	2685
+cholestyramine	propranolol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2447	8787	D002792	D011433
+cholestyramine	propranolol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2447	8787	D002792	D011433
+colestipol	propranolol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2685	8787	2685	D011433
+colestipol	propranolol	1	1	true	positive	Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.  		2685	8787	2685	D011433

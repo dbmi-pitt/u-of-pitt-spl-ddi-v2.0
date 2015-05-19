@@ -1,0 +1,35 @@
+1: KEY: SEPTRA *** RXCUI -----> 0
+2: KEY: SEPTRA *** Concept from RXNORM -----> ()
+3: KEY: SEPTRA *** Concept Type -----> ()
+4: KEY: SEPTRA *** Drug mention in text -----> SEPTRA
+5: KEY: SEPTRA *** Source language -----> RXNORM
+6 KEY: SEPTRA *** CUI CODE in original terminology -----> 202807
+7: KEY: SEPTRA *** Final position in text according to JSON Object -----> 81
+8: KEY: SEPTRA *** Initial position according to JSON Object -----> 76
+9: KEY: SEPTRA *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/202807
+10: KEY: SEPTRA *** Preferred name according to JSON Object -----> Septra
+---------------------------------------------------------
+1: KEY: SEPTRA *** RXCUI -----> 0
+2: KEY: SEPTRA *** Concept from RXNORM -----> ()
+3: KEY: SEPTRA *** Concept Type -----> ()
+4: KEY: SEPTRA *** Drug mention in text -----> SEPTRA
+5: KEY: SEPTRA *** Source language -----> RXNORM
+6 KEY: SEPTRA *** CUI CODE in original terminology -----> 202807
+7: KEY: SEPTRA *** Final position in text according to JSON Object -----> 81
+8: KEY: SEPTRA *** Initial position according to JSON Object -----> 76
+9: KEY: SEPTRA *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/202807
+10: KEY: SEPTRA *** Preferred name according to JSON Object -----> Septra
+---------------------------------------------------------
+1: KEY: SEPTRA *** RXCUI -----> 0
+2: KEY: SEPTRA *** Concept from RXNORM -----> ()
+3: KEY: SEPTRA *** Concept Type -----> ()
+4: KEY: SEPTRA *** Drug mention in text -----> SEPTRA
+5: KEY: SEPTRA *** Source language -----> RXNORM
+6 KEY: SEPTRA *** CUI CODE in original terminology -----> 202807
+7: KEY: SEPTRA *** Final position in text according to JSON Object -----> 81
+8: KEY: SEPTRA *** Initial position according to JSON Object -----> 76
+9: KEY: SEPTRA *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/202807
+10: KEY: SEPTRA *** Preferred name according to JSON Object -----> Septra
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

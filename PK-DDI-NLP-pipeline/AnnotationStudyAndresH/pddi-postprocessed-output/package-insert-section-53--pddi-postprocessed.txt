@@ -1,0 +1,6 @@
+quinidine	ketoconazole	1	1	true	positive	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		9068	6135	9068	D007654
+quinidine	ketoconazole	1	1	true	positive	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		9068	6135	9068	D007654
+quinidine	p450	1	1	true	positive	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		9068	none	9068	none
+quinidine	p450	1	1	true	positive	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		9068	none	9068	none
+ketoconazole	p450	1	1	false	none	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		6135	none	D007654	none
+ketoconazole	p450	1	1	false	none	Perhaps because of competition for the P450 3A4metabolic pathway, quinidine levels rise when ketoconazole is coadministered.  		6135	none	D007654	none

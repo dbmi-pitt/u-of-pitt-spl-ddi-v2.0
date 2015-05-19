@@ -1,0 +1,46 @@
+1: KEY:  Felbato *** RXCUI -----> 24812
+2: KEY:  Felbato *** Concept from RXNORM -----> felbamate
+3: KEY:  Felbato *** Concept Type -----> IN
+4: KEY:  Felbato *** Drug mention in text ----->  Felbato
+5: KEY:  Felbato *** Source language -----> MSH
+6 KEY:  Felbato *** CUI CODE in original terminology -----> C047360
+7: KEY:  Felbato *** Final position in text according to JSON Object -----> 326
+8: KEY:  Felbato *** Initial position according to JSON Object -----> 319
+9: KEY:  Felbato *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY:  Felbato *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: Felbatol *** RXCUI -----> 0
+2: KEY: Felbatol *** Concept from RXNORM -----> ()
+3: KEY: Felbatol *** Concept Type -----> ()
+4: KEY: Felbatol *** Drug mention in text -----> Felbatol
+5: KEY: Felbatol *** Source language -----> RXNORM
+6 KEY: Felbatol *** CUI CODE in original terminology -----> 224900
+7: KEY: Felbatol *** Final position in text according to JSON Object -----> 45
+8: KEY: Felbatol *** Initial position according to JSON Object -----> 38
+9: KEY: Felbatol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY: Felbatol *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY: (felbamat *** RXCUI -----> 24812
+2: KEY: (felbamat *** Concept from RXNORM -----> felbamate
+3: KEY: (felbamat *** Concept Type -----> IN
+4: KEY: (felbamat *** Drug mention in text -----> (felbamat
+5: KEY: (felbamat *** Source language -----> RXNORM
+6 KEY: (felbamat *** CUI CODE in original terminology -----> 24812
+7: KEY: (felbamat *** Final position in text according to JSON Object -----> 57
+8: KEY: (felbamat *** Initial position according to JSON Object -----> 49
+9: KEY: (felbamat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/24812
+10: KEY: (felbamat *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: f felbama *** RXCUI -----> 24812
+2: KEY: f felbama *** Concept from RXNORM -----> felbamate
+3: KEY: f felbama *** Concept Type -----> IN
+4: KEY: f felbama *** Drug mention in text -----> f felbama
+5: KEY: f felbama *** Source language -----> MSH
+6 KEY: f felbama *** CUI CODE in original terminology -----> C047360
+7: KEY: f felbama *** Final position in text according to JSON Object -----> 597
+8: KEY: f felbama *** Initial position according to JSON Object -----> 589
+9: KEY: f felbama *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: f felbama *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,35 @@
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 170
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 161
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 170
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 161
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 170
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 161
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

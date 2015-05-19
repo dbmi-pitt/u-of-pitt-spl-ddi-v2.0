@@ -1,0 +1,24 @@
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> MSH
+6 KEY: insulin *** CUI CODE in original terminology -----> D007328
+7: KEY: insulin *** Final position in text according to JSON Object -----> 18
+8: KEY: insulin *** Initial position according to JSON Object -----> 12
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> MSH
+6 KEY: insulin *** CUI CODE in original terminology -----> D007328
+7: KEY: insulin *** Final position in text according to JSON Object -----> 18
+8: KEY: insulin *** Initial position according to JSON Object -----> 12
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

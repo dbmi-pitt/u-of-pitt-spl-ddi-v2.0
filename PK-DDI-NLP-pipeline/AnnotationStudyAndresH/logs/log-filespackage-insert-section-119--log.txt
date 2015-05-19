@@ -1,0 +1,57 @@
+1: KEY: methicillin *** RXCUI -----> 0
+2: KEY: methicillin *** Concept from RXNORM -----> ()
+3: KEY: methicillin *** Concept Type -----> ()
+4: KEY: methicillin *** Drug mention in text -----> methicillin
+5: KEY: methicillin *** Source language -----> MSH
+6 KEY: methicillin *** CUI CODE in original terminology -----> D008712
+7: KEY: methicillin *** Final position in text according to JSON Object -----> 481
+8: KEY: methicillin *** Initial position according to JSON Object -----> 471
+9: KEY: methicillin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008712
+10: KEY: methicillin *** Preferred name according to JSON Object -----> Methicillin
+---------------------------------------------------------
+1: KEY: oxacillin *** RXCUI -----> 7773
+2: KEY: oxacillin *** Concept from RXNORM -----> Oxacillin
+3: KEY: oxacillin *** Concept Type -----> IN
+4: KEY: oxacillin *** Drug mention in text -----> oxacillin
+5: KEY: oxacillin *** Source language -----> RXNORM
+6 KEY: oxacillin *** CUI CODE in original terminology -----> 7773
+7: KEY: oxacillin *** Final position in text according to JSON Object -----> 219
+8: KEY: oxacillin *** Initial position according to JSON Object -----> 211
+9: KEY: oxacillin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7773
+10: KEY: oxacillin *** Preferred name according to JSON Object -----> Oxacillin
+---------------------------------------------------------
+1: KEY: cefazolin *** RXCUI -----> 2180
+2: KEY: cefazolin *** Concept from RXNORM -----> ceFAZolin
+3: KEY: cefazolin *** Concept Type -----> TMSY
+4: KEY: cefazolin *** Drug mention in text -----> cefazolin
+5: KEY: cefazolin *** Source language -----> RXNORM
+6 KEY: cefazolin *** CUI CODE in original terminology -----> 2180
+7: KEY: cefazolin *** Final position in text according to JSON Object -----> 274
+8: KEY: cefazolin *** Initial position according to JSON Object -----> 266
+9: KEY: cefazolin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2180
+10: KEY: cefazolin *** Preferred name according to JSON Object -----> Cefazolin
+---------------------------------------------------------
+1: KEY: Synercid *** RXCUI -----> 0
+2: KEY: Synercid *** Concept from RXNORM -----> ()
+3: KEY: Synercid *** Concept Type -----> ()
+4: KEY: Synercid *** Drug mention in text -----> Synercid
+5: KEY: Synercid *** Source language -----> RXNORM
+6 KEY: Synercid *** CUI CODE in original terminology -----> 135097
+7: KEY: Synercid *** Final position in text according to JSON Object -----> 716
+8: KEY: Synercid *** Initial position according to JSON Object -----> 709
+9: KEY: Synercid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/135097
+10: KEY: Synercid *** Preferred name according to JSON Object -----> Synercid
+---------------------------------------------------------
+1: KEY: Synercid *** RXCUI -----> 0
+2: KEY: Synercid *** Concept from RXNORM -----> ()
+3: KEY: Synercid *** Concept Type -----> ()
+4: KEY: Synercid *** Drug mention in text -----> Synercid
+5: KEY: Synercid *** Source language -----> RXNORM
+6 KEY: Synercid *** CUI CODE in original terminology -----> 135097
+7: KEY: Synercid *** Final position in text according to JSON Object -----> 716
+8: KEY: Synercid *** Initial position according to JSON Object -----> 709
+9: KEY: Synercid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/135097
+10: KEY: Synercid *** Preferred name according to JSON Object -----> Synercid
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

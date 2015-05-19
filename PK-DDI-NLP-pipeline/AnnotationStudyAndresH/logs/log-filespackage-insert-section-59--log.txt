@@ -1,0 +1,57 @@
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 33
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 21
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 33
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 21
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 218
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 209
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 218
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 209
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 218
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 209
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

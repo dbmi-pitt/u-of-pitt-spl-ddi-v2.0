@@ -1,0 +1,35 @@
+1: KEY: sotalol *** RXCUI -----> 9947
+2: KEY: sotalol *** Concept from RXNORM -----> Sotalol
+3: KEY: sotalol *** Concept Type -----> IN
+4: KEY: sotalol *** Drug mention in text -----> sotalol
+5: KEY: sotalol *** Source language -----> RXNORM
+6 KEY: sotalol *** CUI CODE in original terminology -----> 9947
+7: KEY: sotalol *** Final position in text according to JSON Object -----> 25
+8: KEY: sotalol *** Initial position according to JSON Object -----> 19
+9: KEY: sotalol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9947
+10: KEY: sotalol *** Preferred name according to JSON Object -----> Sotalol
+---------------------------------------------------------
+1: KEY: sotalol *** RXCUI -----> 9947
+2: KEY: sotalol *** Concept from RXNORM -----> Sotalol
+3: KEY: sotalol *** Concept Type -----> IN
+4: KEY: sotalol *** Drug mention in text -----> sotalol
+5: KEY: sotalol *** Source language -----> RXNORM
+6 KEY: sotalol *** CUI CODE in original terminology -----> 9947
+7: KEY: sotalol *** Final position in text according to JSON Object -----> 25
+8: KEY: sotalol *** Initial position according to JSON Object -----> 19
+9: KEY: sotalol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9947
+10: KEY: sotalol *** Preferred name according to JSON Object -----> Sotalol
+---------------------------------------------------------
+1: KEY: sotalol *** RXCUI -----> 9947
+2: KEY: sotalol *** Concept from RXNORM -----> Sotalol
+3: KEY: sotalol *** Concept Type -----> IN
+4: KEY: sotalol *** Drug mention in text -----> sotalol
+5: KEY: sotalol *** Source language -----> RXNORM
+6 KEY: sotalol *** CUI CODE in original terminology -----> 9947
+7: KEY: sotalol *** Final position in text according to JSON Object -----> 25
+8: KEY: sotalol *** Initial position according to JSON Object -----> 19
+9: KEY: sotalol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9947
+10: KEY: sotalol *** Preferred name according to JSON Object -----> Sotalol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,24 @@
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 10
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 1
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 48
+8: KEY: tacrine *** Initial position according to JSON Object -----> 42
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

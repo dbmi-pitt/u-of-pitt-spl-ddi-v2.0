@@ -1,0 +1,46 @@
+1: KEY: magnesium trisilicate *** RXCUI -----> 29170
+2: KEY: magnesium trisilicate *** Concept from RXNORM -----> magnesium trisilicate
+3: KEY: magnesium trisilicate *** Concept Type -----> IN
+4: KEY: magnesium trisilicate *** Drug mention in text -----> magnesium trisilicate
+5: KEY: magnesium trisilicate *** Source language -----> RXNORM
+6 KEY: magnesium trisilicate *** CUI CODE in original terminology -----> 29170
+7: KEY: magnesium trisilicate *** Final position in text according to JSON Object -----> 41
+8: KEY: magnesium trisilicate *** Initial position according to JSON Object -----> 21
+9: KEY: magnesium trisilicate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/29170
+10: KEY: magnesium trisilicate *** Preferred name according to JSON Object -----> magnesium trisilicate
+---------------------------------------------------------
+1: KEY: magnesium trisilicate *** RXCUI -----> 29170
+2: KEY: magnesium trisilicate *** Concept from RXNORM -----> magnesium trisilicate
+3: KEY: magnesium trisilicate *** Concept Type -----> IN
+4: KEY: magnesium trisilicate *** Drug mention in text -----> magnesium trisilicate
+5: KEY: magnesium trisilicate *** Source language -----> RXNORM
+6 KEY: magnesium trisilicate *** CUI CODE in original terminology -----> 29170
+7: KEY: magnesium trisilicate *** Final position in text according to JSON Object -----> 41
+8: KEY: magnesium trisilicate *** Initial position according to JSON Object -----> 21
+9: KEY: magnesium trisilicate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/29170
+10: KEY: magnesium trisilicate *** Preferred name according to JSON Object -----> magnesium trisilicate
+---------------------------------------------------------
+1: KEY: nitrofurantoin *** RXCUI -----> 7454
+2: KEY: nitrofurantoin *** Concept from RXNORM -----> Nitrofurantoin
+3: KEY: nitrofurantoin *** Concept Type -----> IN
+4: KEY: nitrofurantoin *** Drug mention in text -----> nitrofurantoin
+5: KEY: nitrofurantoin *** Source language -----> MSH
+6 KEY: nitrofurantoin *** CUI CODE in original terminology -----> D009582
+7: KEY: nitrofurantoin *** Final position in text according to JSON Object -----> 218
+8: KEY: nitrofurantoin *** Initial position according to JSON Object -----> 205
+9: KEY: nitrofurantoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009582
+10: KEY: nitrofurantoin *** Preferred name according to JSON Object -----> Nitrofurantoin
+---------------------------------------------------------
+1: KEY: nitrofurantoin *** RXCUI -----> 7454
+2: KEY: nitrofurantoin *** Concept from RXNORM -----> Nitrofurantoin
+3: KEY: nitrofurantoin *** Concept Type -----> IN
+4: KEY: nitrofurantoin *** Drug mention in text -----> nitrofurantoin
+5: KEY: nitrofurantoin *** Source language -----> MSH
+6 KEY: nitrofurantoin *** CUI CODE in original terminology -----> D009582
+7: KEY: nitrofurantoin *** Final position in text according to JSON Object -----> 218
+8: KEY: nitrofurantoin *** Initial position according to JSON Object -----> 205
+9: KEY: nitrofurantoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009582
+10: KEY: nitrofurantoin *** Preferred name according to JSON Object -----> Nitrofurantoin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

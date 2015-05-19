@@ -1,0 +1,123 @@
+1: KEY: doxorubicin *** RXCUI -----> 3639
+2: KEY: doxorubicin *** Concept from RXNORM -----> Doxorubicin
+3: KEY: doxorubicin *** Concept Type -----> IN
+4: KEY: doxorubicin *** Drug mention in text -----> doxorubicin
+5: KEY: doxorubicin *** Source language -----> RXNORM
+6 KEY: doxorubicin *** CUI CODE in original terminology -----> 3639
+7: KEY: doxorubicin *** Final position in text according to JSON Object -----> 497
+8: KEY: doxorubicin *** Initial position according to JSON Object -----> 487
+9: KEY: doxorubicin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3639
+10: KEY: doxorubicin *** Preferred name according to JSON Object -----> Doxorubicin
+---------------------------------------------------------
+1: KEY: Stavudine *** RXCUI -----> 59763
+2: KEY: Stavudine *** Concept from RXNORM -----> Stavudine
+3: KEY: Stavudine *** Concept Type -----> IN
+4: KEY: Stavudine *** Drug mention in text -----> Stavudine
+5: KEY: Stavudine *** Source language -----> RXNORM
+6 KEY: Stavudine *** CUI CODE in original terminology -----> 59763
+7: KEY: Stavudine *** Final position in text according to JSON Object -----> 57
+8: KEY: Stavudine *** Initial position according to JSON Object -----> 49
+9: KEY: Stavudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: Stavudine *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: Doxorubicin *** RXCUI -----> 3639
+2: KEY: Doxorubicin *** Concept from RXNORM -----> Doxorubicin
+3: KEY: Doxorubicin *** Concept Type -----> IN
+4: KEY: Doxorubicin *** Drug mention in text -----> Doxorubicin
+5: KEY: Doxorubicin *** Source language -----> RXNORM
+6 KEY: Doxorubicin *** CUI CODE in original terminology -----> 3639
+7: KEY: Doxorubicin *** Final position in text according to JSON Object -----> 449
+8: KEY: Doxorubicin *** Initial position according to JSON Object -----> 439
+9: KEY: Doxorubicin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3639
+10: KEY: Doxorubicin *** Preferred name according to JSON Object -----> Doxorubicin
+---------------------------------------------------------
+1: KEY: ganciclovir *** RXCUI -----> 4678
+2: KEY: ganciclovir *** Concept from RXNORM -----> Ganciclovir
+3: KEY: ganciclovir *** Concept Type -----> IN
+4: KEY: ganciclovir *** Drug mention in text -----> ganciclovir
+5: KEY: ganciclovir *** Source language -----> RXNORM
+6 KEY: ganciclovir *** CUI CODE in original terminology -----> 4678
+7: KEY: ganciclovir *** Final position in text according to JSON Object -----> 673
+8: KEY: ganciclovir *** Initial position according to JSON Object -----> 663
+9: KEY: ganciclovir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4678
+10: KEY: ganciclovir *** Preferred name according to JSON Object -----> Ganciclovir
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 808
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 799
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 808
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 799
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 808
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 799
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 808
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 799
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ribavirin *** RXCUI -----> 9344
+2: KEY: ribavirin *** Concept from RXNORM -----> Ribavirin
+3: KEY: ribavirin *** Concept Type -----> IN
+4: KEY: ribavirin *** Drug mention in text -----> ribavirin
+5: KEY: ribavirin *** Source language -----> RXNORM
+6 KEY: ribavirin *** CUI CODE in original terminology -----> 9344
+7: KEY: ribavirin *** Final position in text according to JSON Object -----> 310
+8: KEY: ribavirin *** Initial position according to JSON Object -----> 302
+9: KEY: ribavirin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9344
+10: KEY: ribavirin *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY: ribavirin *** RXCUI -----> 9344
+2: KEY: ribavirin *** Concept from RXNORM -----> Ribavirin
+3: KEY: ribavirin *** Concept Type -----> IN
+4: KEY: ribavirin *** Drug mention in text -----> ribavirin
+5: KEY: ribavirin *** Source language -----> RXNORM
+6 KEY: ribavirin *** CUI CODE in original terminology -----> 9344
+7: KEY: ribavirin *** Final position in text according to JSON Object -----> 310
+8: KEY: ribavirin *** Initial position according to JSON Object -----> 302
+9: KEY: ribavirin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9344
+10: KEY: ribavirin *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY: stavudine *** RXCUI -----> 59763
+2: KEY: stavudine *** Concept from RXNORM -----> Stavudine
+3: KEY: stavudine *** Concept Type -----> IN
+4: KEY: stavudine *** Drug mention in text -----> stavudine
+5: KEY: stavudine *** Source language -----> RXNORM
+6 KEY: stavudine *** CUI CODE in original terminology -----> 59763
+7: KEY: stavudine *** Final position in text according to JSON Object -----> 104
+8: KEY: stavudine *** Initial position according to JSON Object -----> 96
+9: KEY: stavudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: stavudine *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+removed duplications 10
+Number of missed JSON elements: 0

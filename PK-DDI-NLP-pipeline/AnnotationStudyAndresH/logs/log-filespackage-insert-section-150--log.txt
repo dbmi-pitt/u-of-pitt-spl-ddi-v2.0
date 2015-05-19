@@ -1,0 +1,79 @@
+1: KEY: felbamate *** RXCUI -----> 24812
+2: KEY: felbamate *** Concept from RXNORM -----> felbamate
+3: KEY: felbamate *** Concept Type -----> IN
+4: KEY: felbamate *** Drug mention in text -----> felbamate
+5: KEY: felbamate *** Source language -----> MSH
+6 KEY: felbamate *** CUI CODE in original terminology -----> C047360
+7: KEY: felbamate *** Final position in text according to JSON Object -----> 368
+8: KEY: felbamate *** Initial position according to JSON Object -----> 360
+9: KEY: felbamate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: felbamate *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: felbamate *** RXCUI -----> 24812
+2: KEY: felbamate *** Concept from RXNORM -----> felbamate
+3: KEY: felbamate *** Concept Type -----> IN
+4: KEY: felbamate *** Drug mention in text -----> felbamate
+5: KEY: felbamate *** Source language -----> MSH
+6 KEY: felbamate *** CUI CODE in original terminology -----> C047360
+7: KEY: felbamate *** Final position in text according to JSON Object -----> 368
+8: KEY: felbamate *** Initial position according to JSON Object -----> 360
+9: KEY: felbamate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: felbamate *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: phenobarbital *** RXCUI -----> 8134
+2: KEY: phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: phenobarbital *** Concept Type -----> IN
+4: KEY: phenobarbital *** Drug mention in text -----> phenobarbital
+5: KEY: phenobarbital *** Source language -----> RXNORM
+6 KEY: phenobarbital *** CUI CODE in original terminology -----> 8134
+7: KEY: phenobarbital *** Final position in text according to JSON Object -----> 63
+8: KEY: phenobarbital *** Initial position according to JSON Object -----> 51
+9: KEY: phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8134
+10: KEY: phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: phenobarbital *** RXCUI -----> 8134
+2: KEY: phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: phenobarbital *** Concept Type -----> IN
+4: KEY: phenobarbital *** Drug mention in text -----> phenobarbital
+5: KEY: phenobarbital *** Source language -----> RXNORM
+6 KEY: phenobarbital *** CUI CODE in original terminology -----> 8134
+7: KEY: phenobarbital *** Final position in text according to JSON Object -----> 63
+8: KEY: phenobarbital *** Initial position according to JSON Object -----> 51
+9: KEY: phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8134
+10: KEY: phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: phenobarbital *** RXCUI -----> 8134
+2: KEY: phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: phenobarbital *** Concept Type -----> IN
+4: KEY: phenobarbital *** Drug mention in text -----> phenobarbital
+5: KEY: phenobarbital *** Source language -----> RXNORM
+6 KEY: phenobarbital *** CUI CODE in original terminology -----> 8134
+7: KEY: phenobarbital *** Final position in text according to JSON Object -----> 63
+8: KEY: phenobarbital *** Initial position according to JSON Object -----> 51
+9: KEY: phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8134
+10: KEY: phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: phenobarbital *** RXCUI -----> 8134
+2: KEY: phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: phenobarbital *** Concept Type -----> IN
+4: KEY: phenobarbital *** Drug mention in text -----> phenobarbital
+5: KEY: phenobarbital *** Source language -----> RXNORM
+6 KEY: phenobarbital *** CUI CODE in original terminology -----> 8134
+7: KEY: phenobarbital *** Final position in text according to JSON Object -----> 63
+8: KEY: phenobarbital *** Initial position according to JSON Object -----> 51
+9: KEY: phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8134
+10: KEY: phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: Phenobarbital *** RXCUI -----> 8134
+2: KEY: Phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: Phenobarbital *** Concept Type -----> IN
+4: KEY: Phenobarbital *** Drug mention in text -----> Phenobarbital
+5: KEY: Phenobarbital *** Source language -----> MSH
+6 KEY: Phenobarbital *** CUI CODE in original terminology -----> D010634
+7: KEY: Phenobarbital *** Final position in text according to JSON Object -----> 13
+8: KEY: Phenobarbital *** Initial position according to JSON Object -----> 1
+9: KEY: Phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010634
+10: KEY: Phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

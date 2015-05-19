@@ -1,0 +1,79 @@
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> RXNORM
+6 KEY: didanosine *** CUI CODE in original terminology -----> 3364
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 124
+8: KEY: didanosine *** Initial position according to JSON Object -----> 115
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> RXNORM
+6 KEY: didanosine *** CUI CODE in original terminology -----> 3364
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 124
+8: KEY: didanosine *** Initial position according to JSON Object -----> 115
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 75
+8: KEY: methadone *** Initial position according to JSON Object -----> 67
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: stavudine *** RXCUI -----> 59763
+2: KEY: stavudine *** Concept from RXNORM -----> Stavudine
+3: KEY: stavudine *** Concept Type -----> IN
+4: KEY: stavudine *** Drug mention in text -----> stavudine
+5: KEY: stavudine *** Source language -----> RXNORM
+6 KEY: stavudine *** CUI CODE in original terminology -----> 59763
+7: KEY: stavudine *** Final position in text according to JSON Object -----> 138
+8: KEY: stavudine *** Initial position according to JSON Object -----> 130
+9: KEY: stavudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: stavudine *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: Methadone *** RXCUI -----> 6813
+2: KEY: Methadone *** Concept from RXNORM -----> Methadone
+3: KEY: Methadone *** Concept Type -----> IN
+4: KEY: Methadone *** Drug mention in text -----> Methadone
+5: KEY: Methadone *** Source language -----> MSH
+6 KEY: Methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: Methadone *** Final position in text according to JSON Object -----> 198
+8: KEY: Methadone *** Initial position according to JSON Object -----> 190
+9: KEY: Methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: Methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: Didanosine *** RXCUI -----> 3364
+2: KEY: Didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: Didanosine *** Concept Type -----> IN
+4: KEY: Didanosine *** Drug mention in text -----> Didanosine
+5: KEY: Didanosine *** Source language -----> RXNORM
+6 KEY: Didanosine *** CUI CODE in original terminology -----> 3364
+7: KEY: Didanosine *** Final position in text according to JSON Object -----> 10
+8: KEY: Didanosine *** Initial position according to JSON Object -----> 1
+9: KEY: Didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: Didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: Stavudine *** RXCUI -----> 59763
+2: KEY: Stavudine *** Concept from RXNORM -----> Stavudine
+3: KEY: Stavudine *** Concept Type -----> IN
+4: KEY: Stavudine *** Drug mention in text -----> Stavudine
+5: KEY: Stavudine *** Source language -----> RXNORM
+6 KEY: Stavudine *** CUI CODE in original terminology -----> 59763
+7: KEY: Stavudine *** Final position in text according to JSON Object -----> 24
+8: KEY: Stavudine *** Initial position according to JSON Object -----> 16
+9: KEY: Stavudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: Stavudine *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+removed duplications 18
+Number of missed JSON elements: 0

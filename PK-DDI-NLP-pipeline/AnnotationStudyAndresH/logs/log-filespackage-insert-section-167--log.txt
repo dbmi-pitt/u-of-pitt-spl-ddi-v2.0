@@ -1,0 +1,24 @@
+1: KEY: methotrexate *** RXCUI -----> 6851
+2: KEY: methotrexate *** Concept from RXNORM -----> Methotrexate
+3: KEY: methotrexate *** Concept Type -----> IN
+4: KEY: methotrexate *** Drug mention in text -----> methotrexate
+5: KEY: methotrexate *** Source language -----> MSH
+6 KEY: methotrexate *** CUI CODE in original terminology -----> D008727
+7: KEY: methotrexate *** Final position in text according to JSON Object -----> 32
+8: KEY: methotrexate *** Initial position according to JSON Object -----> 21
+9: KEY: methotrexate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008727
+10: KEY: methotrexate *** Preferred name according to JSON Object -----> Methotrexate
+---------------------------------------------------------
+1: KEY: methotrexate *** RXCUI -----> 6851
+2: KEY: methotrexate *** Concept from RXNORM -----> Methotrexate
+3: KEY: methotrexate *** Concept Type -----> IN
+4: KEY: methotrexate *** Drug mention in text -----> methotrexate
+5: KEY: methotrexate *** Source language -----> MSH
+6 KEY: methotrexate *** CUI CODE in original terminology -----> D008727
+7: KEY: methotrexate *** Final position in text according to JSON Object -----> 32
+8: KEY: methotrexate *** Initial position according to JSON Object -----> 21
+9: KEY: methotrexate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008727
+10: KEY: methotrexate *** Preferred name according to JSON Object -----> Methotrexate
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

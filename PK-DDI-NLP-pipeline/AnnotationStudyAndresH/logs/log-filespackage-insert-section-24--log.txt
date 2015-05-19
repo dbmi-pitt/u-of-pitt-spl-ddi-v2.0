@@ -1,0 +1,79 @@
+1: KEY: ). Fluconaz *** RXCUI -----> 4450
+2: KEY: ). Fluconaz *** Concept from RXNORM -----> Fluconazole
+3: KEY: ). Fluconaz *** Concept Type -----> IN
+4: KEY: ). Fluconaz *** Drug mention in text -----> ). Fluconaz
+5: KEY: ). Fluconaz *** Source language -----> RXNORM
+6 KEY: ). Fluconaz *** CUI CODE in original terminology -----> 4450
+7: KEY: ). Fluconaz *** Final position in text according to JSON Object -----> 446
+8: KEY: ). Fluconaz *** Initial position according to JSON Object -----> 436
+9: KEY: ). Fluconaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: ). Fluconaz *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 196
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 186
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 196
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 186
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 196
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 186
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: f fluconazo *** RXCUI -----> 4450
+2: KEY: f fluconazo *** Concept from RXNORM -----> Fluconazole
+3: KEY: f fluconazo *** Concept Type -----> IN
+4: KEY: f fluconazo *** Drug mention in text -----> f fluconazo
+5: KEY: f fluconazo *** Source language -----> RXNORM
+6 KEY: f fluconazo *** CUI CODE in original terminology -----> 4450
+7: KEY: f fluconazo *** Final position in text according to JSON Object -----> 394
+8: KEY: f fluconazo *** Initial position according to JSON Object -----> 384
+9: KEY: f fluconazo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: f fluconazo *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 84
+8: KEY: rifampin *** Initial position according to JSON Object -----> 77
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY:  fluconazol *** RXCUI -----> 4450
+2: KEY:  fluconazol *** Concept from RXNORM -----> Fluconazole
+3: KEY:  fluconazol *** Concept Type -----> IN
+4: KEY:  fluconazol *** Drug mention in text ----->  fluconazol
+5: KEY:  fluconazol *** Source language -----> RXNORM
+6 KEY:  fluconazol *** CUI CODE in original terminology -----> 4450
+7: KEY:  fluconazol *** Final position in text according to JSON Object -----> 317
+8: KEY:  fluconazol *** Initial position according to JSON Object -----> 307
+9: KEY:  fluconazol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY:  fluconazol *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

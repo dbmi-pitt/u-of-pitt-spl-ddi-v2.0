@@ -1,0 +1,57 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 176
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 167
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 176
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 167
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 10
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 1
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 96
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 87
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 96
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 87
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

@@ -1,0 +1,46 @@
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> MSH
+6 KEY: fluconazole *** CUI CODE in original terminology -----> D015725
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 153
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 143
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015725
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: tolbutamide *** RXCUI -----> 10635
+2: KEY: tolbutamide *** Concept from RXNORM -----> Tolbutamide
+3: KEY: tolbutamide *** Concept Type -----> IN
+4: KEY: tolbutamide *** Drug mention in text -----> tolbutamide
+5: KEY: tolbutamide *** Source language -----> RXNORM
+6 KEY: tolbutamide *** CUI CODE in original terminology -----> 10635
+7: KEY: tolbutamide *** Final position in text according to JSON Object -----> 75
+8: KEY: tolbutamide *** Initial position according to JSON Object -----> 65
+9: KEY: tolbutamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: tolbutamide *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: . Tolbutami *** RXCUI -----> 10635
+2: KEY: . Tolbutami *** Concept from RXNORM -----> Tolbutamide
+3: KEY: . Tolbutami *** Concept Type -----> IN
+4: KEY: . Tolbutami *** Drug mention in text -----> . Tolbutami
+5: KEY: . Tolbutami *** Source language -----> RXNORM
+6 KEY: . Tolbutami *** CUI CODE in original terminology -----> 10635
+7: KEY: . Tolbutami *** Final position in text according to JSON Object -----> 248
+8: KEY: . Tolbutami *** Initial position according to JSON Object -----> 238
+9: KEY: . Tolbutami *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: . Tolbutami *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY:  tolbutamid *** RXCUI -----> 10635
+2: KEY:  tolbutamid *** Concept from RXNORM -----> Tolbutamide
+3: KEY:  tolbutamid *** Concept Type -----> IN
+4: KEY:  tolbutamid *** Drug mention in text ----->  tolbutamid
+5: KEY:  tolbutamid *** Source language -----> MSH
+6 KEY:  tolbutamid *** CUI CODE in original terminology -----> D014044
+7: KEY:  tolbutamid *** Final position in text according to JSON Object -----> 200
+8: KEY:  tolbutamid *** Initial position according to JSON Object -----> 190
+9: KEY:  tolbutamid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014044
+10: KEY:  tolbutamid *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+removed duplications 24
+Number of missed JSON elements: 0

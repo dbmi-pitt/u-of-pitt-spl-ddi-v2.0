@@ -1,0 +1,24 @@
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 75
+8: KEY: quinidine *** Initial position according to JSON Object -----> 67
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 105
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 94
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

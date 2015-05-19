@@ -1,0 +1,90 @@
+1: KEY: Diltiazem *** RXCUI -----> 3443
+2: KEY: Diltiazem *** Concept from RXNORM -----> Diltiazem
+3: KEY: Diltiazem *** Concept Type -----> IN
+4: KEY: Diltiazem *** Drug mention in text -----> Diltiazem
+5: KEY: Diltiazem *** Source language -----> MSH
+6 KEY: Diltiazem *** CUI CODE in original terminology -----> D004110
+7: KEY: Diltiazem *** Final position in text according to JSON Object -----> 9
+8: KEY: Diltiazem *** Initial position according to JSON Object -----> 1
+9: KEY: Diltiazem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004110
+10: KEY: Diltiazem *** Preferred name according to JSON Object -----> Diltiazem
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 412
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 403
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 412
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 403
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 412
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 403
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 412
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 403
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 412
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 403
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: diltiazem *** RXCUI -----> 3443
+2: KEY: diltiazem *** Concept from RXNORM -----> Diltiazem
+3: KEY: diltiazem *** Concept Type -----> IN
+4: KEY: diltiazem *** Drug mention in text -----> diltiazem
+5: KEY: diltiazem *** Source language -----> MSH
+6 KEY: diltiazem *** CUI CODE in original terminology -----> D004110
+7: KEY: diltiazem *** Final position in text according to JSON Object -----> 83
+8: KEY: diltiazem *** Initial position according to JSON Object -----> 75
+9: KEY: diltiazem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004110
+10: KEY: diltiazem *** Preferred name according to JSON Object -----> Diltiazem
+---------------------------------------------------------
+1: KEY: diltiazem *** RXCUI -----> 3443
+2: KEY: diltiazem *** Concept from RXNORM -----> Diltiazem
+3: KEY: diltiazem *** Concept Type -----> IN
+4: KEY: diltiazem *** Drug mention in text -----> diltiazem
+5: KEY: diltiazem *** Source language -----> MSH
+6 KEY: diltiazem *** CUI CODE in original terminology -----> D004110
+7: KEY: diltiazem *** Final position in text according to JSON Object -----> 83
+8: KEY: diltiazem *** Initial position according to JSON Object -----> 75
+9: KEY: diltiazem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004110
+10: KEY: diltiazem *** Preferred name according to JSON Object -----> Diltiazem
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

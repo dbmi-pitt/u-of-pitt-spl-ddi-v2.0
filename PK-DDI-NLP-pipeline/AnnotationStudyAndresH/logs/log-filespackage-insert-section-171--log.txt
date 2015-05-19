@@ -1,0 +1,1102 @@
+1: KEY: n (prothrom *** RXCUI -----> 1441688
+2: KEY: n (prothrom *** Concept from RXNORM -----> Prothrombin
+3: KEY: n (prothrom *** Concept Type -----> IN
+4: KEY: n (prothrom *** Drug mention in text -----> n (prothrom
+5: KEY: n (prothrom *** Source language -----> RXNORM
+6 KEY: n (prothrom *** CUI CODE in original terminology -----> 1441688
+7: KEY: n (prothrom *** Final position in text according to JSON Object -----> 9058
+8: KEY: n (prothrom *** Initial position according to JSON Object -----> 9048
+9: KEY: n (prothrom *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: n (prothrom *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: .
+
+Hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: .
+
+Hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: .
+
+Hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: .
+
+Hydrochlorothiaz *** Drug mention in text -----> .
+
+Hydrochlorothiaz
+5: KEY: .
+
+Hydrochlorothiaz *** Source language -----> MSH
+6 KEY: .
+
+Hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: .
+
+Hydrochlorothiaz *** Final position in text according to JSON Object -----> 6394
+8: KEY: .
+
+Hydrochlorothiaz *** Initial position according to JSON Object -----> 6376
+9: KEY: .
+
+Hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: .
+
+Hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: e, tolbutam *** RXCUI -----> 10635
+2: KEY: e, tolbutam *** Concept from RXNORM -----> Tolbutamide
+3: KEY: e, tolbutam *** Concept Type -----> IN
+4: KEY: e, tolbutam *** Drug mention in text -----> e, tolbutam
+5: KEY: e, tolbutam *** Source language -----> RXNORM
+6 KEY: e, tolbutam *** CUI CODE in original terminology -----> 10635
+7: KEY: e, tolbutam *** Final position in text according to JSON Object -----> 8450
+8: KEY: e, tolbutam *** Initial position according to JSON Object -----> 8440
+9: KEY: e, tolbutam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: e, tolbutam *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: or digo *** RXCUI -----> 3407
+2: KEY: or digo *** Concept from RXNORM -----> Digoxin
+3: KEY: or digo *** Concept Type -----> IN
+4: KEY: or digo *** Drug mention in text -----> or digo
+5: KEY: or digo *** Source language -----> RXNORM
+6 KEY: or digo *** CUI CODE in original terminology -----> 3407
+7: KEY: or digo *** Final position in text according to JSON Object -----> 8957
+8: KEY: or digo *** Initial position according to JSON Object -----> 8951
+9: KEY: or digo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: or digo *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: of digo *** RXCUI -----> 3407
+2: KEY: of digo *** Concept from RXNORM -----> Digoxin
+3: KEY: of digo *** Concept Type -----> IN
+4: KEY: of digo *** Drug mention in text -----> of digo
+5: KEY: of digo *** Source language -----> RXNORM
+6 KEY: of digo *** CUI CODE in original terminology -----> 3407
+7: KEY: of digo *** Final position in text according to JSON Object -----> 9099
+8: KEY: of digo *** Initial position according to JSON Object -----> 9093
+9: KEY: of digo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: of digo *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: e
+
+Hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: e
+
+Hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: e
+
+Hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: e
+
+Hydrochlorothiaz *** Drug mention in text -----> e
+
+Hydrochlorothiaz
+5: KEY: e
+
+Hydrochlorothiaz *** Source language -----> MSH
+6 KEY: e
+
+Hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: e
+
+Hydrochlorothiaz *** Final position in text according to JSON Object -----> 6415
+8: KEY: e
+
+Hydrochlorothiaz *** Initial position according to JSON Object -----> 6397
+9: KEY: e
+
+Hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: e
+
+Hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: 
+
+Hydrochlorothiazi *** RXCUI -----> 5487
+2: KEY: 
+
+Hydrochlorothiazi *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: 
+
+Hydrochlorothiazi *** Concept Type -----> IN
+4: KEY: 
+
+Hydrochlorothiazi *** Drug mention in text -----> 
+
+Hydrochlorothiazi
+5: KEY: 
+
+Hydrochlorothiazi *** Source language -----> MSH
+6 KEY: 
+
+Hydrochlorothiazi *** CUI CODE in original terminology -----> D006852
+7: KEY: 
+
+Hydrochlorothiazi *** Final position in text according to JSON Object -----> 5661
+8: KEY: 
+
+Hydrochlorothiazi *** Initial position according to JSON Object -----> 5643
+9: KEY: 
+
+Hydrochlorothiazi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: 
+
+Hydrochlorothiazi *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: 
+
+Hydrochlorothiazi *** RXCUI -----> 5487
+2: KEY: 
+
+Hydrochlorothiazi *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: 
+
+Hydrochlorothiazi *** Concept Type -----> IN
+4: KEY: 
+
+Hydrochlorothiazi *** Drug mention in text -----> 
+
+Hydrochlorothiazi
+5: KEY: 
+
+Hydrochlorothiazi *** Source language -----> MSH
+6 KEY: 
+
+Hydrochlorothiazi *** CUI CODE in original terminology -----> D006852
+7: KEY: 
+
+Hydrochlorothiazi *** Final position in text according to JSON Object -----> 5661
+8: KEY: 
+
+Hydrochlorothiazi *** Initial position according to JSON Object -----> 5643
+9: KEY: 
+
+Hydrochlorothiazi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: 
+
+Hydrochlorothiazi *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: irbesartan *** RXCUI -----> 83818
+2: KEY: irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: irbesartan *** Concept Type -----> IN
+4: KEY: irbesartan *** Drug mention in text -----> irbesartan
+5: KEY: irbesartan *** Source language -----> RXNORM
+6 KEY: irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: irbesartan *** Final position in text according to JSON Object -----> 4666
+8: KEY: irbesartan *** Initial position according to JSON Object -----> 4657
+9: KEY: irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: r irbesart *** RXCUI -----> 83818
+2: KEY: r irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: r irbesart *** Concept Type -----> IN
+4: KEY: r irbesart *** Drug mention in text -----> r irbesart
+5: KEY: r irbesart *** Source language -----> RXNORM
+6 KEY: r irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: r irbesart *** Final position in text according to JSON Object -----> 5236
+8: KEY: r irbesart *** Initial position according to JSON Object -----> 5227
+9: KEY: r irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: r irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Aldosterone *** RXCUI -----> 1312358
+2: KEY: Aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: Aldosterone *** Concept Type -----> IN
+4: KEY: Aldosterone *** Drug mention in text -----> Aldosterone
+5: KEY: Aldosterone *** Source language -----> RXNORM
+6 KEY: Aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: Aldosterone *** Final position in text according to JSON Object -----> 2820
+8: KEY: Aldosterone *** Initial position according to JSON Object -----> 2810
+9: KEY: Aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: Aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: . Irbesart *** RXCUI -----> 83818
+2: KEY: . Irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: . Irbesart *** Concept Type -----> IN
+4: KEY: . Irbesart *** Drug mention in text -----> . Irbesart
+5: KEY: . Irbesart *** Source language -----> RXNORM
+6 KEY: . Irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: . Irbesart *** Final position in text according to JSON Object -----> 5418
+8: KEY: . Irbesart *** Initial position according to JSON Object -----> 5409
+9: KEY: . Irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: . Irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: c
+
+Irbesar *** RXCUI -----> 83818
+2: KEY: c
+
+Irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: c
+
+Irbesar *** Concept Type -----> IN
+4: KEY: c
+
+Irbesar *** Drug mention in text -----> c
+
+Irbesar
+5: KEY: c
+
+Irbesar *** Source language -----> RXNORM
+6 KEY: c
+
+Irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: c
+
+Irbesar *** Final position in text according to JSON Object -----> 6524
+8: KEY: c
+
+Irbesar *** Initial position according to JSON Object -----> 6515
+9: KEY: c
+
+Irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: c
+
+Irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: n, warfa *** RXCUI -----> 11289
+2: KEY: n, warfa *** Concept from RXNORM -----> Warfarin
+3: KEY: n, warfa *** Concept Type -----> IN
+4: KEY: n, warfa *** Drug mention in text -----> n, warfa
+5: KEY: n, warfa *** Source language -----> MSH
+6 KEY: n, warfa *** CUI CODE in original terminology -----> D014859
+7: KEY: n, warfa *** Final position in text according to JSON Object -----> 8253
+8: KEY: n, warfa *** Initial position according to JSON Object -----> 8246
+9: KEY: n, warfa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: n, warfa *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: f irbesart *** RXCUI -----> 83818
+2: KEY: f irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: f irbesart *** Concept Type -----> IN
+4: KEY: f irbesart *** Drug mention in text -----> f irbesart
+5: KEY: f irbesart *** Source language -----> RXNORM
+6 KEY: f irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: f irbesart *** Final position in text according to JSON Object -----> 5281
+8: KEY: f irbesart *** Initial position according to JSON Object -----> 5272
+9: KEY: f irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: f irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: or hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: or hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: or hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: or hydrochlorothiaz *** Drug mention in text -----> or hydrochlorothiaz
+5: KEY: or hydrochlorothiaz *** Source language -----> MSH
+6 KEY: or hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: or hydrochlorothiaz *** Final position in text according to JSON Object -----> 9210
+8: KEY: or hydrochlorothiaz *** Initial position according to JSON Object -----> 9192
+9: KEY: or hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: or hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: or hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: or hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: or hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: or hydrochlorothiaz *** Drug mention in text -----> or hydrochlorothiaz
+5: KEY: or hydrochlorothiaz *** Source language -----> MSH
+6 KEY: or hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: or hydrochlorothiaz *** Final position in text according to JSON Object -----> 9210
+8: KEY: or hydrochlorothiaz *** Initial position according to JSON Object -----> 9192
+9: KEY: or hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: or hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: of nifedip *** RXCUI -----> 7417
+2: KEY: of nifedip *** Concept from RXNORM -----> Nifedipine
+3: KEY: of nifedip *** Concept Type -----> IN
+4: KEY: of nifedip *** Drug mention in text -----> of nifedip
+5: KEY: of nifedip *** Source language -----> MSH
+6 KEY: of nifedip *** CUI CODE in original terminology -----> D009543
+7: KEY: of nifedip *** Final position in text according to JSON Object -----> 9187
+8: KEY: of nifedip *** Initial position according to JSON Object -----> 9178
+9: KEY: of nifedip *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: of nifedip *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: ed irbesar *** RXCUI -----> 83818
+2: KEY: ed irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: ed irbesar *** Concept Type -----> IN
+4: KEY: ed irbesar *** Drug mention in text -----> ed irbesar
+5: KEY: ed irbesar *** Source language -----> RXNORM
+6 KEY: ed irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: ed irbesar *** Final position in text according to JSON Object -----> 8356
+8: KEY: ed irbesar *** Initial position according to JSON Object -----> 8347
+9: KEY: ed irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: ed irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: ed irbesar *** RXCUI -----> 83818
+2: KEY: ed irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: ed irbesar *** Concept Type -----> IN
+4: KEY: ed irbesar *** Drug mention in text -----> ed irbesar
+5: KEY: ed irbesar *** Source language -----> RXNORM
+6 KEY: ed irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: ed irbesar *** Final position in text according to JSON Object -----> 8356
+8: KEY: ed irbesar *** Initial position according to JSON Object -----> 8347
+9: KEY: ed irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: ed irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: of warfa *** RXCUI -----> 11289
+2: KEY: of warfa *** Concept from RXNORM -----> Warfarin
+3: KEY: of warfa *** Concept Type -----> IN
+4: KEY: of warfa *** Drug mention in text -----> of warfa
+5: KEY: of warfa *** Source language -----> MSH
+6 KEY: of warfa *** CUI CODE in original terminology -----> D014859
+7: KEY: of warfa *** Final position in text according to JSON Object -----> 8924
+8: KEY: of warfa *** Initial position according to JSON Object -----> 8917
+9: KEY: of warfa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: of warfa *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: of warfa *** RXCUI -----> 11289
+2: KEY: of warfa *** Concept from RXNORM -----> Warfarin
+3: KEY: of warfa *** Concept Type -----> IN
+4: KEY: of warfa *** Drug mention in text -----> of warfa
+5: KEY: of warfa *** Source language -----> MSH
+6 KEY: of warfa *** CUI CODE in original terminology -----> D014859
+7: KEY: of warfa *** Final position in text according to JSON Object -----> 8924
+8: KEY: of warfa *** Initial position according to JSON Object -----> 8917
+9: KEY: of warfa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: of warfa *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: of warfa *** RXCUI -----> 11289
+2: KEY: of warfa *** Concept from RXNORM -----> Warfarin
+3: KEY: of warfa *** Concept Type -----> IN
+4: KEY: of warfa *** Drug mention in text -----> of warfa
+5: KEY: of warfa *** Source language -----> MSH
+6 KEY: of warfa *** CUI CODE in original terminology -----> D014859
+7: KEY: of warfa *** Final position in text according to JSON Object -----> 8924
+8: KEY: of warfa *** Initial position according to JSON Object -----> 8917
+9: KEY: of warfa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: of warfa *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: ), irbesar *** RXCUI -----> 83818
+2: KEY: ), irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: ), irbesar *** Concept Type -----> IN
+4: KEY: ), irbesar *** Drug mention in text -----> ), irbesar
+5: KEY: ), irbesar *** Source language -----> RXNORM
+6 KEY: ), irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: ), irbesar *** Final position in text according to JSON Object -----> 7090
+8: KEY: ), irbesar *** Initial position according to JSON Object -----> 7081
+9: KEY: ), irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: ), irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: a. Irbesar *** RXCUI -----> 83818
+2: KEY: a. Irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: a. Irbesar *** Concept Type -----> IN
+4: KEY: a. Irbesar *** Drug mention in text -----> a. Irbesar
+5: KEY: a. Irbesar *** Source language -----> RXNORM
+6 KEY: a. Irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: a. Irbesar *** Final position in text according to JSON Object -----> 6330
+8: KEY: a. Irbesar *** Initial position according to JSON Object -----> 6321
+9: KEY: a. Irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: a. Irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: 
+
+Irbesart *** RXCUI -----> 83818
+2: KEY: 
+
+Irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: 
+
+Irbesart *** Concept Type -----> IN
+4: KEY: 
+
+Irbesart *** Drug mention in text -----> 
+
+Irbesart
+5: KEY: 
+
+Irbesart *** Source language -----> RXNORM
+6 KEY: 
+
+Irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: 
+
+Irbesart *** Final position in text according to JSON Object -----> 5830
+8: KEY: 
+
+Irbesart *** Initial position according to JSON Object -----> 5821
+9: KEY: 
+
+Irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: 
+
+Irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: 
+
+Irbesart *** RXCUI -----> 83818
+2: KEY: 
+
+Irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: 
+
+Irbesart *** Concept Type -----> IN
+4: KEY: 
+
+Irbesart *** Drug mention in text -----> 
+
+Irbesart
+5: KEY: 
+
+Irbesart *** Source language -----> RXNORM
+6 KEY: 
+
+Irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: 
+
+Irbesart *** Final position in text according to JSON Object -----> 5830
+8: KEY: 
+
+Irbesart *** Initial position according to JSON Object -----> 5821
+9: KEY: 
+
+Irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: 
+
+Irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: 
+
+Irbesart *** RXCUI -----> 83818
+2: KEY: 
+
+Irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: 
+
+Irbesart *** Concept Type -----> IN
+4: KEY: 
+
+Irbesart *** Drug mention in text -----> 
+
+Irbesart
+5: KEY: 
+
+Irbesart *** Source language -----> RXNORM
+6 KEY: 
+
+Irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: 
+
+Irbesart *** Final position in text according to JSON Object -----> 5830
+8: KEY: 
+
+Irbesart *** Initial position according to JSON Object -----> 5821
+9: KEY: 
+
+Irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: 
+
+Irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: s. Irbesar *** RXCUI -----> 83818
+2: KEY: s. Irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: s. Irbesar *** Concept Type -----> IN
+4: KEY: s. Irbesar *** Drug mention in text -----> s. Irbesar
+5: KEY: s. Irbesar *** Source language -----> RXNORM
+6 KEY: s. Irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: s. Irbesar *** Final position in text according to JSON Object -----> 7591
+8: KEY: s. Irbesar *** Initial position according to JSON Object -----> 7582
+9: KEY: s. Irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: s. Irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: th hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: th hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: th hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: th hydrochlorothiaz *** Drug mention in text -----> th hydrochlorothiaz
+5: KEY: th hydrochlorothiaz *** Source language -----> MSH
+6 KEY: th hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: th hydrochlorothiaz *** Final position in text according to JSON Object -----> 8234
+8: KEY: th hydrochlorothiaz *** Initial position according to JSON Object -----> 8216
+9: KEY: th hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: th hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: an-hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: an-hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: an-hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: an-hydrochlorothiaz *** Drug mention in text -----> an-hydrochlorothiaz
+5: KEY: an-hydrochlorothiaz *** Source language -----> MSH
+6 KEY: an-hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: an-hydrochlorothiaz *** Final position in text according to JSON Object -----> 6544
+8: KEY: an-hydrochlorothiaz *** Initial position according to JSON Object -----> 6526
+9: KEY: an-hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: an-hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: on irbesar *** RXCUI -----> 83818
+2: KEY: on irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: on irbesar *** Concept Type -----> IN
+4: KEY: on irbesar *** Drug mention in text -----> on irbesar
+5: KEY: on irbesar *** Source language -----> RXNORM
+6 KEY: on irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: on irbesar *** Final position in text according to JSON Object -----> 8665
+8: KEY: on irbesar *** Initial position according to JSON Object -----> 8656
+9: KEY: on irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: on irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: Irbesartan *** RXCUI -----> 83818
+2: KEY: Irbesartan *** Concept from RXNORM -----> irbesartan
+3: KEY: Irbesartan *** Concept Type -----> IN
+4: KEY: Irbesartan *** Drug mention in text -----> Irbesartan
+5: KEY: Irbesartan *** Source language -----> RXNORM
+6 KEY: Irbesartan *** CUI CODE in original terminology -----> 83818
+7: KEY: Irbesartan *** Final position in text according to JSON Object -----> 4525
+8: KEY: Irbesartan *** Initial position according to JSON Object -----> 4516
+9: KEY: Irbesartan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: Irbesartan *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: nt irbesar *** RXCUI -----> 83818
+2: KEY: nt irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: nt irbesar *** Concept Type -----> IN
+4: KEY: nt irbesar *** Drug mention in text -----> nt irbesar
+5: KEY: nt irbesar *** Source language -----> RXNORM
+6 KEY: nt irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: nt irbesar *** Final position in text according to JSON Object -----> 8538
+8: KEY: nt irbesar *** Initial position according to JSON Object -----> 8529
+9: KEY: nt irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: nt irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: hydrochlorothiazide *** Drug mention in text -----> hydrochlorothiazide
+5: KEY: hydrochlorothiazide *** Source language -----> MSH
+6 KEY: hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: hydrochlorothiazide *** Final position in text according to JSON Object -----> 3501
+8: KEY: hydrochlorothiazide *** Initial position according to JSON Object -----> 3483
+9: KEY: hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: hydrochlorothiazide *** Drug mention in text -----> hydrochlorothiazide
+5: KEY: hydrochlorothiazide *** Source language -----> MSH
+6 KEY: hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: hydrochlorothiazide *** Final position in text according to JSON Object -----> 3501
+8: KEY: hydrochlorothiazide *** Initial position according to JSON Object -----> 3483
+9: KEY: hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: Hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: Hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: Hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: Hydrochlorothiazide *** Drug mention in text -----> Hydrochlorothiazide
+5: KEY: Hydrochlorothiazide *** Source language -----> MSH
+6 KEY: Hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: Hydrochlorothiazide *** Final position in text according to JSON Object -----> 4348
+8: KEY: Hydrochlorothiazide *** Initial position according to JSON Object -----> 4330
+9: KEY: Hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: Hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: Hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: Hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: Hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: Hydrochlorothiazide *** Drug mention in text -----> Hydrochlorothiazide
+5: KEY: Hydrochlorothiazide *** Source language -----> MSH
+6 KEY: Hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: Hydrochlorothiazide *** Final position in text according to JSON Object -----> 4348
+8: KEY: Hydrochlorothiazide *** Initial position according to JSON Object -----> 4330
+9: KEY: Hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: Hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: Hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: Hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: Hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: Hydrochlorothiazide *** Drug mention in text -----> Hydrochlorothiazide
+5: KEY: Hydrochlorothiazide *** Source language -----> MSH
+6 KEY: Hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: Hydrochlorothiazide *** Final position in text according to JSON Object -----> 4348
+8: KEY: Hydrochlorothiazide *** Initial position according to JSON Object -----> 4330
+9: KEY: Hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: Hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: Hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: Hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: Hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: Hydrochlorothiazide *** Drug mention in text -----> Hydrochlorothiazide
+5: KEY: Hydrochlorothiazide *** Source language -----> MSH
+6 KEY: Hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: Hydrochlorothiazide *** Final position in text according to JSON Object -----> 4348
+8: KEY: Hydrochlorothiazide *** Initial position according to JSON Object -----> 4330
+9: KEY: Hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: Hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: e, digo *** RXCUI -----> 3407
+2: KEY: e, digo *** Concept from RXNORM -----> Digoxin
+3: KEY: e, digo *** Concept Type -----> IN
+4: KEY: e, digo *** Drug mention in text -----> e, digo
+5: KEY: e, digo *** Source language -----> RXNORM
+6 KEY: e, digo *** CUI CODE in original terminology -----> 3407
+7: KEY: e, digo *** Final position in text according to JSON Object -----> 8243
+8: KEY: e, digo *** Initial position according to JSON Object -----> 8237
+9: KEY: e, digo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: e, digo *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: g, irbesar *** RXCUI -----> 83818
+2: KEY: g, irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: g, irbesar *** Concept Type -----> IN
+4: KEY: g, irbesar *** Drug mention in text -----> g, irbesar
+5: KEY: g, irbesar *** Source language -----> RXNORM
+6 KEY: g, irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: g, irbesar *** Final position in text according to JSON Object -----> 6162
+8: KEY: g, irbesar *** Initial position according to JSON Object -----> 6153
+9: KEY: g, irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: g, irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: n, hydrochlorothiaz *** RXCUI -----> 5487
+2: KEY: n, hydrochlorothiaz *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: n, hydrochlorothiaz *** Concept Type -----> IN
+4: KEY: n, hydrochlorothiaz *** Drug mention in text -----> n, hydrochlorothiaz
+5: KEY: n, hydrochlorothiaz *** Source language -----> MSH
+6 KEY: n, hydrochlorothiaz *** CUI CODE in original terminology -----> D006852
+7: KEY: n, hydrochlorothiaz *** Final position in text according to JSON Object -----> 8945
+8: KEY: n, hydrochlorothiaz *** Initial position according to JSON Object -----> 8927
+9: KEY: n, hydrochlorothiaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: n, hydrochlorothiaz *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+1: KEY: nd nifedip *** RXCUI -----> 7417
+2: KEY: nd nifedip *** Concept from RXNORM -----> Nifedipine
+3: KEY: nd nifedip *** Concept Type -----> IN
+4: KEY: nd nifedip *** Drug mention in text -----> nd nifedip
+5: KEY: nd nifedip *** Source language -----> MSH
+6 KEY: nd nifedip *** CUI CODE in original terminology -----> D009543
+7: KEY: nd nifedip *** Final position in text according to JSON Object -----> 8465
+8: KEY: nd nifedip *** Initial position according to JSON Object -----> 8456
+9: KEY: nd nifedip *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nd nifedip *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nd nifedip *** RXCUI -----> 7417
+2: KEY: nd nifedip *** Concept from RXNORM -----> Nifedipine
+3: KEY: nd nifedip *** Concept Type -----> IN
+4: KEY: nd nifedip *** Drug mention in text -----> nd nifedip
+5: KEY: nd nifedip *** Source language -----> MSH
+6 KEY: nd nifedip *** CUI CODE in original terminology -----> D009543
+7: KEY: nd nifedip *** Final position in text according to JSON Object -----> 8465
+8: KEY: nd nifedip *** Initial position according to JSON Object -----> 8456
+9: KEY: nd nifedip *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nd nifedip *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: s irbesart *** RXCUI -----> 83818
+2: KEY: s irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: s irbesart *** Concept Type -----> IN
+4: KEY: s irbesart *** Drug mention in text -----> s irbesart
+5: KEY: s irbesart *** Source language -----> RXNORM
+6 KEY: s irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: s irbesart *** Final position in text according to JSON Object -----> 5222
+8: KEY: s irbesart *** Initial position according to JSON Object -----> 5213
+9: KEY: s irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: s irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: nt nifedip *** RXCUI -----> 7417
+2: KEY: nt nifedip *** Concept from RXNORM -----> Nifedipine
+3: KEY: nt nifedip *** Concept Type -----> IN
+4: KEY: nt nifedip *** Drug mention in text -----> nt nifedip
+5: KEY: nt nifedip *** Source language -----> MSH
+6 KEY: nt nifedip *** CUI CODE in original terminology -----> D009543
+7: KEY: nt nifedip *** Final position in text according to JSON Object -----> 8614
+8: KEY: nt nifedip *** Initial position according to JSON Object -----> 8605
+9: KEY: nt nifedip *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nt nifedip *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: of irbesar *** RXCUI -----> 83818
+2: KEY: of irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: of irbesar *** Concept Type -----> IN
+4: KEY: of irbesar *** Drug mention in text -----> of irbesar
+5: KEY: of irbesar *** Source language -----> RXNORM
+6 KEY: of irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: of irbesar *** Final position in text according to JSON Object -----> 9135
+8: KEY: of irbesar *** Initial position according to JSON Object -----> 9126
+9: KEY: of irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: of irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: of irbesar *** RXCUI -----> 83818
+2: KEY: of irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: of irbesar *** Concept Type -----> IN
+4: KEY: of irbesar *** Drug mention in text -----> of irbesar
+5: KEY: of irbesar *** Source language -----> RXNORM
+6 KEY: of irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: of irbesar *** Final position in text according to JSON Object -----> 9135
+8: KEY: of irbesar *** Initial position according to JSON Object -----> 9126
+9: KEY: of irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: of irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: of irbesar *** RXCUI -----> 83818
+2: KEY: of irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: of irbesar *** Concept Type -----> IN
+4: KEY: of irbesar *** Drug mention in text -----> of irbesar
+5: KEY: of irbesar *** Source language -----> RXNORM
+6 KEY: of irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: of irbesar *** Final position in text according to JSON Object -----> 9135
+8: KEY: of irbesar *** Initial position according to JSON Object -----> 9126
+9: KEY: of irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: of irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: of irbesar *** RXCUI -----> 83818
+2: KEY: of irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: of irbesar *** Concept Type -----> IN
+4: KEY: of irbesar *** Drug mention in text -----> of irbesar
+5: KEY: of irbesar *** Source language -----> RXNORM
+6 KEY: of irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: of irbesar *** Final position in text according to JSON Object -----> 9135
+8: KEY: of irbesar *** Initial position according to JSON Object -----> 9126
+9: KEY: of irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: of irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: d irbesart *** RXCUI -----> 83818
+2: KEY: d irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: d irbesart *** Concept Type -----> IN
+4: KEY: d irbesart *** Drug mention in text -----> d irbesart
+5: KEY: d irbesart *** Source language -----> RXNORM
+6 KEY: d irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: d irbesart *** Final position in text according to JSON Object -----> 5342
+8: KEY: d irbesart *** Initial position according to JSON Object -----> 5333
+9: KEY: d irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: d irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: d irbesart *** RXCUI -----> 83818
+2: KEY: d irbesart *** Concept from RXNORM -----> irbesartan
+3: KEY: d irbesart *** Concept Type -----> IN
+4: KEY: d irbesart *** Drug mention in text -----> d irbesart
+5: KEY: d irbesart *** Source language -----> RXNORM
+6 KEY: d irbesart *** CUI CODE in original terminology -----> 83818
+7: KEY: d irbesart *** Final position in text according to JSON Object -----> 5342
+8: KEY: d irbesart *** Initial position according to JSON Object -----> 5333
+9: KEY: d irbesart *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: d irbesart *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 3294
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 3284
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 3294
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 3284
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: n, irbesar *** RXCUI -----> 83818
+2: KEY: n, irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: n, irbesar *** Concept Type -----> IN
+4: KEY: n, irbesar *** Drug mention in text -----> n, irbesar
+5: KEY: n, irbesar *** Source language -----> RXNORM
+6 KEY: n, irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: n, irbesar *** Final position in text according to JSON Object -----> 8969
+8: KEY: n, irbesar *** Initial position according to JSON Object -----> 8960
+9: KEY: n, irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: n, irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 1961
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 1951
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 1961
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 1951
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 1961
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 1951
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 1961
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 1951
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: s, irbesar *** RXCUI -----> 83818
+2: KEY: s, irbesar *** Concept from RXNORM -----> irbesartan
+3: KEY: s, irbesar *** Concept Type -----> IN
+4: KEY: s, irbesar *** Drug mention in text -----> s, irbesar
+5: KEY: s, irbesar *** Source language -----> RXNORM
+6 KEY: s, irbesar *** CUI CODE in original terminology -----> 83818
+7: KEY: s, irbesar *** Final position in text according to JSON Object -----> 7343
+8: KEY: s, irbesar *** Initial position according to JSON Object -----> 7334
+9: KEY: s, irbesar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83818
+10: KEY: s, irbesar *** Preferred name according to JSON Object -----> irbesartan
+---------------------------------------------------------
+removed duplications 401
+Number of missed JSON elements: 0

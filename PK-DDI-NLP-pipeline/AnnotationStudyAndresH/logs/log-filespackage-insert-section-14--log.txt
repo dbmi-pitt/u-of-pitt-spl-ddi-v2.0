@@ -1,0 +1,99 @@
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> RXNORM
+6 KEY: sertraline *** CUI CODE in original terminology -----> 36437
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 648
+8: KEY: sertraline *** Initial position according to JSON Object -----> 639
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36437
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> RXNORM
+6 KEY: sertraline *** CUI CODE in original terminology -----> 36437
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 648
+8: KEY: sertraline *** Initial position according to JSON Object -----> 639
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36437
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> RXNORM
+6 KEY: sertraline *** CUI CODE in original terminology -----> 36437
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 648
+8: KEY: sertraline *** Initial position according to JSON Object -----> 639
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36437
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> RXNORM
+6 KEY: pimozide *** CUI CODE in original terminology -----> 8331
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 166
+8: KEY: pimozide *** Initial position according to JSON Object -----> 159
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8331
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------

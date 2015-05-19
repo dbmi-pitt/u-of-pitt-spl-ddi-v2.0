@@ -1,0 +1,354 @@
+1: KEY: serotonin *** RXCUI -----> 1311214
+2: KEY: serotonin *** Concept from RXNORM -----> Serotonin
+3: KEY: serotonin *** Concept Type -----> IN
+4: KEY: serotonin *** Drug mention in text -----> serotonin
+5: KEY: serotonin *** Source language -----> MSH
+6 KEY: serotonin *** CUI CODE in original terminology -----> D012701
+7: KEY: serotonin *** Final position in text according to JSON Object -----> 1954
+8: KEY: serotonin *** Initial position according to JSON Object -----> 1946
+9: KEY: serotonin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY: serotonin *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+1: KEY: Amlodipine *** RXCUI -----> 17767
+2: KEY: Amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: Amlodipine *** Concept Type -----> TMSY
+4: KEY: Amlodipine *** Drug mention in text -----> Amlodipine
+5: KEY: Amlodipine *** Source language -----> MSH
+6 KEY: Amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: Amlodipine *** Final position in text according to JSON Object -----> 556
+8: KEY: Amlodipine *** Initial position according to JSON Object -----> 547
+9: KEY: Amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: Amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: Amlodipine *** RXCUI -----> 17767
+2: KEY: Amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: Amlodipine *** Concept Type -----> TMSY
+4: KEY: Amlodipine *** Drug mention in text -----> Amlodipine
+5: KEY: Amlodipine *** Source language -----> MSH
+6 KEY: Amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: Amlodipine *** Final position in text according to JSON Object -----> 556
+8: KEY: Amlodipine *** Initial position according to JSON Object -----> 547
+9: KEY: Amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: Amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: Amlodipine *** RXCUI -----> 17767
+2: KEY: Amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: Amlodipine *** Concept Type -----> TMSY
+4: KEY: Amlodipine *** Drug mention in text -----> Amlodipine
+5: KEY: Amlodipine *** Source language -----> MSH
+6 KEY: Amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: Amlodipine *** Final position in text according to JSON Object -----> 556
+8: KEY: Amlodipine *** Initial position according to JSON Object -----> 547
+9: KEY: Amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: Amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: Amlodipine besylate *** RXCUI -----> 104416
+2: KEY: Amlodipine besylate *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: Amlodipine besylate *** Concept Type -----> TMSY
+4: KEY: Amlodipine besylate *** Drug mention in text -----> Amlodipine besylate
+5: KEY: Amlodipine besylate *** Source language -----> RXNORM
+6 KEY: Amlodipine besylate *** CUI CODE in original terminology -----> 104416
+7: KEY: Amlodipine besylate *** Final position in text according to JSON Object -----> 1794
+8: KEY: Amlodipine besylate *** Initial position according to JSON Object -----> 1776
+9: KEY: Amlodipine besylate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: Amlodipine besylate *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: ich amlodipine besy *** RXCUI -----> 104416
+2: KEY: ich amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: ich amlodipine besy *** Concept Type -----> TMSY
+4: KEY: ich amlodipine besy *** Drug mention in text -----> ich amlodipine besy
+5: KEY: ich amlodipine besy *** Source language -----> RXNORM
+6 KEY: ich amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: ich amlodipine besy *** Final position in text according to JSON Object -----> 5046
+8: KEY: ich amlodipine besy *** Initial position according to JSON Object -----> 5028
+9: KEY: ich amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: ich amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: , amlodipine besyla *** RXCUI -----> 104416
+2: KEY: , amlodipine besyla *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: , amlodipine besyla *** Concept Type -----> TMSY
+4: KEY: , amlodipine besyla *** Drug mention in text -----> , amlodipine besyla
+5: KEY: , amlodipine besyla *** Source language -----> RXNORM
+6 KEY: , amlodipine besyla *** CUI CODE in original terminology -----> 104416
+7: KEY: , amlodipine besyla *** Final position in text according to JSON Object -----> 2329
+8: KEY: , amlodipine besyla *** Initial position according to JSON Object -----> 2311
+9: KEY: , amlodipine besyla *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: , amlodipine besyla *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY:  of amlodipine besy *** RXCUI -----> 104416
+2: KEY:  of amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY:  of amlodipine besy *** Concept Type -----> TMSY
+4: KEY:  of amlodipine besy *** Drug mention in text ----->  of amlodipine besy
+5: KEY:  of amlodipine besy *** Source language -----> RXNORM
+6 KEY:  of amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY:  of amlodipine besy *** Final position in text according to JSON Object -----> 6789
+8: KEY:  of amlodipine besy *** Initial position according to JSON Object -----> 6771
+9: KEY:  of amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY:  of amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY:  of amlodipine besy *** RXCUI -----> 104416
+2: KEY:  of amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY:  of amlodipine besy *** Concept Type -----> TMSY
+4: KEY:  of amlodipine besy *** Drug mention in text ----->  of amlodipine besy
+5: KEY:  of amlodipine besy *** Source language -----> RXNORM
+6 KEY:  of amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY:  of amlodipine besy *** Final position in text according to JSON Object -----> 6789
+8: KEY:  of amlodipine besy *** Initial position according to JSON Object -----> 6771
+9: KEY:  of amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY:  of amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY:  of amlodipine besy *** RXCUI -----> 104416
+2: KEY:  of amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY:  of amlodipine besy *** Concept Type -----> TMSY
+4: KEY:  of amlodipine besy *** Drug mention in text ----->  of amlodipine besy
+5: KEY:  of amlodipine besy *** Source language -----> RXNORM
+6 KEY:  of amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY:  of amlodipine besy *** Final position in text according to JSON Object -----> 6789
+8: KEY:  of amlodipine besy *** Initial position according to JSON Object -----> 6771
+9: KEY:  of amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY:  of amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY:  of amlodipine besy *** RXCUI -----> 104416
+2: KEY:  of amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY:  of amlodipine besy *** Concept Type -----> TMSY
+4: KEY:  of amlodipine besy *** Drug mention in text ----->  of amlodipine besy
+5: KEY:  of amlodipine besy *** Source language -----> RXNORM
+6 KEY:  of amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY:  of amlodipine besy *** Final position in text according to JSON Object -----> 6789
+8: KEY:  of amlodipine besy *** Initial position according to JSON Object -----> 6771
+9: KEY:  of amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY:  of amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: ith amlodipine besy *** RXCUI -----> 104416
+2: KEY: ith amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: ith amlodipine besy *** Concept Type -----> TMSY
+4: KEY: ith amlodipine besy *** Drug mention in text -----> ith amlodipine besy
+5: KEY: ith amlodipine besy *** Source language -----> RXNORM
+6 KEY: ith amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: ith amlodipine besy *** Final position in text according to JSON Object -----> 4022
+8: KEY: ith amlodipine besy *** Initial position according to JSON Object -----> 4004
+9: KEY: ith amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: ith amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: epinephrine *** RXCUI -----> 3992
+2: KEY: epinephrine *** Concept from RXNORM -----> (('Epinephrine',), ('EPINEPHrine',))
+3: KEY: epinephrine *** Concept Type -----> (('IN',), ('TMSY',))
+4: KEY: epinephrine *** Drug mention in text -----> epinephrine
+5: KEY: epinephrine *** Source language -----> MSH
+6 KEY: epinephrine *** CUI CODE in original terminology -----> D004837
+7: KEY: epinephrine *** Final position in text according to JSON Object -----> 1943
+8: KEY: epinephrine *** Initial position according to JSON Object -----> 1933
+9: KEY: epinephrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004837
+10: KEY: epinephrine *** Preferred name according to JSON Object -----> Epinephrine
+---------------------------------------------------------
+1: KEY: amlodipine besylate *** RXCUI -----> 104416
+2: KEY: amlodipine besylate *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: amlodipine besylate *** Concept Type -----> TMSY
+4: KEY: amlodipine besylate *** Drug mention in text -----> amlodipine besylate
+5: KEY: amlodipine besylate *** Source language -----> RXNORM
+6 KEY: amlodipine besylate *** CUI CODE in original terminology -----> 104416
+7: KEY: amlodipine besylate *** Final position in text according to JSON Object -----> 2145
+8: KEY: amlodipine besylate *** Initial position according to JSON Object -----> 2127
+9: KEY: amlodipine besylate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: amlodipine besylate *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: amlodipine besylate *** RXCUI -----> 104416
+2: KEY: amlodipine besylate *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: amlodipine besylate *** Concept Type -----> TMSY
+4: KEY: amlodipine besylate *** Drug mention in text -----> amlodipine besylate
+5: KEY: amlodipine besylate *** Source language -----> RXNORM
+6 KEY: amlodipine besylate *** CUI CODE in original terminology -----> 104416
+7: KEY: amlodipine besylate *** Final position in text according to JSON Object -----> 2145
+8: KEY: amlodipine besylate *** Initial position according to JSON Object -----> 2127
+9: KEY: amlodipine besylate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: amlodipine besylate *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: es, amlodipine besy *** RXCUI -----> 104416
+2: KEY: es, amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: es, amlodipine besy *** Concept Type -----> TMSY
+4: KEY: es, amlodipine besy *** Drug mention in text -----> es, amlodipine besy
+5: KEY: es, amlodipine besy *** Source language -----> RXNORM
+6 KEY: es, amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: es, amlodipine besy *** Final position in text according to JSON Object -----> 4224
+8: KEY: es, amlodipine besy *** Initial position according to JSON Object -----> 4206
+9: KEY: es, amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: es, amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: ts: Amlodipine besy *** RXCUI -----> 104416
+2: KEY: ts: Amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: ts: Amlodipine besy *** Concept Type -----> TMSY
+4: KEY: ts: Amlodipine besy *** Drug mention in text -----> ts: Amlodipine besy
+5: KEY: ts: Amlodipine besy *** Source language -----> RXNORM
+6 KEY: ts: Amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: ts: Amlodipine besy *** Final position in text according to JSON Object -----> 4625
+8: KEY: ts: Amlodipine besy *** Initial position according to JSON Object -----> 4607
+9: KEY: ts: Amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: ts: Amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: amlodipine *** RXCUI -----> 17767
+2: KEY: amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: amlodipine *** Concept Type -----> TMSY
+4: KEY: amlodipine *** Drug mention in text -----> amlodipine
+5: KEY: amlodipine *** Source language -----> MSH
+6 KEY: amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: amlodipine *** Final position in text according to JSON Object -----> 1397
+8: KEY: amlodipine *** Initial position according to JSON Object -----> 1388
+9: KEY: amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: amlodipine *** RXCUI -----> 17767
+2: KEY: amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: amlodipine *** Concept Type -----> TMSY
+4: KEY: amlodipine *** Drug mention in text -----> amlodipine
+5: KEY: amlodipine *** Source language -----> MSH
+6 KEY: amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: amlodipine *** Final position in text according to JSON Object -----> 1397
+8: KEY: amlodipine *** Initial position according to JSON Object -----> 1388
+9: KEY: amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: amlodipine *** RXCUI -----> 17767
+2: KEY: amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: amlodipine *** Concept Type -----> TMSY
+4: KEY: amlodipine *** Drug mention in text -----> amlodipine
+5: KEY: amlodipine *** Source language -----> MSH
+6 KEY: amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: amlodipine *** Final position in text according to JSON Object -----> 1397
+8: KEY: amlodipine *** Initial position according to JSON Object -----> 1388
+9: KEY: amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: amlodipine *** RXCUI -----> 17767
+2: KEY: amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: amlodipine *** Concept Type -----> TMSY
+4: KEY: amlodipine *** Drug mention in text -----> amlodipine
+5: KEY: amlodipine *** Source language -----> MSH
+6 KEY: amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: amlodipine *** Final position in text according to JSON Object -----> 1397
+8: KEY: amlodipine *** Initial position according to JSON Object -----> 1388
+9: KEY: amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: h amlodipine besyla *** RXCUI -----> 104416
+2: KEY: h amlodipine besyla *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: h amlodipine besyla *** Concept Type -----> TMSY
+4: KEY: h amlodipine besyla *** Drug mention in text -----> h amlodipine besyla
+5: KEY: h amlodipine besyla *** Source language -----> RXNORM
+6 KEY: h amlodipine besyla *** CUI CODE in original terminology -----> 104416
+7: KEY: h amlodipine besyla *** Final position in text according to JSON Object -----> 3186
+8: KEY: h amlodipine besyla *** Initial position according to JSON Object -----> 3168
+9: KEY: h amlodipine besyla *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: h amlodipine besyla *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: ing amlodipine besy *** RXCUI -----> 104416
+2: KEY: ing amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: ing amlodipine besy *** Concept Type -----> TMSY
+4: KEY: ing amlodipine besy *** Drug mention in text -----> ing amlodipine besy
+5: KEY: ing amlodipine besy *** Source language -----> RXNORM
+6 KEY: ing amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: ing amlodipine besy *** Final position in text according to JSON Object -----> 4966
+8: KEY: ing amlodipine besy *** Initial position according to JSON Object -----> 4948
+9: KEY: ing amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: ing amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY:  of amlodi *** RXCUI -----> 17767
+2: KEY:  of amlodi *** Concept from RXNORM -----> amLODIPine
+3: KEY:  of amlodi *** Concept Type -----> TMSY
+4: KEY:  of amlodi *** Drug mention in text ----->  of amlodi
+5: KEY:  of amlodi *** Source language -----> MSH
+6 KEY:  of amlodi *** CUI CODE in original terminology -----> D017311
+7: KEY:  of amlodi *** Final position in text according to JSON Object -----> 6481
+8: KEY:  of amlodi *** Initial position according to JSON Object -----> 6472
+9: KEY:  of amlodi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY:  of amlodi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY:  of amlodi *** RXCUI -----> 17767
+2: KEY:  of amlodi *** Concept from RXNORM -----> amLODIPine
+3: KEY:  of amlodi *** Concept Type -----> TMSY
+4: KEY:  of amlodi *** Drug mention in text ----->  of amlodi
+5: KEY:  of amlodi *** Source language -----> MSH
+6 KEY:  of amlodi *** CUI CODE in original terminology -----> D017311
+7: KEY:  of amlodi *** Final position in text according to JSON Object -----> 6481
+8: KEY:  of amlodi *** Initial position according to JSON Object -----> 6472
+9: KEY:  of amlodi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY:  of amlodi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY:  of amlodi *** RXCUI -----> 17767
+2: KEY:  of amlodi *** Concept from RXNORM -----> amLODIPine
+3: KEY:  of amlodi *** Concept Type -----> TMSY
+4: KEY:  of amlodi *** Drug mention in text ----->  of amlodi
+5: KEY:  of amlodi *** Source language -----> MSH
+6 KEY:  of amlodi *** CUI CODE in original terminology -----> D017311
+7: KEY:  of amlodi *** Final position in text according to JSON Object -----> 6481
+8: KEY:  of amlodi *** Initial position according to JSON Object -----> 6472
+9: KEY:  of amlodi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY:  of amlodi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: ne, amlodipine besy *** RXCUI -----> 104416
+2: KEY: ne, amlodipine besy *** Concept from RXNORM -----> amLODIPine Besylate
+3: KEY: ne, amlodipine besy *** Concept Type -----> TMSY
+4: KEY: ne, amlodipine besy *** Drug mention in text -----> ne, amlodipine besy
+5: KEY: ne, amlodipine besy *** Source language -----> RXNORM
+6 KEY: ne, amlodipine besy *** CUI CODE in original terminology -----> 104416
+7: KEY: ne, amlodipine besy *** Final position in text according to JSON Object -----> 5281
+8: KEY: ne, amlodipine besy *** Initial position according to JSON Object -----> 5263
+9: KEY: ne, amlodipine besy *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/104416
+10: KEY: ne, amlodipine besy *** Preferred name according to JSON Object -----> Amlodipine Besylate
+---------------------------------------------------------
+1: KEY: .
+ 
+Amlodi *** RXCUI -----> 17767
+2: KEY: .
+ 
+Amlodi *** Concept from RXNORM -----> amLODIPine
+3: KEY: .
+ 
+Amlodi *** Concept Type -----> TMSY
+4: KEY: .
+ 
+Amlodi *** Drug mention in text -----> .
+ 
+Amlodi
+5: KEY: .
+ 
+Amlodi *** Source language -----> MSH
+6 KEY: .
+ 
+Amlodi *** CUI CODE in original terminology -----> D017311
+7: KEY: .
+ 
+Amlodi *** Final position in text according to JSON Object -----> 5721
+8: KEY: .
+ 
+Amlodi *** Initial position according to JSON Object -----> 5712
+9: KEY: .
+ 
+Amlodi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: .
+ 
+Amlodi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: f amlodipi *** RXCUI -----> 17767
+2: KEY: f amlodipi *** Concept from RXNORM -----> amLODIPine
+3: KEY: f amlodipi *** Concept Type -----> TMSY
+4: KEY: f amlodipi *** Drug mention in text -----> f amlodipi
+5: KEY: f amlodipi *** Source language -----> MSH
+6 KEY: f amlodipi *** CUI CODE in original terminology -----> D017311
+7: KEY: f amlodipi *** Final position in text according to JSON Object -----> 2784
+8: KEY: f amlodipi *** Initial position according to JSON Object -----> 2775
+9: KEY: f amlodipi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: f amlodipi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: f amlodipi *** RXCUI -----> 17767
+2: KEY: f amlodipi *** Concept from RXNORM -----> amLODIPine
+3: KEY: f amlodipi *** Concept Type -----> TMSY
+4: KEY: f amlodipi *** Drug mention in text -----> f amlodipi
+5: KEY: f amlodipi *** Source language -----> MSH
+6 KEY: f amlodipi *** CUI CODE in original terminology -----> D017311
+7: KEY: f amlodipi *** Final position in text according to JSON Object -----> 2784
+8: KEY: f amlodipi *** Initial position according to JSON Object -----> 2775
+9: KEY: f amlodipi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: f amlodipi *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+removed duplications 500
+Number of missed JSON elements: 0

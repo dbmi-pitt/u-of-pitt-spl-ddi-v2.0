@@ -1,0 +1,2 @@
+nifedipine	propranolol	1	1	true	positive	The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.  		7417	8787	D009543	D011433
+nifedipine	propranolol	1	1	true	positive	The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.  		7417	8787	D009543	D011433

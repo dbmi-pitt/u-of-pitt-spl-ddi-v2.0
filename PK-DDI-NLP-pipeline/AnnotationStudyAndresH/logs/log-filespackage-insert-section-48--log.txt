@@ -1,0 +1,134 @@
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 178
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 169
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 178
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 169
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 178
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 169
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: n terfenadi *** RXCUI -----> 42330
+2: KEY: n terfenadi *** Concept from RXNORM -----> Terfenadine
+3: KEY: n terfenadi *** Concept Type -----> IN
+4: KEY: n terfenadi *** Drug mention in text -----> n terfenadi
+5: KEY: n terfenadi *** Source language -----> RXNORM
+6 KEY: n terfenadi *** CUI CODE in original terminology -----> 42330
+7: KEY: n terfenadi *** Final position in text according to JSON Object -----> 623
+8: KEY: n terfenadi *** Initial position according to JSON Object -----> 613
+9: KEY: n terfenadi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: n terfenadi *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> RXNORM
+6 KEY: triazolam *** CUI CODE in original terminology -----> 10767
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 487
+8: KEY: triazolam *** Initial position according to JSON Object -----> 479
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10767
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: cyclosporine *** RXCUI -----> 3008
+2: KEY: cyclosporine *** Concept from RXNORM -----> Cyclosporine
+3: KEY: cyclosporine *** Concept Type -----> IN
+4: KEY: cyclosporine *** Drug mention in text -----> cyclosporine
+5: KEY: cyclosporine *** Source language -----> MSH
+6 KEY: cyclosporine *** CUI CODE in original terminology -----> D016572
+7: KEY: cyclosporine *** Final position in text according to JSON Object -----> 505
+8: KEY: cyclosporine *** Initial position according to JSON Object -----> 494
+9: KEY: cyclosporine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: cyclosporine *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: astemizole *** RXCUI -----> 42328
+2: KEY: astemizole *** Concept from RXNORM -----> Astemizole
+3: KEY: astemizole *** Concept Type -----> IN
+4: KEY: astemizole *** Drug mention in text -----> astemizole
+5: KEY: astemizole *** Source language -----> RXNORM
+6 KEY: astemizole *** CUI CODE in original terminology -----> 42328
+7: KEY: astemizole *** Final position in text according to JSON Object -----> 465
+8: KEY: astemizole *** Initial position according to JSON Object -----> 456
+9: KEY: astemizole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42328
+10: KEY: astemizole *** Preferred name according to JSON Object -----> Astemizole
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 453
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 443
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 453
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 443
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 453
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 443
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 265
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 254
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: cisapride *** RXCUI -----> 35255
+2: KEY: cisapride *** Concept from RXNORM -----> Cisapride
+3: KEY: cisapride *** Concept Type -----> IN
+4: KEY: cisapride *** Drug mention in text -----> cisapride
+5: KEY: cisapride *** Source language -----> MSH
+6 KEY: cisapride *** CUI CODE in original terminology -----> D020117
+7: KEY: cisapride *** Final position in text according to JSON Object -----> 476
+8: KEY: cisapride *** Initial position according to JSON Object -----> 468
+9: KEY: cisapride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020117
+10: KEY: cisapride *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

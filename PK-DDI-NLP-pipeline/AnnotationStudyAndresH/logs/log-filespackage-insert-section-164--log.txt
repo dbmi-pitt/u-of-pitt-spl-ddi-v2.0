@@ -1,0 +1,35 @@
+1: KEY: meperidine *** RXCUI -----> 6754
+2: KEY: meperidine *** Concept from RXNORM -----> Meperidine
+3: KEY: meperidine *** Concept Type -----> IN
+4: KEY: meperidine *** Drug mention in text -----> meperidine
+5: KEY: meperidine *** Source language -----> MSH
+6 KEY: meperidine *** CUI CODE in original terminology -----> D008614
+7: KEY: meperidine *** Final position in text according to JSON Object -----> 85
+8: KEY: meperidine *** Initial position according to JSON Object -----> 76
+9: KEY: meperidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008614
+10: KEY: meperidine *** Preferred name according to JSON Object -----> Meperidine
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 10
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 1
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 10
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 1
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 1

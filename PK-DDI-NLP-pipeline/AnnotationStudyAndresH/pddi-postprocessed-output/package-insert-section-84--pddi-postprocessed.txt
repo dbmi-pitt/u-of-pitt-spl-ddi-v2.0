@@ -1,0 +1,2 @@
+Cimetidine	tacrine	1	1	true	positive	Cimetidine increased the Cmax and AUC of tacrine by approximately 54% and 64%, respectively.  		2541	10318	2541	D013619
+Cimetidine	tacrine	1	1	true	positive	Cimetidine increased the Cmax and AUC of tacrine by approximately 54% and 64%, respectively.  		2541	10318	2541	D013619

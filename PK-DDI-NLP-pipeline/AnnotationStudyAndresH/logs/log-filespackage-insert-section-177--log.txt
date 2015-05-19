@@ -1,0 +1,79 @@
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 234
+8: KEY: diazepam *** Initial position according to JSON Object -----> 227
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 234
+8: KEY: diazepam *** Initial position according to JSON Object -----> 227
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 358
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 347
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: fluoxetine *** RXCUI -----> 4493
+2: KEY: fluoxetine *** Concept from RXNORM -----> Fluoxetine
+3: KEY: fluoxetine *** Concept Type -----> IN
+4: KEY: fluoxetine *** Drug mention in text -----> fluoxetine
+5: KEY: fluoxetine *** Source language -----> MSH
+6 KEY: fluoxetine *** CUI CODE in original terminology -----> D005473
+7: KEY: fluoxetine *** Final position in text according to JSON Object -----> 383
+8: KEY: fluoxetine *** Initial position according to JSON Object -----> 374
+9: KEY: fluoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: fluoxetine *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 371
+8: KEY: fluvoxamine *** Initial position according to JSON Object -----> 361
+9: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+10: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> MSH
+6 KEY: omeprazole *** CUI CODE in original terminology -----> D009853
+7: KEY: omeprazole *** Final position in text according to JSON Object -----> 399
+8: KEY: omeprazole *** Initial position according to JSON Object -----> 390
+9: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009853
+10: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 344
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 335
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,35 @@
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 606
+8: KEY: propranolol *** Initial position according to JSON Object -----> 596
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Propranolol *** RXCUI -----> 8787
+2: KEY: Propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: Propranolol *** Concept Type -----> IN
+4: KEY: Propranolol *** Drug mention in text -----> Propranolol
+5: KEY: Propranolol *** Source language -----> MSH
+6 KEY: Propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: Propranolol *** Final position in text according to JSON Object -----> 11
+8: KEY: Propranolol *** Initial position according to JSON Object -----> 1
+9: KEY: Propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: Propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Propranolol *** RXCUI -----> 8787
+2: KEY: Propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: Propranolol *** Concept Type -----> IN
+4: KEY: Propranolol *** Drug mention in text -----> Propranolol
+5: KEY: Propranolol *** Source language -----> MSH
+6 KEY: Propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: Propranolol *** Final position in text according to JSON Object -----> 11
+8: KEY: Propranolol *** Initial position according to JSON Object -----> 1
+9: KEY: Propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: Propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 20
+Number of missed JSON elements: 0

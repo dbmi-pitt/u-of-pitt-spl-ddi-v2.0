@@ -1,0 +1,68 @@
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 315
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 305
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 315
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 305
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: f fluconazo *** RXCUI -----> 4450
+2: KEY: f fluconazo *** Concept from RXNORM -----> Fluconazole
+3: KEY: f fluconazo *** Concept Type -----> IN
+4: KEY: f fluconazo *** Drug mention in text -----> f fluconazo
+5: KEY: f fluconazo *** Source language -----> RXNORM
+6 KEY: f fluconazo *** CUI CODE in original terminology -----> 4450
+7: KEY: f fluconazo *** Final position in text according to JSON Object -----> 489
+8: KEY: f fluconazo *** Initial position according to JSON Object -----> 479
+9: KEY: f fluconazo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: f fluconazo *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> MSH
+6 KEY: zidovudine *** CUI CODE in original terminology -----> D015215
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 267
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 258
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015215
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> MSH
+6 KEY: zidovudine *** CUI CODE in original terminology -----> D015215
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 267
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 258
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015215
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> MSH
+6 KEY: zidovudine *** CUI CODE in original terminology -----> D015215
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 267
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 258
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015215
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

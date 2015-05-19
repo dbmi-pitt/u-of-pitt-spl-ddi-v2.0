@@ -1,0 +1,486 @@
+1: KEY: ith atomoxe *** RXCUI -----> 38400
+2: KEY: ith atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY: ith atomoxe *** Concept Type -----> IN
+4: KEY: ith atomoxe *** Drug mention in text -----> ith atomoxe
+5: KEY: ith atomoxe *** Source language -----> RXNORM
+6 KEY: ith atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY: ith atomoxe *** Final position in text according to JSON Object -----> 4729
+8: KEY: ith atomoxe *** Initial position according to JSON Object -----> 4719
+9: KEY: ith atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: ith atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 1676
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 1667
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: .
+ 
+Atomoxe *** RXCUI -----> 38400
+2: KEY: .
+ 
+Atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY: .
+ 
+Atomoxe *** Concept Type -----> IN
+4: KEY: .
+ 
+Atomoxe *** Drug mention in text -----> .
+ 
+Atomoxe
+5: KEY: .
+ 
+Atomoxe *** Source language -----> RXNORM
+6 KEY: .
+ 
+Atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY: .
+ 
+Atomoxe *** Final position in text according to JSON Object -----> 5472
+8: KEY: .
+ 
+Atomoxe *** Initial position according to JSON Object -----> 5462
+9: KEY: .
+ 
+Atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: .
+ 
+Atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1691
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1683
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: ged atomoxe *** RXCUI -----> 38400
+2: KEY: ged atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY: ged atomoxe *** Concept Type -----> IN
+4: KEY: ged atomoxe *** Drug mention in text -----> ged atomoxe
+5: KEY: ged atomoxe *** Source language -----> RXNORM
+6 KEY: ged atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY: ged atomoxe *** Final position in text according to JSON Object -----> 5746
+8: KEY: ged atomoxe *** Initial position according to JSON Object -----> 5736
+9: KEY: ged atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: ged atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: ne, paroxe *** RXCUI -----> 32937
+2: KEY: ne, paroxe *** Concept from RXNORM -----> PARoxetine
+3: KEY: ne, paroxe *** Concept Type -----> TMSY
+4: KEY: ne, paroxe *** Drug mention in text -----> ne, paroxe
+5: KEY: ne, paroxe *** Source language -----> MSH
+6 KEY: ne, paroxe *** CUI CODE in original terminology -----> D017374
+7: KEY: ne, paroxe *** Final position in text according to JSON Object -----> 3840
+8: KEY: ne, paroxe *** Initial position according to JSON Object -----> 3831
+9: KEY: ne, paroxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: ne, paroxe *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: the atomoxetine hydrochlo *** RXCUI -----> 38400
+2: KEY: the atomoxetine hydrochlo *** Concept from RXNORM -----> (('atomoxetine',),)
+3: KEY: the atomoxetine hydrochlo *** Concept Type -----> (('IN',),)
+4: KEY: the atomoxetine hydrochlo *** Drug mention in text -----> the atomoxetine hydrochlo
+5: KEY: the atomoxetine hydrochlo *** Source language -----> RXNORM
+6 KEY: the atomoxetine hydrochlo *** CUI CODE in original terminology -----> 353103
+7: KEY: the atomoxetine hydrochlo *** Final position in text according to JSON Object -----> 5704
+8: KEY: the atomoxetine hydrochlo *** Initial position according to JSON Object -----> 5680
+9: KEY: the atomoxetine hydrochlo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/353103
+10: KEY: the atomoxetine hydrochlo *** Preferred name according to JSON Object -----> Atomoxetine hydrochloride
+---------------------------------------------------------
+1: KEY: f atomoxeti *** RXCUI -----> 38400
+2: KEY: f atomoxeti *** Concept from RXNORM -----> atomoxetine
+3: KEY: f atomoxeti *** Concept Type -----> IN
+4: KEY: f atomoxeti *** Drug mention in text -----> f atomoxeti
+5: KEY: f atomoxeti *** Source language -----> RXNORM
+6 KEY: f atomoxeti *** CUI CODE in original terminology -----> 38400
+7: KEY: f atomoxeti *** Final position in text according to JSON Object -----> 3269
+8: KEY: f atomoxeti *** Initial position according to JSON Object -----> 3259
+9: KEY: f atomoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: f atomoxeti *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: f atomoxeti *** RXCUI -----> 38400
+2: KEY: f atomoxeti *** Concept from RXNORM -----> atomoxetine
+3: KEY: f atomoxeti *** Concept Type -----> IN
+4: KEY: f atomoxeti *** Drug mention in text -----> f atomoxeti
+5: KEY: f atomoxeti *** Source language -----> RXNORM
+6 KEY: f atomoxeti *** CUI CODE in original terminology -----> 38400
+7: KEY: f atomoxeti *** Final position in text according to JSON Object -----> 3269
+8: KEY: f atomoxeti *** Initial position according to JSON Object -----> 3259
+9: KEY: f atomoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: f atomoxeti *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxe *** RXCUI -----> 38400
+2: KEY:  of atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  of atomoxe *** Concept Type -----> IN
+4: KEY:  of atomoxe *** Drug mention in text ----->  of atomoxe
+5: KEY:  of atomoxe *** Source language -----> RXNORM
+6 KEY:  of atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  of atomoxe *** Final position in text according to JSON Object -----> 5166
+8: KEY:  of atomoxe *** Initial position according to JSON Object -----> 5156
+9: KEY:  of atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  of atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  as fluoxe *** RXCUI -----> 4493
+2: KEY:  as fluoxe *** Concept from RXNORM -----> Fluoxetine
+3: KEY:  as fluoxe *** Concept Type -----> IN
+4: KEY:  as fluoxe *** Drug mention in text ----->  as fluoxe
+5: KEY:  as fluoxe *** Source language -----> MSH
+6 KEY:  as fluoxe *** CUI CODE in original terminology -----> D005473
+7: KEY:  as fluoxe *** Final position in text according to JSON Object -----> 3828
+8: KEY:  as fluoxe *** Initial position according to JSON Object -----> 3819
+9: KEY:  as fluoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY:  as fluoxe *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: basis *** RXCUI -----> 0
+2: KEY: basis *** Concept from RXNORM -----> ()
+3: KEY: basis *** Concept Type -----> ()
+4: KEY: basis *** Drug mention in text -----> basis
+5: KEY: basis *** Source language -----> RXNORM
+6 KEY: basis *** CUI CODE in original terminology -----> 1046801
+7: KEY: basis *** Final position in text according to JSON Object -----> 2072
+8: KEY: basis *** Initial position according to JSON Object -----> 2068
+9: KEY: basis *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1046801
+10: KEY: basis *** Preferred name according to JSON Object -----> Basis
+---------------------------------------------------------
+1: KEY: fluoxetine *** RXCUI -----> 4493
+2: KEY: fluoxetine *** Concept from RXNORM -----> Fluoxetine
+3: KEY: fluoxetine *** Concept Type -----> IN
+4: KEY: fluoxetine *** Drug mention in text -----> fluoxetine
+5: KEY: fluoxetine *** Source language -----> MSH
+6 KEY: fluoxetine *** CUI CODE in original terminology -----> D005473
+7: KEY: fluoxetine *** Final position in text according to JSON Object -----> 1664
+8: KEY: fluoxetine *** Initial position according to JSON Object -----> 1655
+9: KEY: fluoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: fluoxetine *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY:  
+Atomoxetine hydrochlori *** RXCUI -----> 38400
+2: KEY:  
+Atomoxetine hydrochlori *** Concept from RXNORM -----> (('atomoxetine',),)
+3: KEY:  
+Atomoxetine hydrochlori *** Concept Type -----> (('IN',),)
+4: KEY:  
+Atomoxetine hydrochlori *** Drug mention in text ----->  
+Atomoxetine hydrochlori
+5: KEY:  
+Atomoxetine hydrochlori *** Source language -----> RXNORM
+6 KEY:  
+Atomoxetine hydrochlori *** CUI CODE in original terminology -----> 353103
+7: KEY:  
+Atomoxetine hydrochlori *** Final position in text according to JSON Object -----> 2528
+8: KEY:  
+Atomoxetine hydrochlori *** Initial position according to JSON Object -----> 2504
+9: KEY:  
+Atomoxetine hydrochlori *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/353103
+10: KEY:  
+Atomoxetine hydrochlori *** Preferred name according to JSON Object -----> Atomoxetine hydrochloride
+---------------------------------------------------------
+1: KEY:  in atomoxe *** RXCUI -----> 38400
+2: KEY:  in atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  in atomoxe *** Concept Type -----> IN
+4: KEY:  in atomoxe *** Drug mention in text ----->  in atomoxe
+5: KEY:  in atomoxe *** Source language -----> RXNORM
+6 KEY:  in atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  in atomoxe *** Final position in text according to JSON Object -----> 3904
+8: KEY:  in atomoxe *** Initial position according to JSON Object -----> 3894
+9: KEY:  in atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  in atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: )]. Atomoxe *** RXCUI -----> 38400
+2: KEY: )]. Atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY: )]. Atomoxe *** Concept Type -----> IN
+4: KEY: )]. Atomoxe *** Drug mention in text -----> )]. Atomoxe
+5: KEY: )]. Atomoxe *** Source language -----> RXNORM
+6 KEY: )]. Atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY: )]. Atomoxe *** Final position in text according to JSON Object -----> 4011
+8: KEY: )]. Atomoxe *** Initial position according to JSON Object -----> 4001
+9: KEY: )]. Atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: )]. Atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: t atomoxeti *** RXCUI -----> 38400
+2: KEY: t atomoxeti *** Concept from RXNORM -----> atomoxetine
+3: KEY: t atomoxeti *** Concept Type -----> IN
+4: KEY: t atomoxeti *** Drug mention in text -----> t atomoxeti
+5: KEY: t atomoxeti *** Source language -----> RXNORM
+6 KEY: t atomoxeti *** CUI CODE in original terminology -----> 38400
+7: KEY: t atomoxeti *** Final position in text according to JSON Object -----> 3071
+8: KEY: t atomoxeti *** Initial position according to JSON Object -----> 3061
+9: KEY: t atomoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: t atomoxeti *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: Atomoxetine *** RXCUI -----> 38400
+2: KEY: Atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: Atomoxetine *** Concept Type -----> IN
+4: KEY: Atomoxetine *** Drug mention in text -----> Atomoxetine
+5: KEY: Atomoxetine *** Source language -----> RXNORM
+6 KEY: Atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: Atomoxetine *** Final position in text according to JSON Object -----> 1164
+8: KEY: Atomoxetine *** Initial position according to JSON Object -----> 1154
+9: KEY: Atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: Atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: Atomoxetine *** RXCUI -----> 38400
+2: KEY: Atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: Atomoxetine *** Concept Type -----> IN
+4: KEY: Atomoxetine *** Drug mention in text -----> Atomoxetine
+5: KEY: Atomoxetine *** Source language -----> RXNORM
+6 KEY: Atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: Atomoxetine *** Final position in text according to JSON Object -----> 1164
+8: KEY: Atomoxetine *** Initial position according to JSON Object -----> 1154
+9: KEY: Atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: Atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  or quini *** RXCUI -----> 9068
+2: KEY:  or quini *** Concept from RXNORM -----> Quinidine
+3: KEY:  or quini *** Concept Type -----> IN
+4: KEY:  or quini *** Drug mention in text ----->  or quini
+5: KEY:  or quini *** Source language -----> RXNORM
+6 KEY:  or quini *** CUI CODE in original terminology -----> 9068
+7: KEY:  or quini *** Final position in text according to JSON Object -----> 3854
+8: KEY:  or quini *** Initial position according to JSON Object -----> 3846
+9: KEY:  or quini *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY:  or quini *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: norepinephrine *** RXCUI -----> 7512
+2: KEY: norepinephrine *** Concept from RXNORM -----> Norepinephrine
+3: KEY: norepinephrine *** Concept Type -----> IN
+4: KEY: norepinephrine *** Drug mention in text -----> norepinephrine
+5: KEY: norepinephrine *** Source language -----> RXNORM
+6 KEY: norepinephrine *** CUI CODE in original terminology -----> 7512
+7: KEY: norepinephrine *** Final position in text according to JSON Object -----> 278
+8: KEY: norepinephrine *** Initial position according to JSON Object -----> 265
+9: KEY: norepinephrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7512
+10: KEY: norepinephrine *** Preferred name according to JSON Object -----> Norepinephrine
+---------------------------------------------------------
+1: KEY: f atomoxetine hydrochlori *** RXCUI -----> 38400
+2: KEY: f atomoxetine hydrochlori *** Concept from RXNORM -----> (('atomoxetine',),)
+3: KEY: f atomoxetine hydrochlori *** Concept Type -----> (('IN',),)
+4: KEY: f atomoxetine hydrochlori *** Drug mention in text -----> f atomoxetine hydrochlori
+5: KEY: f atomoxetine hydrochlori *** Source language -----> RXNORM
+6 KEY: f atomoxetine hydrochlori *** CUI CODE in original terminology -----> 353103
+7: KEY: f atomoxetine hydrochlori *** Final position in text according to JSON Object -----> 2916
+8: KEY: f atomoxetine hydrochlori *** Initial position according to JSON Object -----> 2892
+9: KEY: f atomoxetine hydrochlori *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/353103
+10: KEY: f atomoxetine hydrochlori *** Preferred name according to JSON Object -----> Atomoxetine hydrochloride
+---------------------------------------------------------
+1: KEY: f atomoxetine hydrochlori *** RXCUI -----> 38400
+2: KEY: f atomoxetine hydrochlori *** Concept from RXNORM -----> (('atomoxetine',),)
+3: KEY: f atomoxetine hydrochlori *** Concept Type -----> (('IN',),)
+4: KEY: f atomoxetine hydrochlori *** Drug mention in text -----> f atomoxetine hydrochlori
+5: KEY: f atomoxetine hydrochlori *** Source language -----> RXNORM
+6 KEY: f atomoxetine hydrochlori *** CUI CODE in original terminology -----> 353103
+7: KEY: f atomoxetine hydrochlori *** Final position in text according to JSON Object -----> 2916
+8: KEY: f atomoxetine hydrochlori *** Initial position according to JSON Object -----> 2892
+9: KEY: f atomoxetine hydrochlori *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/353103
+10: KEY: f atomoxetine hydrochlori *** Preferred name according to JSON Object -----> Atomoxetine hydrochloride
+---------------------------------------------------------
+1: KEY: the norepineph *** RXCUI -----> 7512
+2: KEY: the norepineph *** Concept from RXNORM -----> Norepinephrine
+3: KEY: the norepineph *** Concept Type -----> IN
+4: KEY: the norepineph *** Drug mention in text -----> the norepineph
+5: KEY: the norepineph *** Source language -----> RXNORM
+6 KEY: the norepineph *** CUI CODE in original terminology -----> 7512
+7: KEY: the norepineph *** Final position in text according to JSON Object -----> 4265
+8: KEY: the norepineph *** Initial position according to JSON Object -----> 4252
+9: KEY: the norepineph *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7512
+10: KEY: the norepineph *** Preferred name according to JSON Object -----> Norepinephrine
+---------------------------------------------------------
+1: KEY: ” Atomoxeti *** RXCUI -----> 38400
+2: KEY: ” Atomoxeti *** Concept from RXNORM -----> atomoxetine
+3: KEY: ” Atomoxeti *** Concept Type -----> IN
+4: KEY: ” Atomoxeti *** Drug mention in text -----> ” Atomoxeti
+5: KEY: ” Atomoxeti *** Source language -----> RXNORM
+6 KEY: ” Atomoxeti *** CUI CODE in original terminology -----> 38400
+7: KEY: ” Atomoxeti *** Final position in text according to JSON Object -----> 2297
+8: KEY: ” Atomoxeti *** Initial position according to JSON Object -----> 2287
+9: KEY: ” Atomoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: ” Atomoxeti *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: atomoxetine *** RXCUI -----> 38400
+2: KEY: atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: atomoxetine *** Concept Type -----> IN
+4: KEY: atomoxetine *** Drug mention in text -----> atomoxetine
+5: KEY: atomoxetine *** Source language -----> RXNORM
+6 KEY: atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: atomoxetine *** Final position in text according to JSON Object -----> 1767
+8: KEY: atomoxetine *** Initial position according to JSON Object -----> 1757
+9: KEY: atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: atomoxetine *** RXCUI -----> 38400
+2: KEY: atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: atomoxetine *** Concept Type -----> IN
+4: KEY: atomoxetine *** Drug mention in text -----> atomoxetine
+5: KEY: atomoxetine *** Source language -----> RXNORM
+6 KEY: atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: atomoxetine *** Final position in text according to JSON Object -----> 1767
+8: KEY: atomoxetine *** Initial position according to JSON Object -----> 1757
+9: KEY: atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: atomoxetine *** RXCUI -----> 38400
+2: KEY: atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: atomoxetine *** Concept Type -----> IN
+4: KEY: atomoxetine *** Drug mention in text -----> atomoxetine
+5: KEY: atomoxetine *** Source language -----> RXNORM
+6 KEY: atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: atomoxetine *** Final position in text according to JSON Object -----> 1767
+8: KEY: atomoxetine *** Initial position according to JSON Object -----> 1757
+9: KEY: atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: atomoxetine *** RXCUI -----> 38400
+2: KEY: atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: atomoxetine *** Concept Type -----> IN
+4: KEY: atomoxetine *** Drug mention in text -----> atomoxetine
+5: KEY: atomoxetine *** Source language -----> RXNORM
+6 KEY: atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: atomoxetine *** Final position in text according to JSON Object -----> 1767
+8: KEY: atomoxetine *** Initial position according to JSON Object -----> 1757
+9: KEY: atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: atomoxetine *** RXCUI -----> 38400
+2: KEY: atomoxetine *** Concept from RXNORM -----> atomoxetine
+3: KEY: atomoxetine *** Concept Type -----> IN
+4: KEY: atomoxetine *** Drug mention in text -----> atomoxetine
+5: KEY: atomoxetine *** Source language -----> RXNORM
+6 KEY: atomoxetine *** CUI CODE in original terminology -----> 38400
+7: KEY: atomoxetine *** Final position in text according to JSON Object -----> 1767
+8: KEY: atomoxetine *** Initial position according to JSON Object -----> 1757
+9: KEY: atomoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: atomoxetine *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY: â€” Atomoxe *** RXCUI -----> 38400
+2: KEY: â€” Atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY: â€” Atomoxe *** Concept Type -----> IN
+4: KEY: â€” Atomoxe *** Drug mention in text -----> â€” Atomoxe
+5: KEY: â€” Atomoxe *** Source language -----> RXNORM
+6 KEY: â€” Atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY: â€” Atomoxe *** Final position in text according to JSON Object -----> 3362
+8: KEY: â€” Atomoxe *** Initial position according to JSON Object -----> 3352
+9: KEY: â€” Atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY: â€” Atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+1: KEY:  of atomoxetine hydrochlo *** RXCUI -----> 38400
+2: KEY:  of atomoxetine hydrochlo *** Concept from RXNORM -----> (('atomoxetine',),)
+3: KEY:  of atomoxetine hydrochlo *** Concept Type -----> (('IN',),)
+4: KEY:  of atomoxetine hydrochlo *** Drug mention in text ----->  of atomoxetine hydrochlo
+5: KEY:  of atomoxetine hydrochlo *** Source language -----> RXNORM
+6 KEY:  of atomoxetine hydrochlo *** CUI CODE in original terminology -----> 353103
+7: KEY:  of atomoxetine hydrochlo *** Final position in text according to JSON Object -----> 3775
+8: KEY:  of atomoxetine hydrochlo *** Initial position according to JSON Object -----> 3751
+9: KEY:  of atomoxetine hydrochlo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/353103
+10: KEY:  of atomoxetine hydrochlo *** Preferred name according to JSON Object -----> Atomoxetine hydrochloride
+---------------------------------------------------------
+1: KEY:  to atomoxe *** RXCUI -----> 38400
+2: KEY:  to atomoxe *** Concept from RXNORM -----> atomoxetine
+3: KEY:  to atomoxe *** Concept Type -----> IN
+4: KEY:  to atomoxe *** Drug mention in text ----->  to atomoxe
+5: KEY:  to atomoxe *** Source language -----> RXNORM
+6 KEY:  to atomoxe *** CUI CODE in original terminology -----> 38400
+7: KEY:  to atomoxe *** Final position in text according to JSON Object -----> 4227
+8: KEY:  to atomoxe *** Initial position according to JSON Object -----> 4217
+9: KEY:  to atomoxe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38400
+10: KEY:  to atomoxe *** Preferred name according to JSON Object -----> atomoxetine
+---------------------------------------------------------
+removed duplications 352
+Number of missed JSON elements: 0

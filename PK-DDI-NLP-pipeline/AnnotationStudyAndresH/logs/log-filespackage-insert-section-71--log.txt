@@ -1,0 +1,13 @@
+1: KEY: Sotalol hydrochloride *** RXCUI -----> 9947
+2: KEY: Sotalol hydrochloride *** Concept from RXNORM -----> (('Sotalol',),)
+3: KEY: Sotalol hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Sotalol hydrochloride *** Drug mention in text -----> Sotalol hydrochloride
+5: KEY: Sotalol hydrochloride *** Source language -----> RXNORM
+6 KEY: Sotalol hydrochloride *** CUI CODE in original terminology -----> 7008
+7: KEY: Sotalol hydrochloride *** Final position in text according to JSON Object -----> 21
+8: KEY: Sotalol hydrochloride *** Initial position according to JSON Object -----> 1
+9: KEY: Sotalol hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7008
+10: KEY: Sotalol hydrochloride *** Preferred name according to JSON Object -----> Sotalol Hydrochloride
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

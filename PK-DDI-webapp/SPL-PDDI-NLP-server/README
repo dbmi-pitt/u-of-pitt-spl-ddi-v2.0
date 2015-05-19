@@ -1,0 +1,45 @@
+A JAX-WS SOAP web application for identifying potential
+pharmacokinetic drug-drug interaction mentions in structured product
+labels
+
+------------------------------------------------------------
+DEPENDENCIES
+------------------------------------------------------------
+* Java >= 1.6
+* The PDDI classifier program available at <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/u-of-pitt-spl-ddi-v1.0-total-package.zip>
+* The Ant build program >= 1.8 (not tested on previous versions but might work)
+
+------------------------------------------------------------
+INSTRUCTIONS
+------------------------------------------------------------
+1. Unzip the PDDI classifier to a convenient folder and write the path to the '1.0' subfolder into pddiextractor.properties
+
+2. Edit the paths to the various models referred to in etc/clearparser-lib/config/config_dep_en.xml to fit your local environment
+
+3. Run (NOTE: server will run on port 12341. If necessary, you can
+change the port in SPL_PDDI_NLP_Endpoint.java. The port will change
+since the run target recompiles all source code): 
+
+$ ant run-pddi-NLP-service
+
+------------------------------------------------------------
+LICENSE
+------------------------------------------------------------
+
+Authors: Richard D Boyce, Greg Gardner
+
+This library is free software; you can redistribute it and/or modify
+it under the terms of the GNU Library General Public License as
+published by the Free Software Foundation; either version 2 of the
+License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Library General Public License for more details.
+
+You should have received a copy of the GNU Library General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307,
+USA.
+

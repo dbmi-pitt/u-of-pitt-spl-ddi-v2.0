@@ -1,0 +1,5 @@
+A simple client for the PDDI NLP webservice. The client expects
+SPL-PDDI-NLP-server to be running on port 12341. 
+
+SPL-PDDI-NLP-server can be found at
+<https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-server>

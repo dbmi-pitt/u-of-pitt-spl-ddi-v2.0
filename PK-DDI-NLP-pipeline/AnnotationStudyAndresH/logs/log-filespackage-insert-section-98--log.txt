@@ -1,0 +1,35 @@
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 193
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 184
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 69
+8: KEY: desipramine *** Initial position according to JSON Object -----> 59
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: imipramine *** RXCUI -----> 5691
+2: KEY: imipramine *** Concept from RXNORM -----> Imipramine
+3: KEY: imipramine *** Concept Type -----> IN
+4: KEY: imipramine *** Drug mention in text -----> imipramine
+5: KEY: imipramine *** Source language -----> RXNORM
+6 KEY: imipramine *** CUI CODE in original terminology -----> 5691
+7: KEY: imipramine *** Final position in text according to JSON Object -----> 53
+8: KEY: imipramine *** Initial position according to JSON Object -----> 44
+9: KEY: imipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5691
+10: KEY: imipramine *** Preferred name according to JSON Object -----> Imipramine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

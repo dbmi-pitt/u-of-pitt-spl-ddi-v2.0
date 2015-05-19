@@ -1,0 +1,57 @@
+1: KEY: itraconazole *** RXCUI -----> 28031
+2: KEY: itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: itraconazole *** Concept Type -----> IN
+4: KEY: itraconazole *** Drug mention in text -----> itraconazole
+5: KEY: itraconazole *** Source language -----> MSH
+6 KEY: itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: itraconazole *** Final position in text according to JSON Object -----> 81
+8: KEY: itraconazole *** Initial position according to JSON Object -----> 70
+9: KEY: itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: itraconazole *** RXCUI -----> 28031
+2: KEY: itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: itraconazole *** Concept Type -----> IN
+4: KEY: itraconazole *** Drug mention in text -----> itraconazole
+5: KEY: itraconazole *** Source language -----> MSH
+6 KEY: itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: itraconazole *** Final position in text according to JSON Object -----> 81
+8: KEY: itraconazole *** Initial position according to JSON Object -----> 70
+9: KEY: itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: fluvastatin *** RXCUI -----> 41127
+2: KEY: fluvastatin *** Concept from RXNORM -----> fluvastatin
+3: KEY: fluvastatin *** Concept Type -----> IN
+4: KEY: fluvastatin *** Drug mention in text -----> fluvastatin
+5: KEY: fluvastatin *** Source language -----> RXNORM
+6 KEY: fluvastatin *** CUI CODE in original terminology -----> 41127
+7: KEY: fluvastatin *** Final position in text according to JSON Object -----> 156
+8: KEY: fluvastatin *** Initial position according to JSON Object -----> 146
+9: KEY: fluvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: fluvastatin *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+1: KEY: fluvastatin *** RXCUI -----> 41127
+2: KEY: fluvastatin *** Concept from RXNORM -----> fluvastatin
+3: KEY: fluvastatin *** Concept Type -----> IN
+4: KEY: fluvastatin *** Drug mention in text -----> fluvastatin
+5: KEY: fluvastatin *** Source language -----> RXNORM
+6 KEY: fluvastatin *** CUI CODE in original terminology -----> 41127
+7: KEY: fluvastatin *** Final position in text according to JSON Object -----> 156
+8: KEY: fluvastatin *** Initial position according to JSON Object -----> 146
+9: KEY: fluvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: fluvastatin *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+1: KEY: Itraconazole *** RXCUI -----> 28031
+2: KEY: Itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: Itraconazole *** Concept Type -----> IN
+4: KEY: Itraconazole *** Drug mention in text -----> Itraconazole
+5: KEY: Itraconazole *** Source language -----> MSH
+6 KEY: Itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: Itraconazole *** Final position in text according to JSON Object -----> 12
+8: KEY: Itraconazole *** Initial position according to JSON Object -----> 1
+9: KEY: Itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: Itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

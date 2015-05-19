@@ -1,0 +1,24 @@
+1: KEY: isoniazid *** RXCUI -----> 6038
+2: KEY: isoniazid *** Concept from RXNORM -----> isoniazid
+3: KEY: isoniazid *** Concept Type -----> IN
+4: KEY: isoniazid *** Drug mention in text -----> isoniazid
+5: KEY: isoniazid *** Source language -----> MSH
+6 KEY: isoniazid *** CUI CODE in original terminology -----> D007538
+7: KEY: isoniazid *** Final position in text according to JSON Object -----> 56
+8: KEY: isoniazid *** Initial position according to JSON Object -----> 48
+9: KEY: isoniazid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007538
+10: KEY: isoniazid *** Preferred name according to JSON Object -----> Isoniazid
+---------------------------------------------------------
+1: KEY: isoniazid *** RXCUI -----> 6038
+2: KEY: isoniazid *** Concept from RXNORM -----> isoniazid
+3: KEY: isoniazid *** Concept Type -----> IN
+4: KEY: isoniazid *** Drug mention in text -----> isoniazid
+5: KEY: isoniazid *** Source language -----> MSH
+6 KEY: isoniazid *** CUI CODE in original terminology -----> D007538
+7: KEY: isoniazid *** Final position in text according to JSON Object -----> 56
+8: KEY: isoniazid *** Initial position according to JSON Object -----> 48
+9: KEY: isoniazid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007538
+10: KEY: isoniazid *** Preferred name according to JSON Object -----> Isoniazid
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

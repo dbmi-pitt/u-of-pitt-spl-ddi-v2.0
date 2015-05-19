@@ -1,0 +1,24 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 35
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 26
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 115
+8: KEY: propranolol *** Initial position according to JSON Object -----> 105
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

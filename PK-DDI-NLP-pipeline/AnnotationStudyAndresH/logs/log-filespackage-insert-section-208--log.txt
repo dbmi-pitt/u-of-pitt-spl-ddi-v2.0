@@ -1,0 +1,376 @@
+1: KEY: n Plav *** RXCUI -----> 0
+2: KEY: n Plav *** Concept from RXNORM -----> ()
+3: KEY: n Plav *** Concept Type -----> ()
+4: KEY: n Plav *** Drug mention in text -----> n Plav
+5: KEY: n Plav *** Source language -----> RXNORM
+6 KEY: n Plav *** CUI CODE in original terminology -----> 174742
+7: KEY: n Plav *** Final position in text according to JSON Object -----> 2648
+8: KEY: n Plav *** Initial position according to JSON Object -----> 2643
+9: KEY: n Plav *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: n Plav *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: Clopidogrel *** RXCUI -----> 32968
+2: KEY: Clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: Clopidogrel *** Concept Type -----> IN
+4: KEY: Clopidogrel *** Drug mention in text -----> Clopidogrel
+5: KEY: Clopidogrel *** Source language -----> MSH
+6 KEY: Clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: Clopidogrel *** Final position in text according to JSON Object -----> 63
+8: KEY: Clopidogrel *** Initial position according to JSON Object -----> 53
+9: KEY: Clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: Clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: Clopidogrel *** RXCUI -----> 32968
+2: KEY: Clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: Clopidogrel *** Concept Type -----> IN
+4: KEY: Clopidogrel *** Drug mention in text -----> Clopidogrel
+5: KEY: Clopidogrel *** Source language -----> MSH
+6 KEY: Clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: Clopidogrel *** Final position in text according to JSON Object -----> 63
+8: KEY: Clopidogrel *** Initial position according to JSON Object -----> 53
+9: KEY: Clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: Clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: led clopido *** RXCUI -----> 32968
+2: KEY: led clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY: led clopido *** Concept Type -----> IN
+4: KEY: led clopido *** Drug mention in text -----> led clopido
+5: KEY: led clopido *** Source language -----> MSH
+6 KEY: led clopido *** CUI CODE in original terminology -----> C055162
+7: KEY: led clopido *** Final position in text according to JSON Object -----> 4247
+8: KEY: led clopido *** Initial position according to JSON Object -----> 4237
+9: KEY: led clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: led clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY:  (creatini *** RXCUI -----> 2913
+2: KEY:  (creatini *** Concept from RXNORM -----> Creatinine
+3: KEY:  (creatini *** Concept Type -----> IN
+4: KEY:  (creatini *** Drug mention in text ----->  (creatini
+5: KEY:  (creatini *** Source language -----> MSH
+6 KEY:  (creatini *** CUI CODE in original terminology -----> D003404
+7: KEY:  (creatini *** Final position in text according to JSON Object -----> 1762
+8: KEY:  (creatini *** Initial position according to JSON Object -----> 1753
+9: KEY:  (creatini *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY:  (creatini *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY:  (creatini *** RXCUI -----> 2913
+2: KEY:  (creatini *** Concept from RXNORM -----> Creatinine
+3: KEY:  (creatini *** Concept Type -----> IN
+4: KEY:  (creatini *** Drug mention in text ----->  (creatini
+5: KEY:  (creatini *** Source language -----> MSH
+6 KEY:  (creatini *** CUI CODE in original terminology -----> D003404
+7: KEY:  (creatini *** Final position in text according to JSON Object -----> 1762
+8: KEY:  (creatini *** Initial position according to JSON Object -----> 1753
+9: KEY:  (creatini *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY:  (creatini *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY: Plavix *** RXCUI -----> 0
+2: KEY: Plavix *** Concept from RXNORM -----> ()
+3: KEY: Plavix *** Concept Type -----> ()
+4: KEY: Plavix *** Drug mention in text -----> Plavix
+5: KEY: Plavix *** Source language -----> RXNORM
+6 KEY: Plavix *** CUI CODE in original terminology -----> 174742
+7: KEY: Plavix *** Final position in text according to JSON Object -----> 1284
+8: KEY: Plavix *** Initial position according to JSON Object -----> 1279
+9: KEY: Plavix *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: Plavix *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: Plavix *** RXCUI -----> 0
+2: KEY: Plavix *** Concept from RXNORM -----> ()
+3: KEY: Plavix *** Concept Type -----> ()
+4: KEY: Plavix *** Drug mention in text -----> Plavix
+5: KEY: Plavix *** Source language -----> RXNORM
+6 KEY: Plavix *** CUI CODE in original terminology -----> 174742
+7: KEY: Plavix *** Final position in text according to JSON Object -----> 1284
+8: KEY: Plavix *** Initial position according to JSON Object -----> 1279
+9: KEY: Plavix *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: Plavix *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: Plavix *** RXCUI -----> 0
+2: KEY: Plavix *** Concept from RXNORM -----> ()
+3: KEY: Plavix *** Concept Type -----> ()
+4: KEY: Plavix *** Drug mention in text -----> Plavix
+5: KEY: Plavix *** Source language -----> RXNORM
+6 KEY: Plavix *** CUI CODE in original terminology -----> 174742
+7: KEY: Plavix *** Final position in text according to JSON Object -----> 1284
+8: KEY: Plavix *** Initial position according to JSON Object -----> 1279
+9: KEY: Plavix *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: Plavix *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY:  mg clopido *** RXCUI -----> 32968
+2: KEY:  mg clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY:  mg clopido *** Concept Type -----> IN
+4: KEY:  mg clopido *** Drug mention in text ----->  mg clopido
+5: KEY:  mg clopido *** Source language -----> MSH
+6 KEY:  mg clopido *** CUI CODE in original terminology -----> C055162
+7: KEY:  mg clopido *** Final position in text according to JSON Object -----> 3837
+8: KEY:  mg clopido *** Initial position according to JSON Object -----> 3827
+9: KEY:  mg clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY:  mg clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: and Pl *** RXCUI -----> 0
+2: KEY: and Pl *** Concept from RXNORM -----> ()
+3: KEY: and Pl *** Concept Type -----> ()
+4: KEY: and Pl *** Drug mention in text -----> and Pl
+5: KEY: and Pl *** Source language -----> RXNORM
+6 KEY: and Pl *** CUI CODE in original terminology -----> 174742
+7: KEY: and Pl *** Final position in text according to JSON Object -----> 6508
+8: KEY: and Pl *** Initial position according to JSON Object -----> 6503
+9: KEY: and Pl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: and Pl *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: , clopidogr *** RXCUI -----> 32968
+2: KEY: , clopidogr *** Concept from RXNORM -----> clopidogrel
+3: KEY: , clopidogr *** Concept Type -----> IN
+4: KEY: , clopidogr *** Drug mention in text -----> , clopidogr
+5: KEY: , clopidogr *** Source language -----> MSH
+6 KEY: , clopidogr *** CUI CODE in original terminology -----> C055162
+7: KEY: , clopidogr *** Final position in text according to JSON Object -----> 2430
+8: KEY: , clopidogr *** Initial position according to JSON Object -----> 2420
+9: KEY: , clopidogr *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: , clopidogr *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: ize clopido *** RXCUI -----> 32968
+2: KEY: ize clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY: ize clopido *** Concept Type -----> IN
+4: KEY: ize clopido *** Drug mention in text -----> ize clopido
+5: KEY: ize clopido *** Source language -----> MSH
+6 KEY: ize clopido *** CUI CODE in original terminology -----> C055162
+7: KEY: ize clopido *** Final position in text according to JSON Object -----> 3320
+8: KEY: ize clopido *** Initial position according to JSON Object -----> 3310
+9: KEY: ize clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: ize clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: 
+
+Clopidogr *** RXCUI -----> 32968
+2: KEY: 
+
+Clopidogr *** Concept from RXNORM -----> clopidogrel
+3: KEY: 
+
+Clopidogr *** Concept Type -----> IN
+4: KEY: 
+
+Clopidogr *** Drug mention in text -----> 
+
+Clopidogr
+5: KEY: 
+
+Clopidogr *** Source language -----> MSH
+6 KEY: 
+
+Clopidogr *** CUI CODE in original terminology -----> C055162
+7: KEY: 
+
+Clopidogr *** Final position in text according to JSON Object -----> 2251
+8: KEY: 
+
+Clopidogr *** Initial position according to JSON Object -----> 2241
+9: KEY: 
+
+Clopidogr *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: 
+
+Clopidogr *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: sm
+
+Clopido *** RXCUI -----> 32968
+2: KEY: sm
+
+Clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY: sm
+
+Clopido *** Concept Type -----> IN
+4: KEY: sm
+
+Clopido *** Drug mention in text -----> sm
+
+Clopido
+5: KEY: sm
+
+Clopido *** Source language -----> MSH
+6 KEY: sm
+
+Clopido *** CUI CODE in original terminology -----> C055162
+7: KEY: sm
+
+Clopido *** Final position in text according to JSON Object -----> 3040
+8: KEY: sm
+
+Clopido *** Initial position according to JSON Object -----> 3030
+9: KEY: sm
+
+Clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: sm
+
+Clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY:  of Pl *** RXCUI -----> 0
+2: KEY:  of Pl *** Concept from RXNORM -----> ()
+3: KEY:  of Pl *** Concept Type -----> ()
+4: KEY:  of Pl *** Drug mention in text ----->  of Pl
+5: KEY:  of Pl *** Source language -----> RXNORM
+6 KEY:  of Pl *** CUI CODE in original terminology -----> 174742
+7: KEY:  of Pl *** Final position in text according to JSON Object -----> 6576
+8: KEY:  of Pl *** Initial position according to JSON Object -----> 6571
+9: KEY:  of Pl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY:  of Pl *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: te. Clopido *** RXCUI -----> 32968
+2: KEY: te. Clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY: te. Clopido *** Concept Type -----> IN
+4: KEY: te. Clopido *** Drug mention in text -----> te. Clopido
+5: KEY: te. Clopido *** Source language -----> MSH
+6 KEY: te. Clopido *** CUI CODE in original terminology -----> C055162
+7: KEY: te. Clopido *** Final position in text according to JSON Object -----> 4685
+8: KEY: te. Clopido *** Initial position according to JSON Object -----> 4675
+9: KEY: te. Clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: te. Clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: mg, clopido *** RXCUI -----> 32968
+2: KEY: mg, clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY: mg, clopido *** Concept Type -----> IN
+4: KEY: mg, clopido *** Drug mention in text -----> mg, clopido
+5: KEY: mg, clopido *** Source language -----> MSH
+6 KEY: mg, clopido *** CUI CODE in original terminology -----> C055162
+7: KEY: mg, clopido *** Final position in text according to JSON Object -----> 4429
+8: KEY: mg, clopido *** Initial position according to JSON Object -----> 4419
+9: KEY: mg, clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: mg, clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: g Plav *** RXCUI -----> 0
+2: KEY: g Plav *** Concept from RXNORM -----> ()
+3: KEY: g Plav *** Concept Type -----> ()
+4: KEY: g Plav *** Drug mention in text -----> g Plav
+5: KEY: g Plav *** Source language -----> RXNORM
+6 KEY: g Plav *** CUI CODE in original terminology -----> 174742
+7: KEY: g Plav *** Final position in text according to JSON Object -----> 1928
+8: KEY: g Plav *** Initial position according to JSON Object -----> 1923
+9: KEY: g Plav *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: g Plav *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: g Plav *** RXCUI -----> 0
+2: KEY: g Plav *** Concept from RXNORM -----> ()
+3: KEY: g Plav *** Concept Type -----> ()
+4: KEY: g Plav *** Drug mention in text -----> g Plav
+5: KEY: g Plav *** Source language -----> RXNORM
+6 KEY: g Plav *** CUI CODE in original terminology -----> 174742
+7: KEY: g Plav *** Final position in text according to JSON Object -----> 1928
+8: KEY: g Plav *** Initial position according to JSON Object -----> 1923
+9: KEY: g Plav *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: g Plav *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: adenosine *** RXCUI -----> 296
+2: KEY: adenosine *** Concept from RXNORM -----> Adenosine
+3: KEY: adenosine *** Concept Type -----> IN
+4: KEY: adenosine *** Drug mention in text -----> adenosine
+5: KEY: adenosine *** Source language -----> MSH
+6 KEY: adenosine *** CUI CODE in original terminology -----> D000241
+7: KEY: adenosine *** Final position in text according to JSON Object -----> 452
+8: KEY: adenosine *** Initial position according to JSON Object -----> 444
+9: KEY: adenosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000241
+10: KEY: adenosine *** Preferred name according to JSON Object -----> Adenosine
+---------------------------------------------------------
+1: KEY: f clopidogr *** RXCUI -----> 32968
+2: KEY: f clopidogr *** Concept from RXNORM -----> clopidogrel
+3: KEY: f clopidogr *** Concept Type -----> IN
+4: KEY: f clopidogr *** Drug mention in text -----> f clopidogr
+5: KEY: f clopidogr *** Source language -----> MSH
+6 KEY: f clopidogr *** CUI CODE in original terminology -----> C055162
+7: KEY: f clopidogr *** Final position in text according to JSON Object -----> 2521
+8: KEY: f clopidogr *** Initial position according to JSON Object -----> 2511
+9: KEY: f clopidogr *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: f clopidogr *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY:  of clopido *** RXCUI -----> 32968
+2: KEY:  of clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY:  of clopido *** Concept Type -----> IN
+4: KEY:  of clopido *** Drug mention in text ----->  of clopido
+5: KEY:  of clopido *** Source language -----> MSH
+6 KEY:  of clopido *** CUI CODE in original terminology -----> C055162
+7: KEY:  of clopido *** Final position in text according to JSON Object -----> 4922
+8: KEY:  of clopido *** Initial position according to JSON Object -----> 4912
+9: KEY:  of clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY:  of clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY:  of clopido *** RXCUI -----> 32968
+2: KEY:  of clopido *** Concept from RXNORM -----> clopidogrel
+3: KEY:  of clopido *** Concept Type -----> IN
+4: KEY:  of clopido *** Drug mention in text ----->  of clopido
+5: KEY:  of clopido *** Source language -----> MSH
+6 KEY:  of clopido *** CUI CODE in original terminology -----> C055162
+7: KEY:  of clopido *** Final position in text according to JSON Object -----> 4922
+8: KEY:  of clopido *** Initial position according to JSON Object -----> 4912
+9: KEY:  of clopido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY:  of clopido *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: 
+
+Plav *** RXCUI -----> 0
+2: KEY: 
+
+Plav *** Concept from RXNORM -----> ()
+3: KEY: 
+
+Plav *** Concept Type -----> ()
+4: KEY: 
+
+Plav *** Drug mention in text -----> 
+
+Plav
+5: KEY: 
+
+Plav *** Source language -----> RXNORM
+6 KEY: 
+
+Plav *** CUI CODE in original terminology -----> 174742
+7: KEY: 
+
+Plav *** Final position in text according to JSON Object -----> 2558
+8: KEY: 
+
+Plav *** Initial position according to JSON Object -----> 2553
+9: KEY: 
+
+Plav *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: 
+
+Plav *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Final position in text according to JSON Object -----> 406
+8: KEY: clopidogrel *** Initial position according to JSON Object -----> 396
+9: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Final position in text according to JSON Object -----> 406
+8: KEY: clopidogrel *** Initial position according to JSON Object -----> 396
+9: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: n a Pl *** RXCUI -----> 0
+2: KEY: n a Pl *** Concept from RXNORM -----> ()
+3: KEY: n a Pl *** Concept Type -----> ()
+4: KEY: n a Pl *** Drug mention in text -----> n a Pl
+5: KEY: n a Pl *** Source language -----> RXNORM
+6 KEY: n a Pl *** CUI CODE in original terminology -----> 174742
+7: KEY: n a Pl *** Final position in text according to JSON Object -----> 2951
+8: KEY: n a Pl *** Initial position according to JSON Object -----> 2946
+9: KEY: n a Pl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/174742
+10: KEY: n a Pl *** Preferred name according to JSON Object -----> Plavix
+---------------------------------------------------------
+removed duplications 101
+Number of missed JSON elements: 0

@@ -1,0 +1,4 @@
+Zidovudine	methadone	1	1	true	positive	Zidovudine    Experimental evidence demonstrated that methadone increased the area under the concentration-time curve (AUC) of zidovudine which could result in toxic effects.  		11413	6813	11413	D008691
+Zidovudine	methadone	1	1	true	positive	Zidovudine    Experimental evidence demonstrated that methadone increased the area under the concentration-time curve (AUC) of zidovudine which could result in toxic effects.  		11413	6813	11413	D008691
+zidovudine	methadone	1	1	true	positive	Zidovudine    Experimental evidence demonstrated that methadone increased the area under the concentration-time curve (AUC) of zidovudine which could result in toxic effects.  		11413	6813	11413	D008691
+zidovudine	methadone	1	1	true	positive	Zidovudine    Experimental evidence demonstrated that methadone increased the area under the concentration-time curve (AUC) of zidovudine which could result in toxic effects.  		11413	6813	11413	D008691

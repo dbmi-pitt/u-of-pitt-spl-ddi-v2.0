@@ -1,0 +1,46 @@
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> RXNORM
+6 KEY: thioridazine *** CUI CODE in original terminology -----> 10502
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 124
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 113
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10502
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> RXNORM
+6 KEY: thioridazine *** CUI CODE in original terminology -----> 10502
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 124
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 113
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10502
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+1: KEY: mesoridazine *** RXCUI -----> 6779
+2: KEY: mesoridazine *** Concept from RXNORM -----> Mesoridazine
+3: KEY: mesoridazine *** Concept Type -----> IN
+4: KEY: mesoridazine *** Drug mention in text -----> mesoridazine
+5: KEY: mesoridazine *** Source language -----> RXNORM
+6 KEY: mesoridazine *** CUI CODE in original terminology -----> 6779
+7: KEY: mesoridazine *** Final position in text according to JSON Object -----> 223
+8: KEY: mesoridazine *** Initial position according to JSON Object -----> 212
+9: KEY: mesoridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6779
+10: KEY: mesoridazine *** Preferred name according to JSON Object -----> Mesoridazine
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 44
+8: KEY: propranolol *** Initial position according to JSON Object -----> 34
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

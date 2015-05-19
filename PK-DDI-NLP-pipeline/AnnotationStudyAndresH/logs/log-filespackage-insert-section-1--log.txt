@@ -1,0 +1,112 @@
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: didanosine *** RXCUI -----> 3364
+2: KEY: didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: didanosine *** Concept Type -----> IN
+4: KEY: didanosine *** Drug mention in text -----> didanosine
+5: KEY: didanosine *** Source language -----> MSH
+6 KEY: didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: didanosine *** Final position in text according to JSON Object -----> 813
+8: KEY: didanosine *** Initial position according to JSON Object -----> 804
+9: KEY: didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: Didanosine *** RXCUI -----> 3364
+2: KEY: Didanosine *** Concept from RXNORM -----> Didanosine
+3: KEY: Didanosine *** Concept Type -----> IN
+4: KEY: Didanosine *** Drug mention in text -----> Didanosine
+5: KEY: Didanosine *** Source language -----> MSH
+6 KEY: Didanosine *** CUI CODE in original terminology -----> D016049
+7: KEY: Didanosine *** Final position in text according to JSON Object -----> 866
+8: KEY: Didanosine *** Initial position according to JSON Object -----> 857
+9: KEY: Didanosine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016049
+10: KEY: Didanosine *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: tenofovir disoproxil fumarate *** RXCUI -----> 300195
+2: KEY: tenofovir disoproxil fumarate *** Concept from RXNORM -----> tenofovir disoproxil
+3: KEY: tenofovir disoproxil fumarate *** Concept Type -----> IN
+4: KEY: tenofovir disoproxil fumarate *** Drug mention in text -----> tenofovir disoproxil fumarate
+5: KEY: tenofovir disoproxil fumarate *** Source language -----> MSH
+6 KEY: tenofovir disoproxil fumarate *** CUI CODE in original terminology -----> C418563
+7: KEY: tenofovir disoproxil fumarate *** Final position in text according to JSON Object -----> 690
+8: KEY: tenofovir disoproxil fumarate *** Initial position according to JSON Object -----> 662
+9: KEY: tenofovir disoproxil fumarate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C418563
+10: KEY: tenofovir disoproxil fumarate *** Preferred name according to JSON Object -----> tenofovir disoproxil
+---------------------------------------------------------
+1: KEY: tenofovir disoproxil fumarate *** RXCUI -----> 300195
+2: KEY: tenofovir disoproxil fumarate *** Concept from RXNORM -----> tenofovir disoproxil
+3: KEY: tenofovir disoproxil fumarate *** Concept Type -----> IN
+4: KEY: tenofovir disoproxil fumarate *** Drug mention in text -----> tenofovir disoproxil fumarate
+5: KEY: tenofovir disoproxil fumarate *** Source language -----> MSH
+6 KEY: tenofovir disoproxil fumarate *** CUI CODE in original terminology -----> C418563
+7: KEY: tenofovir disoproxil fumarate *** Final position in text according to JSON Object -----> 690
+8: KEY: tenofovir disoproxil fumarate *** Initial position according to JSON Object -----> 662
+9: KEY: tenofovir disoproxil fumarate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C418563
+10: KEY: tenofovir disoproxil fumarate *** Preferred name according to JSON Object -----> tenofovir disoproxil
+---------------------------------------------------------
+1: KEY: tenofovir disoproxil fumarate *** RXCUI -----> 300195
+2: KEY: tenofovir disoproxil fumarate *** Concept from RXNORM -----> tenofovir disoproxil
+3: KEY: tenofovir disoproxil fumarate *** Concept Type -----> IN
+4: KEY: tenofovir disoproxil fumarate *** Drug mention in text -----> tenofovir disoproxil fumarate
+5: KEY: tenofovir disoproxil fumarate *** Source language -----> MSH
+6 KEY: tenofovir disoproxil fumarate *** CUI CODE in original terminology -----> C418563
+7: KEY: tenofovir disoproxil fumarate *** Final position in text according to JSON Object -----> 690
+8: KEY: tenofovir disoproxil fumarate *** Initial position according to JSON Object -----> 662
+9: KEY: tenofovir disoproxil fumarate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C418563
+10: KEY: tenofovir disoproxil fumarate *** Preferred name according to JSON Object -----> tenofovir disoproxil
+---------------------------------------------------------
+removed duplications 54
+Number of missed JSON elements: 0

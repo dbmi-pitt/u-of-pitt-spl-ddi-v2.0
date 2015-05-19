@@ -1,0 +1,2 @@
+citalopram	cimetidine	1	1	true	positive	In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.  		2556	2541	2556	2541
+citalopram	cimetidine	1	1	true	positive	In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.  		2556	2541	2556	2541

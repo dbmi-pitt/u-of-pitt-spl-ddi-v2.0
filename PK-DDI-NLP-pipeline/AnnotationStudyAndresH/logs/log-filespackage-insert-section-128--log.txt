@@ -1,0 +1,57 @@
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 101
+8: KEY: diazepam *** Initial position according to JSON Object -----> 94
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 101
+8: KEY: diazepam *** Initial position according to JSON Object -----> 94
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: Diazepam *** RXCUI -----> 3322
+2: KEY: Diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: Diazepam *** Concept Type -----> IN
+4: KEY: Diazepam *** Drug mention in text -----> Diazepam
+5: KEY: Diazepam *** Source language -----> MSH
+6 KEY: Diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: Diazepam *** Final position in text according to JSON Object -----> 131
+8: KEY: Diazepam *** Initial position according to JSON Object -----> 124
+9: KEY: Diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: Diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 182
+8: KEY: propranolol *** Initial position according to JSON Object -----> 172
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Propranolol *** RXCUI -----> 8787
+2: KEY: Propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: Propranolol *** Concept Type -----> IN
+4: KEY: Propranolol *** Drug mention in text -----> Propranolol
+5: KEY: Propranolol *** Source language -----> MSH
+6 KEY: Propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: Propranolol *** Final position in text according to JSON Object -----> 11
+8: KEY: Propranolol *** Initial position according to JSON Object -----> 1
+9: KEY: Propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: Propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 22
+Number of missed JSON elements: 0

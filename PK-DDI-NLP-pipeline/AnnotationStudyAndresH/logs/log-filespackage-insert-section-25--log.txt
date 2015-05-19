@@ -1,0 +1,79 @@
+1: KEY: Phenytoin *** RXCUI -----> 8183
+2: KEY: Phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: Phenytoin *** Concept Type -----> IN
+4: KEY: Phenytoin *** Drug mention in text -----> Phenytoin
+5: KEY: Phenytoin *** Source language -----> MSH
+6 KEY: Phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: Phenytoin *** Final position in text according to JSON Object -----> 9
+8: KEY: Phenytoin *** Initial position according to JSON Object -----> 1
+9: KEY: Phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: Phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> MSH
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> D010672
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 358
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 350
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 215
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 205
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 215
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 205
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: f phenyto *** RXCUI -----> 8183
+2: KEY: f phenyto *** Concept from RXNORM -----> Phenytoin
+3: KEY: f phenyto *** Concept Type -----> IN
+4: KEY: f phenyto *** Drug mention in text -----> f phenyto
+5: KEY: f phenyto *** Source language -----> MSH
+6 KEY: f phenyto *** CUI CODE in original terminology -----> D010672
+7: KEY: f phenyto *** Final position in text according to JSON Object -----> 515
+8: KEY: f phenyto *** Initial position according to JSON Object -----> 507
+9: KEY: f phenyto *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: f phenyto *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 54
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 46
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 54
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 46
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

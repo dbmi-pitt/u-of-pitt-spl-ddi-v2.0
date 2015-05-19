@@ -1,0 +1,46 @@
+1: KEY: sulfinpyrazone *** RXCUI -----> 10205
+2: KEY: sulfinpyrazone *** Concept from RXNORM -----> Sulfinpyrazone
+3: KEY: sulfinpyrazone *** Concept Type -----> IN
+4: KEY: sulfinpyrazone *** Drug mention in text -----> sulfinpyrazone
+5: KEY: sulfinpyrazone *** Source language -----> RXNORM
+6 KEY: sulfinpyrazone *** CUI CODE in original terminology -----> 10205
+7: KEY: sulfinpyrazone *** Final position in text according to JSON Object -----> 55
+8: KEY: sulfinpyrazone *** Initial position according to JSON Object -----> 42
+9: KEY: sulfinpyrazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10205
+10: KEY: sulfinpyrazone *** Preferred name according to JSON Object -----> Sulfinpyrazone
+---------------------------------------------------------
+1: KEY: nitrofurantoin *** RXCUI -----> 7454
+2: KEY: nitrofurantoin *** Concept from RXNORM -----> Nitrofurantoin
+3: KEY: nitrofurantoin *** Concept Type -----> IN
+4: KEY: nitrofurantoin *** Drug mention in text -----> nitrofurantoin
+5: KEY: nitrofurantoin *** Source language -----> MSH
+6 KEY: nitrofurantoin *** CUI CODE in original terminology -----> D009582
+7: KEY: nitrofurantoin *** Final position in text according to JSON Object -----> 152
+8: KEY: nitrofurantoin *** Initial position according to JSON Object -----> 139
+9: KEY: nitrofurantoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009582
+10: KEY: nitrofurantoin *** Preferred name according to JSON Object -----> Nitrofurantoin
+---------------------------------------------------------
+1: KEY: nitrofurantoin *** RXCUI -----> 7454
+2: KEY: nitrofurantoin *** Concept from RXNORM -----> Nitrofurantoin
+3: KEY: nitrofurantoin *** Concept Type -----> IN
+4: KEY: nitrofurantoin *** Drug mention in text -----> nitrofurantoin
+5: KEY: nitrofurantoin *** Source language -----> MSH
+6 KEY: nitrofurantoin *** CUI CODE in original terminology -----> D009582
+7: KEY: nitrofurantoin *** Final position in text according to JSON Object -----> 152
+8: KEY: nitrofurantoin *** Initial position according to JSON Object -----> 139
+9: KEY: nitrofurantoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009582
+10: KEY: nitrofurantoin *** Preferred name according to JSON Object -----> Nitrofurantoin
+---------------------------------------------------------
+1: KEY: probenecid *** RXCUI -----> 8698
+2: KEY: probenecid *** Concept from RXNORM -----> Probenecid
+3: KEY: probenecid *** Concept Type -----> IN
+4: KEY: probenecid *** Drug mention in text -----> probenecid
+5: KEY: probenecid *** Source language -----> MSH
+6 KEY: probenecid *** CUI CODE in original terminology -----> D011339
+7: KEY: probenecid *** Final position in text according to JSON Object -----> 36
+8: KEY: probenecid *** Initial position according to JSON Object -----> 27
+9: KEY: probenecid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011339
+10: KEY: probenecid *** Preferred name according to JSON Object -----> Probenecid
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

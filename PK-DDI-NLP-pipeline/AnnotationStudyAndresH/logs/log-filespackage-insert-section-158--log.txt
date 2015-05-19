@@ -1,0 +1,156 @@
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> RXNORM
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> 42355
+7: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 359
+8: KEY: fluvoxamine *** Initial position according to JSON Object -----> 349
+9: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42355
+10: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 1055
+8: KEY: propafenone *** Initial position according to JSON Object -----> 1045
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 1055
+8: KEY: propafenone *** Initial position according to JSON Object -----> 1045
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 1055
+8: KEY: propafenone *** Initial position according to JSON Object -----> 1045
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 1055
+8: KEY: propafenone *** Initial position according to JSON Object -----> 1045
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+1: KEY: mexiletine *** RXCUI -----> 6926
+2: KEY: mexiletine *** Concept from RXNORM -----> Mexiletine
+3: KEY: mexiletine *** Concept Type -----> IN
+4: KEY: mexiletine *** Drug mention in text -----> mexiletine
+5: KEY: mexiletine *** Source language -----> RXNORM
+6 KEY: mexiletine *** CUI CODE in original terminology -----> 6926
+7: KEY: mexiletine *** Final position in text according to JSON Object -----> 1176
+8: KEY: mexiletine *** Initial position according to JSON Object -----> 1167
+9: KEY: mexiletine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6926
+10: KEY: mexiletine *** Preferred name according to JSON Object -----> Mexiletine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

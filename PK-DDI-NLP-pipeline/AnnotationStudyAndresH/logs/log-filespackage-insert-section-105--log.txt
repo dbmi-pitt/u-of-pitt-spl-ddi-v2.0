@@ -1,0 +1,431 @@
+1: KEY: Conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: Conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: Conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: Conivaptan hydrochloride *** Drug mention in text -----> Conivaptan hydrochloride
+5: KEY: Conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: Conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: Conivaptan hydrochloride *** Final position in text according to JSON Object -----> 76
+8: KEY: Conivaptan hydrochloride *** Initial position according to JSON Object -----> 53
+9: KEY: Conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: Conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: moxifloxacin *** RXCUI -----> 139462
+2: KEY: moxifloxacin *** Concept from RXNORM -----> moxifloxacin
+3: KEY: moxifloxacin *** Concept Type -----> IN
+4: KEY: moxifloxacin *** Drug mention in text -----> moxifloxacin
+5: KEY: moxifloxacin *** Source language -----> RXNORM
+6 KEY: moxifloxacin *** CUI CODE in original terminology -----> 139462
+7: KEY: moxifloxacin *** Final position in text according to JSON Object -----> 1585
+8: KEY: moxifloxacin *** Initial position according to JSON Object -----> 1574
+9: KEY: moxifloxacin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/139462
+10: KEY: moxifloxacin *** Preferred name according to JSON Object -----> moxifloxacin
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan hydrochloride *** RXCUI -----> 302285
+2: KEY: conivaptan hydrochloride *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan hydrochloride *** Concept Type -----> IN
+4: KEY: conivaptan hydrochloride *** Drug mention in text -----> conivaptan hydrochloride
+5: KEY: conivaptan hydrochloride *** Source language -----> MSH
+6 KEY: conivaptan hydrochloride *** CUI CODE in original terminology -----> C106389
+7: KEY: conivaptan hydrochloride *** Final position in text according to JSON Object -----> 4729
+8: KEY: conivaptan hydrochloride *** Initial position according to JSON Object -----> 4706
+9: KEY: conivaptan hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106389
+10: KEY: conivaptan hydrochloride *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: conivaptan *** RXCUI -----> 302285
+2: KEY: conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: conivaptan *** Concept Type -----> IN
+4: KEY: conivaptan *** Drug mention in text -----> conivaptan
+5: KEY: conivaptan *** Source language -----> RXNORM
+6 KEY: conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: conivaptan *** Final position in text according to JSON Object -----> 5698
+8: KEY: conivaptan *** Initial position according to JSON Object -----> 5689
+9: KEY: conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: Conivaptan *** RXCUI -----> 302285
+2: KEY: Conivaptan *** Concept from RXNORM -----> conivaptan
+3: KEY: Conivaptan *** Concept Type -----> IN
+4: KEY: Conivaptan *** Drug mention in text -----> Conivaptan
+5: KEY: Conivaptan *** Source language -----> RXNORM
+6 KEY: Conivaptan *** CUI CODE in original terminology -----> 302285
+7: KEY: Conivaptan *** Final position in text according to JSON Object -----> 3987
+8: KEY: Conivaptan *** Initial position according to JSON Object -----> 3978
+9: KEY: Conivaptan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/302285
+10: KEY: Conivaptan *** Preferred name according to JSON Object -----> conivaptan
+---------------------------------------------------------
+1: KEY: Moxifloxacin *** RXCUI -----> 139462
+2: KEY: Moxifloxacin *** Concept from RXNORM -----> moxifloxacin
+3: KEY: Moxifloxacin *** Concept Type -----> IN
+4: KEY: Moxifloxacin *** Drug mention in text -----> Moxifloxacin
+5: KEY: Moxifloxacin *** Source language -----> RXNORM
+6 KEY: Moxifloxacin *** CUI CODE in original terminology -----> 139462
+7: KEY: Moxifloxacin *** Final position in text according to JSON Object -----> 1734
+8: KEY: Moxifloxacin *** Initial position according to JSON Object -----> 1723
+9: KEY: Moxifloxacin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/139462
+10: KEY: Moxifloxacin *** Preferred name according to JSON Object -----> moxifloxacin
+---------------------------------------------------------
+1: KEY: VAPRISOL *** RXCUI -----> 0
+2: KEY: VAPRISOL *** Concept from RXNORM -----> ()
+3: KEY: VAPRISOL *** Concept Type -----> ()
+4: KEY: VAPRISOL *** Drug mention in text -----> VAPRISOL
+5: KEY: VAPRISOL *** Source language -----> RXNORM
+6 KEY: VAPRISOL *** CUI CODE in original terminology -----> 616622
+7: KEY: VAPRISOL *** Final position in text according to JSON Object -----> 6053
+8: KEY: VAPRISOL *** Initial position according to JSON Object -----> 6046
+9: KEY: VAPRISOL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/616622
+10: KEY: VAPRISOL *** Preferred name according to JSON Object -----> Vaprisol
+---------------------------------------------------------
+1: KEY: VAPRISOL *** RXCUI -----> 0
+2: KEY: VAPRISOL *** Concept from RXNORM -----> ()
+3: KEY: VAPRISOL *** Concept Type -----> ()
+4: KEY: VAPRISOL *** Drug mention in text -----> VAPRISOL
+5: KEY: VAPRISOL *** Source language -----> RXNORM
+6 KEY: VAPRISOL *** CUI CODE in original terminology -----> 616622
+7: KEY: VAPRISOL *** Final position in text according to JSON Object -----> 6053
+8: KEY: VAPRISOL *** Initial position according to JSON Object -----> 6046
+9: KEY: VAPRISOL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/616622
+10: KEY: VAPRISOL *** Preferred name according to JSON Object -----> Vaprisol
+---------------------------------------------------------
+1: KEY: VAPRISOL *** RXCUI -----> 0
+2: KEY: VAPRISOL *** Concept from RXNORM -----> ()
+3: KEY: VAPRISOL *** Concept Type -----> ()
+4: KEY: VAPRISOL *** Drug mention in text -----> VAPRISOL
+5: KEY: VAPRISOL *** Source language -----> RXNORM
+6 KEY: VAPRISOL *** CUI CODE in original terminology -----> 616622
+7: KEY: VAPRISOL *** Final position in text according to JSON Object -----> 6053
+8: KEY: VAPRISOL *** Initial position according to JSON Object -----> 6046
+9: KEY: VAPRISOL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/616622
+10: KEY: VAPRISOL *** Preferred name according to JSON Object -----> Vaprisol
+---------------------------------------------------------
+1: KEY: VAPRISOL *** RXCUI -----> 0
+2: KEY: VAPRISOL *** Concept from RXNORM -----> ()
+3: KEY: VAPRISOL *** Concept Type -----> ()
+4: KEY: VAPRISOL *** Drug mention in text -----> VAPRISOL
+5: KEY: VAPRISOL *** Source language -----> RXNORM
+6 KEY: VAPRISOL *** CUI CODE in original terminology -----> 616622
+7: KEY: VAPRISOL *** Final position in text according to JSON Object -----> 6053
+8: KEY: VAPRISOL *** Initial position according to JSON Object -----> 6046
+9: KEY: VAPRISOL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/616622
+10: KEY: VAPRISOL *** Preferred name according to JSON Object -----> Vaprisol
+---------------------------------------------------------
+removed duplications 323
+Number of missed JSON elements: 0

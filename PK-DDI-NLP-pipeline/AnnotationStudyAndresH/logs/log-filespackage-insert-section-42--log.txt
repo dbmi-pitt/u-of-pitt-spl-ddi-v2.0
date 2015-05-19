@@ -1,0 +1,90 @@
+1: KEY: mercaptopurine *** RXCUI -----> 103
+2: KEY: mercaptopurine *** Concept from RXNORM -----> mercaptopurine
+3: KEY: mercaptopurine *** Concept Type -----> IN
+4: KEY: mercaptopurine *** Drug mention in text -----> mercaptopurine
+5: KEY: mercaptopurine *** Source language -----> RXNORM
+6 KEY: mercaptopurine *** CUI CODE in original terminology -----> 103
+7: KEY: mercaptopurine *** Final position in text according to JSON Object -----> 255
+8: KEY: mercaptopurine *** Initial position according to JSON Object -----> 242
+9: KEY: mercaptopurine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/103
+10: KEY: mercaptopurine *** Preferred name according to JSON Object -----> mercaptopurine
+---------------------------------------------------------
+1: KEY: mercaptopurine *** RXCUI -----> 103
+2: KEY: mercaptopurine *** Concept from RXNORM -----> mercaptopurine
+3: KEY: mercaptopurine *** Concept Type -----> IN
+4: KEY: mercaptopurine *** Drug mention in text -----> mercaptopurine
+5: KEY: mercaptopurine *** Source language -----> RXNORM
+6 KEY: mercaptopurine *** CUI CODE in original terminology -----> 103
+7: KEY: mercaptopurine *** Final position in text according to JSON Object -----> 255
+8: KEY: mercaptopurine *** Initial position according to JSON Object -----> 242
+9: KEY: mercaptopurine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/103
+10: KEY: mercaptopurine *** Preferred name according to JSON Object -----> mercaptopurine
+---------------------------------------------------------
+1: KEY: mercaptopurine *** RXCUI -----> 103
+2: KEY: mercaptopurine *** Concept from RXNORM -----> mercaptopurine
+3: KEY: mercaptopurine *** Concept Type -----> IN
+4: KEY: mercaptopurine *** Drug mention in text -----> mercaptopurine
+5: KEY: mercaptopurine *** Source language -----> RXNORM
+6 KEY: mercaptopurine *** CUI CODE in original terminology -----> 103
+7: KEY: mercaptopurine *** Final position in text according to JSON Object -----> 255
+8: KEY: mercaptopurine *** Initial position according to JSON Object -----> 242
+9: KEY: mercaptopurine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/103
+10: KEY: mercaptopurine *** Preferred name according to JSON Object -----> mercaptopurine
+---------------------------------------------------------
+1: KEY: azathioprine *** RXCUI -----> 1256
+2: KEY: azathioprine *** Concept from RXNORM -----> azaTHIOprine
+3: KEY: azathioprine *** Concept Type -----> TMSY
+4: KEY: azathioprine *** Drug mention in text -----> azathioprine
+5: KEY: azathioprine *** Source language -----> RXNORM
+6 KEY: azathioprine *** CUI CODE in original terminology -----> 1256
+7: KEY: azathioprine *** Final position in text according to JSON Object -----> 337
+8: KEY: azathioprine *** Initial position according to JSON Object -----> 326
+9: KEY: azathioprine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1256
+10: KEY: azathioprine *** Preferred name according to JSON Object -----> Azathioprine
+---------------------------------------------------------
+1: KEY: azathioprine *** RXCUI -----> 1256
+2: KEY: azathioprine *** Concept from RXNORM -----> azaTHIOprine
+3: KEY: azathioprine *** Concept Type -----> TMSY
+4: KEY: azathioprine *** Drug mention in text -----> azathioprine
+5: KEY: azathioprine *** Source language -----> RXNORM
+6 KEY: azathioprine *** CUI CODE in original terminology -----> 1256
+7: KEY: azathioprine *** Final position in text according to JSON Object -----> 337
+8: KEY: azathioprine *** Initial position according to JSON Object -----> 326
+9: KEY: azathioprine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1256
+10: KEY: azathioprine *** Preferred name according to JSON Object -----> Azathioprine
+---------------------------------------------------------
+1: KEY: azathioprine *** RXCUI -----> 1256
+2: KEY: azathioprine *** Concept from RXNORM -----> azaTHIOprine
+3: KEY: azathioprine *** Concept Type -----> TMSY
+4: KEY: azathioprine *** Drug mention in text -----> azathioprine
+5: KEY: azathioprine *** Source language -----> RXNORM
+6 KEY: azathioprine *** CUI CODE in original terminology -----> 1256
+7: KEY: azathioprine *** Final position in text according to JSON Object -----> 337
+8: KEY: azathioprine *** Initial position according to JSON Object -----> 326
+9: KEY: azathioprine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1256
+10: KEY: azathioprine *** Preferred name according to JSON Object -----> Azathioprine
+---------------------------------------------------------
+1: KEY: allopurinol sodium *** RXCUI -----> 519
+2: KEY: allopurinol sodium *** Concept from RXNORM -----> (('Allopurinol',),)
+3: KEY: allopurinol sodium *** Concept Type -----> (('IN',),)
+4: KEY: allopurinol sodium *** Drug mention in text -----> allopurinol sodium
+5: KEY: allopurinol sodium *** Source language -----> RXNORM
+6 KEY: allopurinol sodium *** CUI CODE in original terminology -----> 80566
+7: KEY: allopurinol sodium *** Final position in text according to JSON Object -----> 123
+8: KEY: allopurinol sodium *** Initial position according to JSON Object -----> 106
+9: KEY: allopurinol sodium *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/80566
+10: KEY: allopurinol sodium *** Preferred name according to JSON Object -----> Allopurinol Sodium
+---------------------------------------------------------
+1: KEY: basis *** RXCUI -----> 0
+2: KEY: basis *** Concept from RXNORM -----> ()
+3: KEY: basis *** Concept Type -----> ()
+4: KEY: basis *** Drug mention in text -----> basis
+5: KEY: basis *** Source language -----> RXNORM
+6 KEY: basis *** CUI CODE in original terminology -----> 1046801
+7: KEY: basis *** Final position in text according to JSON Object -----> 365
+8: KEY: basis *** Initial position according to JSON Object -----> 361
+9: KEY: basis *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1046801
+10: KEY: basis *** Preferred name according to JSON Object -----> Basis
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

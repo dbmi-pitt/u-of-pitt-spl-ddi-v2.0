@@ -1,0 +1,8 @@
+for norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+the norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+norverapamil	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+the norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+of norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+ne. Norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+and norverap	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+norverapamil	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904

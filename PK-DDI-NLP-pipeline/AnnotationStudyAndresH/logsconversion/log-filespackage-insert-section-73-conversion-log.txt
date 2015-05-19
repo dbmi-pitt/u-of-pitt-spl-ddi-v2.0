@@ -1,0 +1,7 @@
+noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256
+growth hormone	http://purl.bioontology.org/ontology/MSH/D013006	MSH	D013006
+noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256
+Noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256
+noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256
+noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256
+noroxycodon	http://purl.bioontology.org/ontology/MSH/C077256	MSH	C077256

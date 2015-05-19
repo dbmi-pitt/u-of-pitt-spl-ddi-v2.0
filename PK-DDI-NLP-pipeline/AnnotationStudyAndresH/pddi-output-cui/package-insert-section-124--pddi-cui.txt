@@ -1,0 +1,2 @@
+propafenone	propranolol	1	1	true	positive	The AUC of propafenone is increased by more than 200% by co-administration of propranolol.  		8754	8787	D011405	D011433
+propafenone	propranolol	1	1	true	positive	The AUC of propafenone is increased by more than 200% by co-administration of propranolol.  		8754	8787	D011405	D011433

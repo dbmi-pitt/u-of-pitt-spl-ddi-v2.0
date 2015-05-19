@@ -1,0 +1,1586 @@
+1: KEY: Diazepam *** RXCUI -----> 3322
+2: KEY: Diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: Diazepam *** Concept Type -----> IN
+4: KEY: Diazepam *** Drug mention in text -----> Diazepam
+5: KEY: Diazepam *** Source language -----> MSH
+6 KEY: Diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: Diazepam *** Final position in text according to JSON Object -----> 1457
+8: KEY: Diazepam *** Initial position according to JSON Object -----> 1450
+9: KEY: Diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: Diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: haloperidol *** RXCUI -----> 5093
+2: KEY: haloperidol *** Concept from RXNORM -----> Haloperidol
+3: KEY: haloperidol *** Concept Type -----> IN
+4: KEY: haloperidol *** Drug mention in text -----> haloperidol
+5: KEY: haloperidol *** Source language -----> MSH
+6 KEY: haloperidol *** CUI CODE in original terminology -----> D006220
+7: KEY: haloperidol *** Final position in text according to JSON Object -----> 2219
+8: KEY: haloperidol *** Initial position according to JSON Object -----> 2209
+9: KEY: haloperidol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006220
+10: KEY: haloperidol *** Preferred name according to JSON Object -----> Haloperidol
+---------------------------------------------------------
+1: KEY: haloperidol *** RXCUI -----> 5093
+2: KEY: haloperidol *** Concept from RXNORM -----> Haloperidol
+3: KEY: haloperidol *** Concept Type -----> IN
+4: KEY: haloperidol *** Drug mention in text -----> haloperidol
+5: KEY: haloperidol *** Source language -----> MSH
+6 KEY: haloperidol *** CUI CODE in original terminology -----> D006220
+7: KEY: haloperidol *** Final position in text according to JSON Object -----> 2219
+8: KEY: haloperidol *** Initial position according to JSON Object -----> 2209
+9: KEY: haloperidol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006220
+10: KEY: haloperidol *** Preferred name according to JSON Object -----> Haloperidol
+---------------------------------------------------------
+1: KEY: haloperidol *** RXCUI -----> 5093
+2: KEY: haloperidol *** Concept from RXNORM -----> Haloperidol
+3: KEY: haloperidol *** Concept Type -----> IN
+4: KEY: haloperidol *** Drug mention in text -----> haloperidol
+5: KEY: haloperidol *** Source language -----> MSH
+6 KEY: haloperidol *** CUI CODE in original terminology -----> D006220
+7: KEY: haloperidol *** Final position in text according to JSON Object -----> 2219
+8: KEY: haloperidol *** Initial position according to JSON Object -----> 2209
+9: KEY: haloperidol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006220
+10: KEY: haloperidol *** Preferred name according to JSON Object -----> Haloperidol
+---------------------------------------------------------
+1: KEY: haloperidol *** RXCUI -----> 5093
+2: KEY: haloperidol *** Concept from RXNORM -----> Haloperidol
+3: KEY: haloperidol *** Concept Type -----> IN
+4: KEY: haloperidol *** Drug mention in text -----> haloperidol
+5: KEY: haloperidol *** Source language -----> MSH
+6 KEY: haloperidol *** CUI CODE in original terminology -----> D006220
+7: KEY: haloperidol *** Final position in text according to JSON Object -----> 2219
+8: KEY: haloperidol *** Initial position according to JSON Object -----> 2209
+9: KEY: haloperidol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006220
+10: KEY: haloperidol *** Preferred name according to JSON Object -----> Haloperidol
+---------------------------------------------------------
+1: KEY:  linezoli *** RXCUI -----> 190376
+2: KEY:  linezoli *** Concept from RXNORM -----> linezolid
+3: KEY:  linezoli *** Concept Type -----> IN
+4: KEY:  linezoli *** Drug mention in text ----->  linezoli
+5: KEY:  linezoli *** Source language -----> RXNORM
+6 KEY:  linezoli *** CUI CODE in original terminology -----> 190376
+7: KEY:  linezoli *** Final position in text according to JSON Object -----> 9208
+8: KEY:  linezoli *** Initial position according to JSON Object -----> 9200
+9: KEY:  linezoli *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/190376
+10: KEY:  linezoli *** Preferred name according to JSON Object -----> linezolid
+---------------------------------------------------------
+1: KEY:  diazepa *** RXCUI -----> 3322
+2: KEY:  diazepa *** Concept from RXNORM -----> Diazepam
+3: KEY:  diazepa *** Concept Type -----> IN
+4: KEY:  diazepa *** Drug mention in text ----->  diazepa
+5: KEY:  diazepa *** Source language -----> MSH
+6 KEY:  diazepa *** CUI CODE in original terminology -----> D003975
+7: KEY:  diazepa *** Final position in text according to JSON Object -----> 8366
+8: KEY:  diazepa *** Initial position according to JSON Object -----> 8359
+9: KEY:  diazepa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY:  diazepa *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY:  diazepa *** RXCUI -----> 3322
+2: KEY:  diazepa *** Concept from RXNORM -----> Diazepam
+3: KEY:  diazepa *** Concept Type -----> IN
+4: KEY:  diazepa *** Drug mention in text ----->  diazepa
+5: KEY:  diazepa *** Source language -----> MSH
+6 KEY:  diazepa *** CUI CODE in original terminology -----> D003975
+7: KEY:  diazepa *** Final position in text according to JSON Object -----> 8366
+8: KEY:  diazepa *** Initial position according to JSON Object -----> 8359
+9: KEY:  diazepa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY:  diazepa *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY:  prothrombi *** RXCUI -----> 1441688
+2: KEY:  prothrombi *** Concept from RXNORM -----> Prothrombin
+3: KEY:  prothrombi *** Concept Type -----> IN
+4: KEY:  prothrombi *** Drug mention in text ----->  prothrombi
+5: KEY:  prothrombi *** Source language -----> RXNORM
+6 KEY:  prothrombi *** CUI CODE in original terminology -----> 1441688
+7: KEY:  prothrombi *** Final position in text according to JSON Object -----> 11432
+8: KEY:  prothrombi *** Initial position according to JSON Object -----> 11422
+9: KEY:  prothrombi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY:  prothrombi *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY:  warfari *** RXCUI -----> 11289
+2: KEY:  warfari *** Concept from RXNORM -----> Warfarin
+3: KEY:  warfari *** Concept Type -----> IN
+4: KEY:  warfari *** Drug mention in text ----->  warfari
+5: KEY:  warfari *** Source language -----> MSH
+6 KEY:  warfari *** CUI CODE in original terminology -----> D014859
+7: KEY:  warfari *** Final position in text according to JSON Object -----> 10799
+8: KEY:  warfari *** Initial position according to JSON Object -----> 10792
+9: KEY:  warfari *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY:  warfari *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY:  warfari *** RXCUI -----> 11289
+2: KEY:  warfari *** Concept from RXNORM -----> Warfarin
+3: KEY:  warfari *** Concept Type -----> IN
+4: KEY:  warfari *** Drug mention in text ----->  warfari
+5: KEY:  warfari *** Source language -----> MSH
+6 KEY:  warfari *** CUI CODE in original terminology -----> D014859
+7: KEY:  warfari *** Final position in text according to JSON Object -----> 10799
+8: KEY:  warfari *** Initial position according to JSON Object -----> 10792
+9: KEY:  warfari *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY:  warfari *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY:  warfari *** RXCUI -----> 11289
+2: KEY:  warfari *** Concept from RXNORM -----> Warfarin
+3: KEY:  warfari *** Concept Type -----> IN
+4: KEY:  warfari *** Drug mention in text ----->  warfari
+5: KEY:  warfari *** Source language -----> MSH
+6 KEY:  warfari *** CUI CODE in original terminology -----> D014859
+7: KEY:  warfari *** Final position in text according to JSON Object -----> 10799
+8: KEY:  warfari *** Initial position according to JSON Object -----> 10792
+9: KEY:  warfari *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY:  warfari *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Venlafaxin *** RXCUI -----> 39786
+2: KEY: 
+Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY: 
+Venlafaxin *** Concept Type -----> IN
+4: KEY: 
+Venlafaxin *** Drug mention in text -----> 
+Venlafaxin
+5: KEY: 
+Venlafaxin *** Source language -----> RXNORM
+6 KEY: 
+Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY: 
+Venlafaxin *** Final position in text according to JSON Object -----> 8084
+8: KEY: 
+Venlafaxin *** Initial position according to JSON Object -----> 8074
+9: KEY: 
+Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: 
+Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  terfenadin *** RXCUI -----> 42330
+2: KEY:  terfenadin *** Concept from RXNORM -----> Terfenadine
+3: KEY:  terfenadin *** Concept Type -----> IN
+4: KEY:  terfenadin *** Drug mention in text ----->  terfenadin
+5: KEY:  terfenadin *** Source language -----> RXNORM
+6 KEY:  terfenadin *** CUI CODE in original terminology -----> 42330
+7: KEY:  terfenadin *** Final position in text according to JSON Object -----> 7490
+8: KEY:  terfenadin *** Initial position according to JSON Object -----> 7480
+9: KEY:  terfenadin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY:  terfenadin *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 3552
+8: KEY: quinidine *** Initial position according to JSON Object -----> 3544
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: Imipramine *** RXCUI -----> 5691
+2: KEY: Imipramine *** Concept from RXNORM -----> Imipramine
+3: KEY: Imipramine *** Concept Type -----> IN
+4: KEY: Imipramine *** Drug mention in text -----> Imipramine
+5: KEY: Imipramine *** Source language -----> RXNORM
+6 KEY: Imipramine *** CUI CODE in original terminology -----> 5691
+7: KEY: Imipramine *** Final position in text according to JSON Object -----> 5582
+8: KEY: Imipramine *** Initial position according to JSON Object -----> 5573
+9: KEY: Imipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5691
+10: KEY: Imipramine *** Preferred name according to JSON Object -----> Imipramine
+---------------------------------------------------------
+1: KEY: Imipramine *** RXCUI -----> 5691
+2: KEY: Imipramine *** Concept from RXNORM -----> Imipramine
+3: KEY: Imipramine *** Concept Type -----> IN
+4: KEY: Imipramine *** Drug mention in text -----> Imipramine
+5: KEY: Imipramine *** Source language -----> RXNORM
+6 KEY: Imipramine *** CUI CODE in original terminology -----> 5691
+7: KEY: Imipramine *** Final position in text according to JSON Object -----> 5582
+8: KEY: Imipramine *** Initial position according to JSON Object -----> 5573
+9: KEY: Imipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5691
+10: KEY: Imipramine *** Preferred name according to JSON Object -----> Imipramine
+---------------------------------------------------------
+1: KEY:  Indinavi *** RXCUI -----> 114289
+2: KEY:  Indinavi *** Concept from RXNORM -----> Indinavir
+3: KEY:  Indinavi *** Concept Type -----> IN
+4: KEY:  Indinavi *** Drug mention in text ----->  Indinavi
+5: KEY:  Indinavi *** Source language -----> RXNORM
+6 KEY:  Indinavi *** CUI CODE in original terminology -----> 114289
+7: KEY:  Indinavi *** Final position in text according to JSON Object -----> 7737
+8: KEY:  Indinavi *** Initial position according to JSON Object -----> 7729
+9: KEY:  Indinavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/114289
+10: KEY:  Indinavi *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY:  serotoni *** RXCUI -----> 1311214
+2: KEY:  serotoni *** Concept from RXNORM -----> Serotonin
+3: KEY:  serotoni *** Concept Type -----> IN
+4: KEY:  serotoni *** Drug mention in text ----->  serotoni
+5: KEY:  serotoni *** Source language -----> MSH
+6 KEY:  serotoni *** CUI CODE in original terminology -----> D012701
+7: KEY:  serotoni *** Final position in text according to JSON Object -----> 10459
+8: KEY:  serotoni *** Initial position according to JSON Object -----> 10451
+9: KEY:  serotoni *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY:  serotoni *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+1: KEY:  serotoni *** RXCUI -----> 1311214
+2: KEY:  serotoni *** Concept from RXNORM -----> Serotonin
+3: KEY:  serotoni *** Concept Type -----> IN
+4: KEY:  serotoni *** Drug mention in text ----->  serotoni
+5: KEY:  serotoni *** Source language -----> MSH
+6 KEY:  serotoni *** CUI CODE in original terminology -----> D012701
+7: KEY:  serotoni *** Final position in text according to JSON Object -----> 10459
+8: KEY:  serotoni *** Initial position according to JSON Object -----> 10451
+9: KEY:  serotoni *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY:  serotoni *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+1: KEY:  serotoni *** RXCUI -----> 1311214
+2: KEY:  serotoni *** Concept from RXNORM -----> Serotonin
+3: KEY:  serotoni *** Concept Type -----> IN
+4: KEY:  serotoni *** Drug mention in text ----->  serotoni
+5: KEY:  serotoni *** Source language -----> MSH
+6 KEY:  serotoni *** CUI CODE in original terminology -----> D012701
+7: KEY:  serotoni *** Final position in text according to JSON Object -----> 10459
+8: KEY:  serotoni *** Initial position according to JSON Object -----> 10451
+9: KEY:  serotoni *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY:  serotoni *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+1: KEY:  aspiri *** RXCUI -----> 1191
+2: KEY:  aspiri *** Concept from RXNORM -----> Aspirin
+3: KEY:  aspiri *** Concept Type -----> IN
+4: KEY:  aspiri *** Drug mention in text ----->  aspiri
+5: KEY:  aspiri *** Source language -----> RXNORM
+6 KEY:  aspiri *** CUI CODE in original terminology -----> 1191
+7: KEY:  aspiri *** Final position in text according to JSON Object -----> 10596
+8: KEY:  aspiri *** Initial position according to JSON Object -----> 10590
+9: KEY:  aspiri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY:  aspiri *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: Ketoconazole *** RXCUI -----> 6135
+2: KEY: Ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: Ketoconazole *** Concept Type -----> IN
+4: KEY: Ketoconazole *** Drug mention in text -----> Ketoconazole
+5: KEY: Ketoconazole *** Source language -----> MSH
+6 KEY: Ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: Ketoconazole *** Final position in text according to JSON Object -----> 3841
+8: KEY: Ketoconazole *** Initial position according to JSON Object -----> 3830
+9: KEY: Ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: Ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1338
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1329
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1338
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1329
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 1338
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 1329
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY:  alprazola *** RXCUI -----> 596
+2: KEY:  alprazola *** Concept from RXNORM -----> Alprazolam
+3: KEY:  alprazola *** Concept Type -----> IN
+4: KEY:  alprazola *** Drug mention in text ----->  alprazola
+5: KEY:  alprazola *** Source language -----> MSH
+6 KEY:  alprazola *** CUI CODE in original terminology -----> D000525
+7: KEY:  alprazola *** Final position in text according to JSON Object -----> 7463
+8: KEY:  alprazola *** Initial position according to JSON Object -----> 7454
+9: KEY:  alprazola *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY:  alprazola *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY:  Venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  Venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  Venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  Venlafaxine hydrochlorid *** Drug mention in text ----->  Venlafaxine hydrochlorid
+5: KEY:  Venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  Venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  Venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 6667
+8: KEY:  Venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 6643
+9: KEY:  Venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  Venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  tolbutamid *** RXCUI -----> 10635
+2: KEY:  tolbutamid *** Concept from RXNORM -----> Tolbutamide
+3: KEY:  tolbutamid *** Concept Type -----> IN
+4: KEY:  tolbutamid *** Drug mention in text ----->  tolbutamid
+5: KEY:  tolbutamid *** Source language -----> RXNORM
+6 KEY:  tolbutamid *** CUI CODE in original terminology -----> 10635
+7: KEY:  tolbutamid *** Final position in text according to JSON Object -----> 8242
+8: KEY:  tolbutamid *** Initial position according to JSON Object -----> 8232
+9: KEY:  tolbutamid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY:  tolbutamid *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: -tolbutamid *** RXCUI -----> 10635
+2: KEY: -tolbutamid *** Concept from RXNORM -----> Tolbutamide
+3: KEY: -tolbutamid *** Concept Type -----> IN
+4: KEY: -tolbutamid *** Drug mention in text -----> -tolbutamid
+5: KEY: -tolbutamid *** Source language -----> RXNORM
+6 KEY: -tolbutamid *** CUI CODE in original terminology -----> 10635
+7: KEY: -tolbutamid *** Final position in text according to JSON Object -----> 8300
+8: KEY: -tolbutamid *** Initial position according to JSON Object -----> 8290
+9: KEY: -tolbutamid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: -tolbutamid *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY:  metoprolo *** RXCUI -----> 6918
+2: KEY:  metoprolo *** Concept from RXNORM -----> Metoprolol
+3: KEY:  metoprolo *** Concept Type -----> IN
+4: KEY:  metoprolo *** Drug mention in text ----->  metoprolo
+5: KEY:  metoprolo *** Source language -----> MSH
+6 KEY:  metoprolo *** CUI CODE in original terminology -----> D008790
+7: KEY:  metoprolo *** Final position in text according to JSON Object -----> 6490
+8: KEY:  metoprolo *** Initial position according to JSON Object -----> 6481
+9: KEY:  metoprolo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY:  metoprolo *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY:  metoprolo *** RXCUI -----> 6918
+2: KEY:  metoprolo *** Concept from RXNORM -----> Metoprolol
+3: KEY:  metoprolo *** Concept Type -----> IN
+4: KEY:  metoprolo *** Drug mention in text ----->  metoprolo
+5: KEY:  metoprolo *** Source language -----> MSH
+6 KEY:  metoprolo *** CUI CODE in original terminology -----> D008790
+7: KEY:  metoprolo *** Final position in text according to JSON Object -----> 6490
+8: KEY:  metoprolo *** Initial position according to JSON Object -----> 6481
+9: KEY:  metoprolo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY:  metoprolo *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 1861
+8: KEY: diazepam *** Initial position according to JSON Object -----> 1854
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 1861
+8: KEY: diazepam *** Initial position according to JSON Object -----> 1854
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 1861
+8: KEY: diazepam *** Initial position according to JSON Object -----> 1854
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY:  Diazepa *** RXCUI -----> 3322
+2: KEY:  Diazepa *** Concept from RXNORM -----> Diazepam
+3: KEY:  Diazepa *** Concept Type -----> IN
+4: KEY:  Diazepa *** Drug mention in text ----->  Diazepa
+5: KEY:  Diazepa *** Source language -----> MSH
+6 KEY:  Diazepa *** CUI CODE in original terminology -----> D003975
+7: KEY:  Diazepa *** Final position in text according to JSON Object -----> 8423
+8: KEY:  Diazepa *** Initial position according to JSON Object -----> 8416
+9: KEY:  Diazepa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY:  Diazepa *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY:  Warfari *** RXCUI -----> 11289
+2: KEY:  Warfari *** Concept from RXNORM -----> Warfarin
+3: KEY:  Warfari *** Concept Type -----> IN
+4: KEY:  Warfari *** Drug mention in text ----->  Warfari
+5: KEY:  Warfari *** Source language -----> MSH
+6 KEY:  Warfari *** CUI CODE in original terminology -----> D014859
+7: KEY:  Warfari *** Final position in text according to JSON Object -----> 10223
+8: KEY:  Warfari *** Initial position according to JSON Object -----> 10216
+9: KEY:  Warfari *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY:  Warfari *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 7067
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 7057
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY:  risperidon *** RXCUI -----> 35636
+2: KEY:  risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY:  risperidon *** Concept Type -----> TMSY
+4: KEY:  risperidon *** Drug mention in text ----->  risperidon
+5: KEY:  risperidon *** Source language -----> RXNORM
+6 KEY:  risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY:  risperidon *** Final position in text according to JSON Object -----> 7067
+8: KEY:  risperidon *** Initial position according to JSON Object -----> 7057
+9: KEY:  risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY:  risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: imipramine *** RXCUI -----> 5691
+2: KEY: imipramine *** Concept from RXNORM -----> Imipramine
+3: KEY: imipramine *** Concept Type -----> IN
+4: KEY: imipramine *** Drug mention in text -----> imipramine
+5: KEY: imipramine *** Source language -----> RXNORM
+6 KEY: imipramine *** CUI CODE in original terminology -----> 5691
+7: KEY: imipramine *** Final position in text according to JSON Object -----> 5337
+8: KEY: imipramine *** Initial position according to JSON Object -----> 5328
+9: KEY: imipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5691
+10: KEY: imipramine *** Preferred name according to JSON Object -----> Imipramine
+---------------------------------------------------------
+1: KEY: imipramine *** RXCUI -----> 5691
+2: KEY: imipramine *** Concept from RXNORM -----> Imipramine
+3: KEY: imipramine *** Concept Type -----> IN
+4: KEY: imipramine *** Drug mention in text -----> imipramine
+5: KEY: imipramine *** Source language -----> RXNORM
+6 KEY: imipramine *** CUI CODE in original terminology -----> 5691
+7: KEY: imipramine *** Final position in text according to JSON Object -----> 5337
+8: KEY: imipramine *** Initial position according to JSON Object -----> 5328
+9: KEY: imipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5691
+10: KEY: imipramine *** Preferred name according to JSON Object -----> Imipramine
+---------------------------------------------------------
+1: KEY:  Aspiri *** RXCUI -----> 1191
+2: KEY:  Aspiri *** Concept from RXNORM -----> Aspirin
+3: KEY:  Aspiri *** Concept Type -----> IN
+4: KEY:  Aspiri *** Drug mention in text ----->  Aspiri
+5: KEY:  Aspiri *** Source language -----> RXNORM
+6 KEY:  Aspiri *** CUI CODE in original terminology -----> 1191
+7: KEY:  Aspiri *** Final position in text according to JSON Object -----> 10209
+8: KEY:  Aspiri *** Initial position according to JSON Object -----> 10203
+9: KEY:  Aspiri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY:  Aspiri *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 4177
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 4166
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 4177
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 4166
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: Venlafaxine *** RXCUI -----> 39786
+2: KEY: Venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: Venlafaxine *** Concept Type -----> IN
+4: KEY: Venlafaxine *** Drug mention in text -----> Venlafaxine
+5: KEY: Venlafaxine *** Source language -----> RXNORM
+6 KEY: Venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: Venlafaxine *** Final position in text according to JSON Object -----> 5267
+8: KEY: Venlafaxine *** Initial position according to JSON Object -----> 5257
+9: KEY: Venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: Venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxin *** RXCUI -----> 39786
+2: KEY:  venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxin *** Concept Type -----> IN
+4: KEY:  venlafaxin *** Drug mention in text ----->  venlafaxin
+5: KEY:  venlafaxin *** Source language -----> RXNORM
+6 KEY:  venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  venlafaxin *** Final position in text according to JSON Object -----> 11377
+8: KEY:  venlafaxin *** Initial position according to JSON Object -----> 11367
+9: KEY:  venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine hydrochloride *** RXCUI -----> 39786
+2: KEY: venlafaxine hydrochloride *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine hydrochloride *** Concept Type -----> IN
+4: KEY: venlafaxine hydrochloride *** Drug mention in text -----> venlafaxine hydrochloride
+5: KEY: venlafaxine hydrochloride *** Source language -----> MSH
+6 KEY: venlafaxine hydrochloride *** CUI CODE in original terminology -----> C047426
+7: KEY: venlafaxine hydrochloride *** Final position in text according to JSON Object -----> 2782
+8: KEY: venlafaxine hydrochloride *** Initial position according to JSON Object -----> 2758
+9: KEY: venlafaxine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY: venlafaxine hydrochloride *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  Metoprolo *** RXCUI -----> 6918
+2: KEY:  Metoprolo *** Concept from RXNORM -----> Metoprolol
+3: KEY:  Metoprolo *** Concept Type -----> IN
+4: KEY:  Metoprolo *** Drug mention in text ----->  Metoprolo
+5: KEY:  Metoprolo *** Source language -----> MSH
+6 KEY:  Metoprolo *** CUI CODE in original terminology -----> D008790
+7: KEY:  Metoprolo *** Final position in text according to JSON Object -----> 6128
+8: KEY:  Metoprolo *** Initial position according to JSON Object -----> 6119
+9: KEY:  Metoprolo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY:  Metoprolo *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: (risperidon *** RXCUI -----> 35636
+2: KEY: (risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY: (risperidon *** Concept Type -----> TMSY
+4: KEY: (risperidon *** Drug mention in text -----> (risperidon
+5: KEY: (risperidon *** Source language -----> RXNORM
+6 KEY: (risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY: (risperidon *** Final position in text according to JSON Object -----> 7206
+8: KEY: (risperidon *** Initial position according to JSON Object -----> 7196
+9: KEY: (risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: (risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: 
+Risperidon *** RXCUI -----> 35636
+2: KEY: 
+Risperidon *** Concept from RXNORM -----> risperiDONE
+3: KEY: 
+Risperidon *** Concept Type -----> TMSY
+4: KEY: 
+Risperidon *** Drug mention in text -----> 
+Risperidon
+5: KEY: 
+Risperidon *** Source language -----> RXNORM
+6 KEY: 
+Risperidon *** CUI CODE in original terminology -----> 35636
+7: KEY: 
+Risperidon *** Final position in text according to JSON Object -----> 6785
+8: KEY: 
+Risperidon *** Initial position according to JSON Object -----> 6775
+9: KEY: 
+Risperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: 
+Risperidon *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: fluoxetine *** RXCUI -----> 4493
+2: KEY: fluoxetine *** Concept from RXNORM -----> Fluoxetine
+3: KEY: fluoxetine *** Concept Type -----> IN
+4: KEY: fluoxetine *** Drug mention in text -----> fluoxetine
+5: KEY: fluoxetine *** Source language -----> MSH
+6 KEY: fluoxetine *** CUI CODE in original terminology -----> D005473
+7: KEY: fluoxetine *** Final position in text according to JSON Object -----> 5171
+8: KEY: fluoxetine *** Initial position according to JSON Object -----> 5162
+9: KEY: fluoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: fluoxetine *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: Haloperidol *** RXCUI -----> 5093
+2: KEY: Haloperidol *** Concept from RXNORM -----> Haloperidol
+3: KEY: Haloperidol *** Concept Type -----> IN
+4: KEY: Haloperidol *** Drug mention in text -----> Haloperidol
+5: KEY: Haloperidol *** Source language -----> MSH
+6 KEY: Haloperidol *** CUI CODE in original terminology -----> D006220
+7: KEY: Haloperidol *** Final position in text according to JSON Object -----> 1879
+8: KEY: Haloperidol *** Initial position according to JSON Object -----> 1869
+9: KEY: Haloperidol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006220
+10: KEY: Haloperidol *** Preferred name according to JSON Object -----> Haloperidol
+---------------------------------------------------------
+1: KEY:  indinavi *** RXCUI -----> 114289
+2: KEY:  indinavi *** Concept from RXNORM -----> Indinavir
+3: KEY:  indinavi *** Concept Type -----> IN
+4: KEY:  indinavi *** Drug mention in text ----->  indinavi
+5: KEY:  indinavi *** Source language -----> RXNORM
+6 KEY:  indinavi *** CUI CODE in original terminology -----> 114289
+7: KEY:  indinavi *** Final position in text according to JSON Object -----> 7721
+8: KEY:  indinavi *** Initial position according to JSON Object -----> 7713
+9: KEY:  indinavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/114289
+10: KEY:  indinavi *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY:  indinavi *** RXCUI -----> 114289
+2: KEY:  indinavi *** Concept from RXNORM -----> Indinavir
+3: KEY:  indinavi *** Concept Type -----> IN
+4: KEY:  indinavi *** Drug mention in text ----->  indinavi
+5: KEY:  indinavi *** Source language -----> RXNORM
+6 KEY:  indinavi *** CUI CODE in original terminology -----> 114289
+7: KEY:  indinavi *** Final position in text according to JSON Object -----> 7721
+8: KEY:  indinavi *** Initial position according to JSON Object -----> 7713
+9: KEY:  indinavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/114289
+10: KEY:  indinavi *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY: desmethyldiazepam *** RXCUI -----> 3155
+2: KEY: desmethyldiazepam *** Concept from RXNORM -----> Nordazepam
+3: KEY: desmethyldiazepam *** Concept Type -----> IN
+4: KEY: desmethyldiazepam *** Drug mention in text -----> desmethyldiazepam
+5: KEY: desmethyldiazepam *** Source language -----> MSH
+6 KEY: desmethyldiazepam *** CUI CODE in original terminology -----> D003708
+7: KEY: desmethyldiazepam *** Final position in text according to JSON Object -----> 1789
+8: KEY: desmethyldiazepam *** Initial position according to JSON Object -----> 1773
+9: KEY: desmethyldiazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003708
+10: KEY: desmethyldiazepam *** Preferred name according to JSON Object -----> Nordazepam
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 5697
+8: KEY: desipramine *** Initial position according to JSON Object -----> 5687
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 5697
+8: KEY: desipramine *** Initial position according to JSON Object -----> 5687
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 5697
+8: KEY: desipramine *** Initial position according to JSON Object -----> 5687
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: ethanol *** RXCUI -----> 448
+2: KEY: ethanol *** Concept from RXNORM -----> Ethanol
+3: KEY: ethanol *** Concept Type -----> IN
+4: KEY: ethanol *** Drug mention in text -----> ethanol
+5: KEY: ethanol *** Source language -----> MSH
+6 KEY: ethanol *** CUI CODE in original terminology -----> D000431
+7: KEY: ethanol *** Final position in text according to JSON Object -----> 374
+8: KEY: ethanol *** Initial position according to JSON Object -----> 368
+9: KEY: ethanol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: ethanol *** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: ethanol *** RXCUI -----> 448
+2: KEY: ethanol *** Concept from RXNORM -----> Ethanol
+3: KEY: ethanol *** Concept Type -----> IN
+4: KEY: ethanol *** Drug mention in text -----> ethanol
+5: KEY: ethanol *** Source language -----> MSH
+6 KEY: ethanol *** CUI CODE in original terminology -----> D000431
+7: KEY: ethanol *** Final position in text according to JSON Object -----> 374
+8: KEY: ethanol *** Initial position according to JSON Object -----> 368
+9: KEY: ethanol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: ethanol *** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 6000
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 5991
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 6000
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 5991
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: venlafaxine *** RXCUI -----> 39786
+2: KEY: venlafaxine *** Concept from RXNORM -----> venlafaxine
+3: KEY: venlafaxine *** Concept Type -----> IN
+4: KEY: venlafaxine *** Drug mention in text -----> venlafaxine
+5: KEY: venlafaxine *** Source language -----> RXNORM
+6 KEY: venlafaxine *** CUI CODE in original terminology -----> 39786
+7: KEY: venlafaxine *** Final position in text according to JSON Object -----> 513
+8: KEY: venlafaxine *** Initial position according to JSON Object -----> 503
+9: KEY: venlafaxine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY: venlafaxine *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  Venlafaxin *** RXCUI -----> 39786
+2: KEY:  Venlafaxin *** Concept from RXNORM -----> venlafaxine
+3: KEY:  Venlafaxin *** Concept Type -----> IN
+4: KEY:  Venlafaxin *** Drug mention in text ----->  Venlafaxin
+5: KEY:  Venlafaxin *** Source language -----> RXNORM
+6 KEY:  Venlafaxin *** CUI CODE in original terminology -----> 39786
+7: KEY:  Venlafaxin *** Final position in text according to JSON Object -----> 6799
+8: KEY:  Venlafaxin *** Initial position according to JSON Object -----> 6789
+9: KEY:  Venlafaxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39786
+10: KEY:  Venlafaxin *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  clozapin *** RXCUI -----> 2626
+2: KEY:  clozapin *** Concept from RXNORM -----> cloZAPine
+3: KEY:  clozapin *** Concept Type -----> TMSY
+4: KEY:  clozapin *** Drug mention in text ----->  clozapin
+5: KEY:  clozapin *** Source language -----> MSH
+6 KEY:  clozapin *** CUI CODE in original terminology -----> D003024
+7: KEY:  clozapin *** Final position in text according to JSON Object -----> 11256
+8: KEY:  clozapin *** Initial position according to JSON Object -----> 11248
+9: KEY:  clozapin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003024
+10: KEY:  clozapin *** Preferred name according to JSON Object -----> Clozapine
+---------------------------------------------------------
+1: KEY: Metoprolol *** RXCUI -----> 6918
+2: KEY: Metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: Metoprolol *** Concept Type -----> IN
+4: KEY: Metoprolol *** Drug mention in text -----> Metoprolol
+5: KEY: Metoprolol *** Source language -----> MSH
+6 KEY: Metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: Metoprolol *** Final position in text according to JSON Object -----> 5728
+8: KEY: Metoprolol *** Initial position according to JSON Object -----> 5719
+9: KEY: Metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: Metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: 
+Serotoni *** RXCUI -----> 1311214
+2: KEY: 
+Serotoni *** Concept from RXNORM -----> Serotonin
+3: KEY: 
+Serotoni *** Concept Type -----> IN
+4: KEY: 
+Serotoni *** Drug mention in text -----> 
+Serotoni
+5: KEY: 
+Serotoni *** Source language -----> MSH
+6 KEY: 
+Serotoni *** CUI CODE in original terminology -----> D012701
+7: KEY: 
+Serotoni *** Final position in text according to JSON Object -----> 10235
+8: KEY: 
+Serotoni *** Initial position according to JSON Object -----> 10227
+9: KEY: 
+Serotoni *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY: 
+Serotoni *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+1: KEY:  tramado *** RXCUI -----> 10689
+2: KEY:  tramado *** Concept from RXNORM -----> Tramadol
+3: KEY:  tramado *** Concept Type -----> IN
+4: KEY:  tramado *** Drug mention in text ----->  tramado
+5: KEY:  tramado *** Source language -----> MSH
+6 KEY:  tramado *** CUI CODE in original terminology -----> D014147
+7: KEY:  tramado *** Final position in text according to JSON Object -----> 9284
+8: KEY:  tramado *** Initial position according to JSON Object -----> 9277
+9: KEY:  tramado *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014147
+10: KEY:  tramado *** Preferred name according to JSON Object -----> Tramadol
+---------------------------------------------------------
+1: KEY:  caffein *** RXCUI -----> 1886
+2: KEY:  caffein *** Concept from RXNORM -----> Caffeine
+3: KEY:  caffein *** Concept Type -----> IN
+4: KEY:  caffein *** Drug mention in text ----->  caffein
+5: KEY:  caffein *** Source language -----> RXNORM
+6 KEY:  caffein *** CUI CODE in original terminology -----> 1886
+7: KEY:  caffein *** Final position in text according to JSON Object -----> 8041
+8: KEY:  caffein *** Initial position according to JSON Object -----> 8034
+9: KEY:  caffein *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1886
+10: KEY:  caffein *** Preferred name according to JSON Object -----> Caffeine
+---------------------------------------------------------
+1: KEY:  9-hydroxyrisperidon *** RXCUI -----> 679314
+2: KEY:  9-hydroxyrisperidon *** Concept from RXNORM -----> paliperidone
+3: KEY:  9-hydroxyrisperidon *** Concept Type -----> IN
+4: KEY:  9-hydroxyrisperidon *** Drug mention in text ----->  9-hydroxyrisperidon
+5: KEY:  9-hydroxyrisperidon *** Source language -----> MSH
+6 KEY:  9-hydroxyrisperidon *** CUI CODE in original terminology -----> C079150
+7: KEY:  9-hydroxyrisperidon *** Final position in text according to JSON Object -----> 7232
+8: KEY:  9-hydroxyrisperidon *** Initial position according to JSON Object -----> 7213
+9: KEY:  9-hydroxyrisperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY:  9-hydroxyrisperidon *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY:  9-hydroxyrisperidon *** RXCUI -----> 679314
+2: KEY:  9-hydroxyrisperidon *** Concept from RXNORM -----> paliperidone
+3: KEY:  9-hydroxyrisperidon *** Concept Type -----> IN
+4: KEY:  9-hydroxyrisperidon *** Drug mention in text ----->  9-hydroxyrisperidon
+5: KEY:  9-hydroxyrisperidon *** Source language -----> MSH
+6 KEY:  9-hydroxyrisperidon *** CUI CODE in original terminology -----> C079150
+7: KEY:  9-hydroxyrisperidon *** Final position in text according to JSON Object -----> 7232
+8: KEY:  9-hydroxyrisperidon *** Initial position according to JSON Object -----> 7213
+9: KEY:  9-hydroxyrisperidon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY:  9-hydroxyrisperidon *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: dextromethorphan *** RXCUI -----> 0
+2: KEY: dextromethorphan *** Concept from RXNORM -----> ()
+3: KEY: dextromethorphan *** Concept Type -----> ()
+4: KEY: dextromethorphan *** Drug mention in text -----> dextromethorphan
+5: KEY: dextromethorphan *** Source language -----> MSH
+6 KEY: dextromethorphan *** CUI CODE in original terminology -----> D003915
+7: KEY: dextromethorphan *** Final position in text according to JSON Object -----> 5225
+8: KEY: dextromethorphan *** Initial position according to JSON Object -----> 5210
+9: KEY: dextromethorphan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003915
+10: KEY: dextromethorphan *** Preferred name according to JSON Object -----> Dextromethorphan
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 455
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 446
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY:  venlafaxine hydrochlorid *** RXCUI -----> 39786
+2: KEY:  venlafaxine hydrochlorid *** Concept from RXNORM -----> venlafaxine
+3: KEY:  venlafaxine hydrochlorid *** Concept Type -----> IN
+4: KEY:  venlafaxine hydrochlorid *** Drug mention in text ----->  venlafaxine hydrochlorid
+5: KEY:  venlafaxine hydrochlorid *** Source language -----> MSH
+6 KEY:  venlafaxine hydrochlorid *** CUI CODE in original terminology -----> C047426
+7: KEY:  venlafaxine hydrochlorid *** Final position in text according to JSON Object -----> 11116
+8: KEY:  venlafaxine hydrochlorid *** Initial position according to JSON Object -----> 11092
+9: KEY:  venlafaxine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047426
+10: KEY:  venlafaxine hydrochlorid *** Preferred name according to JSON Object -----> venlafaxine
+---------------------------------------------------------
+1: KEY: 
+Indinavi *** RXCUI -----> 114289
+2: KEY: 
+Indinavi *** Concept from RXNORM -----> Indinavir
+3: KEY: 
+Indinavi *** Concept Type -----> IN
+4: KEY: 
+Indinavi *** Drug mention in text -----> 
+Indinavi
+5: KEY: 
+Indinavi *** Source language -----> RXNORM
+6 KEY: 
+Indinavi *** CUI CODE in original terminology -----> 114289
+7: KEY: 
+Indinavi *** Final position in text according to JSON Object -----> 7502
+8: KEY: 
+Indinavi *** Initial position according to JSON Object -----> 7494
+9: KEY: 
+Indinavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/114289
+10: KEY: 
+Indinavi *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY:  tryptopha *** RXCUI -----> 10898
+2: KEY:  tryptopha *** Concept from RXNORM -----> Tryptophan
+3: KEY:  tryptopha *** Concept Type -----> IN
+4: KEY:  tryptopha *** Drug mention in text ----->  tryptopha
+5: KEY:  tryptopha *** Source language -----> MSH
+6 KEY:  tryptopha *** CUI CODE in original terminology -----> D014364
+7: KEY:  tryptopha *** Final position in text according to JSON Object -----> 9698
+8: KEY:  tryptopha *** Initial position according to JSON Object -----> 9689
+9: KEY:  tryptopha *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014364
+10: KEY:  tryptopha *** Preferred name according to JSON Object -----> Tryptophan
+---------------------------------------------------------
+removed duplications 922
+Number of missed JSON elements: 1

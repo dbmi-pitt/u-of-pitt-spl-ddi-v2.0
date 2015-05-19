@@ -1,0 +1,24 @@
+1: KEY: Trazodone hydrochloride *** RXCUI -----> 82112
+2: KEY: Trazodone hydrochloride *** Concept from RXNORM -----> traZODone Hydrochloride
+3: KEY: Trazodone hydrochloride *** Concept Type -----> TMSY
+4: KEY: Trazodone hydrochloride *** Drug mention in text -----> Trazodone hydrochloride
+5: KEY: Trazodone hydrochloride *** Source language -----> RXNORM
+6 KEY: Trazodone hydrochloride *** CUI CODE in original terminology -----> 82112
+7: KEY: Trazodone hydrochloride *** Final position in text according to JSON Object -----> 286
+8: KEY: Trazodone hydrochloride *** Initial position according to JSON Object -----> 264
+9: KEY: Trazodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/82112
+10: KEY: Trazodone hydrochloride *** Preferred name according to JSON Object -----> Trazodone Hydrochloride
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 527
+8: KEY: trazodone *** Initial position according to JSON Object -----> 519
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

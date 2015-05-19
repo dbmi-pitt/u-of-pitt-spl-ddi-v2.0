@@ -1,0 +1,57 @@
+1: KEY: lovastatin *** RXCUI -----> 6472
+2: KEY: lovastatin *** Concept from RXNORM -----> Lovastatin
+3: KEY: lovastatin *** Concept Type -----> IN
+4: KEY: lovastatin *** Drug mention in text -----> lovastatin
+5: KEY: lovastatin *** Source language -----> MSH
+6 KEY: lovastatin *** CUI CODE in original terminology -----> D008148
+7: KEY: lovastatin *** Final position in text according to JSON Object -----> 48
+8: KEY: lovastatin *** Initial position according to JSON Object -----> 39
+9: KEY: lovastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008148
+10: KEY: lovastatin *** Preferred name according to JSON Object -----> Lovastatin
+---------------------------------------------------------
+1: KEY: fluvastatin *** RXCUI -----> 41127
+2: KEY: fluvastatin *** Concept from RXNORM -----> fluvastatin
+3: KEY: fluvastatin *** Concept Type -----> IN
+4: KEY: fluvastatin *** Drug mention in text -----> fluvastatin
+5: KEY: fluvastatin *** Source language -----> RXNORM
+6 KEY: fluvastatin *** CUI CODE in original terminology -----> 41127
+7: KEY: fluvastatin *** Final position in text according to JSON Object -----> 218
+8: KEY: fluvastatin *** Initial position according to JSON Object -----> 208
+9: KEY: fluvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: fluvastatin *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+1: KEY: pravastatin *** RXCUI -----> 42463
+2: KEY: pravastatin *** Concept from RXNORM -----> Pravastatin
+3: KEY: pravastatin *** Concept Type -----> IN
+4: KEY: pravastatin *** Drug mention in text -----> pravastatin
+5: KEY: pravastatin *** Source language -----> MSH
+6 KEY: pravastatin *** CUI CODE in original terminology -----> D017035
+7: KEY: pravastatin *** Final position in text according to JSON Object -----> 63
+8: KEY: pravastatin *** Initial position according to JSON Object -----> 53
+9: KEY: pravastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017035
+10: KEY: pravastatin *** Preferred name according to JSON Object -----> Pravastatin
+---------------------------------------------------------
+1: KEY: Propranolol *** RXCUI -----> 8787
+2: KEY: Propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: Propranolol *** Concept Type -----> IN
+4: KEY: Propranolol *** Drug mention in text -----> Propranolol
+5: KEY: Propranolol *** Source language -----> MSH
+6 KEY: Propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: Propranolol *** Final position in text according to JSON Object -----> 156
+8: KEY: Propranolol *** Initial position according to JSON Object -----> 146
+9: KEY: Propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: Propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 32
+8: KEY: propranolol *** Initial position according to JSON Object -----> 22
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

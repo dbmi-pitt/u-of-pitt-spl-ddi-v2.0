@@ -1,0 +1,79 @@
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 726
+8: KEY: methadone *** Initial position according to JSON Object -----> 718
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 726
+8: KEY: methadone *** Initial position according to JSON Object -----> 718
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 726
+8: KEY: methadone *** Initial position according to JSON Object -----> 718
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 726
+8: KEY: methadone *** Initial position according to JSON Object -----> 718
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 726
+8: KEY: methadone *** Initial position according to JSON Object -----> 718
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: Methadone *** RXCUI -----> 6813
+2: KEY: Methadone *** Concept from RXNORM -----> Methadone
+3: KEY: Methadone *** Concept Type -----> IN
+4: KEY: Methadone *** Drug mention in text -----> Methadone
+5: KEY: Methadone *** Source language -----> MSH
+6 KEY: Methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: Methadone *** Final position in text according to JSON Object -----> 592
+8: KEY: Methadone *** Initial position according to JSON Object -----> 584
+9: KEY: Methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: Methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: Methadone *** RXCUI -----> 6813
+2: KEY: Methadone *** Concept from RXNORM -----> Methadone
+3: KEY: Methadone *** Concept Type -----> IN
+4: KEY: Methadone *** Drug mention in text -----> Methadone
+5: KEY: Methadone *** Source language -----> MSH
+6 KEY: Methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: Methadone *** Final position in text according to JSON Object -----> 592
+8: KEY: Methadone *** Initial position according to JSON Object -----> 584
+9: KEY: Methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: Methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+removed duplications 46
+Number of missed JSON elements: 0

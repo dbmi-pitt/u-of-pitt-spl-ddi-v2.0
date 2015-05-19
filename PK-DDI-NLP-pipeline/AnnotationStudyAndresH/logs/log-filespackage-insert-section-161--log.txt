@@ -1,0 +1,68 @@
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> RXNORM
+6 KEY: azithromycin *** CUI CODE in original terminology -----> 18631
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 186
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 175
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/18631
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> RXNORM
+6 KEY: azithromycin *** CUI CODE in original terminology -----> 18631
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 186
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 175
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/18631
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> RXNORM
+6 KEY: azithromycin *** CUI CODE in original terminology -----> 18631
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 186
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 175
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/18631
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> RXNORM
+6 KEY: azithromycin *** CUI CODE in original terminology -----> 18631
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 186
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 175
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/18631
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: nelfinavir *** RXCUI -----> 134527
+2: KEY: nelfinavir *** Concept from RXNORM -----> Nelfinavir
+3: KEY: nelfinavir *** Concept Type -----> IN
+4: KEY: nelfinavir *** Drug mention in text -----> nelfinavir
+5: KEY: nelfinavir *** Source language -----> RXNORM
+6 KEY: nelfinavir *** CUI CODE in original terminology -----> 134527
+7: KEY: nelfinavir *** Final position in text according to JSON Object -----> 254
+8: KEY: nelfinavir *** Initial position according to JSON Object -----> 245
+9: KEY: nelfinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/134527
+10: KEY: nelfinavir *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+1: KEY: nelfinavir *** RXCUI -----> 134527
+2: KEY: nelfinavir *** Concept from RXNORM -----> Nelfinavir
+3: KEY: nelfinavir *** Concept Type -----> IN
+4: KEY: nelfinavir *** Drug mention in text -----> nelfinavir
+5: KEY: nelfinavir *** Source language -----> RXNORM
+6 KEY: nelfinavir *** CUI CODE in original terminology -----> 134527
+7: KEY: nelfinavir *** Final position in text according to JSON Object -----> 254
+8: KEY: nelfinavir *** Initial position according to JSON Object -----> 245
+9: KEY: nelfinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/134527
+10: KEY: nelfinavir *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

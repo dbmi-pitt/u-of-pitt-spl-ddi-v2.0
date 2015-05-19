@@ -1,0 +1,90 @@
+1: KEY: Clarithromycin *** RXCUI -----> 21212
+2: KEY: Clarithromycin *** Concept from RXNORM -----> Clarithromycin
+3: KEY: Clarithromycin *** Concept Type -----> IN
+4: KEY: Clarithromycin *** Drug mention in text -----> Clarithromycin
+5: KEY: Clarithromycin *** Source language -----> RXNORM
+6 KEY: Clarithromycin *** CUI CODE in original terminology -----> 21212
+7: KEY: Clarithromycin *** Final position in text according to JSON Object -----> 428
+8: KEY: Clarithromycin *** Initial position according to JSON Object -----> 415
+9: KEY: Clarithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/21212
+10: KEY: Clarithromycin *** Preferred name according to JSON Object -----> Clarithromycin
+---------------------------------------------------------
+1: KEY: Telithromycin *** RXCUI -----> 274786
+2: KEY: Telithromycin *** Concept from RXNORM -----> telithromycin
+3: KEY: Telithromycin *** Concept Type -----> IN
+4: KEY: Telithromycin *** Drug mention in text -----> Telithromycin
+5: KEY: Telithromycin *** Source language -----> RXNORM
+6 KEY: Telithromycin *** CUI CODE in original terminology -----> 274786
+7: KEY: Telithromycin *** Final position in text according to JSON Object -----> 442
+8: KEY: Telithromycin *** Initial position according to JSON Object -----> 430
+9: KEY: Telithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/274786
+10: KEY: Telithromycin *** Preferred name according to JSON Object -----> telithromycin
+---------------------------------------------------------
+1: KEY: lovastatin *** RXCUI -----> 6472
+2: KEY: lovastatin *** Concept from RXNORM -----> Lovastatin
+3: KEY: lovastatin *** Concept Type -----> IN
+4: KEY: lovastatin *** Drug mention in text -----> lovastatin
+5: KEY: lovastatin *** Source language -----> MSH
+6 KEY: lovastatin *** CUI CODE in original terminology -----> D008148
+7: KEY: lovastatin *** Final position in text according to JSON Object -----> 285
+8: KEY: lovastatin *** Initial position according to JSON Object -----> 276
+9: KEY: lovastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008148
+10: KEY: lovastatin *** Preferred name according to JSON Object -----> Lovastatin
+---------------------------------------------------------
+1: KEY: Nefazodone *** RXCUI -----> 31565
+2: KEY: Nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: Nefazodone *** Concept Type -----> IN
+4: KEY: Nefazodone *** Drug mention in text -----> Nefazodone
+5: KEY: Nefazodone *** Source language -----> MSH
+6 KEY: Nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: Nefazodone *** Final position in text according to JSON Object -----> 477
+8: KEY: Nefazodone *** Initial position according to JSON Object -----> 468
+9: KEY: Nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: Nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: Lovastatin *** RXCUI -----> 6472
+2: KEY: Lovastatin *** Concept from RXNORM -----> Lovastatin
+3: KEY: Lovastatin *** Concept Type -----> IN
+4: KEY: Lovastatin *** Drug mention in text -----> Lovastatin
+5: KEY: Lovastatin *** Source language -----> RXNORM
+6 KEY: Lovastatin *** CUI CODE in original terminology -----> 6472
+7: KEY: Lovastatin *** Final position in text according to JSON Object -----> 10
+8: KEY: Lovastatin *** Initial position according to JSON Object -----> 1
+9: KEY: Lovastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6472
+10: KEY: Lovastatin *** Preferred name according to JSON Object -----> Lovastatin
+---------------------------------------------------------
+1: KEY: Erythromycin *** RXCUI -----> 4053
+2: KEY: Erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: Erythromycin *** Concept Type -----> IN
+4: KEY: Erythromycin *** Drug mention in text -----> Erythromycin
+5: KEY: Erythromycin *** Source language -----> RXNORM
+6 KEY: Erythromycin *** CUI CODE in original terminology -----> 4053
+7: KEY: Erythromycin *** Final position in text according to JSON Object -----> 413
+8: KEY: Erythromycin *** Initial position according to JSON Object -----> 402
+9: KEY: Erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4053
+10: KEY: Erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: Ketoconazole *** RXCUI -----> 6135
+2: KEY: Ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: Ketoconazole *** Concept Type -----> IN
+4: KEY: Ketoconazole *** Drug mention in text -----> Ketoconazole
+5: KEY: Ketoconazole *** Source language -----> MSH
+6 KEY: Ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: Ketoconazole *** Final position in text according to JSON Object -----> 400
+8: KEY: Ketoconazole *** Initial position according to JSON Object -----> 389
+9: KEY: Ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: Ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: Itraconazole *** RXCUI -----> 28031
+2: KEY: Itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: Itraconazole *** Concept Type -----> IN
+4: KEY: Itraconazole *** Drug mention in text -----> Itraconazole
+5: KEY: Itraconazole *** Source language -----> RXNORM
+6 KEY: Itraconazole *** CUI CODE in original terminology -----> 28031
+7: KEY: Itraconazole *** Final position in text according to JSON Object -----> 387
+8: KEY: Itraconazole *** Initial position according to JSON Object -----> 376
+9: KEY: Itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/28031
+10: KEY: Itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

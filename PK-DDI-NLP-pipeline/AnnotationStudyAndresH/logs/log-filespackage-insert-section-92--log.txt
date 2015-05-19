@@ -1,0 +1,57 @@
+1: KEY: sirolimus *** RXCUI -----> 35302
+2: KEY: sirolimus *** Concept from RXNORM -----> Sirolimus
+3: KEY: sirolimus *** Concept Type -----> IN
+4: KEY: sirolimus *** Drug mention in text -----> sirolimus
+5: KEY: sirolimus *** Source language -----> MSH
+6 KEY: sirolimus *** CUI CODE in original terminology -----> D020123
+7: KEY: sirolimus *** Final position in text according to JSON Object -----> 170
+8: KEY: sirolimus *** Initial position according to JSON Object -----> 162
+9: KEY: sirolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020123
+10: KEY: sirolimus *** Preferred name according to JSON Object -----> Sirolimus
+---------------------------------------------------------
+1: KEY: sirolimus *** RXCUI -----> 35302
+2: KEY: sirolimus *** Concept from RXNORM -----> Sirolimus
+3: KEY: sirolimus *** Concept Type -----> IN
+4: KEY: sirolimus *** Drug mention in text -----> sirolimus
+5: KEY: sirolimus *** Source language -----> MSH
+6 KEY: sirolimus *** CUI CODE in original terminology -----> D020123
+7: KEY: sirolimus *** Final position in text according to JSON Object -----> 170
+8: KEY: sirolimus *** Initial position according to JSON Object -----> 162
+9: KEY: sirolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020123
+10: KEY: sirolimus *** Preferred name according to JSON Object -----> Sirolimus
+---------------------------------------------------------
+1: KEY: Sirolimus *** RXCUI -----> 35302
+2: KEY: Sirolimus *** Concept from RXNORM -----> Sirolimus
+3: KEY: Sirolimus *** Concept Type -----> IN
+4: KEY: Sirolimus *** Drug mention in text -----> Sirolimus
+5: KEY: Sirolimus *** Source language -----> MSH
+6 KEY: Sirolimus *** CUI CODE in original terminology -----> D020123
+7: KEY: Sirolimus *** Final position in text according to JSON Object -----> 9
+8: KEY: Sirolimus *** Initial position according to JSON Object -----> 1
+9: KEY: Sirolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020123
+10: KEY: Sirolimus *** Preferred name according to JSON Object -----> Sirolimus
+---------------------------------------------------------
+1: KEY: voriconazole *** RXCUI -----> 121243
+2: KEY: voriconazole *** Concept from RXNORM -----> voriconazole
+3: KEY: voriconazole *** Concept Type -----> IN
+4: KEY: voriconazole *** Drug mention in text -----> voriconazole
+5: KEY: voriconazole *** Source language -----> RXNORM
+6 KEY: voriconazole *** CUI CODE in original terminology -----> 121243
+7: KEY: voriconazole *** Final position in text according to JSON Object -----> 335
+8: KEY: voriconazole *** Initial position according to JSON Object -----> 324
+9: KEY: voriconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/121243
+10: KEY: voriconazole *** Preferred name according to JSON Object -----> voriconazole
+---------------------------------------------------------
+1: KEY: voriconazole *** RXCUI -----> 121243
+2: KEY: voriconazole *** Concept from RXNORM -----> voriconazole
+3: KEY: voriconazole *** Concept Type -----> IN
+4: KEY: voriconazole *** Drug mention in text -----> voriconazole
+5: KEY: voriconazole *** Source language -----> RXNORM
+6 KEY: voriconazole *** CUI CODE in original terminology -----> 121243
+7: KEY: voriconazole *** Final position in text according to JSON Object -----> 335
+8: KEY: voriconazole *** Initial position according to JSON Object -----> 324
+9: KEY: voriconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/121243
+10: KEY: voriconazole *** Preferred name according to JSON Object -----> voriconazole
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

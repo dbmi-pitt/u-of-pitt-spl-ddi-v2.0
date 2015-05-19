@@ -1,0 +1,35 @@
+1: KEY: meperidine *** RXCUI -----> 6754
+2: KEY: meperidine *** Concept from RXNORM -----> Meperidine
+3: KEY: meperidine *** Concept Type -----> IN
+4: KEY: meperidine *** Drug mention in text -----> meperidine
+5: KEY: meperidine *** Source language -----> MSH
+6 KEY: meperidine *** CUI CODE in original terminology -----> D008614
+7: KEY: meperidine *** Final position in text according to JSON Object -----> 46
+8: KEY: meperidine *** Initial position according to JSON Object -----> 37
+9: KEY: meperidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008614
+10: KEY: meperidine *** Preferred name according to JSON Object -----> Meperidine
+---------------------------------------------------------
+1: KEY: Acyclovir *** RXCUI -----> 281
+2: KEY: Acyclovir *** Concept from RXNORM -----> Acyclovir
+3: KEY: Acyclovir *** Concept Type -----> IN
+4: KEY: Acyclovir *** Drug mention in text -----> Acyclovir
+5: KEY: Acyclovir *** Source language -----> MSH
+6 KEY: Acyclovir *** CUI CODE in original terminology -----> D000212
+7: KEY: Acyclovir *** Final position in text according to JSON Object -----> 9
+8: KEY: Acyclovir *** Initial position according to JSON Object -----> 1
+9: KEY: Acyclovir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000212
+10: KEY: Acyclovir *** Preferred name according to JSON Object -----> Acyclovir
+---------------------------------------------------------
+1: KEY: acyclovir *** RXCUI -----> 281
+2: KEY: acyclovir *** Concept from RXNORM -----> Acyclovir
+3: KEY: acyclovir *** Concept Type -----> IN
+4: KEY: acyclovir *** Drug mention in text -----> acyclovir
+5: KEY: acyclovir *** Source language -----> MSH
+6 KEY: acyclovir *** CUI CODE in original terminology -----> D000212
+7: KEY: acyclovir *** Final position in text according to JSON Object -----> 111
+8: KEY: acyclovir *** Initial position according to JSON Object -----> 103
+9: KEY: acyclovir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000212
+10: KEY: acyclovir *** Preferred name according to JSON Object -----> Acyclovir
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 1

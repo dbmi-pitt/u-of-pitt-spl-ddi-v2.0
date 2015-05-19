@@ -1,0 +1,35 @@
+1: KEY: zonisamide *** RXCUI -----> 39998
+2: KEY: zonisamide *** Concept from RXNORM -----> zonisamide
+3: KEY: zonisamide *** Concept Type -----> IN
+4: KEY: zonisamide *** Drug mention in text -----> zonisamide
+5: KEY: zonisamide *** Source language -----> RXNORM
+6 KEY: zonisamide *** CUI CODE in original terminology -----> 39998
+7: KEY: zonisamide *** Final position in text according to JSON Object -----> 507
+8: KEY: zonisamide *** Initial position according to JSON Object -----> 498
+9: KEY: zonisamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39998
+10: KEY: zonisamide *** Preferred name according to JSON Object -----> zonisamide
+---------------------------------------------------------
+1: KEY: zonisamide *** RXCUI -----> 39998
+2: KEY: zonisamide *** Concept from RXNORM -----> zonisamide
+3: KEY: zonisamide *** Concept Type -----> IN
+4: KEY: zonisamide *** Drug mention in text -----> zonisamide
+5: KEY: zonisamide *** Source language -----> RXNORM
+6 KEY: zonisamide *** CUI CODE in original terminology -----> 39998
+7: KEY: zonisamide *** Final position in text according to JSON Object -----> 507
+8: KEY: zonisamide *** Initial position according to JSON Object -----> 498
+9: KEY: zonisamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39998
+10: KEY: zonisamide *** Preferred name according to JSON Object -----> zonisamide
+---------------------------------------------------------
+1: KEY: Zonisamide *** RXCUI -----> 39998
+2: KEY: Zonisamide *** Concept from RXNORM -----> zonisamide
+3: KEY: Zonisamide *** Concept Type -----> IN
+4: KEY: Zonisamide *** Drug mention in text -----> Zonisamide
+5: KEY: Zonisamide *** Source language -----> RXNORM
+6 KEY: Zonisamide *** CUI CODE in original terminology -----> 39998
+7: KEY: Zonisamide *** Final position in text according to JSON Object -----> 10
+8: KEY: Zonisamide *** Initial position according to JSON Object -----> 1
+9: KEY: Zonisamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/39998
+10: KEY: Zonisamide *** Preferred name according to JSON Object -----> zonisamide
+---------------------------------------------------------
+removed duplications 16
+Number of missed JSON elements: 0

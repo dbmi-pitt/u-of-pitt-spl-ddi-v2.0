@@ -1,0 +1,2 @@
+citalopram	ketoconazole	1	1	true	positive	Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.  		2556	6135	2556	6135
+citalopram	ketoconazole	1	1	true	positive	Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.  		2556	6135	2556	6135

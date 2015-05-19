@@ -1,0 +1,189 @@
+1: KEY: Metoclopramide *** RXCUI -----> 6915
+2: KEY: Metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: Metoclopramide *** Concept Type -----> IN
+4: KEY: Metoclopramide *** Drug mention in text -----> Metoclopramide
+5: KEY: Metoclopramide *** Source language -----> RXNORM
+6 KEY: Metoclopramide *** CUI CODE in original terminology -----> 6915
+7: KEY: Metoclopramide *** Final position in text according to JSON Object -----> 530
+8: KEY: Metoclopramide *** Initial position according to JSON Object -----> 517
+9: KEY: Metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6915
+10: KEY: Metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: metoclopramide *** RXCUI -----> 6915
+2: KEY: metoclopramide *** Concept from RXNORM -----> Metoclopramide
+3: KEY: metoclopramide *** Concept Type -----> IN
+4: KEY: metoclopramide *** Drug mention in text -----> metoclopramide
+5: KEY: metoclopramide *** Source language -----> MSH
+6 KEY: metoclopramide *** CUI CODE in original terminology -----> D008787
+7: KEY: metoclopramide *** Final position in text according to JSON Object -----> 406
+8: KEY: metoclopramide *** Initial position according to JSON Object -----> 393
+9: KEY: metoclopramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008787
+10: KEY: metoclopramide *** Preferred name according to JSON Object -----> Metoclopramide
+---------------------------------------------------------
+1: KEY: cyclosporine *** RXCUI -----> 3008
+2: KEY: cyclosporine *** Concept from RXNORM -----> Cyclosporine
+3: KEY: cyclosporine *** Concept Type -----> IN
+4: KEY: cyclosporine *** Drug mention in text -----> cyclosporine
+5: KEY: cyclosporine *** Source language -----> RXNORM
+6 KEY: cyclosporine *** CUI CODE in original terminology -----> 3008
+7: KEY: cyclosporine *** Final position in text according to JSON Object -----> 993
+8: KEY: cyclosporine *** Initial position according to JSON Object -----> 982
+9: KEY: cyclosporine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3008
+10: KEY: cyclosporine *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: tetracycline *** RXCUI -----> 0
+2: KEY: tetracycline *** Concept from RXNORM -----> ()
+3: KEY: tetracycline *** Concept Type -----> ()
+4: KEY: tetracycline *** Drug mention in text -----> tetracycline
+5: KEY: tetracycline *** Source language -----> MSH
+6 KEY: tetracycline *** CUI CODE in original terminology -----> D013752
+7: KEY: tetracycline *** Final position in text according to JSON Object -----> 960
+8: KEY: tetracycline *** Initial position according to JSON Object -----> 949
+9: KEY: tetracycline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013752
+10: KEY: tetracycline *** Preferred name according to JSON Object -----> Tetracycline
+---------------------------------------------------------
+1: KEY: levodopa *** RXCUI -----> 6375
+2: KEY: levodopa *** Concept from RXNORM -----> Levodopa
+3: KEY: levodopa *** Concept Type -----> IN
+4: KEY: levodopa *** Drug mention in text -----> levodopa
+5: KEY: levodopa *** Source language -----> MSH
+6 KEY: levodopa *** CUI CODE in original terminology -----> D007980
+7: KEY: levodopa *** Final position in text according to JSON Object -----> 970
+8: KEY: levodopa *** Initial position according to JSON Object -----> 963
+9: KEY: levodopa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007980
+10: KEY: levodopa *** Preferred name according to JSON Object -----> Levodopa
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 831
+8: KEY: digoxin *** Initial position according to JSON Object -----> 825
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: Insulin *** RXCUI -----> 5856
+2: KEY: Insulin *** Concept from RXNORM -----> Insulin
+3: KEY: Insulin *** Concept Type -----> IN
+4: KEY: Insulin *** Drug mention in text -----> Insulin
+5: KEY: Insulin *** Source language -----> RXNORM
+6 KEY: Insulin *** CUI CODE in original terminology -----> 5856
+7: KEY: Insulin *** Final position in text according to JSON Object -----> 1008
+8: KEY: Insulin *** Initial position according to JSON Object -----> 1002
+9: KEY: Insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5856
+10: KEY: Insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: ethanol *** RXCUI -----> 448
+2: KEY: ethanol *** Concept from RXNORM -----> Ethanol
+3: KEY: ethanol *** Concept Type -----> IN
+4: KEY: ethanol *** Drug mention in text -----> ethanol
+5: KEY: ethanol *** Source language -----> MSH
+6 KEY: ethanol *** CUI CODE in original terminology -----> D000431
+7: KEY: ethanol *** Final position in text according to JSON Object -----> 979
+8: KEY: ethanol *** Initial position according to JSON Object -----> 973
+9: KEY: ethanol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: ethanol *** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: acetaminophen *** RXCUI -----> 161
+2: KEY: acetaminophen *** Concept from RXNORM -----> Acetaminophen
+3: KEY: acetaminophen *** Concept Type -----> IN
+4: KEY: acetaminophen *** Drug mention in text -----> acetaminophen
+5: KEY: acetaminophen *** Source language -----> RXNORM
+6 KEY: acetaminophen *** CUI CODE in original terminology -----> 161
+7: KEY: acetaminophen *** Final position in text according to JSON Object -----> 946
+8: KEY: acetaminophen *** Initial position according to JSON Object -----> 934
+9: KEY: acetaminophen *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/161
+10: KEY: acetaminophen *** Preferred name according to JSON Object -----> Acetaminophen
+---------------------------------------------------------
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> RXNORM
+6 KEY: insulin *** CUI CODE in original terminology -----> 5856
+7: KEY: insulin *** Final position in text according to JSON Object -----> 1143
+8: KEY: insulin *** Initial position according to JSON Object -----> 1137
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5856
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> RXNORM
+6 KEY: insulin *** CUI CODE in original terminology -----> 5856
+7: KEY: insulin *** Final position in text according to JSON Object -----> 1143
+8: KEY: insulin *** Initial position according to JSON Object -----> 1137
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5856
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+removed duplications 64
+Number of missed JSON elements: 0

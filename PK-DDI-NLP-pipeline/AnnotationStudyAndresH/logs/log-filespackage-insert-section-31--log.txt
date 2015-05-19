@@ -1,0 +1,46 @@
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> MSH
+6 KEY: fluconazole *** CUI CODE in original terminology -----> D015725
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 121
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 111
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015725
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: of fluconaz *** RXCUI -----> 4450
+2: KEY: of fluconaz *** Concept from RXNORM -----> Fluconazole
+3: KEY: of fluconaz *** Concept Type -----> IN
+4: KEY: of fluconaz *** Drug mention in text -----> of fluconaz
+5: KEY: of fluconaz *** Source language -----> RXNORM
+6 KEY: of fluconaz *** CUI CODE in original terminology -----> 4450
+7: KEY: of fluconaz *** Final position in text according to JSON Object -----> 374
+8: KEY: of fluconaz *** Initial position according to JSON Object -----> 364
+9: KEY: of fluconaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: of fluconaz *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: glyburide *** RXCUI -----> 4815
+2: KEY: glyburide *** Concept from RXNORM -----> Glyburide
+3: KEY: glyburide *** Concept Type -----> IN
+4: KEY: glyburide *** Drug mention in text -----> glyburide
+5: KEY: glyburide *** Source language -----> MSH
+6 KEY: glyburide *** CUI CODE in original terminology -----> D005905
+7: KEY: glyburide *** Final position in text according to JSON Object -----> 29
+8: KEY: glyburide *** Initial position according to JSON Object -----> 21
+9: KEY: glyburide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: glyburide *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: of glybur *** RXCUI -----> 4815
+2: KEY: of glybur *** Concept from RXNORM -----> Glyburide
+3: KEY: of glybur *** Concept Type -----> IN
+4: KEY: of glybur *** Drug mention in text -----> of glybur
+5: KEY: of glybur *** Source language -----> MSH
+6 KEY: of glybur *** CUI CODE in original terminology -----> D005905
+7: KEY: of glybur *** Final position in text according to JSON Object -----> 346
+8: KEY: of glybur *** Initial position according to JSON Object -----> 338
+9: KEY: of glybur *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: of glybur *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,57 @@
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 236
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 224
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 236
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 224
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: Isoniazid *** RXCUI -----> 6038
+2: KEY: Isoniazid *** Concept from RXNORM -----> isoniazid
+3: KEY: Isoniazid *** Concept Type -----> IN
+4: KEY: Isoniazid *** Drug mention in text -----> Isoniazid
+5: KEY: Isoniazid *** Source language -----> RXNORM
+6 KEY: Isoniazid *** CUI CODE in original terminology -----> 6038
+7: KEY: Isoniazid *** Final position in text according to JSON Object -----> 24
+8: KEY: Isoniazid *** Initial position according to JSON Object -----> 16
+9: KEY: Isoniazid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6038
+10: KEY: Isoniazid *** Preferred name according to JSON Object -----> isoniazid
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 13
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 1
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 13
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 1
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

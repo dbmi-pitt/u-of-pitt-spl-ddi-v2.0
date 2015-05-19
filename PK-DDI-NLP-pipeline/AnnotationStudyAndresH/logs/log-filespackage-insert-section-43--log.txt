@@ -1,0 +1,13 @@
+1: KEY: allopurinol sodium *** RXCUI -----> 519
+2: KEY: allopurinol sodium *** Concept from RXNORM -----> (('Allopurinol',),)
+3: KEY: allopurinol sodium *** Concept Type -----> (('IN',),)
+4: KEY: allopurinol sodium *** Drug mention in text -----> allopurinol sodium
+5: KEY: allopurinol sodium *** Source language -----> RXNORM
+6 KEY: allopurinol sodium *** CUI CODE in original terminology -----> 80566
+7: KEY: allopurinol sodium *** Final position in text according to JSON Object -----> 252
+8: KEY: allopurinol sodium *** Initial position according to JSON Object -----> 235
+9: KEY: allopurinol sodium *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/80566
+10: KEY: allopurinol sodium *** Preferred name according to JSON Object -----> Allopurinol Sodium
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

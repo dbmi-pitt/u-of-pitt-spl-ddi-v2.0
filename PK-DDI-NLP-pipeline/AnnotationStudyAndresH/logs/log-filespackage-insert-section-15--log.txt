@@ -1,0 +1,57 @@
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 377
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 369
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 377
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 369
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 377
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 369
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 108
+8: KEY: sertraline *** Initial position according to JSON Object -----> 99
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 108
+8: KEY: sertraline *** Initial position according to JSON Object -----> 99
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

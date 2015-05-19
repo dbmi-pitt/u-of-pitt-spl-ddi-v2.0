@@ -1,0 +1,178 @@
+1: KEY: trel. Levonorg *** RXCUI -----> 6373
+2: KEY: trel. Levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: trel. Levonorg *** Concept Type -----> IN
+4: KEY: trel. Levonorg *** Drug mention in text -----> trel. Levonorg
+5: KEY: trel. Levonorg *** Source language -----> RXNORM
+6 KEY: trel. Levonorg *** CUI CODE in original terminology -----> 6373
+7: KEY: trel. Levonorg *** Final position in text according to JSON Object -----> 1798
+8: KEY: trel. Levonorg *** Initial position according to JSON Object -----> 1785
+9: KEY: trel. Levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY: trel. Levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY:  with levonorg *** RXCUI -----> 6373
+2: KEY:  with levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY:  with levonorg *** Concept Type -----> IN
+4: KEY:  with levonorg *** Drug mention in text ----->  with levonorg
+5: KEY:  with levonorg *** Source language -----> RXNORM
+6 KEY:  with levonorg *** CUI CODE in original terminology -----> 6373
+7: KEY:  with levonorg *** Final position in text according to JSON Object -----> 3339
+8: KEY:  with levonorg *** Initial position according to JSON Object -----> 3326
+9: KEY:  with levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY:  with levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: 5% of levonorg *** RXCUI -----> 6373
+2: KEY: 5% of levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: 5% of levonorg *** Concept Type -----> IN
+4: KEY: 5% of levonorg *** Drug mention in text -----> 5% of levonorg
+5: KEY: 5% of levonorg *** Source language -----> MSH
+6 KEY: 5% of levonorg *** CUI CODE in original terminology -----> D016912
+7: KEY: 5% of levonorg *** Final position in text according to JSON Object -----> 2095
+8: KEY: 5% of levonorg *** Initial position according to JSON Object -----> 2082
+9: KEY: 5% of levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: 5% of levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: on of levonorg *** RXCUI -----> 6373
+2: KEY: on of levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: on of levonorg *** Concept Type -----> IN
+4: KEY: on of levonorg *** Drug mention in text -----> on of levonorg
+5: KEY: on of levonorg *** Source language -----> MSH
+6 KEY: on of levonorg *** CUI CODE in original terminology -----> D016912
+7: KEY: on of levonorg *** Final position in text according to JSON Object -----> 3230
+8: KEY: on of levonorg *** Initial position according to JSON Object -----> 3217
+9: KEY: on of levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: on of levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: on of levonorg *** RXCUI -----> 6373
+2: KEY: on of levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: on of levonorg *** Concept Type -----> IN
+4: KEY: on of levonorg *** Drug mention in text -----> on of levonorg
+5: KEY: on of levonorg *** Source language -----> MSH
+6 KEY: on of levonorg *** CUI CODE in original terminology -----> D016912
+7: KEY: on of levonorg *** Final position in text according to JSON Object -----> 3230
+8: KEY: on of levonorg *** Initial position according to JSON Object -----> 3217
+9: KEY: on of levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: on of levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: cs of levonorg *** RXCUI -----> 6373
+2: KEY: cs of levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: cs of levonorg *** Concept Type -----> IN
+4: KEY: cs of levonorg *** Drug mention in text -----> cs of levonorg
+5: KEY: cs of levonorg *** Source language -----> MSH
+6 KEY: cs of levonorg *** CUI CODE in original terminology -----> D016912
+7: KEY: cs of levonorg *** Final position in text according to JSON Object -----> 2614
+8: KEY: cs of levonorg *** Initial position according to JSON Object -----> 2601
+9: KEY: cs of levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: cs of levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: levonorgestrel *** RXCUI -----> 6373
+2: KEY: levonorgestrel *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: levonorgestrel *** Concept Type -----> IN
+4: KEY: levonorgestrel *** Drug mention in text -----> levonorgestrel
+5: KEY: levonorgestrel *** Source language -----> MSH
+6 KEY: levonorgestrel *** CUI CODE in original terminology -----> D016912
+7: KEY: levonorgestrel *** Final position in text according to JSON Object -----> 1071
+8: KEY: levonorgestrel *** Initial position according to JSON Object -----> 1058
+9: KEY: levonorgestrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016912
+10: KEY: levonorgestrel *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY:  both levonorg *** RXCUI -----> 6373
+2: KEY:  both levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY:  both levonorg *** Concept Type -----> IN
+4: KEY:  both levonorg *** Drug mention in text ----->  both levonorg
+5: KEY:  both levonorg *** Source language -----> RXNORM
+6 KEY:  both levonorg *** CUI CODE in original terminology -----> 6373
+7: KEY:  both levonorg *** Final position in text according to JSON Object -----> 2727
+8: KEY:  both levonorg *** Initial position according to JSON Object -----> 2714
+9: KEY:  both levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY:  both levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: ed in levonorg *** RXCUI -----> 6373
+2: KEY: ed in levonorg *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: ed in levonorg *** Concept Type -----> IN
+4: KEY: ed in levonorg *** Drug mention in text -----> ed in levonorg
+5: KEY: ed in levonorg *** Source language -----> RXNORM
+6 KEY: ed in levonorg *** CUI CODE in original terminology -----> 6373
+7: KEY: ed in levonorg *** Final position in text according to JSON Object -----> 2027
+8: KEY: ed in levonorg *** Initial position according to JSON Object -----> 2014
+9: KEY: ed in levonorg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY: ed in levonorg *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+removed duplications 120
+Number of missed JSON elements: 0

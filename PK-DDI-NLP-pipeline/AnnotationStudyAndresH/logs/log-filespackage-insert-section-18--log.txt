@@ -1,0 +1,24 @@
+1: KEY: Sertraline *** RXCUI -----> 36437
+2: KEY: Sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: Sertraline *** Concept Type -----> IN
+4: KEY: Sertraline *** Drug mention in text -----> Sertraline
+5: KEY: Sertraline *** Source language -----> MSH
+6 KEY: Sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: Sertraline *** Final position in text according to JSON Object -----> 10
+8: KEY: Sertraline *** Initial position according to JSON Object -----> 1
+9: KEY: Sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: Sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: atenolol *** RXCUI -----> 1202
+2: KEY: atenolol *** Concept from RXNORM -----> Atenolol
+3: KEY: atenolol *** Concept Type -----> IN
+4: KEY: atenolol *** Drug mention in text -----> atenolol
+5: KEY: atenolol *** Source language -----> MSH
+6 KEY: atenolol *** CUI CODE in original terminology -----> D001262
+7: KEY: atenolol *** Final position in text according to JSON Object -----> 131
+8: KEY: atenolol *** Initial position according to JSON Object -----> 124
+9: KEY: atenolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D001262
+10: KEY: atenolol *** Preferred name according to JSON Object -----> Atenolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

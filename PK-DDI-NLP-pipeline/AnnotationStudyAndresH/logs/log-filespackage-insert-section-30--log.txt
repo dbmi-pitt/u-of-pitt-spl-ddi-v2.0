@@ -1,0 +1,24 @@
+1: KEY: glipizide *** RXCUI -----> 4821
+2: KEY: glipizide *** Concept from RXNORM -----> Glipizide
+3: KEY: glipizide *** Concept Type -----> IN
+4: KEY: glipizide *** Drug mention in text -----> glipizide
+5: KEY: glipizide *** Source language -----> RXNORM
+6 KEY: glipizide *** CUI CODE in original terminology -----> 4821
+7: KEY: glipizide *** Final position in text according to JSON Object -----> 29
+8: KEY: glipizide *** Initial position according to JSON Object -----> 21
+9: KEY: glipizide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4821
+10: KEY: glipizide *** Preferred name according to JSON Object -----> Glipizide
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 123
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 113
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,46 @@
+1: KEY: cholestyramine *** RXCUI -----> 2447
+2: KEY: cholestyramine *** Concept from RXNORM -----> Cholestyramine Resin
+3: KEY: cholestyramine *** Concept Type -----> IN
+4: KEY: cholestyramine *** Drug mention in text -----> cholestyramine
+5: KEY: cholestyramine *** Source language -----> MSH
+6 KEY: cholestyramine *** CUI CODE in original terminology -----> D002792
+7: KEY: cholestyramine *** Final position in text according to JSON Object -----> 35
+8: KEY: cholestyramine *** Initial position according to JSON Object -----> 22
+9: KEY: cholestyramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002792
+10: KEY: cholestyramine *** Preferred name according to JSON Object -----> Cholestyramine Resin
+---------------------------------------------------------
+1: KEY: colestipol *** RXCUI -----> 2685
+2: KEY: colestipol *** Concept from RXNORM -----> Colestipol
+3: KEY: colestipol *** Concept Type -----> IN
+4: KEY: colestipol *** Drug mention in text -----> colestipol
+5: KEY: colestipol *** Source language -----> RXNORM
+6 KEY: colestipol *** CUI CODE in original terminology -----> 2685
+7: KEY: colestipol *** Final position in text according to JSON Object -----> 49
+8: KEY: colestipol *** Initial position according to JSON Object -----> 40
+9: KEY: colestipol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2685
+10: KEY: colestipol *** Preferred name according to JSON Object -----> Colestipol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 112
+8: KEY: propranolol *** Initial position according to JSON Object -----> 102
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 112
+8: KEY: propranolol *** Initial position according to JSON Object -----> 102
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

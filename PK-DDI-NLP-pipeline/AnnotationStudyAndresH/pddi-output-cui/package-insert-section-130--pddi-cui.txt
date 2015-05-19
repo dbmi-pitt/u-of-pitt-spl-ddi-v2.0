@@ -1,0 +1,2 @@
+propranolol	metoclopramide	1	1	true	negative	Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.  		8787	6915	D011433	6915
+propranolol	metoclopramide	1	1	true	negative	Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.  		8787	6915	D011433	6915

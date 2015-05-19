@@ -1,0 +1,13 @@
+1: KEY: Paroxetine *** RXCUI -----> 32937
+2: KEY: Paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: Paroxetine *** Concept Type -----> TMSY
+4: KEY: Paroxetine *** Drug mention in text -----> Paroxetine
+5: KEY: Paroxetine *** Source language -----> MSH
+6 KEY: Paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: Paroxetine *** Final position in text according to JSON Object -----> 10
+8: KEY: Paroxetine *** Initial position according to JSON Object -----> 1
+9: KEY: Paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: Paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

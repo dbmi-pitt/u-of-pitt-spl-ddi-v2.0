@@ -1,0 +1,35 @@
+1: KEY: citalopram *** RXCUI -----> 2556
+2: KEY: citalopram *** Concept from RXNORM -----> Citalopram
+3: KEY: citalopram *** Concept Type -----> IN
+4: KEY: citalopram *** Drug mention in text -----> citalopram
+5: KEY: citalopram *** Source language -----> RXNORM
+6 KEY: citalopram *** CUI CODE in original terminology -----> 2556
+7: KEY: citalopram *** Final position in text according to JSON Object -----> 38
+8: KEY: citalopram *** Initial position according to JSON Object -----> 29
+9: KEY: citalopram *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2556
+10: KEY: citalopram *** Preferred name according to JSON Object -----> Citalopram
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 98
+8: KEY: warfarin *** Initial position according to JSON Object -----> 91
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: Prothrombin *** RXCUI -----> 1441688
+2: KEY: Prothrombin *** Concept from RXNORM -----> Prothrombin
+3: KEY: Prothrombin *** Concept Type -----> IN
+4: KEY: Prothrombin *** Drug mention in text -----> Prothrombin
+5: KEY: Prothrombin *** Source language -----> RXNORM
+6 KEY: Prothrombin *** CUI CODE in original terminology -----> 1441688
+7: KEY: Prothrombin *** Final position in text according to JSON Object -----> 131
+8: KEY: Prothrombin *** Initial position according to JSON Object -----> 121
+9: KEY: Prothrombin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: Prothrombin *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

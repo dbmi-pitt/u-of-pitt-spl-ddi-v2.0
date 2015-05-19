@@ -1,0 +1,420 @@
+1: KEY: s of fexofen *** RXCUI -----> 87636
+2: KEY: s of fexofen *** Concept from RXNORM -----> fexofenadine
+3: KEY: s of fexofen *** Concept Type -----> IN
+4: KEY: s of fexofen *** Drug mention in text -----> s of fexofen
+5: KEY: s of fexofen *** Source language -----> RXNORM
+6 KEY: s of fexofen *** CUI CODE in original terminology -----> 87636
+7: KEY: s of fexofen *** Final position in text according to JSON Object -----> 6579
+8: KEY: s of fexofen *** Initial position according to JSON Object -----> 6568
+9: KEY: s of fexofen *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: s of fexofen *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: s of fexofen *** RXCUI -----> 87636
+2: KEY: s of fexofen *** Concept from RXNORM -----> fexofenadine
+3: KEY: s of fexofen *** Concept Type -----> IN
+4: KEY: s of fexofen *** Drug mention in text -----> s of fexofen
+5: KEY: s of fexofen *** Source language -----> RXNORM
+6 KEY: s of fexofen *** CUI CODE in original terminology -----> 87636
+7: KEY: s of fexofen *** Final position in text according to JSON Object -----> 6579
+8: KEY: s of fexofen *** Initial position according to JSON Object -----> 6568
+9: KEY: s of fexofen *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: s of fexofen *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: fexofenadine *** RXCUI -----> 87636
+2: KEY: fexofenadine *** Concept from RXNORM -----> fexofenadine
+3: KEY: fexofenadine *** Concept Type -----> IN
+4: KEY: fexofenadine *** Drug mention in text -----> fexofenadine
+5: KEY: fexofenadine *** Source language -----> RXNORM
+6 KEY: fexofenadine *** CUI CODE in original terminology -----> 87636
+7: KEY: fexofenadine *** Final position in text according to JSON Object -----> 3937
+8: KEY: fexofenadine *** Initial position according to JSON Object -----> 3926
+9: KEY: fexofenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: fexofenadine *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: fexofenadine *** RXCUI -----> 87636
+2: KEY: fexofenadine *** Concept from RXNORM -----> fexofenadine
+3: KEY: fexofenadine *** Concept Type -----> IN
+4: KEY: fexofenadine *** Drug mention in text -----> fexofenadine
+5: KEY: fexofenadine *** Source language -----> RXNORM
+6 KEY: fexofenadine *** CUI CODE in original terminology -----> 87636
+7: KEY: fexofenadine *** Final position in text according to JSON Object -----> 3937
+8: KEY: fexofenadine *** Initial position according to JSON Object -----> 3926
+9: KEY: fexofenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: fexofenadine *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: fexofenadine *** RXCUI -----> 87636
+2: KEY: fexofenadine *** Concept from RXNORM -----> fexofenadine
+3: KEY: fexofenadine *** Concept Type -----> IN
+4: KEY: fexofenadine *** Drug mention in text -----> fexofenadine
+5: KEY: fexofenadine *** Source language -----> RXNORM
+6 KEY: fexofenadine *** CUI CODE in original terminology -----> 87636
+7: KEY: fexofenadine *** Final position in text according to JSON Object -----> 3937
+8: KEY: fexofenadine *** Initial position according to JSON Object -----> 3926
+9: KEY: fexofenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: fexofenadine *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: fexofenadine hydrochloride *** Drug mention in text -----> fexofenadine hydrochloride
+5: KEY: fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 2219
+8: KEY: fexofenadine hydrochloride *** Initial position according to JSON Object -----> 2194
+9: KEY: fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Fexofenadine hydrochloride *** RXCUI -----> 87636
+2: KEY: Fexofenadine hydrochloride *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: Fexofenadine hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Fexofenadine hydrochloride *** Drug mention in text -----> Fexofenadine hydrochloride
+5: KEY: Fexofenadine hydrochloride *** Source language -----> RXNORM
+6 KEY: Fexofenadine hydrochloride *** CUI CODE in original terminology -----> 236474
+7: KEY: Fexofenadine hydrochloride *** Final position in text according to JSON Object -----> 324
+8: KEY: Fexofenadine hydrochloride *** Initial position according to JSON Object -----> 299
+9: KEY: Fexofenadine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: Fexofenadine hydrochloride *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: of fexofenad *** RXCUI -----> 87636
+2: KEY: of fexofenad *** Concept from RXNORM -----> fexofenadine
+3: KEY: of fexofenad *** Concept Type -----> IN
+4: KEY: of fexofenad *** Drug mention in text -----> of fexofenad
+5: KEY: of fexofenad *** Source language -----> RXNORM
+6 KEY: of fexofenad *** CUI CODE in original terminology -----> 87636
+7: KEY: of fexofenad *** Final position in text according to JSON Object -----> 5764
+8: KEY: of fexofenad *** Initial position according to JSON Object -----> 5753
+9: KEY: of fexofenad *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: of fexofenad *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 122
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 112
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: of fexofenadine hydrochlor *** RXCUI -----> 87636
+2: KEY: of fexofenadine hydrochlor *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: of fexofenadine hydrochlor *** Concept Type -----> (('IN',),)
+4: KEY: of fexofenadine hydrochlor *** Drug mention in text -----> of fexofenadine hydrochlor
+5: KEY: of fexofenadine hydrochlor *** Source language -----> RXNORM
+6 KEY: of fexofenadine hydrochlor *** CUI CODE in original terminology -----> 236474
+7: KEY: of fexofenadine hydrochlor *** Final position in text according to JSON Object -----> 5964
+8: KEY: of fexofenadine hydrochlor *** Initial position according to JSON Object -----> 5939
+9: KEY: of fexofenadine hydrochlor *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: of fexofenadine hydrochlor *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: Histamine *** RXCUI -----> 5333
+2: KEY: Histamine *** Concept from RXNORM -----> Histamine
+3: KEY: Histamine *** Concept Type -----> IN
+4: KEY: Histamine *** Drug mention in text -----> Histamine
+5: KEY: Histamine *** Source language -----> MSH
+6 KEY: Histamine *** CUI CODE in original terminology -----> D006632
+7: KEY: Histamine *** Final position in text according to JSON Object -----> 1276
+8: KEY: Histamine *** Initial position according to JSON Object -----> 1268
+9: KEY: Histamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006632
+10: KEY: Histamine *** Preferred name according to JSON Object -----> Histamine
+---------------------------------------------------------
+1: KEY: histamine *** RXCUI -----> 5333
+2: KEY: histamine *** Concept from RXNORM -----> Histamine
+3: KEY: histamine *** Concept Type -----> IN
+4: KEY: histamine *** Drug mention in text -----> histamine
+5: KEY: histamine *** Source language -----> MSH
+6 KEY: histamine *** CUI CODE in original terminology -----> D006632
+7: KEY: histamine *** Final position in text according to JSON Object -----> 849
+8: KEY: histamine *** Initial position according to JSON Object -----> 841
+9: KEY: histamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006632
+10: KEY: histamine *** Preferred name according to JSON Object -----> Histamine
+---------------------------------------------------------
+1: KEY: histamine *** RXCUI -----> 5333
+2: KEY: histamine *** Concept from RXNORM -----> Histamine
+3: KEY: histamine *** Concept Type -----> IN
+4: KEY: histamine *** Drug mention in text -----> histamine
+5: KEY: histamine *** Source language -----> MSH
+6 KEY: histamine *** CUI CODE in original terminology -----> D006632
+7: KEY: histamine *** Final position in text according to JSON Object -----> 849
+8: KEY: histamine *** Initial position according to JSON Object -----> 841
+9: KEY: histamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006632
+10: KEY: histamine *** Preferred name according to JSON Object -----> Histamine
+---------------------------------------------------------
+1: KEY: Mean fexofen *** RXCUI -----> 87636
+2: KEY: Mean fexofen *** Concept from RXNORM -----> fexofenadine
+3: KEY: Mean fexofen *** Concept Type -----> IN
+4: KEY: Mean fexofen *** Drug mention in text -----> Mean fexofen
+5: KEY: Mean fexofen *** Source language -----> RXNORM
+6 KEY: Mean fexofen *** CUI CODE in original terminology -----> 87636
+7: KEY: Mean fexofen *** Final position in text according to JSON Object -----> 6252
+8: KEY: Mean fexofen *** Initial position according to JSON Object -----> 6241
+9: KEY: Mean fexofen *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY: Mean fexofen *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY: s of fexofenadine hydrochl *** RXCUI -----> 87636
+2: KEY: s of fexofenadine hydrochl *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: s of fexofenadine hydrochl *** Concept Type -----> (('IN',),)
+4: KEY: s of fexofenadine hydrochl *** Drug mention in text -----> s of fexofenadine hydrochl
+5: KEY: s of fexofenadine hydrochl *** Source language -----> RXNORM
+6 KEY: s of fexofenadine hydrochl *** CUI CODE in original terminology -----> 236474
+7: KEY: s of fexofenadine hydrochl *** Final position in text according to JSON Object -----> 7167
+8: KEY: s of fexofenadine hydrochl *** Initial position according to JSON Object -----> 7142
+9: KEY: s of fexofenadine hydrochl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: s of fexofenadine hydrochl *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: (creatinin *** RXCUI -----> 2913
+2: KEY: (creatinin *** Concept from RXNORM -----> Creatinine
+3: KEY: (creatinin *** Concept Type -----> IN
+4: KEY: (creatinin *** Drug mention in text -----> (creatinin
+5: KEY: (creatinin *** Source language -----> MSH
+6 KEY: (creatinin *** CUI CODE in original terminology -----> D003404
+7: KEY: (creatinin *** Final position in text according to JSON Object -----> 5396
+8: KEY: (creatinin *** Initial position according to JSON Object -----> 5387
+9: KEY: (creatinin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY: (creatinin *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY: (creatinin *** RXCUI -----> 2913
+2: KEY: (creatinin *** Concept from RXNORM -----> Creatinine
+3: KEY: (creatinin *** Concept Type -----> IN
+4: KEY: (creatinin *** Drug mention in text -----> (creatinin
+5: KEY: (creatinin *** Source language -----> MSH
+6 KEY: (creatinin *** CUI CODE in original terminology -----> D003404
+7: KEY: (creatinin *** Final position in text according to JSON Object -----> 5396
+8: KEY: (creatinin *** Initial position according to JSON Object -----> 5387
+9: KEY: (creatinin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY: (creatinin *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY: (creatinin *** RXCUI -----> 2913
+2: KEY: (creatinin *** Concept from RXNORM -----> Creatinine
+3: KEY: (creatinin *** Concept Type -----> IN
+4: KEY: (creatinin *** Drug mention in text -----> (creatinin
+5: KEY: (creatinin *** Source language -----> MSH
+6 KEY: (creatinin *** CUI CODE in original terminology -----> D003404
+7: KEY: (creatinin *** Final position in text according to JSON Object -----> 5396
+8: KEY: (creatinin *** Initial position according to JSON Object -----> 5387
+9: KEY: (creatinin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY: (creatinin *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY:  fexofenadine hydrochlorid *** RXCUI -----> 87636
+2: KEY:  fexofenadine hydrochlorid *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY:  fexofenadine hydrochlorid *** Concept Type -----> (('IN',),)
+4: KEY:  fexofenadine hydrochlorid *** Drug mention in text ----->  fexofenadine hydrochlorid
+5: KEY:  fexofenadine hydrochlorid *** Source language -----> RXNORM
+6 KEY:  fexofenadine hydrochlorid *** CUI CODE in original terminology -----> 236474
+7: KEY:  fexofenadine hydrochlorid *** Final position in text according to JSON Object -----> 4898
+8: KEY:  fexofenadine hydrochlorid *** Initial position according to JSON Object -----> 4873
+9: KEY:  fexofenadine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY:  fexofenadine hydrochlorid *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY:  fexofenadine hydrochlorid *** RXCUI -----> 87636
+2: KEY:  fexofenadine hydrochlorid *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY:  fexofenadine hydrochlorid *** Concept Type -----> (('IN',),)
+4: KEY:  fexofenadine hydrochlorid *** Drug mention in text ----->  fexofenadine hydrochlorid
+5: KEY:  fexofenadine hydrochlorid *** Source language -----> RXNORM
+6 KEY:  fexofenadine hydrochlorid *** CUI CODE in original terminology -----> 236474
+7: KEY:  fexofenadine hydrochlorid *** Final position in text according to JSON Object -----> 4898
+8: KEY:  fexofenadine hydrochlorid *** Initial position according to JSON Object -----> 4873
+9: KEY:  fexofenadine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY:  fexofenadine hydrochlorid *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY:  fexofenadine hydrochlorid *** RXCUI -----> 87636
+2: KEY:  fexofenadine hydrochlorid *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY:  fexofenadine hydrochlorid *** Concept Type -----> (('IN',),)
+4: KEY:  fexofenadine hydrochlorid *** Drug mention in text ----->  fexofenadine hydrochlorid
+5: KEY:  fexofenadine hydrochlorid *** Source language -----> RXNORM
+6 KEY:  fexofenadine hydrochlorid *** CUI CODE in original terminology -----> 236474
+7: KEY:  fexofenadine hydrochlorid *** Final position in text according to JSON Object -----> 4898
+8: KEY:  fexofenadine hydrochlorid *** Initial position according to JSON Object -----> 4873
+9: KEY:  fexofenadine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY:  fexofenadine hydrochlorid *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY:  fexofenadine hydrochlorid *** RXCUI -----> 87636
+2: KEY:  fexofenadine hydrochlorid *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY:  fexofenadine hydrochlorid *** Concept Type -----> (('IN',),)
+4: KEY:  fexofenadine hydrochlorid *** Drug mention in text ----->  fexofenadine hydrochlorid
+5: KEY:  fexofenadine hydrochlorid *** Source language -----> RXNORM
+6 KEY:  fexofenadine hydrochlorid *** CUI CODE in original terminology -----> 236474
+7: KEY:  fexofenadine hydrochlorid *** Final position in text according to JSON Object -----> 4898
+8: KEY:  fexofenadine hydrochlorid *** Initial position according to JSON Object -----> 4873
+9: KEY:  fexofenadine hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY:  fexofenadine hydrochlorid *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY: e of fexofenadine hydrochl *** RXCUI -----> 87636
+2: KEY: e of fexofenadine hydrochl *** Concept from RXNORM -----> (('fexofenadine',),)
+3: KEY: e of fexofenadine hydrochl *** Concept Type -----> (('IN',),)
+4: KEY: e of fexofenadine hydrochl *** Drug mention in text -----> e of fexofenadine hydrochl
+5: KEY: e of fexofenadine hydrochl *** Source language -----> RXNORM
+6 KEY: e of fexofenadine hydrochl *** CUI CODE in original terminology -----> 236474
+7: KEY: e of fexofenadine hydrochl *** Final position in text according to JSON Object -----> 6796
+8: KEY: e of fexofenadine hydrochl *** Initial position according to JSON Object -----> 6771
+9: KEY: e of fexofenadine hydrochl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/236474
+10: KEY: e of fexofenadine hydrochl *** Preferred name according to JSON Object -----> Fexofenadine hydrochloride
+---------------------------------------------------------
+1: KEY:  fexofenadin *** RXCUI -----> 87636
+2: KEY:  fexofenadin *** Concept from RXNORM -----> fexofenadine
+3: KEY:  fexofenadin *** Concept Type -----> IN
+4: KEY:  fexofenadin *** Drug mention in text ----->  fexofenadin
+5: KEY:  fexofenadin *** Source language -----> RXNORM
+6 KEY:  fexofenadin *** CUI CODE in original terminology -----> 87636
+7: KEY:  fexofenadin *** Final position in text according to JSON Object -----> 5186
+8: KEY:  fexofenadin *** Initial position according to JSON Object -----> 5175
+9: KEY:  fexofenadin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY:  fexofenadin *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+1: KEY:  fexofenadin *** RXCUI -----> 87636
+2: KEY:  fexofenadin *** Concept from RXNORM -----> fexofenadine
+3: KEY:  fexofenadin *** Concept Type -----> IN
+4: KEY:  fexofenadin *** Drug mention in text ----->  fexofenadin
+5: KEY:  fexofenadin *** Source language -----> RXNORM
+6 KEY:  fexofenadin *** CUI CODE in original terminology -----> 87636
+7: KEY:  fexofenadin *** Final position in text according to JSON Object -----> 5186
+8: KEY:  fexofenadin *** Initial position according to JSON Object -----> 5175
+9: KEY:  fexofenadin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/87636
+10: KEY:  fexofenadin *** Preferred name according to JSON Object -----> fexofenadine
+---------------------------------------------------------
+removed duplications 450
+Number of missed JSON elements: 0

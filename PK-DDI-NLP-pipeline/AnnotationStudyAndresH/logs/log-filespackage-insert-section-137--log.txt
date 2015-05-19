@@ -1,0 +1,68 @@
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 99
+8: KEY: trazodone *** Initial position according to JSON Object -----> 91
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 99
+8: KEY: trazodone *** Initial position according to JSON Object -----> 91
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 137
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 125
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 137
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 125
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 137
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 125
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 13
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 1
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

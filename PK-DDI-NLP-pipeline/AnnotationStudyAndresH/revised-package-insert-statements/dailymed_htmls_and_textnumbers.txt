@@ -1,0 +1,322 @@
+How to read the information: After each URL, the numbers of the corresponding text files are listed, then comes the type of drug insert the file comes from. For "new" ones, the first file is the Drug Interactions section of the drug insert and will be found in the drug_interaction_sections folder, and the second file is the Clinical Pharmacology section of the drug insert and will be found in the clinical_pharm_section folder. For ones that say "one random", the text files come from old inserts, with the first files being interaction statements (found in the interaction_statements_from_old folder) and the last file being the random paragraph (the random paragraph file number will ALWAYS be the last number of the set), which are found in the random_statements folder.
+
+Examples: (5-6, new) = first file (5) will be Drug Interaction section, second file (6) will be Clinical Pharmacology section
+	(11-20, one random) = files 11-19 will be interaction statements and the last file (20) is the random paragraph
+
+Active ingredient: didanosine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00378888905&start=1 (1-2, new)
+
+Active ingredient: sertraline
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=63304016703&start=1 (11-20, one random)
+
+Active ingredient: fluconazole
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00054000385&start=1 (21-34, one random)
+
+Active ingredient: nitrofurantoin
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00378165001&start=1 (35-37, one random)
+
+Active ingredient: acebutolol
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00378140001&start=1 (3-4, one random)
+
+Active ingredient: thioridazine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00378061601&start=1 (38-39, one random)
+
+Active ingredient: glipizide
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00172364900&start=1 (40-41, one random)
+
+Active ingredient: venlafaxine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=41616076008&start=1 (5-6, new)
+
+Active ingredient: allopurinol
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=55390010601&start=1 (42-43, one random)
+
+Active ingredient: paroxetine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00378200693&start=1 (44-52, one random)
+
+Active ingredient: quinidine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00093917501&start=1 (53-55, one random)
+
+Active ingredient: fluvoxamine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00093005601&start=1 (9-10, new)
+
+Active ingredient: zonisamide
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00093716201&start=1 (56-58, one random)
+
+Active ingredient: risperidone
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=50458059601&start=1 (7-8, new)
+
+Active ingredient: carbamazepine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00093010901&start=1 (59-60, one random)
+
+Active ingredient: desipramine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00781197101&start=1 (61-62, one random)
+
+Active ingredient: nisoldipine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00677198101&start=1 (63-64, one random)
+
+Active ingredient: nefazodone
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=63304054405&start=1 (65-67, one random)
+
+Active ingredient: bisoprolol
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00185070701&start=1 (68-69, one random)
+
+Active ingredient: sotalol
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?ndc=00093106001&start=1 (70-71, one random)
+
+Active ingredient: oxycodone
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31865 (72-73, new)
+
+Active ingredient: omeprazole
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=17347 (74-75, new)
+
+Active ingredient: citalopram
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=18591 (76-82, one random)
+
+Active ingredient: tacrine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=8958&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca30c49d35a7cb53c483 (83-86, one random)
+
+Active ingredient: trimethoprim and sulfamethoxazole
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=8608&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca30c49d35a7cb53c483 (87-89, one random)
+
+Active ingredient: atomoxetine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31731 (90-91, new)
+
+Active ingredient: voriconazole
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=17397&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca3025cabd4d4167f321 (92-93, one random)
+
+Active ingredient: alprazolam
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=22070 (94-101, one random)
+
+Active ingredient: metoclopramide
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=14773 (102-103, new)
+
+ctive ingredient: conivaptan
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=18655&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca3025cabd4d4167f321 (104-105, new)
+
+Active ingredient: metoprolol
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=17984 (106-107, new)
+
+Active ingredient: nifedipine
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=22315 (108-117, one random)
+
+Active ingredient: quinupristin/dalfopristin
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=8672&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca3025cabd4d4167f321 (118-119, one random)
+
+Active ingredient: Metronidazole
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=22096 (120-121, one random)
+
+Active ingredient: rosiglitazone
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=19654 (122-123, new)
+
+Active ingredient: propranolol
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=24204 (124-135, one random)
+
+Active ingredient: trazodone
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=32283 (136-138, one random)
+
+Active ingredient: fexofenadine
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31218 (139-140, new)
+
+Active ingredient: amlodipine
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=19686 (141-142, new)
+
+Active ingredient: lovastatin
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31794 (143-144, one random)
+
+Active ingredient: felbamate
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=11193&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca3025cabd4d4167f321 (145-153, one random)
+
+Active ingredient: sildenafil
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=13390 (154-155, new)
+
+Active ingredient: aliskiren
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=22514 (156-157, new)
+
+Active ingredient: mexiletine
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=7386 (158-160, one random)
+
+Active ingredient: azithromycin
+
+DailyMed URLs to products containing the active ingredient: 
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=23892 (161-162, one random)
+
+Active ingredient: meperidine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=12607 (163-165, one random)
+
+Active ingredient: methotrexate
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=13398 (166-167, one random)
+
+Active ingredient: clonazepam
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=24016 (168-169, one random)
+
+Active ingredient: irbesartan
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=24418#section-9 (170-171, new)
+
+Active ingredient: atorvastatin
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=16193 (172-173, new)
+
+Active ingredient: tacrolimus
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=19619 (174-176, one random)
+
+Active ingredient: diazepam
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31026 (177-178, one random)
+
+Active ingredient: isoniazid
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31528 (179-180, one random)
+
+Active ingredient: Verapamil
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=19858 (181-182, new)
+
+Active ingredient: lansoprazole
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=31310 (183-184, new)
+
+Active ingredient: simvastatin
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=13113 (185-186, new)
+
+Active ingredient: atazanavir
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=18241&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca30feecb5493df33a23 (187-188, new)
+
+Active ingredient: ritonavir
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=21906 (189-190, new)
+
+Active ingredient: fluvastatin
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=13693&CFID=52075261&CFTOKEN=9cb2665085273a3d-CF3565D8-EB50-FA93-F4CE1C2A8A661CB8&jsessionid=ca30feecb5493df33a23 (191-193, one random)
+
+Active ingredient: propafenone
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=32048 (194-195, new)
+
+Active ingredient: zidovudine
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=9950 (196-197, new)
+
+Active ingredient: methadone
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=23429 (198-204, one random)
+
+Active ingredient: levonorgestrel
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=14292 (205-206, new)
+
+Active ingredient: clopidogrel
+
+DailyMed URLs to products containing the active ingredient:
+	http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=23088 (207-208, new)

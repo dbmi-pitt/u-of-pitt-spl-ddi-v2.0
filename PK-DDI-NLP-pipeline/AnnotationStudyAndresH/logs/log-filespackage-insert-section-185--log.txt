@@ -1,0 +1,563 @@
+1: KEY: n prothromb *** RXCUI -----> 1441688
+2: KEY: n prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: n prothromb *** Concept Type -----> IN
+4: KEY: n prothromb *** Drug mention in text -----> n prothromb
+5: KEY: n prothromb *** Source language -----> RXNORM
+6 KEY: n prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: n prothromb *** Final position in text according to JSON Object -----> 3465
+8: KEY: n prothromb *** Initial position according to JSON Object -----> 3455
+9: KEY: n prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: n prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: f amiodaro *** RXCUI -----> 703
+2: KEY: f amiodaro *** Concept from RXNORM -----> Amiodarone
+3: KEY: f amiodaro *** Concept Type -----> IN
+4: KEY: f amiodaro *** Drug mention in text -----> f amiodaro
+5: KEY: f amiodaro *** Source language -----> MSH
+6 KEY: f amiodaro *** CUI CODE in original terminology -----> D000638
+7: KEY: f amiodaro *** Final position in text according to JSON Object -----> 2001
+8: KEY: f amiodaro *** Initial position according to JSON Object -----> 1992
+9: KEY: f amiodaro *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000638
+10: KEY: f amiodaro *** Preferred name according to JSON Object -----> Amiodarone
+---------------------------------------------------------
+1: KEY: d prothromb *** RXCUI -----> 1441688
+2: KEY: d prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: d prothromb *** Concept Type -----> IN
+4: KEY: d prothromb *** Drug mention in text -----> d prothromb
+5: KEY: d prothromb *** Source language -----> RXNORM
+6 KEY: d prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: d prothromb *** Final position in text according to JSON Object -----> 2834
+8: KEY: d prothromb *** Initial position according to JSON Object -----> 2824
+9: KEY: d prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: d prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: Itraconazole *** RXCUI -----> 28031
+2: KEY: Itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: Itraconazole *** Concept Type -----> IN
+4: KEY: Itraconazole *** Drug mention in text -----> Itraconazole
+5: KEY: Itraconazole *** Source language -----> MSH
+6 KEY: Itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: Itraconazole *** Final position in text according to JSON Object -----> 728
+8: KEY: Itraconazole *** Initial position according to JSON Object -----> 717
+9: KEY: Itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: Itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: Simvastatin *** RXCUI -----> 36567
+2: KEY: Simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: Simvastatin *** Concept Type -----> IN
+4: KEY: Simvastatin *** Drug mention in text -----> Simvastatin
+5: KEY: Simvastatin *** Source language -----> RXNORM
+6 KEY: Simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: Simvastatin *** Final position in text according to JSON Object -----> 57
+8: KEY: Simvastatin *** Initial position according to JSON Object -----> 47
+9: KEY: Simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: Simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: Simvastatin *** RXCUI -----> 36567
+2: KEY: Simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: Simvastatin *** Concept Type -----> IN
+4: KEY: Simvastatin *** Drug mention in text -----> Simvastatin
+5: KEY: Simvastatin *** Source language -----> RXNORM
+6 KEY: Simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: Simvastatin *** Final position in text according to JSON Object -----> 57
+8: KEY: Simvastatin *** Initial position according to JSON Object -----> 47
+9: KEY: Simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: Simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: 5 Digox *** RXCUI -----> 3407
+2: KEY: 5 Digox *** Concept from RXNORM -----> Digoxin
+3: KEY: 5 Digox *** Concept Type -----> IN
+4: KEY: 5 Digox *** Drug mention in text -----> 5 Digox
+5: KEY: 5 Digox *** Source language -----> RXNORM
+6 KEY: 5 Digox *** CUI CODE in original terminology -----> 3407
+7: KEY: 5 Digox *** Final position in text according to JSON Object -----> 2098
+8: KEY: 5 Digox *** Initial position according to JSON Object -----> 2092
+9: KEY: 5 Digox *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: 5 Digox *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: r Verapam *** RXCUI -----> 11170
+2: KEY: r Verapam *** Concept from RXNORM -----> Verapamil
+3: KEY: r Verapam *** Concept Type -----> IN
+4: KEY: r Verapam *** Drug mention in text -----> r Verapam
+5: KEY: r Verapam *** Source language -----> RXNORM
+6 KEY: r Verapam *** CUI CODE in original terminology -----> 11170
+7: KEY: r Verapam *** Final position in text according to JSON Object -----> 1907
+8: KEY: r Verapam *** Initial position according to JSON Object -----> 1899
+9: KEY: r Verapam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: r Verapam *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: niacin *** RXCUI -----> 7393
+2: KEY: niacin *** Concept from RXNORM -----> Niacin
+3: KEY: niacin *** Concept Type -----> IN
+4: KEY: niacin *** Drug mention in text -----> niacin
+5: KEY: niacin *** Source language -----> MSH
+6 KEY: niacin *** CUI CODE in original terminology -----> D009525
+7: KEY: niacin *** Final position in text according to JSON Object -----> 1558
+8: KEY: niacin *** Initial position according to JSON Object -----> 1553
+9: KEY: niacin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009525
+10: KEY: niacin *** Preferred name according to JSON Object -----> Niacin
+---------------------------------------------------------
+1: KEY: , prothromb *** RXCUI -----> 1441688
+2: KEY: , prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: , prothromb *** Concept Type -----> IN
+4: KEY: , prothromb *** Drug mention in text -----> , prothromb
+5: KEY: , prothromb *** Source language -----> RXNORM
+6 KEY: , prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: , prothromb *** Final position in text according to JSON Object -----> 3181
+8: KEY: , prothromb *** Initial position according to JSON Object -----> 3171
+9: KEY: , prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: , prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: , prothromb *** RXCUI -----> 1441688
+2: KEY: , prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: , prothromb *** Concept Type -----> IN
+4: KEY: , prothromb *** Drug mention in text -----> , prothromb
+5: KEY: , prothromb *** Source language -----> RXNORM
+6 KEY: , prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: , prothromb *** Final position in text according to JSON Object -----> 3181
+8: KEY: , prothromb *** Initial position according to JSON Object -----> 3171
+9: KEY: , prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: , prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: . Simvastat *** RXCUI -----> 36567
+2: KEY: . Simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: . Simvastat *** Concept Type -----> IN
+4: KEY: . Simvastat *** Drug mention in text -----> . Simvastat
+5: KEY: . Simvastat *** Source language -----> RXNORM
+6 KEY: . Simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: . Simvastat *** Final position in text according to JSON Object -----> 3388
+8: KEY: . Simvastat *** Initial position according to JSON Object -----> 3378
+9: KEY: . Simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: . Simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 918
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 909
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: 3 Cyclospori *** RXCUI -----> 3008
+2: KEY: 3 Cyclospori *** Concept from RXNORM -----> Cyclosporine
+3: KEY: 3 Cyclospori *** Concept Type -----> IN
+4: KEY: 3 Cyclospori *** Drug mention in text -----> 3 Cyclospori
+5: KEY: 3 Cyclospori *** Source language -----> MSH
+6 KEY: 3 Cyclospori *** CUI CODE in original terminology -----> D016572
+7: KEY: 3 Cyclospori *** Final position in text according to JSON Object -----> 1643
+8: KEY: 3 Cyclospori *** Initial position according to JSON Object -----> 1632
+9: KEY: 3 Cyclospori *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: 3 Cyclospori *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: nicotinic acid *** RXCUI -----> 7393
+2: KEY: nicotinic acid *** Concept from RXNORM -----> Niacin
+3: KEY: nicotinic acid *** Concept Type -----> IN
+4: KEY: nicotinic acid *** Drug mention in text -----> nicotinic acid
+5: KEY: nicotinic acid *** Source language -----> MSH
+6 KEY: nicotinic acid *** CUI CODE in original terminology -----> D009525
+7: KEY: nicotinic acid *** Final position in text according to JSON Object -----> 1574
+8: KEY: nicotinic acid *** Initial position according to JSON Object -----> 1561
+9: KEY: nicotinic acid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009525
+10: KEY: nicotinic acid *** Preferred name according to JSON Object -----> Niacin
+---------------------------------------------------------
+1: KEY: f coumar *** RXCUI -----> 2898
+2: KEY: f coumar *** Concept from RXNORM -----> coumarin
+3: KEY: f coumar *** Concept Type -----> IN
+4: KEY: f coumar *** Drug mention in text -----> f coumar
+5: KEY: f coumar *** Source language -----> RXNORM
+6 KEY: f coumar *** CUI CODE in original terminology -----> 2898
+7: KEY: f coumar *** Final position in text according to JSON Object -----> 2557
+8: KEY: f coumar *** Initial position according to JSON Object -----> 2550
+9: KEY: f coumar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2898
+10: KEY: f coumar *** Preferred name according to JSON Object -----> coumarin
+---------------------------------------------------------
+1: KEY: r danaz *** RXCUI -----> 3102
+2: KEY: r danaz *** Concept from RXNORM -----> Danazol
+3: KEY: r danaz *** Concept Type -----> IN
+4: KEY: r danaz *** Drug mention in text -----> r danaz
+5: KEY: r danaz *** Source language -----> MSH
+6 KEY: r danaz *** CUI CODE in original terminology -----> D003613
+7: KEY: r danaz *** Final position in text according to JSON Object -----> 1761
+8: KEY: r danaz *** Initial position according to JSON Object -----> 1755
+9: KEY: r danaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003613
+10: KEY: r danaz *** Preferred name according to JSON Object -----> Danazol
+---------------------------------------------------------
+1: KEY: n digox *** RXCUI -----> 3407
+2: KEY: n digox *** Concept from RXNORM -----> Digoxin
+3: KEY: n digox *** Concept Type -----> IN
+4: KEY: n digox *** Drug mention in text -----> n digox
+5: KEY: n digox *** Source language -----> RXNORM
+6 KEY: n digox *** CUI CODE in original terminology -----> 3407
+7: KEY: n digox *** Final position in text according to JSON Object -----> 2210
+8: KEY: n digox *** Initial position according to JSON Object -----> 2204
+9: KEY: n digox *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: n digox *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 1211
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 1200
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 1211
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 1200
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: h simvastat *** RXCUI -----> 36567
+2: KEY: h simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: h simvastat *** Concept Type -----> IN
+4: KEY: h simvastat *** Drug mention in text -----> h simvastat
+5: KEY: h simvastat *** Source language -----> RXNORM
+6 KEY: h simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: h simvastat *** Final position in text according to JSON Object -----> 2168
+8: KEY: h simvastat *** Initial position according to JSON Object -----> 2158
+9: KEY: h simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: h simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: itraconazole *** RXCUI -----> 28031
+2: KEY: itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: itraconazole *** Concept Type -----> IN
+4: KEY: itraconazole *** Drug mention in text -----> itraconazole
+5: KEY: itraconazole *** Source language -----> MSH
+6 KEY: itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: itraconazole *** Final position in text according to JSON Object -----> 1197
+8: KEY: itraconazole *** Initial position according to JSON Object -----> 1186
+9: KEY: itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: simvastatin *** RXCUI -----> 36567
+2: KEY: simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: simvastatin *** Concept Type -----> IN
+4: KEY: simvastatin *** Drug mention in text -----> simvastatin
+5: KEY: simvastatin *** Source language -----> RXNORM
+6 KEY: simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: simvastatin *** Final position in text according to JSON Object -----> 642
+8: KEY: simvastatin *** Initial position according to JSON Object -----> 632
+9: KEY: simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: simvastatin *** RXCUI -----> 36567
+2: KEY: simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: simvastatin *** Concept Type -----> IN
+4: KEY: simvastatin *** Drug mention in text -----> simvastatin
+5: KEY: simvastatin *** Source language -----> RXNORM
+6 KEY: simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: simvastatin *** Final position in text according to JSON Object -----> 642
+8: KEY: simvastatin *** Initial position according to JSON Object -----> 632
+9: KEY: simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: simvastatin *** RXCUI -----> 36567
+2: KEY: simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: simvastatin *** Concept Type -----> IN
+4: KEY: simvastatin *** Drug mention in text -----> simvastatin
+5: KEY: simvastatin *** Source language -----> RXNORM
+6 KEY: simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: simvastatin *** Final position in text according to JSON Object -----> 642
+8: KEY: simvastatin *** Initial position according to JSON Object -----> 632
+9: KEY: simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: simvastatin *** RXCUI -----> 36567
+2: KEY: simvastatin *** Concept from RXNORM -----> Simvastatin
+3: KEY: simvastatin *** Concept Type -----> IN
+4: KEY: simvastatin *** Drug mention in text -----> simvastatin
+5: KEY: simvastatin *** Source language -----> RXNORM
+6 KEY: simvastatin *** CUI CODE in original terminology -----> 36567
+7: KEY: simvastatin *** Final position in text according to JSON Object -----> 642
+8: KEY: simvastatin *** Initial position according to JSON Object -----> 632
+9: KEY: simvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: simvastatin *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: g coumar *** RXCUI -----> 2898
+2: KEY: g coumar *** Concept from RXNORM -----> coumarin
+3: KEY: g coumar *** Concept Type -----> IN
+4: KEY: g coumar *** Drug mention in text -----> g coumar
+5: KEY: g coumar *** Source language -----> RXNORM
+6 KEY: g coumar *** CUI CODE in original terminology -----> 2898
+7: KEY: g coumar *** Final position in text according to JSON Object -----> 2891
+8: KEY: g coumar *** Initial position according to JSON Object -----> 2884
+9: KEY: g coumar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2898
+10: KEY: g coumar *** Preferred name according to JSON Object -----> coumarin
+---------------------------------------------------------
+1: KEY: gemfibrozil *** RXCUI -----> 4719
+2: KEY: gemfibrozil *** Concept from RXNORM -----> Gemfibrozil
+3: KEY: gemfibrozil *** Concept Type -----> IN
+4: KEY: gemfibrozil *** Drug mention in text -----> gemfibrozil
+5: KEY: gemfibrozil *** Source language -----> MSH
+6 KEY: gemfibrozil *** CUI CODE in original terminology -----> D015248
+7: KEY: gemfibrozil *** Final position in text according to JSON Object -----> 1468
+8: KEY: gemfibrozil *** Initial position according to JSON Object -----> 1458
+9: KEY: gemfibrozil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015248
+10: KEY: gemfibrozil *** Preferred name according to JSON Object -----> Gemfibrozil
+---------------------------------------------------------
+1: KEY: 4 Amiodaro *** RXCUI -----> 703
+2: KEY: 4 Amiodaro *** Concept from RXNORM -----> Amiodarone
+3: KEY: 4 Amiodaro *** Concept Type -----> IN
+4: KEY: 4 Amiodaro *** Drug mention in text -----> 4 Amiodaro
+5: KEY: 4 Amiodaro *** Source language -----> MSH
+6 KEY: 4 Amiodaro *** CUI CODE in original terminology -----> D000638
+7: KEY: 4 Amiodaro *** Final position in text according to JSON Object -----> 1894
+8: KEY: 4 Amiodaro *** Initial position according to JSON Object -----> 1885
+9: KEY: 4 Amiodaro *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000638
+10: KEY: 4 Amiodaro *** Preferred name according to JSON Object -----> Amiodarone
+---------------------------------------------------------
+1: KEY: n simvastat *** RXCUI -----> 36567
+2: KEY: n simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: n simvastat *** Concept Type -----> IN
+4: KEY: n simvastat *** Drug mention in text -----> n simvastat
+5: KEY: n simvastat *** Source language -----> RXNORM
+6 KEY: n simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: n simvastat *** Final position in text according to JSON Object -----> 2311
+8: KEY: n simvastat *** Initial position according to JSON Object -----> 2301
+9: KEY: n simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: n simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: g digox *** RXCUI -----> 3407
+2: KEY: g digox *** Concept from RXNORM -----> Digoxin
+3: KEY: g digox *** Concept Type -----> IN
+4: KEY: g digox *** Drug mention in text -----> g digox
+5: KEY: g digox *** Source language -----> RXNORM
+6 KEY: g digox *** CUI CODE in original terminology -----> 3407
+7: KEY: g digox *** Final position in text according to JSON Object -----> 2260
+8: KEY: g digox *** Initial position according to JSON Object -----> 2254
+9: KEY: g digox *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: g digox *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: clarithromycin *** RXCUI -----> 21212
+2: KEY: clarithromycin *** Concept from RXNORM -----> Clarithromycin
+3: KEY: clarithromycin *** Concept Type -----> IN
+4: KEY: clarithromycin *** Drug mention in text -----> clarithromycin
+5: KEY: clarithromycin *** Source language -----> RXNORM
+6 KEY: clarithromycin *** CUI CODE in original terminology -----> 21212
+7: KEY: clarithromycin *** Final position in text according to JSON Object -----> 1241
+8: KEY: clarithromycin *** Initial position according to JSON Object -----> 1228
+9: KEY: clarithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/21212
+10: KEY: clarithromycin *** Preferred name according to JSON Object -----> Clarithromycin
+---------------------------------------------------------
+1: KEY: clarithromycin *** RXCUI -----> 21212
+2: KEY: clarithromycin *** Concept from RXNORM -----> Clarithromycin
+3: KEY: clarithromycin *** Concept Type -----> IN
+4: KEY: clarithromycin *** Drug mention in text -----> clarithromycin
+5: KEY: clarithromycin *** Source language -----> RXNORM
+6 KEY: clarithromycin *** CUI CODE in original terminology -----> 21212
+7: KEY: clarithromycin *** Final position in text according to JSON Object -----> 1241
+8: KEY: clarithromycin *** Initial position according to JSON Object -----> 1228
+9: KEY: clarithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/21212
+10: KEY: clarithromycin *** Preferred name according to JSON Object -----> Clarithromycin
+---------------------------------------------------------
+1: KEY: n coumar *** RXCUI -----> 2898
+2: KEY: n coumar *** Concept from RXNORM -----> coumarin
+3: KEY: n coumar *** Concept Type -----> IN
+4: KEY: n coumar *** Drug mention in text -----> n coumar
+5: KEY: n coumar *** Source language -----> RXNORM
+6 KEY: n coumar *** CUI CODE in original terminology -----> 2898
+7: KEY: n coumar *** Final position in text according to JSON Object -----> 3266
+8: KEY: n coumar *** Initial position according to JSON Object -----> 3259
+9: KEY: n coumar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2898
+10: KEY: n coumar *** Preferred name according to JSON Object -----> coumarin
+---------------------------------------------------------
+1: KEY: r verapam *** RXCUI -----> 11170
+2: KEY: r verapam *** Concept from RXNORM -----> Verapamil
+3: KEY: r verapam *** Concept Type -----> IN
+4: KEY: r verapam *** Drug mention in text -----> r verapam
+5: KEY: r verapam *** Source language -----> RXNORM
+6 KEY: r verapam *** CUI CODE in original terminology -----> 11170
+7: KEY: r verapam *** Final position in text according to JSON Object -----> 2014
+8: KEY: r verapam *** Initial position according to JSON Object -----> 2006
+9: KEY: r verapam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: r verapam *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: g simvastat *** RXCUI -----> 36567
+2: KEY: g simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: g simvastat *** Concept Type -----> IN
+4: KEY: g simvastat *** Drug mention in text -----> g simvastat
+5: KEY: g simvastat *** Source language -----> RXNORM
+6 KEY: g simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: g simvastat *** Final position in text according to JSON Object -----> 3005
+8: KEY: g simvastat *** Initial position according to JSON Object -----> 2995
+9: KEY: g simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: g simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: telithromycin *** RXCUI -----> 274786
+2: KEY: telithromycin *** Concept from RXNORM -----> telithromycin
+3: KEY: telithromycin *** Concept Type -----> IN
+4: KEY: telithromycin *** Drug mention in text -----> telithromycin
+5: KEY: telithromycin *** Source language -----> RXNORM
+6 KEY: telithromycin *** CUI CODE in original terminology -----> 274786
+7: KEY: telithromycin *** Final position in text according to JSON Object -----> 1258
+8: KEY: telithromycin *** Initial position according to JSON Object -----> 1246
+9: KEY: telithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/274786
+10: KEY: telithromycin *** Preferred name according to JSON Object -----> telithromycin
+---------------------------------------------------------
+1: KEY: telithromycin *** RXCUI -----> 274786
+2: KEY: telithromycin *** Concept from RXNORM -----> telithromycin
+3: KEY: telithromycin *** Concept Type -----> IN
+4: KEY: telithromycin *** Drug mention in text -----> telithromycin
+5: KEY: telithromycin *** Source language -----> RXNORM
+6 KEY: telithromycin *** CUI CODE in original terminology -----> 274786
+7: KEY: telithromycin *** Final position in text according to JSON Object -----> 1258
+8: KEY: telithromycin *** Initial position according to JSON Object -----> 1246
+9: KEY: telithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/274786
+10: KEY: telithromycin *** Preferred name according to JSON Object -----> telithromycin
+---------------------------------------------------------
+1: KEY: r Danaz *** RXCUI -----> 3102
+2: KEY: r Danaz *** Concept from RXNORM -----> Danazol
+3: KEY: r Danaz *** Concept Type -----> IN
+4: KEY: r Danaz *** Drug mention in text -----> r Danaz
+5: KEY: r Danaz *** Source language -----> MSH
+6 KEY: r Danaz *** CUI CODE in original terminology -----> D003613
+7: KEY: r Danaz *** Final position in text according to JSON Object -----> 1654
+8: KEY: r Danaz *** Initial position according to JSON Object -----> 1648
+9: KEY: r Danaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003613
+10: KEY: r Danaz *** Preferred name according to JSON Object -----> Danazol
+---------------------------------------------------------
+1: KEY: f digox *** RXCUI -----> 3407
+2: KEY: f digox *** Concept from RXNORM -----> Digoxin
+3: KEY: f digox *** Concept Type -----> IN
+4: KEY: f digox *** Drug mention in text -----> f digox
+5: KEY: f digox *** Source language -----> RXNORM
+6 KEY: f digox *** CUI CODE in original terminology -----> 3407
+7: KEY: f digox *** Final position in text according to JSON Object -----> 2151
+8: KEY: f digox *** Initial position according to JSON Object -----> 2145
+9: KEY: f digox *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: f digox *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: , simvastat *** RXCUI -----> 36567
+2: KEY: , simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: , simvastat *** Concept Type -----> IN
+4: KEY: , simvastat *** Drug mention in text -----> , simvastat
+5: KEY: , simvastat *** Source language -----> RXNORM
+6 KEY: , simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: , simvastat *** Final position in text according to JSON Object -----> 2500
+8: KEY: , simvastat *** Initial position according to JSON Object -----> 2490
+9: KEY: , simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: , simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: f prothromb *** RXCUI -----> 1441688
+2: KEY: f prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: f prothromb *** Concept Type -----> IN
+4: KEY: f prothromb *** Drug mention in text -----> f prothromb
+5: KEY: f prothromb *** Source language -----> RXNORM
+6 KEY: f prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: f prothromb *** Final position in text according to JSON Object -----> 3104
+8: KEY: f prothromb *** Initial position according to JSON Object -----> 3094
+9: KEY: f prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: f prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: f simvastat *** RXCUI -----> 36567
+2: KEY: f simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: f simvastat *** Concept Type -----> IN
+4: KEY: f simvastat *** Drug mention in text -----> f simvastat
+5: KEY: f simvastat *** Source language -----> RXNORM
+6 KEY: f simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: f simvastat *** Final position in text according to JSON Object -----> 1807
+8: KEY: f simvastat *** Initial position according to JSON Object -----> 1797
+9: KEY: f simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: f simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: f simvastat *** RXCUI -----> 36567
+2: KEY: f simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: f simvastat *** Concept Type -----> IN
+4: KEY: f simvastat *** Drug mention in text -----> f simvastat
+5: KEY: f simvastat *** Source language -----> RXNORM
+6 KEY: f simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: f simvastat *** Final position in text according to JSON Object -----> 1807
+8: KEY: f simvastat *** Initial position according to JSON Object -----> 1797
+9: KEY: f simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: f simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: f simvastat *** RXCUI -----> 36567
+2: KEY: f simvastat *** Concept from RXNORM -----> Simvastatin
+3: KEY: f simvastat *** Concept Type -----> IN
+4: KEY: f simvastat *** Drug mention in text -----> f simvastat
+5: KEY: f simvastat *** Source language -----> RXNORM
+6 KEY: f simvastat *** CUI CODE in original terminology -----> 36567
+7: KEY: f simvastat *** Final position in text according to JSON Object -----> 1807
+8: KEY: f simvastat *** Initial position according to JSON Object -----> 1797
+9: KEY: f simvastat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/36567
+10: KEY: f simvastat *** Preferred name according to JSON Object -----> Simvastatin
+---------------------------------------------------------
+1: KEY: e prothromb *** RXCUI -----> 1441688
+2: KEY: e prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: e prothromb *** Concept Type -----> IN
+4: KEY: e prothromb *** Drug mention in text -----> e prothromb
+5: KEY: e prothromb *** Source language -----> RXNORM
+6 KEY: e prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: e prothromb *** Final position in text according to JSON Object -----> 2589
+8: KEY: e prothromb *** Initial position according to JSON Object -----> 2579
+9: KEY: e prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: e prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: e prothromb *** RXCUI -----> 1441688
+2: KEY: e prothromb *** Concept from RXNORM -----> Prothrombin
+3: KEY: e prothromb *** Concept Type -----> IN
+4: KEY: e prothromb *** Drug mention in text -----> e prothromb
+5: KEY: e prothromb *** Source language -----> RXNORM
+6 KEY: e prothromb *** CUI CODE in original terminology -----> 1441688
+7: KEY: e prothromb *** Final position in text according to JSON Object -----> 2589
+8: KEY: e prothromb *** Initial position according to JSON Object -----> 2579
+9: KEY: e prothromb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: e prothromb *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Final position in text according to JSON Object -----> 1225
+8: KEY: erythromycin *** Initial position according to JSON Object -----> 1214
+9: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Final position in text according to JSON Object -----> 1225
+8: KEY: erythromycin *** Initial position according to JSON Object -----> 1214
+9: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: f cyclospori *** RXCUI -----> 3008
+2: KEY: f cyclospori *** Concept from RXNORM -----> Cyclosporine
+3: KEY: f cyclospori *** Concept Type -----> IN
+4: KEY: f cyclospori *** Drug mention in text -----> f cyclospori
+5: KEY: f cyclospori *** Source language -----> MSH
+6 KEY: f cyclospori *** CUI CODE in original terminology -----> D016572
+7: KEY: f cyclospori *** Final position in text according to JSON Object -----> 1750
+8: KEY: f cyclospori *** Initial position according to JSON Object -----> 1739
+9: KEY: f cyclospori *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: f cyclospori *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: 6 Coumar *** RXCUI -----> 2898
+2: KEY: 6 Coumar *** Concept from RXNORM -----> coumarin
+3: KEY: 6 Coumar *** Concept Type -----> IN
+4: KEY: 6 Coumar *** Drug mention in text -----> 6 Coumar
+5: KEY: 6 Coumar *** Source language -----> RXNORM
+6 KEY: 6 Coumar *** CUI CODE in original terminology -----> 2898
+7: KEY: 6 Coumar *** Final position in text according to JSON Object -----> 2374
+8: KEY: 6 Coumar *** Initial position according to JSON Object -----> 2367
+9: KEY: 6 Coumar *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2898
+10: KEY: 6 Coumar *** Preferred name according to JSON Object -----> coumarin
+---------------------------------------------------------
+removed duplications 225
+Number of missed JSON elements: 0

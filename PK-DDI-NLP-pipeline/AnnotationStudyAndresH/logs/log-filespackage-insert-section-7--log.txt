@@ -1,0 +1,959 @@
+1: KEY: h risperido *** RXCUI -----> 35636
+2: KEY: h risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: h risperido *** Concept Type -----> TMSY
+4: KEY: h risperido *** Drug mention in text -----> h risperido
+5: KEY: h risperido *** Source language -----> RXNORM
+6 KEY: h risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: h risperido *** Final position in text according to JSON Object -----> 3883
+8: KEY: h risperido *** Initial position according to JSON Object -----> 3873
+9: KEY: h risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: h risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: 1 Carbamazepi *** RXCUI -----> 2002
+2: KEY: 1 Carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: 1 Carbamazepi *** Concept Type -----> TMSY
+4: KEY: 1 Carbamazepi *** Drug mention in text -----> 1 Carbamazepi
+5: KEY: 1 Carbamazepi *** Source language -----> MSH
+6 KEY: 1 Carbamazepi *** CUI CODE in original terminology -----> D002220
+7: KEY: 1 Carbamazepi *** Final position in text according to JSON Object -----> 3364
+8: KEY: 1 Carbamazepi *** Initial position according to JSON Object -----> 3352
+9: KEY: 1 Carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: 1 Carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: , risperido *** RXCUI -----> 35636
+2: KEY: , risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: , risperido *** Concept Type -----> TMSY
+4: KEY: , risperido *** Drug mention in text -----> , risperido
+5: KEY: , risperido *** Source language -----> RXNORM
+6 KEY: , risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: , risperido *** Final position in text according to JSON Object -----> 4353
+8: KEY: , risperido *** Initial position according to JSON Object -----> 4343
+9: KEY: , risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: , risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: , risperido *** RXCUI -----> 35636
+2: KEY: , risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: , risperido *** Concept Type -----> TMSY
+4: KEY: , risperido *** Drug mention in text -----> , risperido
+5: KEY: , risperido *** Source language -----> RXNORM
+6 KEY: , risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: , risperido *** Final position in text according to JSON Object -----> 4353
+8: KEY: , risperido *** Initial position according to JSON Object -----> 4343
+9: KEY: , risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: , risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: 
+
+Carbamazepi *** RXCUI -----> 2002
+2: KEY: 
+
+Carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: 
+
+Carbamazepi *** Concept Type -----> TMSY
+4: KEY: 
+
+Carbamazepi *** Drug mention in text -----> 
+
+Carbamazepi
+5: KEY: 
+
+Carbamazepi *** Source language -----> MSH
+6 KEY: 
+
+Carbamazepi *** CUI CODE in original terminology -----> D002220
+7: KEY: 
+
+Carbamazepi *** Final position in text according to JSON Object -----> 3405
+8: KEY: 
+
+Carbamazepi *** Initial position according to JSON Object -----> 3393
+9: KEY: 
+
+Carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: 
+
+Carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: f risperido *** RXCUI -----> 35636
+2: KEY: f risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: f risperido *** Concept Type -----> TMSY
+4: KEY: f risperido *** Drug mention in text -----> f risperido
+5: KEY: f risperido *** Source language -----> RXNORM
+6 KEY: f risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: f risperido *** Final position in text according to JSON Object -----> 4044
+8: KEY: f risperido *** Initial position according to JSON Object -----> 4034
+9: KEY: f risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: f risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: , rifamp *** RXCUI -----> 9384
+2: KEY: , rifamp *** Concept from RXNORM -----> Rifampin
+3: KEY: , rifamp *** Concept Type -----> IN
+4: KEY: , rifamp *** Drug mention in text -----> , rifamp
+5: KEY: , rifamp *** Source language -----> RXNORM
+6 KEY: , rifamp *** CUI CODE in original terminology -----> 9384
+7: KEY: , rifamp *** Final position in text according to JSON Object -----> 3846
+8: KEY: , rifamp *** Initial position according to JSON Object -----> 3839
+9: KEY: , rifamp *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: , rifamp *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 801
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 792
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: Amitriptyline *** RXCUI -----> 704
+2: KEY: Amitriptyline *** Concept from RXNORM -----> Amitriptyline
+3: KEY: Amitriptyline *** Concept Type -----> IN
+4: KEY: Amitriptyline *** Drug mention in text -----> Amitriptyline
+5: KEY: Amitriptyline *** Source language -----> RXNORM
+6 KEY: Amitriptyline *** CUI CODE in original terminology -----> 704
+7: KEY: Amitriptyline *** Final position in text according to JSON Object -----> 547
+8: KEY: Amitriptyline *** Initial position according to JSON Object -----> 535
+9: KEY: Amitriptyline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/704
+10: KEY: Amitriptyline *** Preferred name according to JSON Object -----> Amitriptyline
+---------------------------------------------------------
+1: KEY: Amitriptyline *** RXCUI -----> 704
+2: KEY: Amitriptyline *** Concept from RXNORM -----> Amitriptyline
+3: KEY: Amitriptyline *** Concept Type -----> IN
+4: KEY: Amitriptyline *** Drug mention in text -----> Amitriptyline
+5: KEY: Amitriptyline *** Source language -----> RXNORM
+6 KEY: Amitriptyline *** CUI CODE in original terminology -----> 704
+7: KEY: Amitriptyline *** Final position in text according to JSON Object -----> 547
+8: KEY: Amitriptyline *** Initial position according to JSON Object -----> 535
+9: KEY: Amitriptyline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/704
+10: KEY: Amitriptyline *** Preferred name according to JSON Object -----> Amitriptyline
+---------------------------------------------------------
+1: KEY: d paroxeti *** RXCUI -----> 32937
+2: KEY: d paroxeti *** Concept from RXNORM -----> PARoxetine
+3: KEY: d paroxeti *** Concept Type -----> TMSY
+4: KEY: d paroxeti *** Drug mention in text -----> d paroxeti
+5: KEY: d paroxeti *** Source language -----> MSH
+6 KEY: d paroxeti *** CUI CODE in original terminology -----> D017374
+7: KEY: d paroxeti *** Final position in text according to JSON Object -----> 2663
+8: KEY: d paroxeti *** Initial position according to JSON Object -----> 2654
+9: KEY: d paroxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: d paroxeti *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: , phenyto *** RXCUI -----> 8183
+2: KEY: , phenyto *** Concept from RXNORM -----> Phenytoin
+3: KEY: , phenyto *** Concept Type -----> IN
+4: KEY: , phenyto *** Drug mention in text -----> , phenyto
+5: KEY: , phenyto *** Source language -----> MSH
+6 KEY: , phenyto *** CUI CODE in original terminology -----> D010672
+7: KEY: , phenyto *** Final position in text according to JSON Object -----> 3836
+8: KEY: , phenyto *** Initial position according to JSON Object -----> 3828
+9: KEY: , phenyto *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: , phenyto *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: f 9-hydroxyrisperido *** RXCUI -----> 679314
+2: KEY: f 9-hydroxyrisperido *** Concept from RXNORM -----> paliperidone
+3: KEY: f 9-hydroxyrisperido *** Concept Type -----> IN
+4: KEY: f 9-hydroxyrisperido *** Drug mention in text -----> f 9-hydroxyrisperido
+5: KEY: f 9-hydroxyrisperido *** Source language -----> MSH
+6 KEY: f 9-hydroxyrisperido *** CUI CODE in original terminology -----> C079150
+7: KEY: f 9-hydroxyrisperido *** Final position in text according to JSON Object -----> 2934
+8: KEY: f 9-hydroxyrisperido *** Initial position according to JSON Object -----> 2915
+9: KEY: f 9-hydroxyrisperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: f 9-hydroxyrisperido *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: f 9-hydroxyrisperido *** RXCUI -----> 679314
+2: KEY: f 9-hydroxyrisperido *** Concept from RXNORM -----> paliperidone
+3: KEY: f 9-hydroxyrisperido *** Concept Type -----> IN
+4: KEY: f 9-hydroxyrisperido *** Drug mention in text -----> f 9-hydroxyrisperido
+5: KEY: f 9-hydroxyrisperido *** Source language -----> MSH
+6 KEY: f 9-hydroxyrisperido *** CUI CODE in original terminology -----> C079150
+7: KEY: f 9-hydroxyrisperido *** Final position in text according to JSON Object -----> 2934
+8: KEY: f 9-hydroxyrisperido *** Initial position according to JSON Object -----> 2915
+9: KEY: f 9-hydroxyrisperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: f 9-hydroxyrisperido *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: d galantami *** RXCUI -----> 4637
+2: KEY: d galantami *** Concept from RXNORM -----> Galantamine
+3: KEY: d galantami *** Concept Type -----> IN
+4: KEY: d galantami *** Drug mention in text -----> d galantami
+5: KEY: d galantami *** Source language -----> RXNORM
+6 KEY: d galantami *** CUI CODE in original terminology -----> 4637
+7: KEY: d galantami *** Final position in text according to JSON Object -----> 4432
+8: KEY: d galantami *** Initial position according to JSON Object -----> 4422
+9: KEY: d galantami *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4637
+10: KEY: d galantami *** Preferred name according to JSON Object -----> Galantamine
+---------------------------------------------------------
+1: KEY: f carbamazepi *** RXCUI -----> 2002
+2: KEY: f carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: f carbamazepi *** Concept Type -----> TMSY
+4: KEY: f carbamazepi *** Drug mention in text -----> f carbamazepi
+5: KEY: f carbamazepi *** Source language -----> MSH
+6 KEY: f carbamazepi *** CUI CODE in original terminology -----> D002220
+7: KEY: f carbamazepi *** Final position in text according to JSON Object -----> 3565
+8: KEY: f carbamazepi *** Initial position according to JSON Object -----> 3553
+9: KEY: f carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: f carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: f carbamazepi *** RXCUI -----> 2002
+2: KEY: f carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: f carbamazepi *** Concept Type -----> TMSY
+4: KEY: f carbamazepi *** Drug mention in text -----> f carbamazepi
+5: KEY: f carbamazepi *** Source language -----> MSH
+6 KEY: f carbamazepi *** CUI CODE in original terminology -----> D002220
+7: KEY: f carbamazepi *** Final position in text according to JSON Object -----> 3565
+8: KEY: f carbamazepi *** Initial position according to JSON Object -----> 3553
+9: KEY: f carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: f carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: Risperidone *** RXCUI -----> 35636
+2: KEY: Risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: Risperidone *** Concept Type -----> TMSY
+4: KEY: Risperidone *** Drug mention in text -----> Risperidone
+5: KEY: Risperidone *** Source language -----> RXNORM
+6 KEY: Risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: Risperidone *** Final position in text according to JSON Object -----> 451
+8: KEY: Risperidone *** Initial position according to JSON Object -----> 441
+9: KEY: Risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: Risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: Risperidone *** RXCUI -----> 35636
+2: KEY: Risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: Risperidone *** Concept Type -----> TMSY
+4: KEY: Risperidone *** Drug mention in text -----> Risperidone
+5: KEY: Risperidone *** Source language -----> RXNORM
+6 KEY: Risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: Risperidone *** Final position in text according to JSON Object -----> 451
+8: KEY: Risperidone *** Initial position according to JSON Object -----> 441
+9: KEY: Risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: Risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: Risperidone *** RXCUI -----> 35636
+2: KEY: Risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: Risperidone *** Concept Type -----> TMSY
+4: KEY: Risperidone *** Drug mention in text -----> Risperidone
+5: KEY: Risperidone *** Source language -----> RXNORM
+6 KEY: Risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: Risperidone *** Final position in text according to JSON Object -----> 451
+8: KEY: Risperidone *** Initial position according to JSON Object -----> 441
+9: KEY: Risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: Risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: Valproate *** RXCUI -----> 40254
+2: KEY: Valproate *** Concept from RXNORM -----> Valproate
+3: KEY: Valproate *** Concept Type -----> IN
+4: KEY: Valproate *** Drug mention in text -----> Valproate
+5: KEY: Valproate *** Source language -----> RXNORM
+6 KEY: Valproate *** CUI CODE in original terminology -----> 40254
+7: KEY: Valproate *** Final position in text according to JSON Object -----> 1253
+8: KEY: Valproate *** Initial position according to JSON Object -----> 1245
+9: KEY: Valproate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40254
+10: KEY: Valproate *** Preferred name according to JSON Object -----> Valproate
+---------------------------------------------------------
+1: KEY: r paroxeti *** RXCUI -----> 32937
+2: KEY: r paroxeti *** Concept from RXNORM -----> PARoxetine
+3: KEY: r paroxeti *** Concept Type -----> TMSY
+4: KEY: r paroxeti *** Drug mention in text -----> r paroxeti
+5: KEY: r paroxeti *** Source language -----> MSH
+6 KEY: r paroxeti *** CUI CODE in original terminology -----> D017374
+7: KEY: r paroxeti *** Final position in text according to JSON Object -----> 3158
+8: KEY: r paroxeti *** Initial position according to JSON Object -----> 3149
+9: KEY: r paroxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: r paroxeti *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: r paroxeti *** RXCUI -----> 32937
+2: KEY: r paroxeti *** Concept from RXNORM -----> PARoxetine
+3: KEY: r paroxeti *** Concept Type -----> TMSY
+4: KEY: r paroxeti *** Drug mention in text -----> r paroxeti
+5: KEY: r paroxeti *** Source language -----> MSH
+6 KEY: r paroxeti *** CUI CODE in original terminology -----> D017374
+7: KEY: r paroxeti *** Final position in text according to JSON Object -----> 3158
+8: KEY: r paroxeti *** Initial position according to JSON Object -----> 3149
+9: KEY: r paroxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: r paroxeti *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 1719
+8: KEY: digoxin *** Initial position according to JSON Object -----> 1713
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: d Paroxeti *** RXCUI -----> 32937
+2: KEY: d Paroxeti *** Concept from RXNORM -----> PARoxetine
+3: KEY: d Paroxeti *** Concept Type -----> TMSY
+4: KEY: d Paroxeti *** Drug mention in text -----> d Paroxeti
+5: KEY: d Paroxeti *** Source language -----> MSH
+6 KEY: d Paroxeti *** CUI CODE in original terminology -----> D017374
+7: KEY: d Paroxeti *** Final position in text according to JSON Object -----> 2617
+8: KEY: d Paroxeti *** Initial position according to JSON Object -----> 2608
+9: KEY: d Paroxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: d Paroxeti *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: . Paroxeti *** RXCUI -----> 32937
+2: KEY: . Paroxeti *** Concept from RXNORM -----> PARoxetine
+3: KEY: . Paroxeti *** Concept Type -----> TMSY
+4: KEY: . Paroxeti *** Drug mention in text -----> . Paroxeti
+5: KEY: . Paroxeti *** Source language -----> MSH
+6 KEY: . Paroxeti *** CUI CODE in original terminology -----> D017374
+7: KEY: . Paroxeti *** Final position in text according to JSON Object -----> 2884
+8: KEY: . Paroxeti *** Initial position according to JSON Object -----> 2875
+9: KEY: . Paroxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: . Paroxeti *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: f donepez *** RXCUI -----> 0
+2: KEY: f donepez *** Concept from RXNORM -----> ()
+3: KEY: f donepez *** Concept Type -----> ()
+4: KEY: f donepez *** Drug mention in text -----> f donepez
+5: KEY: f donepez *** Source language -----> MSH
+6 KEY: f donepez *** CUI CODE in original terminology -----> C076946
+7: KEY: f donepez *** Final position in text according to JSON Object -----> 4416
+8: KEY: f donepez *** Initial position according to JSON Object -----> 4408
+9: KEY: f donepez *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C076946
+10: KEY: f donepez *** Preferred name according to JSON Object -----> donepezil
+---------------------------------------------------------
+1: KEY: Ranitidine *** RXCUI -----> 9143
+2: KEY: Ranitidine *** Concept from RXNORM -----> Ranitidine
+3: KEY: Ranitidine *** Concept Type -----> IN
+4: KEY: Ranitidine *** Drug mention in text -----> Ranitidine
+5: KEY: Ranitidine *** Source language -----> MSH
+6 KEY: Ranitidine *** CUI CODE in original terminology -----> D011899
+7: KEY: Ranitidine *** Final position in text according to JSON Object -----> 679
+8: KEY: Ranitidine *** Initial position according to JSON Object -----> 670
+9: KEY: Ranitidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: Ranitidine *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: risperidone *** RXCUI -----> 35636
+2: KEY: risperidone *** Concept from RXNORM -----> risperiDONE
+3: KEY: risperidone *** Concept Type -----> TMSY
+4: KEY: risperidone *** Drug mention in text -----> risperidone
+5: KEY: risperidone *** Source language -----> RXNORM
+6 KEY: risperidone *** CUI CODE in original terminology -----> 35636
+7: KEY: risperidone *** Final position in text according to JSON Object -----> 751
+8: KEY: risperidone *** Initial position according to JSON Object -----> 741
+9: KEY: risperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: risperidone *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: valproate *** RXCUI -----> 40254
+2: KEY: valproate *** Concept from RXNORM -----> Valproate
+3: KEY: valproate *** Concept Type -----> IN
+4: KEY: valproate *** Drug mention in text -----> valproate
+5: KEY: valproate *** Source language -----> RXNORM
+6 KEY: valproate *** CUI CODE in original terminology -----> 40254
+7: KEY: valproate *** Final position in text according to JSON Object -----> 1512
+8: KEY: valproate *** Initial position according to JSON Object -----> 1504
+9: KEY: valproate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40254
+10: KEY: valproate *** Preferred name according to JSON Object -----> Valproate
+---------------------------------------------------------
+1: KEY: valproate *** RXCUI -----> 40254
+2: KEY: valproate *** Concept from RXNORM -----> Valproate
+3: KEY: valproate *** Concept Type -----> IN
+4: KEY: valproate *** Drug mention in text -----> valproate
+5: KEY: valproate *** Source language -----> RXNORM
+6 KEY: valproate *** CUI CODE in original terminology -----> 40254
+7: KEY: valproate *** Final position in text according to JSON Object -----> 1512
+8: KEY: valproate *** Initial position according to JSON Object -----> 1504
+9: KEY: valproate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40254
+10: KEY: valproate *** Preferred name according to JSON Object -----> Valproate
+---------------------------------------------------------
+1: KEY: Clozapine *** RXCUI -----> 2626
+2: KEY: Clozapine *** Concept from RXNORM -----> cloZAPine
+3: KEY: Clozapine *** Concept Type -----> TMSY
+4: KEY: Clozapine *** Drug mention in text -----> Clozapine
+5: KEY: Clozapine *** Source language -----> MSH
+6 KEY: Clozapine *** CUI CODE in original terminology -----> D003024
+7: KEY: Clozapine *** Final position in text according to JSON Object -----> 983
+8: KEY: Clozapine *** Initial position according to JSON Object -----> 975
+9: KEY: Clozapine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003024
+10: KEY: Clozapine *** Preferred name according to JSON Object -----> Clozapine
+---------------------------------------------------------
+1: KEY: : Fluoxeti *** RXCUI -----> 4493
+2: KEY: : Fluoxeti *** Concept from RXNORM -----> Fluoxetine
+3: KEY: : Fluoxeti *** Concept Type -----> IN
+4: KEY: : Fluoxeti *** Drug mention in text -----> : Fluoxeti
+5: KEY: : Fluoxeti *** Source language -----> MSH
+6 KEY: : Fluoxeti *** CUI CODE in original terminology -----> D005473
+7: KEY: : Fluoxeti *** Final position in text according to JSON Object -----> 2629
+8: KEY: : Fluoxeti *** Initial position according to JSON Object -----> 2620
+9: KEY: : Fluoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: : Fluoxeti *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: t fluoxeti *** RXCUI -----> 4493
+2: KEY: t fluoxeti *** Concept from RXNORM -----> Fluoxetine
+3: KEY: t fluoxeti *** Concept Type -----> IN
+4: KEY: t fluoxeti *** Drug mention in text -----> t fluoxeti
+5: KEY: t fluoxeti *** Source language -----> MSH
+6 KEY: t fluoxeti *** CUI CODE in original terminology -----> D005473
+7: KEY: t fluoxeti *** Final position in text according to JSON Object -----> 2983
+8: KEY: t fluoxeti *** Initial position according to JSON Object -----> 2974
+9: KEY: t fluoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: t fluoxeti *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: t fluoxeti *** RXCUI -----> 4493
+2: KEY: t fluoxeti *** Concept from RXNORM -----> Fluoxetine
+3: KEY: t fluoxeti *** Concept Type -----> IN
+4: KEY: t fluoxeti *** Drug mention in text -----> t fluoxeti
+5: KEY: t fluoxeti *** Source language -----> MSH
+6 KEY: t fluoxeti *** CUI CODE in original terminology -----> D005473
+7: KEY: t fluoxeti *** Final position in text according to JSON Object -----> 2983
+8: KEY: t fluoxeti *** Initial position according to JSON Object -----> 2974
+9: KEY: t fluoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: t fluoxeti *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: n risperido *** RXCUI -----> 35636
+2: KEY: n risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: n risperido *** Concept Type -----> TMSY
+4: KEY: n risperido *** Drug mention in text -----> n risperido
+5: KEY: n risperido *** Source language -----> RXNORM
+6 KEY: n risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: n risperido *** Final position in text according to JSON Object -----> 3326
+8: KEY: n risperido *** Initial position according to JSON Object -----> 3316
+9: KEY: n risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: n risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: ranitidine *** RXCUI -----> 9143
+2: KEY: ranitidine *** Concept from RXNORM -----> Ranitidine
+3: KEY: ranitidine *** Concept Type -----> IN
+4: KEY: ranitidine *** Drug mention in text -----> ranitidine
+5: KEY: ranitidine *** Source language -----> MSH
+6 KEY: ranitidine *** CUI CODE in original terminology -----> D011899
+7: KEY: ranitidine *** Final position in text according to JSON Object -----> 893
+8: KEY: ranitidine *** Initial position according to JSON Object -----> 884
+9: KEY: ranitidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: ranitidine *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: ranitidine *** RXCUI -----> 9143
+2: KEY: ranitidine *** Concept from RXNORM -----> Ranitidine
+3: KEY: ranitidine *** Concept Type -----> IN
+4: KEY: ranitidine *** Drug mention in text -----> ranitidine
+5: KEY: ranitidine *** Source language -----> MSH
+6 KEY: ranitidine *** CUI CODE in original terminology -----> D011899
+7: KEY: ranitidine *** Final position in text according to JSON Object -----> 893
+8: KEY: ranitidine *** Initial position according to JSON Object -----> 884
+9: KEY: ranitidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: ranitidine *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: d 9-hydroxyrisperido *** RXCUI -----> 679314
+2: KEY: d 9-hydroxyrisperido *** Concept from RXNORM -----> paliperidone
+3: KEY: d 9-hydroxyrisperido *** Concept Type -----> IN
+4: KEY: d 9-hydroxyrisperido *** Drug mention in text -----> d 9-hydroxyrisperido
+5: KEY: d 9-hydroxyrisperido *** Source language -----> MSH
+6 KEY: d 9-hydroxyrisperido *** CUI CODE in original terminology -----> C079150
+7: KEY: d 9-hydroxyrisperido *** Final position in text according to JSON Object -----> 3512
+8: KEY: d 9-hydroxyrisperido *** Initial position according to JSON Object -----> 3493
+9: KEY: d 9-hydroxyrisperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: d 9-hydroxyrisperido *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: d 9-hydroxyrisperido *** RXCUI -----> 679314
+2: KEY: d 9-hydroxyrisperido *** Concept from RXNORM -----> paliperidone
+3: KEY: d 9-hydroxyrisperido *** Concept Type -----> IN
+4: KEY: d 9-hydroxyrisperido *** Drug mention in text -----> d 9-hydroxyrisperido
+5: KEY: d 9-hydroxyrisperido *** Source language -----> MSH
+6 KEY: d 9-hydroxyrisperido *** CUI CODE in original terminology -----> C079150
+7: KEY: d 9-hydroxyrisperido *** Final position in text according to JSON Object -----> 3512
+8: KEY: d 9-hydroxyrisperido *** Initial position according to JSON Object -----> 3493
+9: KEY: d 9-hydroxyrisperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: d 9-hydroxyrisperido *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: d 9-hydroxyrisperido *** RXCUI -----> 679314
+2: KEY: d 9-hydroxyrisperido *** Concept from RXNORM -----> paliperidone
+3: KEY: d 9-hydroxyrisperido *** Concept Type -----> IN
+4: KEY: d 9-hydroxyrisperido *** Drug mention in text -----> d 9-hydroxyrisperido
+5: KEY: d 9-hydroxyrisperido *** Source language -----> MSH
+6 KEY: d 9-hydroxyrisperido *** CUI CODE in original terminology -----> C079150
+7: KEY: d 9-hydroxyrisperido *** Final position in text according to JSON Object -----> 3512
+8: KEY: d 9-hydroxyrisperido *** Initial position according to JSON Object -----> 3493
+9: KEY: d 9-hydroxyrisperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: d 9-hydroxyrisperido *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 
+
+Fluoxeti *** RXCUI -----> 4493
+2: KEY: 
+
+Fluoxeti *** Concept from RXNORM -----> Fluoxetine
+3: KEY: 
+
+Fluoxeti *** Concept Type -----> IN
+4: KEY: 
+
+Fluoxeti *** Drug mention in text -----> 
+
+Fluoxeti
+5: KEY: 
+
+Fluoxeti *** Source language -----> MSH
+6 KEY: 
+
+Fluoxeti *** CUI CODE in original terminology -----> D005473
+7: KEY: 
+
+Fluoxeti *** Final position in text according to JSON Object -----> 2602
+8: KEY: 
+
+Fluoxeti *** Initial position according to JSON Object -----> 2593
+9: KEY: 
+
+Fluoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: 
+
+Fluoxeti *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: 9-hydroxyrisperidone *** RXCUI -----> 679314
+2: KEY: 9-hydroxyrisperidone *** Concept from RXNORM -----> paliperidone
+3: KEY: 9-hydroxyrisperidone *** Concept Type -----> IN
+4: KEY: 9-hydroxyrisperidone *** Drug mention in text -----> 9-hydroxyrisperidone
+5: KEY: 9-hydroxyrisperidone *** Source language -----> MSH
+6 KEY: 9-hydroxyrisperidone *** CUI CODE in original terminology -----> C079150
+7: KEY: 9-hydroxyrisperidone *** Final position in text according to JSON Object -----> 2184
+8: KEY: 9-hydroxyrisperidone *** Initial position according to JSON Object -----> 2165
+9: KEY: 9-hydroxyrisperidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C079150
+10: KEY: 9-hydroxyrisperidone *** Preferred name according to JSON Object -----> 9-hydroxy-risperidone
+---------------------------------------------------------
+1: KEY: Levodopa *** RXCUI -----> 6375
+2: KEY: Levodopa *** Concept from RXNORM -----> Levodopa
+3: KEY: Levodopa *** Concept Type -----> IN
+4: KEY: Levodopa *** Drug mention in text -----> Levodopa
+5: KEY: Levodopa *** Source language -----> MSH
+6 KEY: Levodopa *** CUI CODE in original terminology -----> D007980
+7: KEY: Levodopa *** Final position in text according to JSON Object -----> 416
+8: KEY: Levodopa *** Initial position according to JSON Object -----> 409
+9: KEY: Levodopa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007980
+10: KEY: Levodopa *** Preferred name according to JSON Object -----> Levodopa
+---------------------------------------------------------
+1: KEY: clozapine *** RXCUI -----> 2626
+2: KEY: clozapine *** Concept from RXNORM -----> cloZAPine
+3: KEY: clozapine *** Concept Type -----> TMSY
+4: KEY: clozapine *** Drug mention in text -----> clozapine
+5: KEY: clozapine *** Source language -----> MSH
+6 KEY: clozapine *** CUI CODE in original terminology -----> D003024
+7: KEY: clozapine *** Final position in text according to JSON Object -----> 1020
+8: KEY: clozapine *** Initial position according to JSON Object -----> 1012
+9: KEY: clozapine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003024
+10: KEY: clozapine *** Preferred name according to JSON Object -----> Clozapine
+---------------------------------------------------------
+1: KEY: levodopa *** RXCUI -----> 6375
+2: KEY: levodopa *** Concept from RXNORM -----> Levodopa
+3: KEY: levodopa *** Concept Type -----> IN
+4: KEY: levodopa *** Drug mention in text -----> levodopa
+5: KEY: levodopa *** Source language -----> MSH
+6 KEY: levodopa *** CUI CODE in original terminology -----> D007980
+7: KEY: levodopa *** Final position in text according to JSON Object -----> 490
+8: KEY: levodopa *** Initial position according to JSON Object -----> 483
+9: KEY: levodopa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007980
+10: KEY: levodopa *** Preferred name according to JSON Object -----> Levodopa
+---------------------------------------------------------
+1: KEY: Digoxin *** RXCUI -----> 3407
+2: KEY: Digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: Digoxin *** Concept Type -----> IN
+4: KEY: Digoxin *** Drug mention in text -----> Digoxin
+5: KEY: Digoxin *** Source language -----> RXNORM
+6 KEY: Digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: Digoxin *** Final position in text according to JSON Object -----> 1607
+8: KEY: Digoxin *** Initial position according to JSON Object -----> 1601
+9: KEY: Digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: Digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: t risperido *** RXCUI -----> 35636
+2: KEY: t risperido *** Concept from RXNORM -----> risperiDONE
+3: KEY: t risperido *** Concept Type -----> TMSY
+4: KEY: t risperido *** Drug mention in text -----> t risperido
+5: KEY: t risperido *** Source language -----> RXNORM
+6 KEY: t risperido *** CUI CODE in original terminology -----> 35636
+7: KEY: t risperido *** Final position in text according to JSON Object -----> 4134
+8: KEY: t risperido *** Initial position according to JSON Object -----> 4124
+9: KEY: t risperido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35636
+10: KEY: t risperido *** Preferred name according to JSON Object -----> Risperidone
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 691
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 682
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 691
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 682
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: d erythromyc *** RXCUI -----> 4053
+2: KEY: d erythromyc *** Concept from RXNORM -----> Erythromycin
+3: KEY: d erythromyc *** Concept Type -----> IN
+4: KEY: d erythromyc *** Drug mention in text -----> d erythromyc
+5: KEY: d erythromyc *** Source language -----> MSH
+6 KEY: d erythromyc *** CUI CODE in original terminology -----> D004917
+7: KEY: d erythromyc *** Final position in text according to JSON Object -----> 3343
+8: KEY: d erythromyc *** Initial position according to JSON Object -----> 3332
+9: KEY: d erythromyc *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: d erythromyc *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: g carbamazepi *** RXCUI -----> 2002
+2: KEY: g carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: g carbamazepi *** Concept Type -----> TMSY
+4: KEY: g carbamazepi *** Drug mention in text -----> g carbamazepi
+5: KEY: g carbamazepi *** Source language -----> MSH
+6 KEY: g carbamazepi *** CUI CODE in original terminology -----> D002220
+7: KEY: g carbamazepi *** Final position in text according to JSON Object -----> 3693
+8: KEY: g carbamazepi *** Initial position according to JSON Object -----> 3681
+9: KEY: g carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: g carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: 
+
+Erythromyc *** RXCUI -----> 4053
+2: KEY: 
+
+Erythromyc *** Concept from RXNORM -----> Erythromycin
+3: KEY: 
+
+Erythromyc *** Concept Type -----> IN
+4: KEY: 
+
+Erythromyc *** Drug mention in text -----> 
+
+Erythromyc
+5: KEY: 
+
+Erythromyc *** Source language -----> MSH
+6 KEY: 
+
+Erythromyc *** CUI CODE in original terminology -----> D004917
+7: KEY: 
+
+Erythromyc *** Final position in text according to JSON Object -----> 3267
+8: KEY: 
+
+Erythromyc *** Initial position according to JSON Object -----> 3256
+9: KEY: 
+
+Erythromyc *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: 
+
+Erythromyc *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: d phenobarbit *** RXCUI -----> 8134
+2: KEY: d phenobarbit *** Concept from RXNORM -----> Phenobarbital
+3: KEY: d phenobarbit *** Concept Type -----> IN
+4: KEY: d phenobarbit *** Drug mention in text -----> d phenobarbit
+5: KEY: d phenobarbit *** Source language -----> MSH
+6 KEY: d phenobarbit *** CUI CODE in original terminology -----> D010634
+7: KEY: d phenobarbit *** Final position in text according to JSON Object -----> 3865
+8: KEY: d phenobarbit *** Initial position according to JSON Object -----> 3853
+9: KEY: d phenobarbit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010634
+10: KEY: d phenobarbit *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: . Fluoxeti *** RXCUI -----> 4493
+2: KEY: . Fluoxeti *** Concept from RXNORM -----> Fluoxetine
+3: KEY: . Fluoxeti *** Concept Type -----> IN
+4: KEY: . Fluoxeti *** Drug mention in text -----> . Fluoxeti
+5: KEY: . Fluoxeti *** Source language -----> MSH
+6 KEY: . Fluoxeti *** CUI CODE in original terminology -----> D005473
+7: KEY: . Fluoxeti *** Final position in text according to JSON Object -----> 2808
+8: KEY: . Fluoxeti *** Initial position according to JSON Object -----> 2799
+9: KEY: . Fluoxeti *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: . Fluoxeti *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+removed duplications 421
+Number of missed JSON elements: 0

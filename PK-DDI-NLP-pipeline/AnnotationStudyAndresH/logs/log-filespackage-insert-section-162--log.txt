@@ -1,0 +1,57 @@
+1: KEY: clavulanate potassium *** RXCUI -----> 48203
+2: KEY: clavulanate potassium *** Concept from RXNORM -----> (('Clavulanate',),)
+3: KEY: clavulanate potassium *** Concept Type -----> (('IN',),)
+4: KEY: clavulanate potassium *** Drug mention in text -----> clavulanate potassium
+5: KEY: clavulanate potassium *** Source language -----> RXNORM
+6 KEY: clavulanate potassium *** CUI CODE in original terminology -----> 831418
+7: KEY: clavulanate potassium *** Final position in text according to JSON Object -----> 177
+8: KEY: clavulanate potassium *** Initial position according to JSON Object -----> 157
+9: KEY: clavulanate potassium *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/831418
+10: KEY: clavulanate potassium *** Preferred name according to JSON Object -----> clavulanate potassium
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> MSH
+6 KEY: azithromycin *** CUI CODE in original terminology -----> D017963
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 127
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 116
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017963
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> MSH
+6 KEY: azithromycin *** CUI CODE in original terminology -----> D017963
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 127
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 116
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017963
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: azithromycin *** RXCUI -----> 18631
+2: KEY: azithromycin *** Concept from RXNORM -----> Azithromycin
+3: KEY: azithromycin *** Concept Type -----> IN
+4: KEY: azithromycin *** Drug mention in text -----> azithromycin
+5: KEY: azithromycin *** Source language -----> MSH
+6 KEY: azithromycin *** CUI CODE in original terminology -----> D017963
+7: KEY: azithromycin *** Final position in text according to JSON Object -----> 127
+8: KEY: azithromycin *** Initial position according to JSON Object -----> 116
+9: KEY: azithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017963
+10: KEY: azithromycin *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: amoxicillin *** RXCUI -----> 723
+2: KEY: amoxicillin *** Concept from RXNORM -----> Amoxicillin
+3: KEY: amoxicillin *** Concept Type -----> IN
+4: KEY: amoxicillin *** Drug mention in text -----> amoxicillin
+5: KEY: amoxicillin *** Source language -----> MSH
+6 KEY: amoxicillin *** CUI CODE in original terminology -----> D000658
+7: KEY: amoxicillin *** Final position in text according to JSON Object -----> 155
+8: KEY: amoxicillin *** Initial position according to JSON Object -----> 145
+9: KEY: amoxicillin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000658
+10: KEY: amoxicillin *** Preferred name according to JSON Object -----> Amoxicillin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,46 @@
+1: KEY: diltiazem *** RXCUI -----> 3443
+2: KEY: diltiazem *** Concept from RXNORM -----> Diltiazem
+3: KEY: diltiazem *** Concept Type -----> IN
+4: KEY: diltiazem *** Drug mention in text -----> diltiazem
+5: KEY: diltiazem *** Source language -----> MSH
+6 KEY: diltiazem *** CUI CODE in original terminology -----> D004110
+7: KEY: diltiazem *** Final position in text according to JSON Object -----> 139
+8: KEY: diltiazem *** Initial position according to JSON Object -----> 131
+9: KEY: diltiazem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004110
+10: KEY: diltiazem *** Preferred name according to JSON Object -----> Diltiazem
+---------------------------------------------------------
+1: KEY: Diltiazem *** RXCUI -----> 3443
+2: KEY: Diltiazem *** Concept from RXNORM -----> Diltiazem
+3: KEY: Diltiazem *** Concept Type -----> IN
+4: KEY: Diltiazem *** Drug mention in text -----> Diltiazem
+5: KEY: Diltiazem *** Source language -----> MSH
+6 KEY: Diltiazem *** CUI CODE in original terminology -----> D004110
+7: KEY: Diltiazem *** Final position in text according to JSON Object -----> 9
+8: KEY: Diltiazem *** Initial position according to JSON Object -----> 1
+9: KEY: Diltiazem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004110
+10: KEY: Diltiazem *** Preferred name according to JSON Object -----> Diltiazem
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> MSH
+6 KEY: quinidine *** CUI CODE in original terminology -----> D011802
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 98
+8: KEY: quinidine *** Initial position according to JSON Object -----> 90
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011802
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> MSH
+6 KEY: quinidine *** CUI CODE in original terminology -----> D011802
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 98
+8: KEY: quinidine *** Initial position according to JSON Object -----> 90
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011802
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

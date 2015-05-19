@@ -1,0 +1,35 @@
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 40
+8: KEY: desipramine *** Initial position according to JSON Object -----> 30
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: Desipramine *** RXCUI -----> 3247
+2: KEY: Desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: Desipramine *** Concept Type -----> IN
+4: KEY: Desipramine *** Drug mention in text -----> Desipramine
+5: KEY: Desipramine *** Source language -----> RXNORM
+6 KEY: Desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: Desipramine *** Final position in text according to JSON Object -----> 11
+8: KEY: Desipramine *** Initial position according to JSON Object -----> 1
+9: KEY: Desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: Desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 81
+8: KEY: methadone *** Initial position according to JSON Object -----> 73
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

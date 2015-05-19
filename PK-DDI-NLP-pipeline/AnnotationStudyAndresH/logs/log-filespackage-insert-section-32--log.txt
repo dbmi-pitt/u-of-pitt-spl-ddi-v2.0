@@ -1,0 +1,145 @@
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 647
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 637
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 647
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 637
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 647
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 637
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 647
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 637
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> RXNORM
+6 KEY: midazolam *** CUI CODE in original terminology -----> 6960
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 752
+8: KEY: midazolam *** Initial position according to JSON Object -----> 744
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6960
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: Fluconazole *** RXCUI -----> 4450
+2: KEY: Fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: Fluconazole *** Concept Type -----> IN
+4: KEY: Fluconazole *** Drug mention in text -----> Fluconazole
+5: KEY: Fluconazole *** Source language -----> RXNORM
+6 KEY: Fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: Fluconazole *** Final position in text according to JSON Object -----> 452
+8: KEY: Fluconazole *** Initial position according to JSON Object -----> 442
+9: KEY: Fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: Fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+removed duplications 36
+Number of missed JSON elements: 0

@@ -1,0 +1,9 @@
+How the folders are organized:
+
+clinical_pharm_sections - Entire Section 12 (Clinical Pharmacology) text from "new" drug labels.
+
+drug_interactions_sections - Entire Section 7 (Drug Interactions) text from "new" drug labels.
+
+interaction_statements_from_old - These are interaction statements from "old" labels.
+
+random_statements - These are random paragraphs from "old" labels. May or may not contain interaction statements.

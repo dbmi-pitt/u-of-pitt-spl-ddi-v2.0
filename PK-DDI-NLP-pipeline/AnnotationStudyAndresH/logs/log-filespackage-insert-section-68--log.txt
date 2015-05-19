@@ -1,0 +1,68 @@
+1: KEY: bisoprolol fumarate *** RXCUI -----> 19484
+2: KEY: bisoprolol fumarate *** Concept from RXNORM -----> (('Bisoprolol',),)
+3: KEY: bisoprolol fumarate *** Concept Type -----> (('IN',),)
+4: KEY: bisoprolol fumarate *** Drug mention in text -----> bisoprolol fumarate
+5: KEY: bisoprolol fumarate *** Source language -----> RXNORM
+6 KEY: bisoprolol fumarate *** CUI CODE in original terminology -----> 142146
+7: KEY: bisoprolol fumarate *** Final position in text according to JSON Object -----> 380
+8: KEY: bisoprolol fumarate *** Initial position according to JSON Object -----> 362
+9: KEY: bisoprolol fumarate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/142146
+10: KEY: bisoprolol fumarate *** Preferred name according to JSON Object -----> Bisoprolol Fumarate
+---------------------------------------------------------
+1: KEY: bisoprolol fumarate *** RXCUI -----> 19484
+2: KEY: bisoprolol fumarate *** Concept from RXNORM -----> (('Bisoprolol',),)
+3: KEY: bisoprolol fumarate *** Concept Type -----> (('IN',),)
+4: KEY: bisoprolol fumarate *** Drug mention in text -----> bisoprolol fumarate
+5: KEY: bisoprolol fumarate *** Source language -----> RXNORM
+6 KEY: bisoprolol fumarate *** CUI CODE in original terminology -----> 142146
+7: KEY: bisoprolol fumarate *** Final position in text according to JSON Object -----> 380
+8: KEY: bisoprolol fumarate *** Initial position according to JSON Object -----> 362
+9: KEY: bisoprolol fumarate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/142146
+10: KEY: bisoprolol fumarate *** Preferred name according to JSON Object -----> Bisoprolol Fumarate
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 26
+8: KEY: rifampin *** Initial position according to JSON Object -----> 19
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: prothrombin *** RXCUI -----> 1441688
+2: KEY: prothrombin *** Concept from RXNORM -----> Prothrombin
+3: KEY: prothrombin *** Concept Type -----> IN
+4: KEY: prothrombin *** Drug mention in text -----> prothrombin
+5: KEY: prothrombin *** Source language -----> RXNORM
+6 KEY: prothrombin *** CUI CODE in original terminology -----> 1441688
+7: KEY: prothrombin *** Final position in text according to JSON Object -----> 395
+8: KEY: prothrombin *** Initial position according to JSON Object -----> 385
+9: KEY: prothrombin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: prothrombin *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 441
+8: KEY: warfarin *** Initial position according to JSON Object -----> 434
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 336
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 327
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

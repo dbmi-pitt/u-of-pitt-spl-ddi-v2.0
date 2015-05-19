@@ -1,0 +1,27 @@
+The scripts in this folder are used to load output of the NLP pipeline
+into Domeo for community annotation.
+
+Pre-conditions:
+- the textfiles used to produce the NER output
+- JSON objects produced the the SPL NER extraction program 
+- a CSV file containing the DDI extraction output after post-processing to remove duplicates and assign the rxcuis for the drug mentions
+
+
+Scripts:
+- convertSPL_NER_2_ODA.py : takes the output of the NER component of the SPL DDI NLP pipeline and produces Highlight annotations in Open Data Annotation format. There is a load script (see https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-NLP-pipeline/loadElasticSearch) that then reshapes this output into JSON-LD and loads the annotations into Elastic search. Certain meta-data is loaded into the SQL database.
+
+- convertSPL_DDIs_2_ODA.py : takes the output of the NER and NLP components of the SPL DDI NLP pipeline and produces NLP annotations in Open Data Annotation format. There is a load script (see https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-NLP-pipeline/loadElasticSearch) that then reshapes this output into JSON-LD and loads the annotations into Elastic search. 
+
+Instructions:
+1) configure the path variables at the top of both scripts so that the scripts can load the required data (see pre-conditions above)
+
+2) run convertSPL_NER_2_ODA.py
+
+Output:
+- NER-output.csv : useful for mapping drug mentions to CUIs in MeSH and RxNorm
+- drug_list.json : the JSON formatted NER output
+
+3) run convertSPL_DDIs_2_ODA.py
+
+Output: 
+- jsonOutput.txt - the JSON formatted NLP output

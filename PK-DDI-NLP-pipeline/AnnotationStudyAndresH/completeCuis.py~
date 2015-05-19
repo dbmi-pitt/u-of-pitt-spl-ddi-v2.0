@@ -1,0 +1,28 @@
+__author__ = 'amh211'
+
+from itertools import groupby
+import sys
+
+if __name__=="__main__":
+
+    with open('./cuilist.csv','r') as cuiFile:
+        currentCUI = cuiFile.readlines()
+        dictCUIs = []
+
+        for element in currentLabel[0:]:
+            strippedLabel = element.strip()
+            dictCUIs[strippedLabel.split(',')[0]]=strippedLabel.split(',')[1]
+    
+    print dictCUIs
+
+#    fileId = sys.argv[1]
+#    dirpath = './'+fileId+'/'
+
+#    with open('./'+fileId+'.csv','r') as inFile:
+#        with open('./'+fileId+'-sentenceCompiled.csv', 'w') as outFile:
+#            currentLabel = inFile.readlines()
+#            tempInteractions = []
+
+#            for element in currentLabel[0:]:
+#                strippedLabel = element.rstrip()
+#                tempInteractions.append(strippedLabel.split('\t'))

@@ -1,0 +1,48 @@
+verapamil	norverapamil	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	none	11170	C016904
+verapamil	norverapamil	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	none	11170	C016904
+verapamil	norverapamil	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	none	11170	C016904
+verapamil	norverapamil	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	none	11170	C016904
+verapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+verapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+verapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+verapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+verapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+verapamil	Propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	norverapamil	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	none	11170	C016904
+Verapamil	norverapamil	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	none	11170	C016904
+Verapamil	norverapamil	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	none	11170	C016904
+Verapamil	norverapamil	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	none	11170	C016904
+Verapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+Verapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+Verapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+Verapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		11170	8787	11170	D011433
+Verapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	2	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+Verapamil	Propranolol	2	2	true	negative	Verapamil does not affect the pharmacokinetics of propranolol.  		11170	8787	11170	D011433
+norverapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		none	8787	C016904	D011433
+norverapamil	propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		none	8787	C016904	D011433
+norverapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		none	8787	C016904	D011433
+norverapamil	propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		none	8787	C016904	D011433
+norverapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		none	8787	C016904	D011433
+norverapamil	Propranolol	1	1	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  		none	8787	C016904	D011433
+norverapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		none	8787	C016904	D011433
+norverapamil	Propranolol	1	2	true	negative	Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.  Verapamil does not affect the pharmacokinetics of propranolol.  		none	8787	C016904	D011433

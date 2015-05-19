@@ -1,0 +1,2 @@
+propranolol	chlorpromazine	1	1	true	positive	Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.  		8787	2403	D011433	D002746
+propranolol	chlorpromazine	1	1	true	positive	Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.  		8787	2403	D011433	D002746

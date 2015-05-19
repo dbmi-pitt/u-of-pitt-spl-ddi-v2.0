@@ -1,0 +1,35 @@
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 82
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 73
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 82
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 73
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 58
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 46
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

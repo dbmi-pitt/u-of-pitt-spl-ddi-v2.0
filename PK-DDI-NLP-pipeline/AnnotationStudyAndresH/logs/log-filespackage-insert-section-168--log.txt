@@ -1,0 +1,68 @@
+1: KEY: Clonazepam *** RXCUI -----> 2598
+2: KEY: Clonazepam *** Concept from RXNORM -----> clonazePAM
+3: KEY: Clonazepam *** Concept Type -----> TMSY
+4: KEY: Clonazepam *** Drug mention in text -----> Clonazepam
+5: KEY: Clonazepam *** Source language -----> MSH
+6 KEY: Clonazepam *** CUI CODE in original terminology -----> D002998
+7: KEY: Clonazepam *** Final position in text according to JSON Object -----> 71
+8: KEY: Clonazepam *** Initial position according to JSON Object -----> 62
+9: KEY: Clonazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002998
+10: KEY: Clonazepam *** Preferred name according to JSON Object -----> Clonazepam
+---------------------------------------------------------
+1: KEY: Clonazepam *** RXCUI -----> 2598
+2: KEY: Clonazepam *** Concept from RXNORM -----> clonazePAM
+3: KEY: Clonazepam *** Concept Type -----> TMSY
+4: KEY: Clonazepam *** Drug mention in text -----> Clonazepam
+5: KEY: Clonazepam *** Source language -----> MSH
+6 KEY: Clonazepam *** CUI CODE in original terminology -----> D002998
+7: KEY: Clonazepam *** Final position in text according to JSON Object -----> 71
+8: KEY: Clonazepam *** Initial position according to JSON Object -----> 62
+9: KEY: Clonazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002998
+10: KEY: Clonazepam *** Preferred name according to JSON Object -----> Clonazepam
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 130
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 122
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: clonazepam *** RXCUI -----> 2598
+2: KEY: clonazepam *** Concept from RXNORM -----> clonazePAM
+3: KEY: clonazepam *** Concept Type -----> TMSY
+4: KEY: clonazepam *** Drug mention in text -----> clonazepam
+5: KEY: clonazepam *** Source language -----> RXNORM
+6 KEY: clonazepam *** CUI CODE in original terminology -----> 2598
+7: KEY: clonazepam *** Final position in text according to JSON Object -----> 188
+8: KEY: clonazepam *** Initial position according to JSON Object -----> 179
+9: KEY: clonazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2598
+10: KEY: clonazepam *** Preferred name according to JSON Object -----> Clonazepam
+---------------------------------------------------------
+1: KEY: phenobarbital *** RXCUI -----> 8134
+2: KEY: phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: phenobarbital *** Concept Type -----> IN
+4: KEY: phenobarbital *** Drug mention in text -----> phenobarbital
+5: KEY: phenobarbital *** Source language -----> MSH
+6 KEY: phenobarbital *** CUI CODE in original terminology -----> D010634
+7: KEY: phenobarbital *** Final position in text according to JSON Object -----> 162
+8: KEY: phenobarbital *** Initial position according to JSON Object -----> 150
+9: KEY: phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010634
+10: KEY: phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 145
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 133
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

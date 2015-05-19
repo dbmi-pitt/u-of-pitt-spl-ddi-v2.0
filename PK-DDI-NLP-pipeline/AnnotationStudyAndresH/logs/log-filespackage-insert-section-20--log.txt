@@ -1,0 +1,101 @@
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 170
+8: KEY: sertraline *** Initial position according to JSON Object -----> 161
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sodium starch glycolate *** RXCUI -----> 1370637
+2: KEY: sodium starch glycolate *** Concept from RXNORM -----> (('starch glycolate',),)
+3: KEY: sodium starch glycolate *** Concept Type -----> (('IN',),)
+4: KEY: sodium starch glycolate *** Drug mention in text -----> sodium starch glycolate
+5: KEY: sodium starch glycolate *** Source language -----> RXNORM
+6 KEY: sodium starch glycolate *** CUI CODE in original terminology -----> 1366851
+7: KEY: sodium starch glycolate *** Final position in text according to JSON Object -----> 379
+8: KEY: sodium starch glycolate *** Initial position according to JSON Object -----> 357
+9: KEY: sodium starch glycolate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1366851
+10: KEY: sodium starch glycolate *** Preferred name according to JSON Object -----> sodium starch glycolate
+---------------------------------------------------------
+1: KEY: sertraline hydrochloride *** RXCUI -----> 36437
+2: KEY: sertraline hydrochloride *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline hydrochloride *** Concept Type -----> IN
+4: KEY: sertraline hydrochloride *** Drug mention in text -----> sertraline hydrochloride
+5: KEY: sertraline hydrochloride *** Source language -----> MSH
+6 KEY: sertraline hydrochloride *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline hydrochloride *** Final position in text according to JSON Object -----> 114
+8: KEY: sertraline hydrochloride *** Initial position according to JSON Object -----> 91
+9: KEY: sertraline hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline hydrochloride *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: Sertraline hydrochloride *** RXCUI -----> 36437
+2: KEY: Sertraline hydrochloride *** Concept from RXNORM -----> (('Sertraline',),)
+3: KEY: Sertraline hydrochloride *** Concept Type -----> (('IN',),)
+4: KEY: Sertraline hydrochloride *** Drug mention in text -----> Sertraline hydrochloride
+5: KEY: Sertraline hydrochloride *** Source language -----> RXNORM
+6 KEY: Sertraline hydrochloride *** CUI CODE in original terminology -----> 155137
+7: KEY: Sertraline hydrochloride *** Final position in text according to JSON Object -----> 24
+8: KEY: Sertraline hydrochloride *** Initial position according to JSON Object -----> 1
+9: KEY: Sertraline hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/155137
+10: KEY: Sertraline hydrochloride *** Preferred name according to JSON Object -----> Sertraline Hydrochloride
+---------------------------------------------------------
+1: KEY: polyethylene glycol *** RXCUI -----> 8513
+2: KEY: polyethylene glycol *** Concept from RXNORM -----> Polyethylene Glycol 300
+3: KEY: polyethylene glycol *** Concept Type -----> IN
+4: KEY: polyethylene glycol *** Drug mention in text -----> polyethylene glycol
+5: KEY: polyethylene glycol *** Source language -----> MSH
+6 KEY: polyethylene glycol *** CUI CODE in original terminology -----> D011092
+7: KEY: polyethylene glycol *** Final position in text according to JSON Object -----> 354
+8: KEY: polyethylene glycol *** Initial position according to JSON Object -----> 336
+9: KEY: polyethylene glycol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011092
+10: KEY: polyethylene glycol *** Preferred name according to JSON Object -----> Polyethylene Glycols
+---------------------------------------------------------
+1: KEY: hydroxypropyl cellulose *** RXCUI -----> 27291
+2: KEY: hydroxypropyl cellulose *** Concept from RXNORM -----> hydroxypropylcellulose
+3: KEY: hydroxypropyl cellulose *** Concept Type -----> IN
+4: KEY: hydroxypropyl cellulose *** Drug mention in text -----> hydroxypropyl cellulose
+5: KEY: hydroxypropyl cellulose *** Source language -----> MSH
+6 KEY: hydroxypropyl cellulose *** CUI CODE in original terminology -----> C008079
+7: KEY: hydroxypropyl cellulose *** Final position in text according to JSON Object -----> 271
+8: KEY: hydroxypropyl cellulose *** Initial position according to JSON Object -----> 249
+9: KEY: hydroxypropyl cellulose *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C008079
+10: KEY: hydroxypropyl cellulose *** Preferred name according to JSON Object -----> hydroxypropylcellulose
+---------------------------------------------------------
+1: KEY: dibasic calcium phosphate dihydrate *** RXCUI -----> 47627
+2: KEY: dibasic calcium phosphate dihydrate *** Concept from RXNORM -----> (('Calcium phosphate dibasic',),)
+3: KEY: dibasic calcium phosphate dihydrate *** Concept Type -----> (('IN',),)
+4: KEY: dibasic calcium phosphate dihydrate *** Drug mention in text -----> dibasic calcium phosphate dihydrate
+5: KEY: dibasic calcium phosphate dihydrate *** Source language -----> MSH
+6 KEY: dibasic calcium phosphate dihydrate *** CUI CODE in original terminology -----> C494366
+7: KEY: dibasic calcium phosphate dihydrate *** Final position in text according to JSON Object -----> 246
+8: KEY: dibasic calcium phosphate dihydrate *** Initial position according to JSON Object -----> 212
+9: KEY: dibasic calcium phosphate dihydrate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C494366
+10: KEY: dibasic calcium phosphate dihydrate *** Preferred name according to JSON Object -----> calcium phosphate, dibasic, dihydrate
+---------------------------------------------------------
+1: KEY: microcrystalline cellulose *** RXCUI -----> 1000577
+2: KEY: microcrystalline cellulose *** Concept from RXNORM -----> microcrystalline cellulose
+3: KEY: microcrystalline cellulose *** Concept Type -----> IN
+4: KEY: microcrystalline cellulose *** Drug mention in text -----> microcrystalline cellulose
+5: KEY: microcrystalline cellulose *** Source language -----> RXNORM
+6 KEY: microcrystalline cellulose *** CUI CODE in original terminology -----> 1000577
+7: KEY: microcrystalline cellulose *** Final position in text according to JSON Object -----> 333
+8: KEY: microcrystalline cellulose *** Initial position according to JSON Object -----> 308
+9: KEY: microcrystalline cellulose *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1000577
+10: KEY: microcrystalline cellulose *** Preferred name according to JSON Object -----> microcrystalline cellulose
+---------------------------------------------------------
+1: KEY: hypromellose *** RXCUI -----> 27334
+2: KEY: hypromellose *** Concept from RXNORM -----> hypromellose
+3: KEY: hypromellose *** Concept Type -----> IN
+4: KEY: hypromellose *** Drug mention in text -----> hypromellose
+5: KEY: hypromellose *** Source language -----> RXNORM
+6 KEY: hypromellose *** CUI CODE in original terminology -----> 27334
+7: KEY: hypromellose *** Final position in text according to JSON Object -----> 285
+8: KEY: hypromellose *** Initial position according to JSON Object -----> 274
+9: KEY: hypromellose *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/27334
+10: KEY: hypromellose *** Preferred name according to JSON Object -----> hypromellose
+---------------------------------------------------------
+removed duplications 12
+Number of missed JSON elements: 0

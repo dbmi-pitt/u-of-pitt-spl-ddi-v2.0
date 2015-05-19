@@ -1,0 +1,277 @@
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> RXNORM
+6 KEY: phenytoin *** CUI CODE in original terminology -----> 8183
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 668
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 660
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> RXNORM
+6 KEY: phenytoin *** CUI CODE in original terminology -----> 8183
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 668
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 660
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: Quinidine *** RXCUI -----> 9068
+2: KEY: Quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: Quinidine *** Concept Type -----> IN
+4: KEY: Quinidine *** Drug mention in text -----> Quinidine
+5: KEY: Quinidine *** Source language -----> RXNORM
+6 KEY: Quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: Quinidine *** Final position in text according to JSON Object -----> 1132
+8: KEY: Quinidine *** Initial position according to JSON Object -----> 1124
+9: KEY: Quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: Quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: Ranitidine *** RXCUI -----> 9143
+2: KEY: Ranitidine *** Concept from RXNORM -----> Ranitidine
+3: KEY: Ranitidine *** Concept Type -----> IN
+4: KEY: Ranitidine *** Drug mention in text -----> Ranitidine
+5: KEY: Ranitidine *** Source language -----> MSH
+6 KEY: Ranitidine *** CUI CODE in original terminology -----> D011899
+7: KEY: Ranitidine *** Final position in text according to JSON Object -----> 141
+8: KEY: Ranitidine *** Initial position according to JSON Object -----> 132
+9: KEY: Ranitidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: Ranitidine *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: Propranolol *** RXCUI -----> 8787
+2: KEY: Propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: Propranolol *** Concept Type -----> IN
+4: KEY: Propranolol *** Drug mention in text -----> Propranolol
+5: KEY: Propranolol *** Source language -----> MSH
+6 KEY: Propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: Propranolol *** Final position in text according to JSON Object -----> 887
+8: KEY: Propranolol *** Initial position according to JSON Object -----> 877
+9: KEY: Propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: Propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 1491
+8: KEY: warfarin *** Initial position according to JSON Object -----> 1484
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 1502
+8: KEY: digoxin *** Initial position according to JSON Object -----> 1496
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> RXNORM
+6 KEY: propranolol *** CUI CODE in original terminology -----> 8787
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 839
+8: KEY: propranolol *** Initial position according to JSON Object -----> 829
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8787
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Nisoldipine *** RXCUI -----> 7435
+2: KEY: Nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: Nisoldipine *** Concept Type -----> IN
+4: KEY: Nisoldipine *** Drug mention in text -----> Nisoldipine
+5: KEY: Nisoldipine *** Source language -----> MSH
+6 KEY: Nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: Nisoldipine *** Final position in text according to JSON Object -----> 1022
+8: KEY: Nisoldipine *** Initial position according to JSON Object -----> 1012
+9: KEY: Nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: Nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: Nisoldipine *** RXCUI -----> 7435
+2: KEY: Nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: Nisoldipine *** Concept Type -----> IN
+4: KEY: Nisoldipine *** Drug mention in text -----> Nisoldipine
+5: KEY: Nisoldipine *** Source language -----> MSH
+6 KEY: Nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: Nisoldipine *** Final position in text according to JSON Object -----> 1022
+8: KEY: Nisoldipine *** Initial position according to JSON Object -----> 1012
+9: KEY: Nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: Nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: Nisoldipine *** RXCUI -----> 7435
+2: KEY: Nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: Nisoldipine *** Concept Type -----> IN
+4: KEY: Nisoldipine *** Drug mention in text -----> Nisoldipine
+5: KEY: Nisoldipine *** Source language -----> MSH
+6 KEY: Nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: Nisoldipine *** Final position in text according to JSON Object -----> 1022
+8: KEY: Nisoldipine *** Initial position according to JSON Object -----> 1012
+9: KEY: Nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: Nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: Nisoldipine *** RXCUI -----> 7435
+2: KEY: Nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: Nisoldipine *** Concept Type -----> IN
+4: KEY: Nisoldipine *** Drug mention in text -----> Nisoldipine
+5: KEY: Nisoldipine *** Source language -----> MSH
+6 KEY: Nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: Nisoldipine *** Final position in text according to JSON Object -----> 1022
+8: KEY: Nisoldipine *** Initial position according to JSON Object -----> 1012
+9: KEY: Nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: Nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: atenolol *** RXCUI -----> 1202
+2: KEY: atenolol *** Concept from RXNORM -----> Atenolol
+3: KEY: atenolol *** Concept Type -----> IN
+4: KEY: atenolol *** Drug mention in text -----> atenolol
+5: KEY: atenolol *** Source language -----> RXNORM
+6 KEY: atenolol *** CUI CODE in original terminology -----> 1202
+7: KEY: atenolol *** Final position in text according to JSON Object -----> 1067
+8: KEY: atenolol *** Initial position according to JSON Object -----> 1060
+9: KEY: atenolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1202
+10: KEY: atenolol *** Preferred name according to JSON Object -----> Atenolol
+---------------------------------------------------------
+1: KEY: atenolol *** RXCUI -----> 1202
+2: KEY: atenolol *** Concept from RXNORM -----> Atenolol
+3: KEY: atenolol *** Concept Type -----> IN
+4: KEY: atenolol *** Drug mention in text -----> atenolol
+5: KEY: atenolol *** Source language -----> RXNORM
+6 KEY: atenolol *** CUI CODE in original terminology -----> 1202
+7: KEY: atenolol *** Final position in text according to JSON Object -----> 1067
+8: KEY: atenolol *** Initial position according to JSON Object -----> 1060
+9: KEY: atenolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1202
+10: KEY: atenolol *** Preferred name according to JSON Object -----> Atenolol
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 110
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 101
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1294
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1286
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 798
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 788
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: histamine *** RXCUI -----> 5333
+2: KEY: histamine *** Concept from RXNORM -----> Histamine
+3: KEY: histamine *** Concept Type -----> IN
+4: KEY: histamine *** Drug mention in text -----> histamine
+5: KEY: histamine *** Source language -----> MSH
+6 KEY: histamine *** CUI CODE in original terminology -----> D006632
+7: KEY: histamine *** Final position in text according to JSON Object -----> 286
+8: KEY: histamine *** Initial position according to JSON Object -----> 278
+9: KEY: histamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006632
+10: KEY: histamine *** Preferred name according to JSON Object -----> Histamine
+---------------------------------------------------------
+removed duplications 108
+Number of missed JSON elements: 0

@@ -1,0 +1,24 @@
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 89
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 80
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: propoxyphene *** RXCUI -----> 8785
+2: KEY: propoxyphene *** Concept from RXNORM -----> Propoxyphene
+3: KEY: propoxyphene *** Concept Type -----> IN
+4: KEY: propoxyphene *** Drug mention in text -----> propoxyphene
+5: KEY: propoxyphene *** Source language -----> RXNORM
+6 KEY: propoxyphene *** CUI CODE in original terminology -----> 8785
+7: KEY: propoxyphene *** Final position in text according to JSON Object -----> 32
+8: KEY: propoxyphene *** Initial position according to JSON Object -----> 21
+9: KEY: propoxyphene *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8785
+10: KEY: propoxyphene *** Preferred name according to JSON Object -----> Propoxyphene
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

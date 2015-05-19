@@ -1,0 +1,68 @@
+1: KEY: hydralazine *** RXCUI -----> 5470
+2: KEY: hydralazine *** Concept from RXNORM -----> Hydralazine
+3: KEY: hydralazine *** Concept Type -----> IN
+4: KEY: hydralazine *** Drug mention in text -----> hydralazine
+5: KEY: hydralazine *** Source language -----> MSH
+6 KEY: hydralazine *** CUI CODE in original terminology -----> D006830
+7: KEY: hydralazine *** Final position in text according to JSON Object -----> 74
+8: KEY: hydralazine *** Initial position according to JSON Object -----> 64
+9: KEY: hydralazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006830
+10: KEY: hydralazine *** Preferred name according to JSON Object -----> Hydralazine
+---------------------------------------------------------
+1: KEY: tolbutamide *** RXCUI -----> 10635
+2: KEY: tolbutamide *** Concept from RXNORM -----> Tolbutamide
+3: KEY: tolbutamide *** Concept Type -----> IN
+4: KEY: tolbutamide *** Drug mention in text -----> tolbutamide
+5: KEY: tolbutamide *** Source language -----> RXNORM
+6 KEY: tolbutamide *** CUI CODE in original terminology -----> 10635
+7: KEY: tolbutamide *** Final position in text according to JSON Object -----> 124
+8: KEY: tolbutamide *** Initial position according to JSON Object -----> 114
+9: KEY: tolbutamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: tolbutamide *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 137
+8: KEY: warfarin *** Initial position according to JSON Object -----> 130
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: sulfinpyrazone *** RXCUI -----> 10205
+2: KEY: sulfinpyrazone *** Concept from RXNORM -----> Sulfinpyrazone
+3: KEY: sulfinpyrazone *** Concept Type -----> IN
+4: KEY: sulfinpyrazone *** Drug mention in text -----> sulfinpyrazone
+5: KEY: sulfinpyrazone *** Source language -----> RXNORM
+6 KEY: sulfinpyrazone *** CUI CODE in original terminology -----> 10205
+7: KEY: sulfinpyrazone *** Final position in text according to JSON Object -----> 90
+8: KEY: sulfinpyrazone *** Initial position according to JSON Object -----> 77
+9: KEY: sulfinpyrazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10205
+10: KEY: sulfinpyrazone *** Preferred name according to JSON Object -----> Sulfinpyrazone
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 40
+8: KEY: digoxin *** Initial position according to JSON Object -----> 34
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: hydrochlorothiazide *** RXCUI -----> 5487
+2: KEY: hydrochlorothiazide *** Concept from RXNORM -----> Hydrochlorothiazide
+3: KEY: hydrochlorothiazide *** Concept Type -----> IN
+4: KEY: hydrochlorothiazide *** Drug mention in text -----> hydrochlorothiazide
+5: KEY: hydrochlorothiazide *** Source language -----> MSH
+6 KEY: hydrochlorothiazide *** CUI CODE in original terminology -----> D006852
+7: KEY: hydrochlorothiazide *** Final position in text according to JSON Object -----> 61
+8: KEY: hydrochlorothiazide *** Initial position according to JSON Object -----> 43
+9: KEY: hydrochlorothiazide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006852
+10: KEY: hydrochlorothiazide *** Preferred name according to JSON Object -----> Hydrochlorothiazide
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

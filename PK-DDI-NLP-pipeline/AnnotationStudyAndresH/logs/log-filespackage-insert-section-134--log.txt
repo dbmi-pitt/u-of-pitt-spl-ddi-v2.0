@@ -1,0 +1,35 @@
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 52
+8: KEY: propranolol *** Initial position according to JSON Object -----> 42
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 52
+8: KEY: propranolol *** Initial position according to JSON Object -----> 42
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: chlorpromazine *** RXCUI -----> 2403
+2: KEY: chlorpromazine *** Concept from RXNORM -----> chlorproMAZINE
+3: KEY: chlorpromazine *** Concept Type -----> TMSY
+4: KEY: chlorpromazine *** Drug mention in text -----> chlorpromazine
+5: KEY: chlorpromazine *** Source language -----> MSH
+6 KEY: chlorpromazine *** CUI CODE in original terminology -----> D002746
+7: KEY: chlorpromazine *** Final position in text according to JSON Object -----> 35
+8: KEY: chlorpromazine *** Initial position according to JSON Object -----> 22
+9: KEY: chlorpromazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002746
+10: KEY: chlorpromazine *** Preferred name according to JSON Object -----> Chlorpromazine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

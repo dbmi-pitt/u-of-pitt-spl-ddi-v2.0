@@ -1,0 +1,1 @@
+retinal	http://purl.bioontology.org/ontology/MSH/D012172	MSH	D012172

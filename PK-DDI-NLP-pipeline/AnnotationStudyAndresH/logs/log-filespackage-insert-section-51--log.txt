@@ -1,0 +1,46 @@
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 112
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 103
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 112
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 103
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 44
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 36
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: fosamprenavir *** RXCUI -----> 358262
+2: KEY: fosamprenavir *** Concept from RXNORM -----> fosamprenavir
+3: KEY: fosamprenavir *** Concept Type -----> IN
+4: KEY: fosamprenavir *** Drug mention in text -----> fosamprenavir
+5: KEY: fosamprenavir *** Source language -----> RXNORM
+6 KEY: fosamprenavir *** CUI CODE in original terminology -----> 358262
+7: KEY: fosamprenavir *** Final position in text according to JSON Object -----> 34
+8: KEY: fosamprenavir *** Initial position according to JSON Object -----> 22
+9: KEY: fosamprenavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/358262
+10: KEY: fosamprenavir *** Preferred name according to JSON Object -----> fosamprenavir
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

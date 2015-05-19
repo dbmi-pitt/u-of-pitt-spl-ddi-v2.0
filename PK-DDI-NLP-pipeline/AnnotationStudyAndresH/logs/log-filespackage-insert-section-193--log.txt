@@ -1,0 +1,24 @@
+1: KEY: fluvastatin sodium *** RXCUI -----> 41127
+2: KEY: fluvastatin sodium *** Concept from RXNORM -----> (('fluvastatin',),)
+3: KEY: fluvastatin sodium *** Concept Type -----> (('IN',),)
+4: KEY: fluvastatin sodium *** Drug mention in text -----> fluvastatin sodium
+5: KEY: fluvastatin sodium *** Source language -----> RXNORM
+6 KEY: fluvastatin sodium *** CUI CODE in original terminology -----> 72875
+7: KEY: fluvastatin sodium *** Final position in text according to JSON Object -----> 69
+8: KEY: fluvastatin sodium *** Initial position according to JSON Object -----> 52
+9: KEY: fluvastatin sodium *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/72875
+10: KEY: fluvastatin sodium *** Preferred name according to JSON Object -----> Fluvastatin sodium
+---------------------------------------------------------
+1: KEY: Fluvastatin *** RXCUI -----> 41127
+2: KEY: Fluvastatin *** Concept from RXNORM -----> fluvastatin
+3: KEY: Fluvastatin *** Concept Type -----> IN
+4: KEY: Fluvastatin *** Drug mention in text -----> Fluvastatin
+5: KEY: Fluvastatin *** Source language -----> RXNORM
+6 KEY: Fluvastatin *** CUI CODE in original terminology -----> 41127
+7: KEY: Fluvastatin *** Final position in text according to JSON Object -----> 246
+8: KEY: Fluvastatin *** Initial position according to JSON Object -----> 236
+9: KEY: Fluvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: Fluvastatin *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

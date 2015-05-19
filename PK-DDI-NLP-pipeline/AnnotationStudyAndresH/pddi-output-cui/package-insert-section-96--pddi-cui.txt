@@ -1,0 +1,2 @@
+alprazolam	fluvoxamine	1	1	true	positive	Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.  		596	42355	D000525	D016666
+alprazolam	fluvoxamine	1	1	true	positive	Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.  		596	42355	D000525	D016666

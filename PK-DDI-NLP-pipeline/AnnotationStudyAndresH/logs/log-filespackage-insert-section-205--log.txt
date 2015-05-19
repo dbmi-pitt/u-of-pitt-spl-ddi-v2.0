@@ -1,0 +1,90 @@
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> RXNORM
+6 KEY: phenytoin *** CUI CODE in original terminology -----> 8183
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 450
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 442
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: griseofulvin *** RXCUI -----> 5021
+2: KEY: griseofulvin *** Concept from RXNORM -----> Griseofulvin
+3: KEY: griseofulvin *** Concept Type -----> IN
+4: KEY: griseofulvin *** Drug mention in text -----> griseofulvin
+5: KEY: griseofulvin *** Source language -----> RXNORM
+6 KEY: griseofulvin *** CUI CODE in original terminology -----> 5021
+7: KEY: griseofulvin *** Final position in text according to JSON Object -----> 414
+8: KEY: griseofulvin *** Initial position according to JSON Object -----> 403
+9: KEY: griseofulvin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/5021
+10: KEY: griseofulvin *** Preferred name according to JSON Object -----> Griseofulvin
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 465
+8: KEY: rifampin *** Initial position according to JSON Object -----> 458
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: oxcarbazepine *** RXCUI -----> 32624
+2: KEY: oxcarbazepine *** Concept from RXNORM -----> oxcarbazepine
+3: KEY: oxcarbazepine *** Concept Type -----> IN
+4: KEY: oxcarbazepine *** Drug mention in text -----> oxcarbazepine
+5: KEY: oxcarbazepine *** Source language -----> RXNORM
+6 KEY: oxcarbazepine *** CUI CODE in original terminology -----> 32624
+7: KEY: oxcarbazepine *** Final position in text according to JSON Object -----> 434
+8: KEY: oxcarbazepine *** Initial position according to JSON Object -----> 422
+9: KEY: oxcarbazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/32624
+10: KEY: oxcarbazepine *** Preferred name according to JSON Object -----> oxcarbazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 379
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 367
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: bosentan *** RXCUI -----> 75207
+2: KEY: bosentan *** Concept from RXNORM -----> bosentan
+3: KEY: bosentan *** Concept Type -----> IN
+4: KEY: bosentan *** Drug mention in text -----> bosentan
+5: KEY: bosentan *** Source language -----> MSH
+6 KEY: bosentan *** CUI CODE in original terminology -----> C086232
+7: KEY: bosentan *** Final position in text according to JSON Object -----> 359
+8: KEY: bosentan *** Initial position according to JSON Object -----> 352
+9: KEY: bosentan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C086232
+10: KEY: bosentan *** Preferred name according to JSON Object -----> bosentan
+---------------------------------------------------------
+1: KEY: felbamate *** RXCUI -----> 24812
+2: KEY: felbamate *** Concept from RXNORM -----> felbamate
+3: KEY: felbamate *** Concept Type -----> IN
+4: KEY: felbamate *** Drug mention in text -----> felbamate
+5: KEY: felbamate *** Source language -----> RXNORM
+6 KEY: felbamate *** CUI CODE in original terminology -----> 24812
+7: KEY: felbamate *** Final position in text according to JSON Object -----> 395
+8: KEY: felbamate *** Initial position according to JSON Object -----> 387
+9: KEY: felbamate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/24812
+10: KEY: felbamate *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: * topirama *** RXCUI -----> 38404
+2: KEY: * topirama *** Concept from RXNORM -----> topiramate
+3: KEY: * topirama *** Concept Type -----> IN
+4: KEY: * topirama *** Drug mention in text -----> * topirama
+5: KEY: * topirama *** Source language -----> RXNORM
+6 KEY: * topirama *** CUI CODE in original terminology -----> 38404
+7: KEY: * topirama *** Final position in text according to JSON Object -----> 504
+8: KEY: * topirama *** Initial position according to JSON Object -----> 495
+9: KEY: * topirama *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/38404
+10: KEY: * topirama *** Preferred name according to JSON Object -----> topiramate
+---------------------------------------------------------
+removed duplications 9
+Number of missed JSON elements: 0

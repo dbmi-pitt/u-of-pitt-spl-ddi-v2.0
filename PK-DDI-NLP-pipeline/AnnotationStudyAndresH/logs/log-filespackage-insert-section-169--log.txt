@@ -1,0 +1,13 @@
+1: KEY: Clonazepam *** RXCUI -----> 2598
+2: KEY: Clonazepam *** Concept from RXNORM -----> clonazePAM
+3: KEY: Clonazepam *** Concept Type -----> TMSY
+4: KEY: Clonazepam *** Drug mention in text -----> Clonazepam
+5: KEY: Clonazepam *** Source language -----> MSH
+6 KEY: Clonazepam *** CUI CODE in original terminology -----> D002998
+7: KEY: Clonazepam *** Final position in text according to JSON Object -----> 30
+8: KEY: Clonazepam *** Initial position according to JSON Object -----> 21
+9: KEY: Clonazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002998
+10: KEY: Clonazepam *** Preferred name according to JSON Object -----> Clonazepam
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

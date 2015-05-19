@@ -1,0 +1,57 @@
+1: KEY: Sertraline *** RXCUI -----> 36437
+2: KEY: Sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: Sertraline *** Concept Type -----> IN
+4: KEY: Sertraline *** Drug mention in text -----> Sertraline
+5: KEY: Sertraline *** Source language -----> MSH
+6 KEY: Sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: Sertraline *** Final position in text according to JSON Object -----> 281
+8: KEY: Sertraline *** Initial position according to JSON Object -----> 272
+9: KEY: Sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: Sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: tolbutamide *** RXCUI -----> 10635
+2: KEY: tolbutamide *** Concept from RXNORM -----> Tolbutamide
+3: KEY: tolbutamide *** Concept Type -----> IN
+4: KEY: tolbutamide *** Drug mention in text -----> tolbutamide
+5: KEY: tolbutamide *** Source language -----> RXNORM
+6 KEY: tolbutamide *** CUI CODE in original terminology -----> 10635
+7: KEY: tolbutamide *** Final position in text according to JSON Object -----> 560
+8: KEY: tolbutamide *** Initial position according to JSON Object -----> 550
+9: KEY: tolbutamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: tolbutamide *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: tolbutamide *** RXCUI -----> 10635
+2: KEY: tolbutamide *** Concept from RXNORM -----> Tolbutamide
+3: KEY: tolbutamide *** Concept Type -----> IN
+4: KEY: tolbutamide *** Drug mention in text -----> tolbutamide
+5: KEY: tolbutamide *** Source language -----> RXNORM
+6 KEY: tolbutamide *** CUI CODE in original terminology -----> 10635
+7: KEY: tolbutamide *** Final position in text according to JSON Object -----> 560
+8: KEY: tolbutamide *** Initial position according to JSON Object -----> 550
+9: KEY: tolbutamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: tolbutamide *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: tolbutamide *** RXCUI -----> 10635
+2: KEY: tolbutamide *** Concept from RXNORM -----> Tolbutamide
+3: KEY: tolbutamide *** Concept Type -----> IN
+4: KEY: tolbutamide *** Drug mention in text -----> tolbutamide
+5: KEY: tolbutamide *** Source language -----> RXNORM
+6 KEY: tolbutamide *** CUI CODE in original terminology -----> 10635
+7: KEY: tolbutamide *** Final position in text according to JSON Object -----> 560
+8: KEY: tolbutamide *** Initial position according to JSON Object -----> 550
+9: KEY: tolbutamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: tolbutamide *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 80
+8: KEY: sertraline *** Initial position according to JSON Object -----> 71
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

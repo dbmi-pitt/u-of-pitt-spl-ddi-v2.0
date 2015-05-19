@@ -1,0 +1,4 @@
+nifedipine	rosiglitazone	1	1	true	negative	Rosiglitazone:  Coadministration of rosiglitazone (4 mg b.i.d.) was shown to have no clinically relevant effect on the pharmacokinetics of nifedipine.  		7417	84108	D009543	C089730
+nifedipine	rosiglitazone	1	1	true	negative	Rosiglitazone:  Coadministration of rosiglitazone (4 mg b.i.d.) was shown to have no clinically relevant effect on the pharmacokinetics of nifedipine.  		7417	84108	D009543	C089730
+nifedipine	Rosiglitazone	1	1	true	negative	Rosiglitazone:  Coadministration of rosiglitazone (4 mg b.i.d.) was shown to have no clinically relevant effect on the pharmacokinetics of nifedipine.  		7417	84108	D009543	C089730
+nifedipine	Rosiglitazone	1	1	true	negative	Rosiglitazone:  Coadministration of rosiglitazone (4 mg b.i.d.) was shown to have no clinically relevant effect on the pharmacokinetics of nifedipine.  		7417	84108	D009543	C089730

@@ -1,0 +1,35 @@
+1: KEY: quality control *** RXCUI -----> 3417
+2: KEY: quality control *** Concept from RXNORM -----> Dihydroergocryptine
+3: KEY: quality control *** Concept Type -----> IN
+4: KEY: quality control *** Drug mention in text -----> quality control
+5: KEY: quality control *** Source language -----> MSH
+6 KEY: quality control *** CUI CODE in original terminology -----> D025443
+7: KEY: quality control *** Final position in text according to JSON Object -----> 78
+8: KEY: quality control *** Initial position according to JSON Object -----> 64
+9: KEY: quality control *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D025443
+10: KEY: quality control *** Preferred name according to JSON Object -----> Dihydroergocryptine
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 170
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 160
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: Quality control *** RXCUI -----> 3417
+2: KEY: Quality control *** Concept from RXNORM -----> Dihydroergocryptine
+3: KEY: Quality control *** Concept Type -----> IN
+4: KEY: Quality control *** Drug mention in text -----> Quality control
+5: KEY: Quality control *** Source language -----> MSH
+6 KEY: Quality control *** CUI CODE in original terminology -----> D025443
+7: KEY: Quality control *** Final position in text according to JSON Object -----> 279
+8: KEY: Quality control *** Initial position according to JSON Object -----> 265
+9: KEY: Quality control *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D025443
+10: KEY: Quality control *** Preferred name according to JSON Object -----> Dihydroergocryptine
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

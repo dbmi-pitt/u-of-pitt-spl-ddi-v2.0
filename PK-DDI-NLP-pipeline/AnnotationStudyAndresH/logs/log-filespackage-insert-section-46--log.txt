@@ -1,0 +1,112 @@
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 375
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 366
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  paroxetin *** RXCUI -----> 32937
+2: KEY:  paroxetin *** Concept from RXNORM -----> PARoxetine
+3: KEY:  paroxetin *** Concept Type -----> TMSY
+4: KEY:  paroxetin *** Drug mention in text ----->  paroxetin
+5: KEY:  paroxetin *** Source language -----> MSH
+6 KEY:  paroxetin *** CUI CODE in original terminology -----> D017374
+7: KEY:  paroxetin *** Final position in text according to JSON Object -----> 375
+8: KEY:  paroxetin *** Initial position according to JSON Object -----> 366
+9: KEY:  paroxetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  paroxetin *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 149
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 140
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 149
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 140
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> RXNORM
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> 8183
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 344
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 336
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> RXNORM
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> 8183
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 344
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 336
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> RXNORM
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> 8183
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 344
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 336
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> RXNORM
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> 8183
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 344
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 336
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  Paroxetine Hydrochlorid *** RXCUI -----> 32937
+2: KEY:  Paroxetine Hydrochlorid *** Concept from RXNORM -----> PARoxetine
+3: KEY:  Paroxetine Hydrochlorid *** Concept Type -----> TMSY
+4: KEY:  Paroxetine Hydrochlorid *** Drug mention in text ----->  Paroxetine Hydrochlorid
+5: KEY:  Paroxetine Hydrochlorid *** Source language -----> MSH
+6 KEY:  Paroxetine Hydrochlorid *** CUI CODE in original terminology -----> D017374
+7: KEY:  Paroxetine Hydrochlorid *** Final position in text according to JSON Object -----> 747
+8: KEY:  Paroxetine Hydrochlorid *** Initial position according to JSON Object -----> 724
+9: KEY:  Paroxetine Hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY:  Paroxetine Hydrochlorid *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> RXNORM
+6 KEY: phenytoin *** CUI CODE in original terminology -----> 8183
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 92
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 84
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8183
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

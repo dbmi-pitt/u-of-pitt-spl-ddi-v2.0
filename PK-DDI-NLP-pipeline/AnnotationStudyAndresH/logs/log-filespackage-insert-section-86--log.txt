@@ -1,0 +1,13 @@
+1: KEY: ess of  *** RXCUI -----> 10318
+2: KEY: ess of  *** Concept from RXNORM -----> Tacrine
+3: KEY: ess of  *** Concept Type -----> IN
+4: KEY: ess of  *** Drug mention in text -----> ess of 
+5: KEY: ess of  *** Source language -----> MSH
+6 KEY: ess of  *** CUI CODE in original terminology -----> D013619
+7: KEY: ess of  *** Final position in text according to JSON Object -----> 632
+8: KEY: ess of  *** Initial position according to JSON Object -----> 626
+9: KEY: ess of  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: ess of  *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

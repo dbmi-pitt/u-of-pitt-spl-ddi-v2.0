@@ -1,0 +1,13 @@
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> RXNORM
+6 KEY: alprazolam *** CUI CODE in original terminology -----> 596
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 88
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 79
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/596
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,1245 @@
+1: KEY: to zidovud *** RXCUI -----> 11413
+2: KEY: to zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: to zidovud *** Concept Type -----> IN
+4: KEY: to zidovud *** Drug mention in text -----> to zidovud
+5: KEY: to zidovud *** Source language -----> RXNORM
+6 KEY: to zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: to zidovud *** Final position in text according to JSON Object -----> 4231
+8: KEY: to zidovud *** Initial position according to JSON Object -----> 4222
+9: KEY: to zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: to zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: EC50 value *** RXCUI -----> 11413
+2: KEY: EC50 value *** Concept from RXNORM -----> Zidovudine
+3: KEY: EC50 value *** Concept Type -----> IN
+4: KEY: EC50 value *** Drug mention in text -----> EC50 value
+5: KEY: EC50 value *** Source language -----> RXNORM
+6 KEY: EC50 value *** CUI CODE in original terminology -----> 11413
+7: KEY: EC50 value *** Final position in text according to JSON Object -----> 8056
+8: KEY: EC50 value *** Initial position according to JSON Object -----> 8047
+9: KEY: EC50 value *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: EC50 value *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: e. Zidovud *** RXCUI -----> 11413
+2: KEY: e. Zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: e. Zidovud *** Concept Type -----> IN
+4: KEY: e. Zidovud *** Drug mention in text -----> e. Zidovud
+5: KEY: e. Zidovud *** Source language -----> RXNORM
+6 KEY: e. Zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: e. Zidovud *** Final position in text according to JSON Object -----> 4131
+8: KEY: e. Zidovud *** Initial position according to JSON Object -----> 4122
+9: KEY: e. Zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: e. Zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ination st *** RXCUI -----> 11413
+2: KEY: ination st *** Concept from RXNORM -----> Zidovudine
+3: KEY: ination st *** Concept Type -----> IN
+4: KEY: ination st *** Drug mention in text -----> ination st
+5: KEY: ination st *** Source language -----> RXNORM
+6 KEY: ination st *** CUI CODE in original terminology -----> 11413
+7: KEY: ination st *** Final position in text according to JSON Object -----> 8231
+8: KEY: ination st *** Initial position according to JSON Object -----> 8222
+9: KEY: ination st *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ination st *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: plus didan *** RXCUI -----> 11413
+2: KEY: plus didan *** Concept from RXNORM -----> Zidovudine
+3: KEY: plus didan *** Concept Type -----> IN
+4: KEY: plus didan *** Drug mention in text -----> plus didan
+5: KEY: plus didan *** Source language -----> RXNORM
+6 KEY: plus didan *** CUI CODE in original terminology -----> 11413
+7: KEY: plus didan *** Final position in text according to JSON Object -----> 9603
+8: KEY: plus didan *** Initial position according to JSON Object -----> 9594
+9: KEY: plus didan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: plus didan *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: d recovere *** RXCUI -----> 11413
+2: KEY: d recovere *** Concept from RXNORM -----> Zidovudine
+3: KEY: d recovere *** Concept Type -----> IN
+4: KEY: d recovere *** Drug mention in text -----> d recovere
+5: KEY: d recovere *** Source language -----> RXNORM
+6 KEY: d recovere *** CUI CODE in original terminology -----> 11413
+7: KEY: d recovere *** Final position in text according to JSON Object -----> 8749
+8: KEY: d recovere *** Initial position according to JSON Object -----> 8740
+9: KEY: d recovere *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: d recovere *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ug resista *** RXCUI -----> 3364
+2: KEY: ug resista *** Concept from RXNORM -----> Didanosine
+3: KEY: ug resista *** Concept Type -----> IN
+4: KEY: ug resista *** Drug mention in text -----> ug resista
+5: KEY: ug resista *** Source language -----> RXNORM
+6 KEY: ug resista *** CUI CODE in original terminology -----> 3364
+7: KEY: ug resista *** Final position in text according to JSON Object -----> 9456
+8: KEY: ug resista *** Initial position according to JSON Object -----> 9447
+9: KEY: ug resista *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: ug resista *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: f treatmen *** RXCUI -----> 68244
+2: KEY: f treatmen *** Concept from RXNORM -----> lamiVUDine
+3: KEY: f treatmen *** Concept Type -----> TMSY
+4: KEY: f treatmen *** Drug mention in text -----> f treatmen
+5: KEY: f treatmen *** Source language -----> RXNORM
+6 KEY: f treatmen *** CUI CODE in original terminology -----> 68244
+7: KEY: f treatmen *** Final position in text according to JSON Object -----> 9191
+8: KEY: f treatmen *** Initial position according to JSON Object -----> 9182
+9: KEY: f treatmen *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: f treatmen *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: th zidovud *** RXCUI -----> 3364
+2: KEY: th zidovud *** Concept from RXNORM -----> Didanosine
+3: KEY: th zidovud *** Concept Type -----> IN
+4: KEY: th zidovud *** Drug mention in text -----> th zidovud
+5: KEY: th zidovud *** Source language -----> RXNORM
+6 KEY: th zidovud *** CUI CODE in original terminology -----> 3364
+7: KEY: th zidovud *** Final position in text according to JSON Object -----> 9589
+8: KEY: th zidovud *** Initial position according to JSON Object -----> 9580
+9: KEY: th zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: th zidovud *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY:  oral zido *** RXCUI -----> 11413
+2: KEY:  oral zido *** Concept from RXNORM -----> Zidovudine
+3: KEY:  oral zido *** Concept Type -----> IN
+4: KEY:  oral zido *** Drug mention in text ----->  oral zido
+5: KEY:  oral zido *** Source language -----> RXNORM
+6 KEY:  oral zido *** CUI CODE in original terminology -----> 11413
+7: KEY:  oral zido *** Final position in text according to JSON Object -----> 6353
+8: KEY:  oral zido *** Initial position according to JSON Object -----> 6344
+9: KEY:  oral zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  oral zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: nt zidovud *** RXCUI -----> 11413
+2: KEY: nt zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: nt zidovud *** Concept Type -----> IN
+4: KEY: nt zidovud *** Drug mention in text -----> nt zidovud
+5: KEY: nt zidovud *** Source language -----> RXNORM
+6 KEY: nt zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: nt zidovud *** Final position in text according to JSON Object -----> 2403
+8: KEY: nt zidovud *** Initial position according to JSON Object -----> 2394
+9: KEY: nt zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: nt zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: , zalcitab *** RXCUI -----> 11413
+2: KEY: , zalcitab *** Concept from RXNORM -----> Zidovudine
+3: KEY: , zalcitab *** Concept Type -----> IN
+4: KEY: , zalcitab *** Drug mention in text -----> , zalcitab
+5: KEY: , zalcitab *** Source language -----> RXNORM
+6 KEY: , zalcitab *** CUI CODE in original terminology -----> 11413
+7: KEY: , zalcitab *** Final position in text according to JSON Object -----> 10095
+8: KEY: , zalcitab *** Initial position according to JSON Object -----> 10086
+9: KEY: , zalcitab *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: , zalcitab *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ma zidovud *** RXCUI -----> 11413
+2: KEY: ma zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: ma zidovud *** Concept Type -----> IN
+4: KEY: ma zidovud *** Drug mention in text -----> ma zidovud
+5: KEY: ma zidovud *** Source language -----> RXNORM
+6 KEY: ma zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: ma zidovud *** Final position in text according to JSON Object -----> 3537
+8: KEY: ma zidovud *** Initial position according to JSON Object -----> 3528
+9: KEY: ma zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ma zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: es in zido *** RXCUI -----> 11413
+2: KEY: es in zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: es in zido *** Concept Type -----> IN
+4: KEY: es in zido *** Drug mention in text -----> es in zido
+5: KEY: es in zido *** Source language -----> RXNORM
+6 KEY: es in zido *** CUI CODE in original terminology -----> 11413
+7: KEY: es in zido *** Final position in text according to JSON Object -----> 5681
+8: KEY: es in zido *** Initial position according to JSON Object -----> 5672
+9: KEY: es in zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: es in zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: nts:  Zido *** RXCUI -----> 11413
+2: KEY: nts:  Zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: nts:  Zido *** Concept Type -----> IN
+4: KEY: nts:  Zido *** Drug mention in text -----> nts:  Zido
+5: KEY: nts:  Zido *** Source language -----> RXNORM
+6 KEY: nts:  Zido *** CUI CODE in original terminology -----> 11413
+7: KEY: nts:  Zido *** Final position in text according to JSON Object -----> 5484
+8: KEY: nts:  Zido *** Initial position according to JSON Object -----> 5475
+9: KEY: nts:  Zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: nts:  Zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ity to did *** RXCUI -----> 68244
+2: KEY: ity to did *** Concept from RXNORM -----> lamiVUDine
+3: KEY: ity to did *** Concept Type -----> TMSY
+4: KEY: ity to did *** Drug mention in text -----> ity to did
+5: KEY: ity to did *** Source language -----> RXNORM
+6 KEY: ity to did *** CUI CODE in original terminology -----> 68244
+7: KEY: ity to did *** Final position in text according to JSON Object -----> 10055
+8: KEY: ity to did *** Initial position according to JSON Object -----> 10046
+9: KEY: ity to did *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: ity to did *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY:  didanosin *** RXCUI -----> 68244
+2: KEY:  didanosin *** Concept from RXNORM -----> lamiVUDine
+3: KEY:  didanosin *** Concept Type -----> TMSY
+4: KEY:  didanosin *** Drug mention in text ----->  didanosin
+5: KEY:  didanosin *** Source language -----> RXNORM
+6 KEY:  didanosin *** CUI CODE in original terminology -----> 68244
+7: KEY:  didanosin *** Final position in text according to JSON Object -----> 8355
+8: KEY:  didanosin *** Initial position according to JSON Object -----> 8346
+9: KEY:  didanosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY:  didanosin *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: oin.
+
+Rib *** RXCUI -----> 9344
+2: KEY: oin.
+
+Rib *** Concept from RXNORM -----> Ribavirin
+3: KEY: oin.
+
+Rib *** Concept Type -----> IN
+4: KEY: oin.
+
+Rib *** Drug mention in text -----> oin.
+
+Rib
+5: KEY: oin.
+
+Rib *** Source language -----> MSH
+6 KEY: oin.
+
+Rib *** CUI CODE in original terminology -----> D012254
+7: KEY: oin.
+
+Rib *** Final position in text according to JSON Object -----> 6403
+8: KEY: oin.
+
+Rib *** Initial position according to JSON Object -----> 6395
+9: KEY: oin.
+
+Rib *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012254
+10: KEY: oin.
+
+Rib *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY:  with phe *** RXCUI -----> 8183
+2: KEY:  with phe *** Concept from RXNORM -----> Phenytoin
+3: KEY:  with phe *** Concept Type -----> IN
+4: KEY:  with phe *** Drug mention in text ----->  with phe
+5: KEY:  with phe *** Source language -----> MSH
+6 KEY:  with phe *** CUI CODE in original terminology -----> D010672
+7: KEY:  with phe *** Final position in text according to JSON Object -----> 6391
+8: KEY:  with phe *** Initial position according to JSON Object -----> 6383
+9: KEY:  with phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY:  with phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: ptase in *** RXCUI -----> 190521
+2: KEY: ptase in *** Concept from RXNORM -----> abacavir
+3: KEY: ptase in *** Concept Type -----> IN
+4: KEY: ptase in *** Drug mention in text -----> ptase in
+5: KEY: ptase in *** Source language -----> MSH
+6 KEY: ptase in *** CUI CODE in original terminology -----> C106538
+7: KEY: ptase in *** Final position in text according to JSON Object -----> 8327
+8: KEY: ptase in *** Initial position according to JSON Object -----> 8320
+9: KEY: ptase in *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106538
+10: KEY: ptase in *** Preferred name according to JSON Object -----> abacavir
+---------------------------------------------------------
+1: KEY: osphorylat *** RXCUI -----> 11413
+2: KEY: osphorylat *** Concept from RXNORM -----> Zidovudine
+3: KEY: osphorylat *** Concept Type -----> IN
+4: KEY: osphorylat *** Drug mention in text -----> osphorylat
+5: KEY: osphorylat *** Source language -----> RXNORM
+6 KEY: osphorylat *** CUI CODE in original terminology -----> 11413
+7: KEY: osphorylat *** Final position in text according to JSON Object -----> 8628
+8: KEY: osphorylat *** Initial position according to JSON Object -----> 8619
+9: KEY: osphorylat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: osphorylat *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: , ritonavi *** RXCUI -----> 83395
+2: KEY: , ritonavi *** Concept from RXNORM -----> Saquinavir
+3: KEY: , ritonavi *** Concept Type -----> IN
+4: KEY: , ritonavi *** Drug mention in text -----> , ritonavi
+5: KEY: , ritonavi *** Source language -----> RXNORM
+6 KEY: , ritonavi *** CUI CODE in original terminology -----> 83395
+7: KEY: , ritonavi *** Final position in text according to JSON Object -----> 8513
+8: KEY: , ritonavi *** Initial position according to JSON Object -----> 8504
+9: KEY: , ritonavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83395
+10: KEY: , ritonavi *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY: bitors aba *** RXCUI -----> 3364
+2: KEY: bitors aba *** Concept from RXNORM -----> Didanosine
+3: KEY: bitors aba *** Concept Type -----> IN
+4: KEY: bitors aba *** Drug mention in text -----> bitors aba
+5: KEY: bitors aba *** Source language -----> RXNORM
+6 KEY: bitors aba *** CUI CODE in original terminology -----> 3364
+7: KEY: bitors aba *** Final position in text according to JSON Object -----> 8339
+8: KEY: bitors aba *** Initial position according to JSON Object -----> 8330
+9: KEY: bitors aba *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: bitors aba *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: on of lami *** RXCUI -----> 68244
+2: KEY: on of lami *** Concept from RXNORM -----> lamiVUDine
+3: KEY: on of lami *** Concept Type -----> TMSY
+4: KEY: on of lami *** Drug mention in text -----> on of lami
+5: KEY: on of lami *** Source language -----> RXNORM
+6 KEY: on of lami *** CUI CODE in original terminology -----> 68244
+7: KEY: on of lami *** Final position in text according to JSON Object -----> 6476
+8: KEY: on of lami *** Initial position according to JSON Object -----> 6467
+9: KEY: on of lami *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: on of lami *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: oin:  Phe *** RXCUI -----> 8183
+2: KEY: oin:  Phe *** Concept from RXNORM -----> Phenytoin
+3: KEY: oin:  Phe *** Concept Type -----> IN
+4: KEY: oin:  Phe *** Drug mention in text -----> oin:  Phe
+5: KEY: oin:  Phe *** Source language -----> MSH
+6 KEY: oin:  Phe *** CUI CODE in original terminology -----> D010672
+7: KEY: oin:  Phe *** Final position in text according to JSON Object -----> 5852
+8: KEY: oin:  Phe *** Initial position according to JSON Object -----> 5844
+9: KEY: oin:  Phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: oin:  Phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  creatinin *** RXCUI -----> 2913
+2: KEY:  creatinin *** Concept from RXNORM -----> Creatinine
+3: KEY:  creatinin *** Concept Type -----> IN
+4: KEY:  creatinin *** Drug mention in text ----->  creatinin
+5: KEY:  creatinin *** Source language -----> MSH
+6 KEY:  creatinin *** CUI CODE in original terminology -----> D003404
+7: KEY:  creatinin *** Final position in text according to JSON Object -----> 1974
+8: KEY:  creatinin *** Initial position according to JSON Object -----> 1965
+9: KEY:  creatinin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY:  creatinin *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY: se of zido *** RXCUI -----> 11413
+2: KEY: se of zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: se of zido *** Concept Type -----> IN
+4: KEY: se of zido *** Drug mention in text -----> se of zido
+5: KEY: se of zido *** Source language -----> RXNORM
+6 KEY: se of zido *** CUI CODE in original terminology -----> 11413
+7: KEY: se of zido *** Final position in text according to JSON Object -----> 5729
+8: KEY: se of zido *** Initial position according to JSON Object -----> 5720
+9: KEY: se of zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: se of zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: e to didan *** RXCUI -----> 68244
+2: KEY: e to didan *** Concept from RXNORM -----> lamiVUDine
+3: KEY: e to didan *** Concept Type -----> TMSY
+4: KEY: e to didan *** Drug mention in text -----> e to didan
+5: KEY: e to didan *** Source language -----> RXNORM
+6 KEY: e to didan *** CUI CODE in original terminology -----> 68244
+7: KEY: e to didan *** Final position in text according to JSON Object -----> 9468
+8: KEY: e to didan *** Initial position according to JSON Object -----> 9459
+9: KEY: e to didan *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: e to didan *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: ine, lami *** RXCUI -----> 59763
+2: KEY: ine, lami *** Concept from RXNORM -----> Stavudine
+3: KEY: ine, lami *** Concept Type -----> IN
+4: KEY: ine, lami *** Drug mention in text -----> ine, lami
+5: KEY: ine, lami *** Source language -----> RXNORM
+6 KEY: ine, lami *** CUI CODE in original terminology -----> 59763
+7: KEY: ine, lami *** Final position in text according to JSON Object -----> 9479
+8: KEY: ine, lami *** Initial position according to JSON Object -----> 9471
+9: KEY: ine, lami *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: ine, lami *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: m the patt *** RXCUI -----> 11413
+2: KEY: m the patt *** Concept from RXNORM -----> Zidovudine
+3: KEY: m the patt *** Concept Type -----> IN
+4: KEY: m the patt *** Drug mention in text -----> m the patt
+5: KEY: m the patt *** Source language -----> RXNORM
+6 KEY: m the patt *** CUI CODE in original terminology -----> 11413
+7: KEY: m the patt *** Final position in text according to JSON Object -----> 9795
+8: KEY: m the patt *** Initial position according to JSON Object -----> 9786
+9: KEY: m the patt *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: m the patt *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ncy:  Zido *** RXCUI -----> 11413
+2: KEY: ncy:  Zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: ncy:  Zido *** Concept Type -----> IN
+4: KEY: ncy:  Zido *** Drug mention in text -----> ncy:  Zido
+5: KEY: ncy:  Zido *** Source language -----> RXNORM
+6 KEY: ncy:  Zido *** CUI CODE in original terminology -----> 11413
+7: KEY: ncy:  Zido *** Final position in text according to JSON Object -----> 4530
+8: KEY: ncy:  Zido *** Initial position according to JSON Object -----> 4521
+9: KEY: ncy:  Zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ncy:  Zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: iving zido *** RXCUI -----> 11413
+2: KEY: iving zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: iving zido *** Concept Type -----> IN
+4: KEY: iving zido *** Drug mention in text -----> iving zido
+5: KEY: iving zido *** Source language -----> RXNORM
+6 KEY: iving zido *** CUI CODE in original terminology -----> 11413
+7: KEY: iving zido *** Final position in text according to JSON Object -----> 5933
+8: KEY: iving zido *** Initial position according to JSON Object -----> 5924
+9: KEY: iving zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: iving zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: vir, nelf *** RXCUI -----> 85762
+2: KEY: vir, nelf *** Concept from RXNORM -----> Ritonavir
+3: KEY: vir, nelf *** Concept Type -----> IN
+4: KEY: vir, nelf *** Drug mention in text -----> vir, nelf
+5: KEY: vir, nelf *** Source language -----> MSH
+6 KEY: vir, nelf *** CUI CODE in original terminology -----> D019438
+7: KEY: vir, nelf *** Final position in text according to JSON Object -----> 8497
+8: KEY: vir, nelf *** Initial position according to JSON Object -----> 8489
+9: KEY: vir, nelf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: vir, nelf *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: for ≥1 y *** RXCUI -----> 11413
+2: KEY: for ≥1 y *** Concept from RXNORM -----> Zidovudine
+3: KEY: for ≥1 y *** Concept Type -----> IN
+4: KEY: for ≥1 y *** Drug mention in text -----> for ≥1 y
+5: KEY: for ≥1 y *** Source language -----> RXNORM
+6 KEY: for ≥1 y *** CUI CODE in original terminology -----> 11413
+7: KEY: for ≥1 y *** Final position in text according to JSON Object -----> 9573
+8: KEY: for ≥1 y *** Initial position according to JSON Object -----> 9564
+9: KEY: for ≥1 y *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: for ≥1 y *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: 19Q) that  *** RXCUI -----> 11413
+2: KEY: 19Q) that  *** Concept from RXNORM -----> Zidovudine
+3: KEY: 19Q) that  *** Concept Type -----> IN
+4: KEY: 19Q) that  *** Drug mention in text -----> 19Q) that 
+5: KEY: 19Q) that  *** Source language -----> RXNORM
+6 KEY: 19Q) that  *** CUI CODE in original terminology -----> 11413
+7: KEY: 19Q) that  *** Final position in text according to JSON Object -----> 8916
+8: KEY: 19Q) that  *** Initial position according to JSON Object -----> 8907
+9: KEY: 19Q) that  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: 19Q) that  *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ues for zi *** RXCUI -----> 11413
+2: KEY: ues for zi *** Concept from RXNORM -----> Zidovudine
+3: KEY: ues for zi *** Concept Type -----> IN
+4: KEY: ues for zi *** Drug mention in text -----> ues for zi
+5: KEY: ues for zi *** Source language -----> RXNORM
+6 KEY: ues for zi *** CUI CODE in original terminology -----> 11413
+7: KEY: ues for zi *** Final position in text according to JSON Object -----> 7658
+8: KEY: ues for zi *** Initial position according to JSON Object -----> 7649
+9: KEY: ues for zi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ues for zi *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: vity of zi *** RXCUI -----> 11413
+2: KEY: vity of zi *** Concept from RXNORM -----> Zidovudine
+3: KEY: vity of zi *** Concept Type -----> IN
+4: KEY: vity of zi *** Drug mention in text -----> vity of zi
+5: KEY: vity of zi *** Source language -----> RXNORM
+6 KEY: vity of zi *** CUI CODE in original terminology -----> 11413
+7: KEY: vity of zi *** Final position in text according to JSON Object -----> 7497
+8: KEY: vity of zi *** Initial position according to JSON Object -----> 7488
+9: KEY: vity of zi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: vity of zi *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ), or zido *** RXCUI -----> 11413
+2: KEY: ), or zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: ), or zido *** Concept Type -----> IN
+4: KEY: ), or zido *** Drug mention in text -----> ), or zido
+5: KEY: ), or zido *** Source language -----> RXNORM
+6 KEY: ), or zido *** CUI CODE in original terminology -----> 11413
+7: KEY: ), or zido *** Final position in text according to JSON Object -----> 6796
+8: KEY: ), or zido *** Initial position according to JSON Object -----> 6787
+9: KEY: ), or zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ), or zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ited, met *** RXCUI -----> 6813
+2: KEY: ited, met *** Concept from RXNORM -----> Methadone
+3: KEY: ited, met *** Concept Type -----> IN
+4: KEY: ited, met *** Drug mention in text -----> ited, met
+5: KEY: ited, met *** Source language -----> MSH
+6 KEY: ited, met *** CUI CODE in original terminology -----> D008691
+7: KEY: ited, met *** Final position in text according to JSON Object -----> 4974
+8: KEY: ited, met *** Initial position according to JSON Object -----> 4966
+9: KEY: ited, met *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: ited, met *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: or zidovudi *** RXCUI -----> 3363
+2: KEY: or zidovudi *** Concept from RXNORM -----> Zalcitabine
+3: KEY: or zidovudi *** Concept Type -----> IN
+4: KEY: or zidovudi *** Drug mention in text -----> or zidovudi
+5: KEY: or zidovudi *** Source language -----> MSH
+6 KEY: or zidovudi *** CUI CODE in original terminology -----> D016047
+7: KEY: or zidovudi *** Final position in text according to JSON Object -----> 9620
+8: KEY: or zidovudi *** Initial position according to JSON Object -----> 9610
+9: KEY: or zidovudi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016047
+10: KEY: or zidovudi *** Preferred name according to JSON Object -----> Zalcitabine
+---------------------------------------------------------
+1: KEY: ion therap *** RXCUI -----> 68244
+2: KEY: ion therap *** Concept from RXNORM -----> lamiVUDine
+3: KEY: ion therap *** Concept Type -----> TMSY
+4: KEY: ion therap *** Drug mention in text -----> ion therap
+5: KEY: ion therap *** Source language -----> RXNORM
+6 KEY: ion therap *** CUI CODE in original terminology -----> 68244
+7: KEY: ion therap *** Final position in text according to JSON Object -----> 9243
+8: KEY: ion therap *** Initial position according to JSON Object -----> 9234
+9: KEY: ion therap *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: ion therap *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: interfero *** RXCUI -----> 9344
+2: KEY: interfero *** Concept from RXNORM -----> Ribavirin
+3: KEY: interfero *** Concept Type -----> IN
+4: KEY: interfero *** Drug mention in text -----> interfero
+5: KEY: interfero *** Source language -----> MSH
+6 KEY: interfero *** CUI CODE in original terminology -----> D012254
+7: KEY: interfero *** Final position in text according to JSON Object -----> 8568
+8: KEY: interfero *** Initial position according to JSON Object -----> 8560
+9: KEY: interfero *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012254
+10: KEY: interfero *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY: dine, sta *** RXCUI -----> 59763
+2: KEY: dine, sta *** Concept from RXNORM -----> Stavudine
+3: KEY: dine, sta *** Concept Type -----> IN
+4: KEY: dine, sta *** Drug mention in text -----> dine, sta
+5: KEY: dine, sta *** Source language -----> RXNORM
+6 KEY: dine, sta *** CUI CODE in original terminology -----> 59763
+7: KEY: dine, sta *** Final position in text according to JSON Object -----> 6487
+8: KEY: dine, sta *** Initial position according to JSON Object -----> 6479
+9: KEY: dine, sta *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: dine, sta *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: state zido *** RXCUI -----> 11413
+2: KEY: state zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: state zido *** Concept Type -----> IN
+4: KEY: state zido *** Drug mention in text -----> state zido
+5: KEY: state zido *** Source language -----> RXNORM
+6 KEY: state zido *** CUI CODE in original terminology -----> 11413
+7: KEY: state zido *** Final position in text according to JSON Object -----> 6148
+8: KEY: state zido *** Initial position according to JSON Object -----> 6139
+9: KEY: state zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: state zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ge in phe *** RXCUI -----> 8183
+2: KEY: ge in phe *** Concept from RXNORM -----> Phenytoin
+3: KEY: ge in phe *** Concept Type -----> IN
+4: KEY: ge in phe *** Drug mention in text -----> ge in phe
+5: KEY: ge in phe *** Source language -----> MSH
+6 KEY: ge in phe *** CUI CODE in original terminology -----> D010672
+7: KEY: ge in phe *** Final position in text according to JSON Object -----> 6206
+8: KEY: ge in phe *** Initial position according to JSON Object -----> 6198
+9: KEY: ge in phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: ge in phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: of zidovud *** RXCUI -----> 11413
+2: KEY: of zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: of zidovud *** Concept Type -----> IN
+4: KEY: of zidovud *** Drug mention in text -----> of zidovud
+5: KEY: of zidovud *** Source language -----> RXNORM
+6 KEY: of zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: of zidovud *** Final position in text according to JSON Object -----> 2883
+8: KEY: of zidovud *** Initial position according to JSON Object -----> 2874
+9: KEY: of zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: of zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: of zidovud *** RXCUI -----> 11413
+2: KEY: of zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: of zidovud *** Concept Type -----> IN
+4: KEY: of zidovud *** Drug mention in text -----> of zidovud
+5: KEY: of zidovud *** Source language -----> RXNORM
+6 KEY: of zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: of zidovud *** Final position in text according to JSON Object -----> 2883
+8: KEY: of zidovud *** Initial position according to JSON Object -----> 2874
+9: KEY: of zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: of zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: of zidovud *** RXCUI -----> 11413
+2: KEY: of zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: of zidovud *** Concept Type -----> IN
+4: KEY: of zidovud *** Drug mention in text -----> of zidovud
+5: KEY: of zidovud *** Source language -----> RXNORM
+6 KEY: of zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: of zidovud *** Final position in text according to JSON Object -----> 2883
+8: KEY: of zidovud *** Initial position according to JSON Object -----> 2874
+9: KEY: of zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: of zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ct of phe *** RXCUI -----> 8183
+2: KEY: ct of phe *** Concept from RXNORM -----> Phenytoin
+3: KEY: ct of phe *** Concept Type -----> IN
+4: KEY: ct of phe *** Drug mention in text -----> ct of phe
+5: KEY: ct of phe *** Source language -----> MSH
+6 KEY: ct of phe *** CUI CODE in original terminology -----> D010672
+7: KEY: ct of phe *** Final position in text according to JSON Object -----> 6295
+8: KEY: ct of phe *** Initial position according to JSON Object -----> 6287
+9: KEY: ct of phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: ct of phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  zidovudin *** RXCUI -----> 11413
+2: KEY:  zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  zidovudin *** Concept Type -----> IN
+4: KEY:  zidovudin *** Drug mention in text ----->  zidovudin
+5: KEY:  zidovudin *** Source language -----> RXNORM
+6 KEY:  zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  zidovudin *** Final position in text according to JSON Object -----> 1590
+8: KEY:  zidovudin *** Initial position according to JSON Object -----> 1581
+9: KEY:  zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: h lamivudi *** RXCUI -----> 11413
+2: KEY: h lamivudi *** Concept from RXNORM -----> Zidovudine
+3: KEY: h lamivudi *** Concept Type -----> IN
+4: KEY: h lamivudi *** Drug mention in text -----> h lamivudi
+5: KEY: h lamivudi *** Source language -----> RXNORM
+6 KEY: h lamivudi *** CUI CODE in original terminology -----> 11413
+7: KEY: h lamivudi *** Final position in text according to JSON Object -----> 9206
+8: KEY: h lamivudi *** Initial position according to JSON Object -----> 9197
+9: KEY: h lamivudi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: h lamivudi *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: on of zido *** RXCUI -----> 11413
+2: KEY: on of zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: on of zido *** Concept Type -----> IN
+4: KEY: on of zido *** Drug mention in text -----> on of zido
+5: KEY: on of zido *** Source language -----> RXNORM
+6 KEY: on of zido *** CUI CODE in original terminology -----> 11413
+7: KEY: on of zido *** Final position in text according to JSON Object -----> 5374
+8: KEY: on of zido *** Initial position according to JSON Object -----> 5365
+9: KEY: on of zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: on of zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ng resista *** RXCUI -----> 11413
+2: KEY: ng resista *** Concept from RXNORM -----> Zidovudine
+3: KEY: ng resista *** Concept Type -----> IN
+4: KEY: ng resista *** Drug mention in text -----> ng resista
+5: KEY: ng resista *** Source language -----> RXNORM
+6 KEY: ng resista *** CUI CODE in original terminology -----> 11413
+7: KEY: ng resista *** Final position in text according to JSON Object -----> 9334
+8: KEY: ng resista *** Initial position according to JSON Object -----> 9325
+9: KEY: ng resista *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ng resista *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: tients har *** RXCUI -----> 11413
+2: KEY: tients har *** Concept from RXNORM -----> Zidovudine
+3: KEY: tients har *** Concept Type -----> IN
+4: KEY: tients har *** Drug mention in text -----> tients har
+5: KEY: tients har *** Source language -----> RXNORM
+6 KEY: tients har *** CUI CODE in original terminology -----> 11413
+7: KEY: tients har *** Final position in text according to JSON Object -----> 9071
+8: KEY: tients har *** Initial position according to JSON Object -----> 9062
+9: KEY: tients har *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: tients har *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: alter zido *** RXCUI -----> 11413
+2: KEY: alter zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: alter zido *** Concept Type -----> IN
+4: KEY: alter zido *** Drug mention in text -----> alter zido
+5: KEY: alter zido *** Source language -----> RXNORM
+6 KEY: alter zido *** CUI CODE in original terminology -----> 11413
+7: KEY: alter zido *** Final position in text according to JSON Object -----> 5049
+8: KEY: alter zido *** Initial position according to JSON Object -----> 5040
+9: KEY: alter zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: alter zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ne, tenofov *** RXCUI -----> 3363
+2: KEY: ne, tenofov *** Concept from RXNORM -----> Zalcitabine
+3: KEY: ne, tenofov *** Concept Type -----> IN
+4: KEY: ne, tenofov *** Drug mention in text -----> ne, tenofov
+5: KEY: ne, tenofov *** Source language -----> MSH
+6 KEY: ne, tenofov *** CUI CODE in original terminology -----> D016047
+7: KEY: ne, tenofov *** Final position in text according to JSON Object -----> 10250
+8: KEY: ne, tenofov *** Initial position according to JSON Object -----> 10240
+9: KEY: ne, tenofov *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016047
+10: KEY: ne, tenofov *** Preferred name according to JSON Object -----> Zalcitabine
+---------------------------------------------------------
+1: KEY: n and lami *** RXCUI -----> 68244
+2: KEY: n and lami *** Concept from RXNORM -----> lamiVUDine
+3: KEY: n and lami *** Concept Type -----> TMSY
+4: KEY: n and lami *** Drug mention in text -----> n and lami
+5: KEY: n and lami *** Source language -----> RXNORM
+6 KEY: n and lami *** CUI CODE in original terminology -----> 68244
+7: KEY: n and lami *** Final position in text according to JSON Object -----> 6752
+8: KEY: n and lami *** Initial position according to JSON Object -----> 6743
+9: KEY: n and lami *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/68244
+10: KEY: n and lami *** Preferred name according to JSON Object -----> Lamivudine
+---------------------------------------------------------
+1: KEY: nosine, s *** RXCUI -----> 117466
+2: KEY: nosine, s *** Concept from RXNORM -----> Tenofovir
+3: KEY: nosine, s *** Concept Type -----> IN
+4: KEY: nosine, s *** Drug mention in text -----> nosine, s
+5: KEY: nosine, s *** Source language -----> RXNORM
+6 KEY: nosine, s *** CUI CODE in original terminology -----> 117466
+7: KEY: nosine, s *** Final position in text according to JSON Object -----> 10233
+8: KEY: nosine, s *** Initial position according to JSON Object -----> 10225
+9: KEY: nosine, s *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/117466
+10: KEY: nosine, s *** Preferred name according to JSON Object -----> Tenofovir
+---------------------------------------------------------
+1: KEY: se zidovud *** RXCUI -----> 11413
+2: KEY: se zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: se zidovud *** Concept Type -----> IN
+4: KEY: se zidovud *** Drug mention in text -----> se zidovud
+5: KEY: se zidovud *** Source language -----> RXNORM
+6 KEY: se zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: se zidovud *** Final position in text according to JSON Object -----> 2924
+8: KEY: se zidovud *** Initial position according to JSON Object -----> 2915
+9: KEY: se zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: se zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  delavirdi *** RXCUI -----> 53654
+2: KEY:  delavirdi *** Concept from RXNORM -----> Nevirapine
+3: KEY:  delavirdi *** Concept Type -----> IN
+4: KEY:  delavirdi *** Drug mention in text ----->  delavirdi
+5: KEY:  delavirdi *** Source language -----> MSH
+6 KEY:  delavirdi *** CUI CODE in original terminology -----> D019829
+7: KEY:  delavirdi *** Final position in text according to JSON Object -----> 8435
+8: KEY:  delavirdi *** Initial position according to JSON Object -----> 8426
+9: KEY:  delavirdi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019829
+10: KEY:  delavirdi *** Preferred name according to JSON Object -----> Nevirapine
+---------------------------------------------------------
+1: KEY: vudine, sta *** RXCUI -----> 3363
+2: KEY: vudine, sta *** Concept from RXNORM -----> Zalcitabine
+3: KEY: vudine, sta *** Concept Type -----> IN
+4: KEY: vudine, sta *** Drug mention in text -----> vudine, sta
+5: KEY: vudine, sta *** Source language -----> MSH
+6 KEY: vudine, sta *** CUI CODE in original terminology -----> D016047
+7: KEY: vudine, sta *** Final position in text according to JSON Object -----> 10079
+8: KEY: vudine, sta *** Initial position according to JSON Object -----> 10069
+9: KEY: vudine, sta *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016047
+10: KEY: vudine, sta *** Preferred name according to JSON Object -----> Zalcitabine
+---------------------------------------------------------
+1: KEY: tease inh *** RXCUI -----> 114289
+2: KEY: tease inh *** Concept from RXNORM -----> Indinavir
+3: KEY: tease inh *** Concept Type -----> IN
+4: KEY: tease inh *** Drug mention in text -----> tease inh
+5: KEY: tease inh *** Source language -----> RXNORM
+6 KEY: tease inh *** CUI CODE in original terminology -----> 114289
+7: KEY: tease inh *** Final position in text according to JSON Object -----> 8474
+8: KEY: tease inh *** Initial position according to JSON Object -----> 8466
+9: KEY: tease inh *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/114289
+10: KEY: tease inh *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY: ross-res *** RXCUI -----> 190521
+2: KEY: ross-res *** Concept from RXNORM -----> abacavir
+3: KEY: ross-res *** Concept Type -----> IN
+4: KEY: ross-res *** Drug mention in text -----> ross-res
+5: KEY: ross-res *** Source language -----> MSH
+6 KEY: ross-res *** CUI CODE in original terminology -----> C106538
+7: KEY: ross-res *** Final position in text according to JSON Object -----> 10199
+8: KEY: ross-res *** Initial position according to JSON Object -----> 10192
+9: KEY: ross-res *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C106538
+10: KEY: ross-res *** Preferred name according to JSON Object -----> abacavir
+---------------------------------------------------------
+1: KEY: :  Zidovud *** RXCUI -----> 11413
+2: KEY: :  Zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: :  Zidovud *** Concept Type -----> IN
+4: KEY: :  Zidovud *** Drug mention in text -----> :  Zidovud
+5: KEY: :  Zidovud *** Source language -----> RXNORM
+6 KEY: :  Zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: :  Zidovud *** Final position in text according to JSON Object -----> 3240
+8: KEY: :  Zidovud *** Initial position according to JSON Object -----> 3231
+9: KEY: :  Zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: :  Zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: :  Zidovud *** RXCUI -----> 11413
+2: KEY: :  Zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: :  Zidovud *** Concept Type -----> IN
+4: KEY: :  Zidovud *** Drug mention in text -----> :  Zidovud
+5: KEY: :  Zidovud *** Source language -----> RXNORM
+6 KEY: :  Zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: :  Zidovud *** Final position in text according to JSON Object -----> 3240
+8: KEY: :  Zidovud *** Initial position according to JSON Object -----> 3231
+9: KEY: :  Zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: :  Zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  susceptib *** RXCUI -----> 3364
+2: KEY:  susceptib *** Concept from RXNORM -----> Didanosine
+3: KEY:  susceptib *** Concept Type -----> IN
+4: KEY:  susceptib *** Drug mention in text ----->  susceptib
+5: KEY:  susceptib *** Source language -----> RXNORM
+6 KEY:  susceptib *** CUI CODE in original terminology -----> 3364
+7: KEY:  susceptib *** Final position in text according to JSON Object -----> 10043
+8: KEY:  susceptib *** Initial position according to JSON Object -----> 10034
+9: KEY:  susceptib *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY:  susceptib *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: Zidovudine *** RXCUI -----> 11413
+2: KEY: Zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: Zidovudine *** Concept Type -----> IN
+4: KEY: Zidovudine *** Drug mention in text -----> Zidovudine
+5: KEY: Zidovudine *** Source language -----> RXNORM
+6 KEY: Zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: Zidovudine *** Final position in text according to JSON Object -----> 62
+8: KEY: Zidovudine *** Initial position according to JSON Object -----> 53
+9: KEY: Zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: Zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: arly, zido *** RXCUI -----> 11413
+2: KEY: arly, zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: arly, zido *** Concept Type -----> IN
+4: KEY: arly, zido *** Drug mention in text -----> arly, zido
+5: KEY: arly, zido *** Source language -----> RXNORM
+6 KEY: arly, zido *** CUI CODE in original terminology -----> 11413
+7: KEY: arly, zido *** Final position in text according to JSON Object -----> 7045
+8: KEY: arly, zido *** Initial position according to JSON Object -----> 7036
+9: KEY: arly, zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: arly, zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  when rib *** RXCUI -----> 9344
+2: KEY:  when rib *** Concept from RXNORM -----> Ribavirin
+3: KEY:  when rib *** Concept Type -----> IN
+4: KEY:  when rib *** Drug mention in text ----->  when rib
+5: KEY:  when rib *** Source language -----> MSH
+6 KEY:  when rib *** CUI CODE in original terminology -----> D012254
+7: KEY:  when rib *** Final position in text according to JSON Object -----> 6737
+8: KEY:  when rib *** Initial position according to JSON Object -----> 6729
+9: KEY:  when rib *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012254
+10: KEY:  when rib *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY: at zidovud *** RXCUI -----> 11413
+2: KEY: at zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: at zidovud *** Concept Type -----> IN
+4: KEY: at zidovud *** Drug mention in text -----> at zidovud
+5: KEY: at zidovud *** Source language -----> RXNORM
+6 KEY: at zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: at zidovud *** Final position in text according to JSON Object -----> 3002
+8: KEY: at zidovud *** Initial position according to JSON Object -----> 2993
+9: KEY: at zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: at zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: 00 mg zido *** RXCUI -----> 11413
+2: KEY: 00 mg zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: 00 mg zido *** Concept Type -----> IN
+4: KEY: 00 mg zido *** Drug mention in text -----> 00 mg zido
+5: KEY: 00 mg zido *** Source language -----> RXNORM
+6 KEY: 00 mg zido *** CUI CODE in original terminology -----> 11413
+7: KEY: 00 mg zido *** Final position in text according to JSON Object -----> 5771
+8: KEY: 00 mg zido *** Initial position according to JSON Object -----> 5762
+9: KEY: 00 mg zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: 00 mg zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: 00 mg zido *** RXCUI -----> 11413
+2: KEY: 00 mg zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: 00 mg zido *** Concept Type -----> IN
+4: KEY: 00 mg zido *** Drug mention in text -----> 00 mg zido
+5: KEY: 00 mg zido *** Source language -----> RXNORM
+6 KEY: 00 mg zido *** CUI CODE in original terminology -----> 11413
+7: KEY: 00 mg zido *** Final position in text according to JSON Object -----> 5771
+8: KEY: 00 mg zido *** Initial position according to JSON Object -----> 5762
+9: KEY: 00 mg zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: 00 mg zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  lamivudin *** RXCUI -----> 11413
+2: KEY:  lamivudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  lamivudin *** Concept Type -----> IN
+4: KEY:  lamivudin *** Drug mention in text ----->  lamivudin
+5: KEY:  lamivudin *** Source language -----> RXNORM
+6 KEY:  lamivudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  lamivudin *** Final position in text according to JSON Object -----> 9259
+8: KEY:  lamivudin *** Initial position according to JSON Object -----> 9250
+9: KEY:  lamivudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  lamivudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: c sensitiv *** RXCUI -----> 11413
+2: KEY: c sensitiv *** Concept from RXNORM -----> Zidovudine
+3: KEY: c sensitiv *** Concept Type -----> IN
+4: KEY: c sensitiv *** Drug mention in text -----> c sensitiv
+5: KEY: c sensitiv *** Source language -----> RXNORM
+6 KEY: c sensitiv *** CUI CODE in original terminology -----> 11413
+7: KEY: c sensitiv *** Final position in text according to JSON Object -----> 9137
+8: KEY: c sensitiv *** Initial position according to JSON Object -----> 9128
+9: KEY: c sensitiv *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: c sensitiv *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: cavir, di *** RXCUI -----> 59763
+2: KEY: cavir, di *** Concept from RXNORM -----> Stavudine
+3: KEY: cavir, di *** Concept Type -----> IN
+4: KEY: cavir, di *** Drug mention in text -----> cavir, di
+5: KEY: cavir, di *** Source language -----> RXNORM
+6 KEY: cavir, di *** CUI CODE in original terminology -----> 59763
+7: KEY: cavir, di *** Final position in text according to JSON Object -----> 10222
+8: KEY: cavir, di *** Initial position according to JSON Object -----> 10214
+9: KEY: cavir, di *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: cavir, di *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: 00 mg phe *** RXCUI -----> 8183
+2: KEY: 00 mg phe *** Concept from RXNORM -----> Phenytoin
+3: KEY: 00 mg phe *** Concept Type -----> IN
+4: KEY: 00 mg phe *** Drug mention in text -----> 00 mg phe
+5: KEY: 00 mg phe *** Source language -----> MSH
+6 KEY: 00 mg phe *** CUI CODE in original terminology -----> D010672
+7: KEY: 00 mg phe *** Final position in text according to JSON Object -----> 6102
+8: KEY: 00 mg phe *** Initial position according to JSON Object -----> 6094
+9: KEY: 00 mg phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: 00 mg phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: ion:  Zido *** RXCUI -----> 11413
+2: KEY: ion:  Zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: ion:  Zido *** Concept Type -----> IN
+4: KEY: ion:  Zido *** Drug mention in text -----> ion:  Zido
+5: KEY: ion:  Zido *** Source language -----> RXNORM
+6 KEY: ion:  Zido *** CUI CODE in original terminology -----> 11413
+7: KEY: ion:  Zido *** Final position in text according to JSON Object -----> 6981
+8: KEY: ion:  Zido *** Initial position according to JSON Object -----> 6972
+9: KEY: ion:  Zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ion:  Zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: l, zidovud *** RXCUI -----> 11413
+2: KEY: l, zidovud *** Concept from RXNORM -----> Zidovudine
+3: KEY: l, zidovud *** Concept Type -----> IN
+4: KEY: l, zidovud *** Drug mention in text -----> l, zidovud
+5: KEY: l, zidovud *** Source language -----> RXNORM
+6 KEY: l, zidovud *** CUI CODE in original terminology -----> 11413
+7: KEY: l, zidovud *** Final position in text according to JSON Object -----> 3385
+8: KEY: l, zidovud *** Initial position according to JSON Object -----> 3376
+9: KEY: l, zidovud *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: l, zidovud *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: enta, zido *** RXCUI -----> 11413
+2: KEY: enta, zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: enta, zido *** Concept Type -----> IN
+4: KEY: enta, zido *** Drug mention in text -----> enta, zido
+5: KEY: enta, zido *** Source language -----> RXNORM
+6 KEY: enta, zido *** CUI CODE in original terminology -----> 11413
+7: KEY: enta, zido *** Final position in text according to JSON Object -----> 4789
+8: KEY: enta, zido *** Initial position according to JSON Object -----> 4780
+9: KEY: enta, zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: enta, zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ancy. Zido *** RXCUI -----> 11413
+2: KEY: ancy. Zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: ancy. Zido *** Concept Type -----> IN
+4: KEY: ancy. Zido *** Drug mention in text -----> ancy. Zido
+5: KEY: ancy. Zido *** Source language -----> RXNORM
+6 KEY: ancy. Zido *** CUI CODE in original terminology -----> 11413
+7: KEY: ancy. Zido *** Final position in text according to JSON Object -----> 4646
+8: KEY: ancy. Zido *** Initial position according to JSON Object -----> 4637
+9: KEY: ancy. Zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: ancy. Zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: ptase inhib *** RXCUI -----> 83816
+2: KEY: ptase inhib *** Concept from RXNORM -----> Delavirdine
+3: KEY: ptase inhib *** Concept Type -----> IN
+4: KEY: ptase inhib *** Drug mention in text -----> ptase inhib
+5: KEY: ptase inhib *** Source language -----> RXNORM
+6 KEY: ptase inhib *** CUI CODE in original terminology -----> 83816
+7: KEY: ptase inhib *** Final position in text according to JSON Object -----> 8420
+8: KEY: ptase inhib *** Initial position according to JSON Object -----> 8410
+9: KEY: ptase inhib *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83816
+10: KEY: ptase inhib *** Preferred name according to JSON Object -----> Delavirdine
+---------------------------------------------------------
+1: KEY: , and zido *** RXCUI -----> 11413
+2: KEY: , and zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: , and zido *** Concept Type -----> IN
+4: KEY: , and zido *** Drug mention in text -----> , and zido
+5: KEY: , and zido *** Source language -----> RXNORM
+6 KEY: , and zido *** CUI CODE in original terminology -----> 11413
+7: KEY: , and zido *** Final position in text according to JSON Object -----> 6503
+8: KEY: , and zido *** Initial position according to JSON Object -----> 6494
+9: KEY: , and zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: , and zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: 7)].
+
+Phe *** RXCUI -----> 8183
+2: KEY: 7)].
+
+Phe *** Concept from RXNORM -----> Phenytoin
+3: KEY: 7)].
+
+Phe *** Concept Type -----> IN
+4: KEY: 7)].
+
+Phe *** Drug mention in text -----> 7)].
+
+Phe
+5: KEY: 7)].
+
+Phe *** Source language -----> MSH
+6 KEY: 7)].
+
+Phe *** CUI CODE in original terminology -----> D010672
+7: KEY: 7)].
+
+Phe *** Final position in text according to JSON Object -----> 5840
+8: KEY: 7)].
+
+Phe *** Initial position according to JSON Object -----> 5832
+9: KEY: 7)].
+
+Phe *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: 7)].
+
+Phe *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: zalcitabin *** RXCUI -----> 11413
+2: KEY: zalcitabin *** Concept from RXNORM -----> Zidovudine
+3: KEY: zalcitabin *** Concept Type -----> IN
+4: KEY: zalcitabin *** Drug mention in text -----> zalcitabin
+5: KEY: zalcitabin *** Source language -----> RXNORM
+6 KEY: zalcitabin *** CUI CODE in original terminology -----> 11413
+7: KEY: zalcitabin *** Final position in text according to JSON Object -----> 9508
+8: KEY: zalcitabin *** Initial position according to JSON Object -----> 9499
+9: KEY: zalcitabin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zalcitabin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: in on zido *** RXCUI -----> 11413
+2: KEY: in on zido *** Concept from RXNORM -----> Zidovudine
+3: KEY: in on zido *** Concept Type -----> IN
+4: KEY: in on zido *** Drug mention in text -----> in on zido
+5: KEY: in on zido *** Source language -----> RXNORM
+6 KEY: in on zido *** CUI CODE in original terminology -----> 11413
+7: KEY: in on zido *** Final position in text according to JSON Object -----> 6309
+8: KEY: in on zido *** Initial position according to JSON Object -----> 6300
+9: KEY: in on zido *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: in on zido *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: s) are sel *** RXCUI -----> 11413
+2: KEY: s) are sel *** Concept from RXNORM -----> Zidovudine
+3: KEY: s) are sel *** Concept Type -----> IN
+4: KEY: s) are sel *** Drug mention in text -----> s) are sel
+5: KEY: s) are sel *** Source language -----> RXNORM
+6 KEY: s) are sel *** CUI CODE in original terminology -----> 11413
+7: KEY: s) are sel *** Final position in text according to JSON Object -----> 10159
+8: KEY: s) are sel *** Initial position according to JSON Object -----> 10150
+9: KEY: s) are sel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: s) are sel *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  18), sta *** RXCUI -----> 59763
+2: KEY:  18), sta *** Concept from RXNORM -----> Stavudine
+3: KEY:  18), sta *** Concept Type -----> IN
+4: KEY:  18), sta *** Drug mention in text ----->  18), sta
+5: KEY:  18), sta *** Source language -----> RXNORM
+6 KEY:  18), sta *** CUI CODE in original terminology -----> 59763
+7: KEY:  18), sta *** Final position in text according to JSON Object -----> 6772
+8: KEY:  18), sta *** Initial position according to JSON Object -----> 6764
+9: KEY:  18), sta *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY:  18), sta *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: osine, la *** RXCUI -----> 59763
+2: KEY: osine, la *** Concept from RXNORM -----> Stavudine
+3: KEY: osine, la *** Concept Type -----> IN
+4: KEY: osine, la *** Drug mention in text -----> osine, la
+5: KEY: osine, la *** Source language -----> RXNORM
+6 KEY: osine, la *** CUI CODE in original terminology -----> 59763
+7: KEY: osine, la *** Final position in text according to JSON Object -----> 10066
+8: KEY: osine, la *** Initial position according to JSON Object -----> 10058
+9: KEY: osine, la *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/59763
+10: KEY: osine, la *** Preferred name according to JSON Object -----> Stavudine
+---------------------------------------------------------
+1: KEY: dine, stavu *** RXCUI -----> 3363
+2: KEY: dine, stavu *** Concept from RXNORM -----> Zalcitabine
+3: KEY: dine, stavu *** Concept Type -----> IN
+4: KEY: dine, stavu *** Drug mention in text -----> dine, stavu
+5: KEY: dine, stavu *** Source language -----> MSH
+6 KEY: dine, stavu *** CUI CODE in original terminology -----> D016047
+7: KEY: dine, stavu *** Final position in text according to JSON Object -----> 9492
+8: KEY: dine, stavu *** Initial position according to JSON Object -----> 9482
+9: KEY: dine, stavu *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016047
+10: KEY: dine, stavu *** Preferred name according to JSON Object -----> Zalcitabine
+---------------------------------------------------------
+1: KEY: icate rib *** RXCUI -----> 9344
+2: KEY: icate rib *** Concept from RXNORM -----> Ribavirin
+3: KEY: icate rib *** Concept Type -----> IN
+4: KEY: icate rib *** Drug mention in text -----> icate rib
+5: KEY: icate rib *** Source language -----> MSH
+6 KEY: icate rib *** CUI CODE in original terminology -----> D012254
+7: KEY: icate rib *** Final position in text according to JSON Object -----> 6438
+8: KEY: icate rib *** Initial position according to JSON Object -----> 6430
+9: KEY: icate rib *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012254
+10: KEY: icate rib *** Preferred name according to JSON Object -----> Ribavirin
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: zidovudine *** RXCUI -----> 11413
+2: KEY: zidovudine *** Concept from RXNORM -----> Zidovudine
+3: KEY: zidovudine *** Concept Type -----> IN
+4: KEY: zidovudine *** Drug mention in text -----> zidovudine
+5: KEY: zidovudine *** Source language -----> RXNORM
+6 KEY: zidovudine *** CUI CODE in original terminology -----> 11413
+7: KEY: zidovudine *** Final position in text according to JSON Object -----> 654
+8: KEY: zidovudine *** Initial position according to JSON Object -----> 645
+9: KEY: zidovudine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY: zidovudine *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY: tance to a *** RXCUI -----> 3364
+2: KEY: tance to a *** Concept from RXNORM -----> Didanosine
+3: KEY: tance to a *** Concept Type -----> IN
+4: KEY: tance to a *** Drug mention in text -----> tance to a
+5: KEY: tance to a *** Source language -----> RXNORM
+6 KEY: tance to a *** CUI CODE in original terminology -----> 3364
+7: KEY: tance to a *** Final position in text according to JSON Object -----> 10211
+8: KEY: tance to a *** Initial position according to JSON Object -----> 10202
+9: KEY: tance to a *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3364
+10: KEY: tance to a *** Preferred name according to JSON Object -----> Didanosine
+---------------------------------------------------------
+1: KEY: itors indi *** RXCUI -----> 134527
+2: KEY: itors indi *** Concept from RXNORM -----> Nelfinavir
+3: KEY: itors indi *** Concept Type -----> IN
+4: KEY: itors indi *** Drug mention in text -----> itors indi
+5: KEY: itors indi *** Source language -----> RXNORM
+6 KEY: itors indi *** CUI CODE in original terminology -----> 134527
+7: KEY: itors indi *** Final position in text according to JSON Object -----> 8486
+8: KEY: itors indi *** Initial position according to JSON Object -----> 8477
+9: KEY: itors indi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/134527
+10: KEY: itors indi *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+1: KEY:  Zidovudin *** RXCUI -----> 11413
+2: KEY:  Zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  Zidovudin *** Concept Type -----> IN
+4: KEY:  Zidovudin *** Drug mention in text ----->  Zidovudin
+5: KEY:  Zidovudin *** Source language -----> RXNORM
+6 KEY:  Zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  Zidovudin *** Final position in text according to JSON Object -----> 1671
+8: KEY:  Zidovudin *** Initial position according to JSON Object -----> 1662
+9: KEY:  Zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  Zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  Zidovudin *** RXCUI -----> 11413
+2: KEY:  Zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  Zidovudin *** Concept Type -----> IN
+4: KEY:  Zidovudin *** Drug mention in text ----->  Zidovudin
+5: KEY:  Zidovudin *** Source language -----> RXNORM
+6 KEY:  Zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  Zidovudin *** Final position in text according to JSON Object -----> 1671
+8: KEY:  Zidovudin *** Initial position according to JSON Object -----> 1662
+9: KEY:  Zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  Zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+1: KEY:  Zidovudin *** RXCUI -----> 11413
+2: KEY:  Zidovudin *** Concept from RXNORM -----> Zidovudine
+3: KEY:  Zidovudin *** Concept Type -----> IN
+4: KEY:  Zidovudin *** Drug mention in text ----->  Zidovudin
+5: KEY:  Zidovudin *** Source language -----> RXNORM
+6 KEY:  Zidovudin *** CUI CODE in original terminology -----> 11413
+7: KEY:  Zidovudin *** Final position in text according to JSON Object -----> 1671
+8: KEY:  Zidovudin *** Initial position according to JSON Object -----> 1662
+9: KEY:  Zidovudin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11413
+10: KEY:  Zidovudin *** Preferred name according to JSON Object -----> Zidovudine
+---------------------------------------------------------
+removed duplications 610
+Number of missed JSON elements: 0

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="extractResults" basedir="." xmlns:ac="antlib:net.sf.antcontrib">
+
+<!-- the path of properties file -->	
+<property file="plugin.properties"/>
+<property name="version"   value="1.0"/>
+ 
+  <taskdef resource="net/sf/antcontrib/antlib.xml">
+    <classpath>
+      <pathelement location="${BASE-FOLDER}/ant-libs/ant-contrib.jar"/>
+    </classpath>
+  </taskdef>
+ 
+
+    <target name="backUpOutput" description="copy generated output to AndresOutput folder">
+
+	<!-- FOR THE BACKUP THE OUTFILES -->
+        <mkdir dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-outfiles"/>
+        <copy todir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-outfiles">
+            <fileset dir="outfiles"/>
+        </copy>
+		
+		<property name="absolute.path" location=""/>
+		<echo message="${absolute.path}"/>
+
+		<pathconvert property="file.list" pathsep="">
+			<map from="${absolute.path}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-outfiles/" to=""/>
+            <fileset dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-outfiles">
+                <include name="*.*"/>
+            </fileset>
+        </pathconvert>
+
+        <loadresource property="file.name">
+            <string value="${file.list}"/>
+            <filterchain>
+                <!-- add your own logic to deal with multiple matches -->
+                <headfilter lines="1"/>
+                <tokenfilter>
+      				<filetokenizer/>
+      					<replacestring from="-drugInteractions.txt" to="&#xA;"/>
+    				</tokenfilter>
+            </filterchain>
+        </loadresource>
+
+        <!-- print the result -->
+        <echo message="file.name: ${file.name}"/>
+		<touch file = "${BASE-FOLDER}/AndresOutput/${DRUG-NAME}outfilesIDs.txt" /> 
+        <echo file="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}outfilesIDs.txt" append="true">${file.name}</echo>
+
+		<!-- FOR THE BACKUP THE JSON NER -->
+		<mkdir dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-json-output"/>
+        <copy todir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-json-output">
+            <fileset dir="json-output"/>
+        </copy>
+
+        <pathconvert property="jsonfile.list" pathsep="">
+			<map from="${absolute.path}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-json-output/" to=""/>
+            <fileset dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-json-output">
+                <include name="*.*"/>
+            </fileset>
+        </pathconvert>
+
+        <loadresource property="jsonfile.name">
+            <string value="${jsonfile.list}"/>
+            <filterchain>
+                <!-- add your own logic to deal with multiple matches -->
+                <headfilter lines="1"/>
+                <tokenfilter>
+      				<filetokenizer/>
+      					<replacestring from="-drugInteractions.txt-PROCESSED.xml.json" to="&#xA;"/>
+    				</tokenfilter>
+            </filterchain>
+        </loadresource>
+
+        <!-- print the result -->
+        <echo message="jsonfile.name: ${jsonfile.name}"/>
+		<touch file = "${BASE-FOLDER}/AndresOutput/${DRUG-NAME}jsonnameIDs.txt" /> 
+        <echo file="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}jsonnameIDs.txt" append="true">${jsonfile.name}</echo>
+
+
+		<!-- FOR THE BACKUP THE PPDINLPOUTPUT -->
+		<mkdir dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-pddi-nlp-output"/>
+        <copy todir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-pddi-nlp-output">
+            <fileset dir="pddi-nlp-output"/>
+        </copy>
+
+        <pathconvert property="pddinlpoutput.list" pathsep="">
+			<map from="${absolute.path}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-pddi-nlp-output/" to=""/>
+            <fileset dir="${BASE-FOLDER}/AndresOutput/${GROUP-NUMBER}${DRUG-NAME}${DATE}-pddi-nlp-output">
+                <include name="*.*"/>
+            </fileset>
+        </pathconvert>
+
+        <loadresource property="pddinlpoutput.name">
+            <string value="${pddinlpoutput.list}"/>
+            <filterchain>
+                <!-- add your own logic to deal with multiple matches -->
+                <headfilter lines="1"/>
+                <tokenfilter>
+      				<filetokenizer/>
+      					<replacestring from="-drugInteractions-PK-DDIs.txt" to="&#xA;"/>
+    				</tokenfilter>
+            </filterchain>
+        </loadresource>
+
+        <!-- print the result -->
+        <echo message="pddinlpoutput.name: ${pddinlpoutput.name}"/>
+		<touch file = "${BASE-FOLDER}/AndresOutput/${DRUG-NAME}pddinlpoutputIDs.txt" /> 
+        <echo file="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}pddinlpoutputIDs.txt" append="true">${pddinlpoutput.name}</echo>
+
+    </target>
+
+<target name="compileResults" description="compile results">
+        
+      <exec dir="${BASE-FOLDER}/" executable="python">
+            <arg line="compileResults.py ${DRUG-NAME}"/>
+      </exec>
+
+      <loadfile property="matchesList" srcFile="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}Intersection.txt">
+      </loadfile>
+ 
+ 
+      <for list="${matchesList}" param="match" delimiter="${line.separator}">
+	<sequential>
+
+	  <zip destfile="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}_Analysis.zip" update="true">
+	    <zipfileset 
+		dir="${BASE-FOLDER}/AndresOutput/"
+		includes="**/@{match}*.*"
+		excludes="*.*"
+		/>	  
+	  </zip>
+	</sequential>
+
+      </for>
+
+      <delete includeEmptyDirs="true">
+	<fileset dir="${BASE-FOLDER}/AndresOutput/"
+		 excludes="*.*"/>
+      </delete>
+	
+<!--      <zip destfile="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}_Analysis.zip" basedir="${BASE-FOLDER}/AndresOutput/${DRUG-NAME}_Analysis" update="true"/>-->	
+      
+</target>
+
+</project>

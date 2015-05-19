@@ -1,0 +1,24 @@
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Final position in text according to JSON Object -----> 51
+8: KEY: alprazolam *** Initial position according to JSON Object -----> 42
+9: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+10: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 30
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 21
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

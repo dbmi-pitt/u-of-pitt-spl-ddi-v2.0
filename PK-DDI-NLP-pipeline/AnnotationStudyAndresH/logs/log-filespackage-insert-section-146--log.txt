@@ -1,0 +1,90 @@
+1: KEY: s. Felbam *** RXCUI -----> 24812
+2: KEY: s. Felbam *** Concept from RXNORM -----> felbamate
+3: KEY: s. Felbam *** Concept Type -----> IN
+4: KEY: s. Felbam *** Drug mention in text -----> s. Felbam
+5: KEY: s. Felbam *** Source language -----> MSH
+6 KEY: s. Felbam *** CUI CODE in original terminology -----> C047360
+7: KEY: s. Felbam *** Final position in text according to JSON Object -----> 379
+8: KEY: s. Felbam *** Initial position according to JSON Object -----> 371
+9: KEY: s. Felbam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: s. Felbam *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: µg gestod *** RXCUI -----> 25734
+2: KEY: µg gestod *** Concept from RXNORM -----> Gestodene
+3: KEY: µg gestod *** Concept Type -----> IN
+4: KEY: µg gestod *** Drug mention in text -----> µg gestod
+5: KEY: µg gestod *** Source language -----> MSH
+6 KEY: µg gestod *** CUI CODE in original terminology -----> C033273
+7: KEY: µg gestod *** Final position in text according to JSON Object -----> 223
+8: KEY: µg gestod *** Initial position according to JSON Object -----> 215
+9: KEY: µg gestod *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C033273
+10: KEY: µg gestod *** Preferred name according to JSON Object -----> Gestodene
+---------------------------------------------------------
+1: KEY: he gestod *** RXCUI -----> 25734
+2: KEY: he gestod *** Concept from RXNORM -----> Gestodene
+3: KEY: he gestod *** Concept Type -----> IN
+4: KEY: he gestod *** Drug mention in text -----> he gestod
+5: KEY: he gestod *** Source language -----> MSH
+6 KEY: he gestod *** CUI CODE in original terminology -----> C033273
+7: KEY: he gestod *** Final position in text according to JSON Object -----> 433
+8: KEY: he gestod *** Initial position according to JSON Object -----> 425
+9: KEY: he gestod *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C033273
+10: KEY: he gestod *** Preferred name according to JSON Object -----> Gestodene
+---------------------------------------------------------
+1: KEY: of felbam *** RXCUI -----> 24812
+2: KEY: of felbam *** Concept from RXNORM -----> felbamate
+3: KEY: of felbam *** Concept Type -----> IN
+4: KEY: of felbam *** Drug mention in text -----> of felbam
+5: KEY: of felbam *** Source language -----> MSH
+6 KEY: of felbam *** CUI CODE in original terminology -----> C047360
+7: KEY: of felbam *** Final position in text according to JSON Object -----> 279
+8: KEY: of felbam *** Initial position according to JSON Object -----> 271
+9: KEY: of felbam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: of felbam *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: of ethinyl estrad *** RXCUI -----> 4124
+2: KEY: of ethinyl estrad *** Concept from RXNORM -----> Ethinyl Estradiol
+3: KEY: of ethinyl estrad *** Concept Type -----> IN
+4: KEY: of ethinyl estrad *** Drug mention in text -----> of ethinyl estrad
+5: KEY: of ethinyl estrad *** Source language -----> RXNORM
+6 KEY: of ethinyl estrad *** CUI CODE in original terminology -----> 4124
+7: KEY: of ethinyl estrad *** Final position in text according to JSON Object -----> 545
+8: KEY: of ethinyl estrad *** Initial position according to JSON Object -----> 529
+9: KEY: of ethinyl estrad *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4124
+10: KEY: of ethinyl estrad *** Preferred name according to JSON Object -----> Ethinyl Estradiol
+---------------------------------------------------------
+1: KEY: Felbatol *** RXCUI -----> 0
+2: KEY: Felbatol *** Concept from RXNORM -----> ()
+3: KEY: Felbatol *** Concept Type -----> ()
+4: KEY: Felbatol *** Drug mention in text -----> Felbatol
+5: KEY: Felbatol *** Source language -----> RXNORM
+6 KEY: Felbatol *** CUI CODE in original terminology -----> 224900
+7: KEY: Felbatol *** Final position in text according to JSON Object -----> 19
+8: KEY: Felbatol *** Initial position according to JSON Object -----> 12
+9: KEY: Felbatol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY: Felbatol *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY: ng felbam *** RXCUI -----> 24812
+2: KEY: ng felbam *** Concept from RXNORM -----> felbamate
+3: KEY: ng felbam *** Concept Type -----> IN
+4: KEY: ng felbam *** Drug mention in text -----> ng felbam
+5: KEY: ng felbam *** Source language -----> MSH
+6 KEY: ng felbam *** CUI CODE in original terminology -----> C047360
+7: KEY: ng felbam *** Final position in text according to JSON Object -----> 666
+8: KEY: ng felbam *** Initial position according to JSON Object -----> 658
+9: KEY: ng felbam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: ng felbam *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: g ethinyl estradi *** RXCUI -----> 4124
+2: KEY: g ethinyl estradi *** Concept from RXNORM -----> Ethinyl Estradiol
+3: KEY: g ethinyl estradi *** Concept Type -----> IN
+4: KEY: g ethinyl estradi *** Drug mention in text -----> g ethinyl estradi
+5: KEY: g ethinyl estradi *** Source language -----> RXNORM
+6 KEY: g ethinyl estradi *** CUI CODE in original terminology -----> 4124
+7: KEY: g ethinyl estradi *** Final position in text according to JSON Object -----> 203
+8: KEY: g ethinyl estradi *** Initial position according to JSON Object -----> 187
+9: KEY: g ethinyl estradi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4124
+10: KEY: g ethinyl estradi *** Preferred name according to JSON Object -----> Ethinyl Estradiol
+---------------------------------------------------------
+removed duplications 52
+Number of missed JSON elements: 0

@@ -1,0 +1,46 @@
+1: KEY: ivalent to t *** RXCUI -----> 3008
+2: KEY: ivalent to t *** Concept from RXNORM -----> Cyclosporine
+3: KEY: ivalent to t *** Concept Type -----> IN
+4: KEY: ivalent to t *** Drug mention in text -----> ivalent to t
+5: KEY: ivalent to t *** Source language -----> MSH
+6 KEY: ivalent to t *** CUI CODE in original terminology -----> D016572
+7: KEY: ivalent to t *** Final position in text according to JSON Object -----> 646
+8: KEY: ivalent to t *** Initial position according to JSON Object -----> 635
+9: KEY: ivalent to t *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: ivalent to t *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: ints. The  *** RXCUI -----> 42316
+2: KEY: ints. The  *** Concept from RXNORM -----> Tacrolimus
+3: KEY: ints. The  *** Concept Type -----> IN
+4: KEY: ints. The  *** Drug mention in text -----> ints. The 
+5: KEY: ints. The  *** Source language -----> MSH
+6 KEY: ints. The  *** CUI CODE in original terminology -----> D016559
+7: KEY: ints. The  *** Final position in text according to JSON Object -----> 572
+8: KEY: ints. The  *** Initial position according to JSON Object -----> 563
+9: KEY: ints. The  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: ints. The  *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: th a cyclosp *** RXCUI -----> 3008
+2: KEY: th a cyclosp *** Concept from RXNORM -----> Cyclosporine
+3: KEY: th a cyclosp *** Concept Type -----> IN
+4: KEY: th a cyclosp *** Drug mention in text -----> th a cyclosp
+5: KEY: th a cyclosp *** Source language -----> MSH
+6 KEY: th a cyclosp *** CUI CODE in original terminology -----> D016572
+7: KEY: th a cyclosp *** Final position in text according to JSON Object -----> 237
+8: KEY: th a cyclosp *** Initial position according to JSON Object -----> 226
+9: KEY: th a cyclosp *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: th a cyclosp *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 37
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 28
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

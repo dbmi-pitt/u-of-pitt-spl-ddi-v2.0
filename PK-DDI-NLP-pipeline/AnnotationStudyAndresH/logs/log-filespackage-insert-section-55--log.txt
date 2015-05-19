@@ -1,0 +1,112 @@
+1: KEY: magnesium stearate *** RXCUI -----> 1368706
+2: KEY: magnesium stearate *** Concept from RXNORM -----> (('stearate',),)
+3: KEY: magnesium stearate *** Concept Type -----> (('IN',),)
+4: KEY: magnesium stearate *** Drug mention in text -----> magnesium stearate
+5: KEY: magnesium stearate *** Source language -----> RXNORM
+6 KEY: magnesium stearate *** CUI CODE in original terminology -----> 1310567
+7: KEY: magnesium stearate *** Final position in text according to JSON Object -----> 254
+8: KEY: magnesium stearate *** Initial position according to JSON Object -----> 237
+9: KEY: magnesium stearate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1310567
+10: KEY: magnesium stearate *** Preferred name according to JSON Object -----> Magnesium stearate
+---------------------------------------------------------
+1: KEY: polydextrose *** RXCUI -----> 1363053
+2: KEY: polydextrose *** Concept from RXNORM -----> polydextrose
+3: KEY: polydextrose *** Concept Type -----> IN
+4: KEY: polydextrose *** Drug mention in text -----> polydextrose
+5: KEY: polydextrose *** Source language -----> MSH
+6 KEY: polydextrose *** CUI CODE in original terminology -----> C033375
+7: KEY: polydextrose *** Final position in text according to JSON Object -----> 268
+8: KEY: polydextrose *** Initial position according to JSON Object -----> 257
+9: KEY: polydextrose *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C033375
+10: KEY: polydextrose *** Preferred name according to JSON Object -----> polydextrose
+---------------------------------------------------------
+1: KEY: Quinidine Sulfate *** RXCUI -----> 9068
+2: KEY: Quinidine Sulfate *** Concept from RXNORM -----> Quinidine
+3: KEY: Quinidine Sulfate *** Concept Type -----> IN
+4: KEY: Quinidine Sulfate *** Drug mention in text -----> Quinidine Sulfate
+5: KEY: Quinidine Sulfate *** Source language -----> MSH
+6 KEY: Quinidine Sulfate *** CUI CODE in original terminology -----> D011802
+7: KEY: Quinidine Sulfate *** Final position in text according to JSON Object -----> 22
+8: KEY: Quinidine Sulfate *** Initial position according to JSON Object -----> 6
+9: KEY: Quinidine Sulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011802
+10: KEY: Quinidine Sulfate *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 104
+8: KEY: quinidine *** Initial position according to JSON Object -----> 96
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: povidone *** RXCUI -----> 8610
+2: KEY: povidone *** Concept from RXNORM -----> Povidone
+3: KEY: povidone *** Concept Type -----> IN
+4: KEY: povidone *** Drug mention in text -----> povidone
+5: KEY: povidone *** Source language -----> MSH
+6 KEY: povidone *** CUI CODE in original terminology -----> D011205
+7: KEY: povidone *** Final position in text according to JSON Object -----> 299
+8: KEY: povidone *** Initial position according to JSON Object -----> 292
+9: KEY: povidone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011205
+10: KEY: povidone *** Preferred name according to JSON Object -----> Povidone
+---------------------------------------------------------
+1: KEY: polyethylene glycol *** RXCUI -----> 8513
+2: KEY: polyethylene glycol *** Concept from RXNORM -----> Polyethylene Glycol 300
+3: KEY: polyethylene glycol *** Concept Type -----> IN
+4: KEY: polyethylene glycol *** Drug mention in text -----> polyethylene glycol
+5: KEY: polyethylene glycol *** Source language -----> MSH
+6 KEY: polyethylene glycol *** CUI CODE in original terminology -----> D011092
+7: KEY: polyethylene glycol *** Final position in text according to JSON Object -----> 289
+8: KEY: polyethylene glycol *** Initial position according to JSON Object -----> 271
+9: KEY: polyethylene glycol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011092
+10: KEY: polyethylene glycol *** Preferred name according to JSON Object -----> Polyethylene Glycols
+---------------------------------------------------------
+1: KEY: triacetin *** RXCUI -----> 10756
+2: KEY: triacetin *** Concept from RXNORM -----> Triacetin
+3: KEY: triacetin *** Concept Type -----> IN
+4: KEY: triacetin *** Drug mention in text -----> triacetin
+5: KEY: triacetin *** Source language -----> MSH
+6 KEY: triacetin *** CUI CODE in original terminology -----> D014215
+7: KEY: triacetin *** Final position in text according to JSON Object -----> 310
+8: KEY: triacetin *** Initial position according to JSON Object -----> 302
+9: KEY: triacetin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014215
+10: KEY: triacetin *** Preferred name according to JSON Object -----> Triacetin
+---------------------------------------------------------
+1: KEY: lactose monohydrate *** RXCUI -----> 6211
+2: KEY: lactose monohydrate *** Concept from RXNORM -----> (('Lactose',),)
+3: KEY: lactose monohydrate *** Concept Type -----> (('IN',),)
+4: KEY: lactose monohydrate *** Drug mention in text -----> lactose monohydrate
+5: KEY: lactose monohydrate *** Source language -----> RXNORM
+6 KEY: lactose monohydrate *** CUI CODE in original terminology -----> 1305527
+7: KEY: lactose monohydrate *** Final position in text according to JSON Object -----> 234
+8: KEY: lactose monohydrate *** Initial position according to JSON Object -----> 216
+9: KEY: lactose monohydrate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1305527
+10: KEY: lactose monohydrate *** Preferred name according to JSON Object -----> Lactose Monohydrate
+---------------------------------------------------------
+1: KEY: hypromellose *** RXCUI -----> 27334
+2: KEY: hypromellose *** Concept from RXNORM -----> hypromellose
+3: KEY: hypromellose *** Concept Type -----> IN
+4: KEY: hypromellose *** Drug mention in text -----> hypromellose
+5: KEY: hypromellose *** Source language -----> MSH
+6 KEY: hypromellose *** CUI CODE in original terminology -----> C002284
+7: KEY: hypromellose *** Final position in text according to JSON Object -----> 213
+8: KEY: hypromellose *** Initial position according to JSON Object -----> 202
+9: KEY: hypromellose *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C002284
+10: KEY: hypromellose *** Preferred name according to JSON Object -----> hypromellose
+---------------------------------------------------------
+1: KEY: quinidine sulfate *** RXCUI -----> 9068
+2: KEY: quinidine sulfate *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine sulfate *** Concept Type -----> IN
+4: KEY: quinidine sulfate *** Drug mention in text -----> quinidine sulfate
+5: KEY: quinidine sulfate *** Source language -----> MSH
+6 KEY: quinidine sulfate *** CUI CODE in original terminology -----> D011802
+7: KEY: quinidine sulfate *** Final position in text according to JSON Object -----> 83
+8: KEY: quinidine sulfate *** Initial position according to JSON Object -----> 67
+9: KEY: quinidine sulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011802
+10: KEY: quinidine sulfate *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+removed duplications 11
+Number of missed JSON elements: 0

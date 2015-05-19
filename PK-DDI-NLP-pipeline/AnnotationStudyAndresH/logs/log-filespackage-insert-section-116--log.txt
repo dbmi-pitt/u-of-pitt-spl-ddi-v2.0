@@ -1,0 +1,35 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 149
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 140
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: rosiglitazone *** RXCUI -----> 84108
+2: KEY: rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: rosiglitazone *** Concept Type -----> IN
+4: KEY: rosiglitazone *** Drug mention in text -----> rosiglitazone
+5: KEY: rosiglitazone *** Source language -----> MSH
+6 KEY: rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: rosiglitazone *** Final position in text according to JSON Object -----> 49
+8: KEY: rosiglitazone *** Initial position according to JSON Object -----> 37
+9: KEY: rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: Rosiglitazone *** RXCUI -----> 84108
+2: KEY: Rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: Rosiglitazone *** Concept Type -----> IN
+4: KEY: Rosiglitazone *** Drug mention in text -----> Rosiglitazone
+5: KEY: Rosiglitazone *** Source language -----> MSH
+6 KEY: Rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: Rosiglitazone *** Final position in text according to JSON Object -----> 13
+8: KEY: Rosiglitazone *** Initial position according to JSON Object -----> 1
+9: KEY: Rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: Rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

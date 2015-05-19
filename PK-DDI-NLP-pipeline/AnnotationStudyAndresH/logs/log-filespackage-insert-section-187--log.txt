@@ -1,0 +1,519 @@
+1: KEY: le, azithrom *** RXCUI -----> 18631
+2: KEY: le, azithrom *** Concept from RXNORM -----> Azithromycin
+3: KEY: le, azithrom *** Concept Type -----> IN
+4: KEY: le, azithrom *** Drug mention in text -----> le, azithrom
+5: KEY: le, azithrom *** Source language -----> MSH
+6 KEY: le, azithrom *** CUI CODE in original terminology -----> D017963
+7: KEY: le, azithrom *** Final position in text according to JSON Object -----> 2505
+8: KEY: le, azithrom *** Initial position according to JSON Object -----> 2494
+9: KEY: le, azithrom *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017963
+10: KEY: le, azithrom *** Preferred name according to JSON Object -----> Azithromycin
+---------------------------------------------------------
+1: KEY: ne, desipra *** RXCUI -----> 3247
+2: KEY: ne, desipra *** Concept from RXNORM -----> Desipramine
+3: KEY: ne, desipra *** Concept Type -----> IN
+4: KEY: ne, desipra *** Drug mention in text -----> ne, desipra
+5: KEY: ne, desipra *** Source language -----> RXNORM
+6 KEY: ne, desipra *** CUI CODE in original terminology -----> 3247
+7: KEY: ne, desipra *** Final position in text according to JSON Object -----> 2607
+8: KEY: ne, desipra *** Initial position according to JSON Object -----> 2597
+9: KEY: ne, desipra *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: ne, desipra *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: ith riton *** RXCUI -----> 85762
+2: KEY: ith riton *** Concept from RXNORM -----> Ritonavir
+3: KEY: ith riton *** Concept Type -----> IN
+4: KEY: ith riton *** Drug mention in text -----> ith riton
+5: KEY: ith riton *** Source language -----> MSH
+6 KEY: ith riton *** CUI CODE in original terminology -----> D019438
+7: KEY: ith riton *** Final position in text according to JSON Object -----> 2290
+8: KEY: ith riton *** Initial position according to JSON Object -----> 2282
+9: KEY: ith riton *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ith riton *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY:  Atazanavi *** RXCUI -----> 343047
+2: KEY:  Atazanavi *** Concept from RXNORM -----> Atazanavir
+3: KEY:  Atazanavi *** Concept Type -----> IN
+4: KEY:  Atazanavi *** Drug mention in text ----->  Atazanavi
+5: KEY:  Atazanavi *** Source language -----> RXNORM
+6 KEY:  Atazanavi *** CUI CODE in original terminology -----> 343047
+7: KEY:  Atazanavi *** Final position in text according to JSON Object -----> 1085
+8: KEY:  Atazanavi *** Initial position according to JSON Object -----> 1076
+9: KEY:  Atazanavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY:  Atazanavi *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: le, acetamino *** RXCUI -----> 161
+2: KEY: le, acetamino *** Concept from RXNORM -----> Acetaminophen
+3: KEY: le, acetamino *** Concept Type -----> IN
+4: KEY: le, acetamino *** Drug mention in text -----> le, acetamino
+5: KEY: le, acetamino *** Source language -----> MSH
+6 KEY: le, acetamino *** CUI CODE in original terminology -----> D000082
+7: KEY: le, acetamino *** Final position in text according to JSON Object -----> 2768
+8: KEY: le, acetamino *** Initial position according to JSON Object -----> 2756
+9: KEY: le, acetamino *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000082
+10: KEY: le, acetamino *** Preferred name according to JSON Object -----> Acetaminophen
+---------------------------------------------------------
+1: KEY: ith metha *** RXCUI -----> 6813
+2: KEY: ith metha *** Concept from RXNORM -----> Methadone
+3: KEY: ith metha *** Concept Type -----> IN
+4: KEY: ith metha *** Drug mention in text -----> ith metha
+5: KEY: ith metha *** Source language -----> MSH
+6 KEY: ith metha *** CUI CODE in original terminology -----> D008691
+7: KEY: ith metha *** Final position in text according to JSON Object -----> 2740
+8: KEY: ith metha *** Initial position according to JSON Object -----> 2732
+9: KEY: ith metha *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: ith metha *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: NORVIR *** RXCUI -----> 0
+2: KEY: NORVIR *** Concept from RXNORM -----> ()
+3: KEY: NORVIR *** Concept Type -----> ()
+4: KEY: NORVIR *** Drug mention in text -----> NORVIR
+5: KEY: NORVIR *** Source language -----> RXNORM
+6 KEY: NORVIR *** CUI CODE in original terminology -----> 196479
+7: KEY: NORVIR *** Final position in text according to JSON Object -----> 967
+8: KEY: NORVIR *** Initial position according to JSON Object -----> 962
+9: KEY: NORVIR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/196479
+10: KEY: NORVIR *** Preferred name according to JSON Object -----> Norvir
+---------------------------------------------------------
+1: KEY: Atazanavir *** RXCUI -----> 343047
+2: KEY: Atazanavir *** Concept from RXNORM -----> Atazanavir
+3: KEY: Atazanavir *** Concept Type -----> IN
+4: KEY: Atazanavir *** Drug mention in text -----> Atazanavir
+5: KEY: Atazanavir *** Source language -----> RXNORM
+6 KEY: Atazanavir *** CUI CODE in original terminology -----> 343047
+7: KEY: Atazanavir *** Final position in text according to JSON Object -----> 406
+8: KEY: Atazanavir *** Initial position according to JSON Object -----> 397
+9: KEY: Atazanavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: Atazanavir *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: Atazanavir *** RXCUI -----> 343047
+2: KEY: Atazanavir *** Concept from RXNORM -----> Atazanavir
+3: KEY: Atazanavir *** Concept Type -----> IN
+4: KEY: Atazanavir *** Drug mention in text -----> Atazanavir
+5: KEY: Atazanavir *** Source language -----> RXNORM
+6 KEY: Atazanavir *** CUI CODE in original terminology -----> 343047
+7: KEY: Atazanavir *** Final position in text according to JSON Object -----> 406
+8: KEY: Atazanavir *** Initial position according to JSON Object -----> 397
+9: KEY: Atazanavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: Atazanavir *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: th REYA *** RXCUI -----> 0
+2: KEY: th REYA *** Concept from RXNORM -----> ()
+3: KEY: th REYA *** Concept Type -----> ()
+4: KEY: th REYA *** Drug mention in text -----> th REYA
+5: KEY: th REYA *** Source language -----> RXNORM
+6 KEY: th REYA *** CUI CODE in original terminology -----> 382467
+7: KEY: th REYA *** Final position in text according to JSON Object -----> 1887
+8: KEY: th REYA *** Initial position according to JSON Object -----> 1881
+9: KEY: th REYA *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: th REYA *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: th REYA *** RXCUI -----> 0
+2: KEY: th REYA *** Concept from RXNORM -----> ()
+3: KEY: th REYA *** Concept Type -----> ()
+4: KEY: th REYA *** Drug mention in text -----> th REYA
+5: KEY: th REYA *** Source language -----> RXNORM
+6 KEY: th REYA *** CUI CODE in original terminology -----> 382467
+7: KEY: th REYA *** Final position in text according to JSON Object -----> 1887
+8: KEY: th REYA *** Initial position according to JSON Object -----> 1881
+9: KEY: th REYA *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: th REYA *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: in, dap *** RXCUI -----> 3108
+2: KEY: in, dap *** Concept from RXNORM -----> Dapsone
+3: KEY: in, dap *** Concept Type -----> IN
+4: KEY: in, dap *** Drug mention in text -----> in, dap
+5: KEY: in, dap *** Source language -----> MSH
+6 KEY: in, dap *** CUI CODE in original terminology -----> D003622
+7: KEY: in, dap *** Final position in text according to JSON Object -----> 2460
+8: KEY: in, dap *** Initial position according to JSON Object -----> 2454
+9: KEY: in, dap *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003622
+10: KEY: in, dap *** Preferred name according to JSON Object -----> Dapsone
+---------------------------------------------------------
+1: KEY: en atazana *** RXCUI -----> 343047
+2: KEY: en atazana *** Concept from RXNORM -----> Atazanavir
+3: KEY: en atazana *** Concept Type -----> IN
+4: KEY: en atazana *** Drug mention in text -----> en atazana
+5: KEY: en atazana *** Source language -----> RXNORM
+6 KEY: en atazana *** CUI CODE in original terminology -----> 343047
+7: KEY: en atazana *** Final position in text according to JSON Object -----> 2110
+8: KEY: en atazana *** Initial position according to JSON Object -----> 2101
+9: KEY: en atazana *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: en atazana *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: en atazana *** RXCUI -----> 343047
+2: KEY: en atazana *** Concept from RXNORM -----> Atazanavir
+3: KEY: en atazana *** Concept Type -----> IN
+4: KEY: en atazana *** Drug mention in text -----> en atazana
+5: KEY: en atazana *** Source language -----> RXNORM
+6 KEY: en atazana *** CUI CODE in original terminology -----> 343047
+7: KEY: en atazana *** Final position in text according to JSON Object -----> 2110
+8: KEY: en atazana *** Initial position according to JSON Object -----> 2101
+9: KEY: en atazana *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: en atazana *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY:  ritonavi *** RXCUI -----> 85762
+2: KEY:  ritonavi *** Concept from RXNORM -----> Ritonavir
+3: KEY:  ritonavi *** Concept Type -----> IN
+4: KEY:  ritonavi *** Drug mention in text ----->  ritonavi
+5: KEY:  ritonavi *** Source language -----> MSH
+6 KEY:  ritonavi *** CUI CODE in original terminology -----> D019438
+7: KEY:  ritonavi *** Final position in text according to JSON Object -----> 1032
+8: KEY:  ritonavi *** Initial position according to JSON Object -----> 1024
+9: KEY:  ritonavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY:  ritonavi *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: 
+Atazanavi *** RXCUI -----> 343047
+2: KEY: 
+Atazanavi *** Concept from RXNORM -----> Atazanavir
+3: KEY: 
+Atazanavi *** Concept Type -----> IN
+4: KEY: 
+Atazanavi *** Drug mention in text -----> 
+Atazanavi
+5: KEY: 
+Atazanavi *** Source language -----> RXNORM
+6 KEY: 
+Atazanavi *** CUI CODE in original terminology -----> 343047
+7: KEY: 
+Atazanavi *** Final position in text according to JSON Object -----> 1097
+8: KEY: 
+Atazanavi *** Initial position according to JSON Object -----> 1088
+9: KEY: 
+Atazanavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: 
+Atazanavi *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY:  or erythrom *** RXCUI -----> 4053
+2: KEY:  or erythrom *** Concept from RXNORM -----> Erythromycin
+3: KEY:  or erythrom *** Concept Type -----> IN
+4: KEY:  or erythrom *** Drug mention in text ----->  or erythrom
+5: KEY:  or erythrom *** Source language -----> MSH
+6 KEY:  or erythrom *** CUI CODE in original terminology -----> D004917
+7: KEY:  or erythrom *** Final position in text according to JSON Object -----> 2522
+8: KEY:  or erythrom *** Initial position according to JSON Object -----> 2511
+9: KEY:  or erythrom *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY:  or erythrom *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: th ritona *** RXCUI -----> 85762
+2: KEY: th ritona *** Concept from RXNORM -----> Ritonavir
+3: KEY: th ritona *** Concept Type -----> IN
+4: KEY: th ritona *** Drug mention in text -----> th ritona
+5: KEY: th ritona *** Source language -----> MSH
+6 KEY: th ritona *** CUI CODE in original terminology -----> D019438
+7: KEY: th ritona *** Final position in text according to JSON Object -----> 2143
+8: KEY: th ritona *** Initial position according to JSON Object -----> 2135
+9: KEY: th ritona *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: th ritona *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: in, pravast *** RXCUI -----> 42463
+2: KEY: in, pravast *** Concept from RXNORM -----> Pravastatin
+3: KEY: in, pravast *** Concept Type -----> IN
+4: KEY: in, pravast *** Drug mention in text -----> in, pravast
+5: KEY: in, pravast *** Source language -----> MSH
+6 KEY: in, pravast *** CUI CODE in original terminology -----> D017035
+7: KEY: in, pravast *** Final position in text according to JSON Object -----> 2451
+8: KEY: in, pravast *** Initial position according to JSON Object -----> 2441
+9: KEY: in, pravast *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017035
+10: KEY: in, pravast *** Preferred name according to JSON Object -----> Pravastatin
+---------------------------------------------------------
+1: KEY: hen REY *** RXCUI -----> 0
+2: KEY: hen REY *** Concept from RXNORM -----> ()
+3: KEY: hen REY *** Concept Type -----> ()
+4: KEY: hen REY *** Drug mention in text -----> hen REY
+5: KEY: hen REY *** Source language -----> RXNORM
+6 KEY: hen REY *** CUI CODE in original terminology -----> 382467
+7: KEY: hen REY *** Final position in text according to JSON Object -----> 2706
+8: KEY: hen REY *** Initial position according to JSON Object -----> 2700
+9: KEY: hen REY *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: hen REY *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 914
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 906
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 914
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 906
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 914
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 906
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: AZ (atazanavir sul *** RXCUI -----> 343047
+2: KEY: AZ (atazanavir sul *** Concept from RXNORM -----> (('Atazanavir',),)
+3: KEY: AZ (atazanavir sul *** Concept Type -----> (('IN',),)
+4: KEY: AZ (atazanavir sul *** Drug mention in text -----> AZ (atazanavir sul
+5: KEY: AZ (atazanavir sul *** Source language -----> RXNORM
+6 KEY: AZ (atazanavir sul *** CUI CODE in original terminology -----> 358299
+7: KEY: AZ (atazanavir sul *** Final position in text according to JSON Object -----> 2421
+8: KEY: AZ (atazanavir sul *** Initial position according to JSON Object -----> 2404
+9: KEY: AZ (atazanavir sul *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/358299
+10: KEY: AZ (atazanavir sul *** Preferred name according to JSON Object -----> Atazanavir sulfate
+---------------------------------------------------------
+1: KEY: repaglinide *** RXCUI -----> 73044
+2: KEY: repaglinide *** Concept from RXNORM -----> repaglinide
+3: KEY: repaglinide *** Concept Type -----> IN
+4: KEY: repaglinide *** Drug mention in text -----> repaglinide
+5: KEY: repaglinide *** Source language -----> RXNORM
+6 KEY: repaglinide *** CUI CODE in original terminology -----> 73044
+7: KEY: repaglinide *** Final position in text according to JSON Object -----> 608
+8: KEY: repaglinide *** Initial position according to JSON Object -----> 598
+9: KEY: repaglinide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/73044
+10: KEY: repaglinide *** Preferred name according to JSON Object -----> repaglinide
+---------------------------------------------------------
+1: KEY: REYATAZ *** RXCUI -----> 0
+2: KEY: REYATAZ *** Concept from RXNORM -----> ()
+3: KEY: REYATAZ *** Concept Type -----> ()
+4: KEY: REYATAZ *** Drug mention in text -----> REYATAZ
+5: KEY: REYATAZ *** Source language -----> RXNORM
+6 KEY: REYATAZ *** CUI CODE in original terminology -----> 382467
+7: KEY: REYATAZ *** Final position in text according to JSON Object -----> 881
+8: KEY: REYATAZ *** Initial position according to JSON Object -----> 875
+9: KEY: REYATAZ *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: REYATAZ *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: REYATAZ *** RXCUI -----> 0
+2: KEY: REYATAZ *** Concept from RXNORM -----> ()
+3: KEY: REYATAZ *** Concept Type -----> ()
+4: KEY: REYATAZ *** Drug mention in text -----> REYATAZ
+5: KEY: REYATAZ *** Source language -----> RXNORM
+6 KEY: REYATAZ *** CUI CODE in original terminology -----> 382467
+7: KEY: REYATAZ *** Final position in text according to JSON Object -----> 881
+8: KEY: REYATAZ *** Initial position according to JSON Object -----> 875
+9: KEY: REYATAZ *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: REYATAZ *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: REYATAZ *** RXCUI -----> 0
+2: KEY: REYATAZ *** Concept from RXNORM -----> ()
+3: KEY: REYATAZ *** Concept Type -----> ()
+4: KEY: REYATAZ *** Drug mention in text -----> REYATAZ
+5: KEY: REYATAZ *** Source language -----> RXNORM
+6 KEY: REYATAZ *** CUI CODE in original terminology -----> 382467
+7: KEY: REYATAZ *** Final position in text according to JSON Object -----> 881
+8: KEY: REYATAZ *** Initial position according to JSON Object -----> 875
+9: KEY: REYATAZ *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: REYATAZ *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: REYATAZ *** RXCUI -----> 0
+2: KEY: REYATAZ *** Concept from RXNORM -----> ()
+3: KEY: REYATAZ *** Concept Type -----> ()
+4: KEY: REYATAZ *** Drug mention in text -----> REYATAZ
+5: KEY: REYATAZ *** Source language -----> RXNORM
+6 KEY: REYATAZ *** CUI CODE in original terminology -----> 382467
+7: KEY: REYATAZ *** Final position in text according to JSON Object -----> 881
+8: KEY: REYATAZ *** Initial position according to JSON Object -----> 875
+9: KEY: REYATAZ *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: REYATAZ *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: REYATAZ *** RXCUI -----> 0
+2: KEY: REYATAZ *** Concept from RXNORM -----> ()
+3: KEY: REYATAZ *** Concept Type -----> ()
+4: KEY: REYATAZ *** Drug mention in text -----> REYATAZ
+5: KEY: REYATAZ *** Source language -----> RXNORM
+6 KEY: REYATAZ *** CUI CODE in original terminology -----> 382467
+7: KEY: REYATAZ *** Final position in text according to JSON Object -----> 881
+8: KEY: REYATAZ *** Initial position according to JSON Object -----> 875
+9: KEY: REYATAZ *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: REYATAZ *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: in. REY *** RXCUI -----> 0
+2: KEY: in. REY *** Concept from RXNORM -----> ()
+3: KEY: in. REY *** Concept Type -----> ()
+4: KEY: in. REY *** Drug mention in text -----> in. REY
+5: KEY: in. REY *** Source language -----> RXNORM
+6 KEY: in. REY *** CUI CODE in original terminology -----> 382467
+7: KEY: in. REY *** Final position in text according to JSON Object -----> 2531
+8: KEY: in. REY *** Initial position according to JSON Object -----> 2525
+9: KEY: in. REY *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: in. REY *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: een REY *** RXCUI -----> 0
+2: KEY: een REY *** Concept from RXNORM -----> ()
+3: KEY: een REY *** Concept Type -----> ()
+4: KEY: een REY *** Drug mention in text -----> een REY
+5: KEY: een REY *** Source language -----> RXNORM
+6 KEY: een REY *** CUI CODE in original terminology -----> 382467
+7: KEY: een REY *** Final position in text according to JSON Object -----> 2401
+8: KEY: een REY *** Initial position according to JSON Object -----> 2395
+9: KEY: een REY *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/382467
+10: KEY: een REY *** Preferred name according to JSON Object -----> Reyataz
+---------------------------------------------------------
+1: KEY: or NOR *** RXCUI -----> 0
+2: KEY: or NOR *** Concept from RXNORM -----> ()
+3: KEY: or NOR *** Concept Type -----> ()
+4: KEY: or NOR *** Drug mention in text -----> or NOR
+5: KEY: or NOR *** Source language -----> RXNORM
+6 KEY: or NOR *** CUI CODE in original terminology -----> 196479
+7: KEY: or NOR *** Final position in text according to JSON Object -----> 2221
+8: KEY: or NOR *** Initial position according to JSON Object -----> 2216
+9: KEY: or NOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/196479
+10: KEY: or NOR *** Preferred name according to JSON Object -----> Norvir
+---------------------------------------------------------
+1: KEY: and fluvast *** RXCUI -----> 41127
+2: KEY: and fluvast *** Concept from RXNORM -----> fluvastatin
+3: KEY: and fluvast *** Concept Type -----> IN
+4: KEY: and fluvast *** Drug mention in text -----> and fluvast
+5: KEY: and fluvast *** Source language -----> RXNORM
+6 KEY: and fluvast *** CUI CODE in original terminology -----> 41127
+7: KEY: and fluvast *** Final position in text according to JSON Object -----> 2438
+8: KEY: and fluvast *** Initial position according to JSON Object -----> 2428
+9: KEY: and fluvast *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: and fluvast *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+1: KEY: .
+
+Atazana *** RXCUI -----> 343047
+2: KEY: .
+
+Atazana *** Concept from RXNORM -----> Atazanavir
+3: KEY: .
+
+Atazana *** Concept Type -----> IN
+4: KEY: .
+
+Atazana *** Drug mention in text -----> .
+
+Atazana
+5: KEY: .
+
+Atazana *** Source language -----> RXNORM
+6 KEY: .
+
+Atazana *** CUI CODE in original terminology -----> 343047
+7: KEY: .
+
+Atazana *** Final position in text according to JSON Object -----> 1255
+8: KEY: .
+
+Atazana *** Initial position according to JSON Object -----> 1246
+9: KEY: .
+
+Atazana *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: .
+
+Atazana *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: th atazana *** RXCUI -----> 343047
+2: KEY: th atazana *** Concept from RXNORM -----> Atazanavir
+3: KEY: th atazana *** Concept Type -----> IN
+4: KEY: th atazana *** Drug mention in text -----> th atazana
+5: KEY: th atazana *** Source language -----> RXNORM
+6 KEY: th atazana *** CUI CODE in original terminology -----> 343047
+7: KEY: th atazana *** Final position in text according to JSON Object -----> 1469
+8: KEY: th atazana *** Initial position according to JSON Object -----> 1460
+9: KEY: th atazana *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: th atazana *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: of atazana *** RXCUI -----> 343047
+2: KEY: of atazana *** Concept from RXNORM -----> Atazanavir
+3: KEY: of atazana *** Concept Type -----> IN
+4: KEY: of atazana *** Drug mention in text -----> of atazana
+5: KEY: of atazana *** Source language -----> RXNORM
+6 KEY: of atazana *** CUI CODE in original terminology -----> 343047
+7: KEY: of atazana *** Final position in text according to JSON Object -----> 1337
+8: KEY: of atazana *** Initial position according to JSON Object -----> 1328
+9: KEY: of atazana *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: of atazana *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+1: KEY: paclitaxel *** RXCUI -----> 56946
+2: KEY: paclitaxel *** Concept from RXNORM -----> PACLitaxel
+3: KEY: paclitaxel *** Concept Type -----> TMSY
+4: KEY: paclitaxel *** Drug mention in text -----> paclitaxel
+5: KEY: paclitaxel *** Source language -----> RXNORM
+6 KEY: paclitaxel *** CUI CODE in original terminology -----> 56946
+7: KEY: paclitaxel *** Final position in text according to JSON Object -----> 595
+8: KEY: paclitaxel *** Initial position according to JSON Object -----> 586
+9: KEY: paclitaxel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/56946
+10: KEY: paclitaxel *** Preferred name according to JSON Object -----> Paclitaxel
+---------------------------------------------------------
+1: KEY: (ritonavi *** RXCUI -----> 85762
+2: KEY: (ritonavi *** Concept from RXNORM -----> Ritonavir
+3: KEY: (ritonavi *** Concept Type -----> IN
+4: KEY: (ritonavi *** Drug mention in text -----> (ritonavi
+5: KEY: (ritonavi *** Source language -----> MSH
+6 KEY: (ritonavi *** CUI CODE in original terminology -----> D019438
+7: KEY: (ritonavi *** Final position in text according to JSON Object -----> 979
+8: KEY: (ritonavi *** Initial position according to JSON Object -----> 971
+9: KEY: (ritonavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: (ritonavi *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY:  or aten *** RXCUI -----> 1202
+2: KEY:  or aten *** Concept from RXNORM -----> Atenolol
+3: KEY:  or aten *** Concept Type -----> IN
+4: KEY:  or aten *** Drug mention in text ----->  or aten
+5: KEY:  or aten *** Source language -----> MSH
+6 KEY:  or aten *** CUI CODE in original terminology -----> D001262
+7: KEY:  or aten *** Final position in text according to JSON Object -----> 2781
+8: KEY:  or aten *** Initial position according to JSON Object -----> 2774
+9: KEY:  or aten *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D001262
+10: KEY:  or aten *** Preferred name according to JSON Object -----> Atenolol
+---------------------------------------------------------
+1: KEY: ne, flucona *** RXCUI -----> 4450
+2: KEY: ne, flucona *** Concept from RXNORM -----> Fluconazole
+3: KEY: ne, flucona *** Concept Type -----> IN
+4: KEY: ne, flucona *** Drug mention in text -----> ne, flucona
+5: KEY: ne, flucona *** Source language -----> RXNORM
+6 KEY: ne, flucona *** CUI CODE in original terminology -----> 4450
+7: KEY: ne, flucona *** Final position in text according to JSON Object -----> 2753
+8: KEY: ne, flucona *** Initial position according to JSON Object -----> 2743
+9: KEY: ne, flucona *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: ne, flucona *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: ne, metopr *** RXCUI -----> 6918
+2: KEY: ne, metopr *** Concept from RXNORM -----> Metoprolol
+3: KEY: ne, metopr *** Concept Type -----> IN
+4: KEY: ne, metopr *** Drug mention in text -----> ne, metopr
+5: KEY: ne, metopr *** Source language -----> MSH
+6 KEY: ne, metopr *** CUI CODE in original terminology -----> D008790
+7: KEY: ne, metopr *** Final position in text according to JSON Object -----> 2619
+8: KEY: ne, metopr *** Initial position according to JSON Object -----> 2610
+9: KEY: ne, metopr *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: ne, metopr *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: eg, nortripty *** RXCUI -----> 7531
+2: KEY: eg, nortripty *** Concept from RXNORM -----> Nortriptyline
+3: KEY: eg, nortripty *** Concept Type -----> IN
+4: KEY: eg, nortripty *** Drug mention in text -----> eg, nortripty
+5: KEY: eg, nortripty *** Source language -----> MSH
+6 KEY: eg, nortripty *** CUI CODE in original terminology -----> D009661
+7: KEY: eg, nortripty *** Final position in text according to JSON Object -----> 2594
+8: KEY: eg, nortripty *** Initial position according to JSON Object -----> 2582
+9: KEY: eg, nortripty *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009661
+10: KEY: eg, nortripty *** Preferred name according to JSON Object -----> Nortriptyline
+---------------------------------------------------------
+1: KEY:  atazanavi *** RXCUI -----> 343047
+2: KEY:  atazanavi *** Concept from RXNORM -----> Atazanavir
+3: KEY:  atazanavi *** Concept Type -----> IN
+4: KEY:  atazanavi *** Drug mention in text ----->  atazanavi
+5: KEY:  atazanavi *** Source language -----> RXNORM
+6 KEY:  atazanavi *** CUI CODE in original terminology -----> 343047
+7: KEY:  atazanavi *** Final position in text according to JSON Object -----> 1180
+8: KEY:  atazanavi *** Initial position according to JSON Object -----> 1171
+9: KEY:  atazanavi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY:  atazanavi *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+removed duplications 154
+Number of missed JSON elements: 0

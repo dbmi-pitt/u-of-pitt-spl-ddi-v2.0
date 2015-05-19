@@ -1,0 +1,68 @@
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> RXNORM
+6 KEY: warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 82
+8: KEY: warfarin *** Initial position according to JSON Object -----> 75
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: prothrombin *** RXCUI -----> 1441688
+2: KEY: prothrombin *** Concept from RXNORM -----> Prothrombin
+3: KEY: prothrombin *** Concept Type -----> IN
+4: KEY: prothrombin *** Drug mention in text -----> prothrombin
+5: KEY: prothrombin *** Source language -----> RXNORM
+6 KEY: prothrombin *** CUI CODE in original terminology -----> 1441688
+7: KEY: prothrombin *** Final position in text according to JSON Object -----> 165
+8: KEY: prothrombin *** Initial position according to JSON Object -----> 155
+9: KEY: prothrombin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: prothrombin *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: coumarin *** RXCUI -----> 2898
+2: KEY: coumarin *** Concept from RXNORM -----> coumarin
+3: KEY: coumarin *** Concept Type -----> IN
+4: KEY: coumarin *** Drug mention in text -----> coumarin
+5: KEY: coumarin *** Source language -----> RXNORM
+6 KEY: coumarin *** CUI CODE in original terminology -----> 2898
+7: KEY: coumarin *** Final position in text according to JSON Object -----> 106
+8: KEY: coumarin *** Initial position according to JSON Object -----> 99
+9: KEY: coumarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2898
+10: KEY: coumarin *** Preferred name according to JSON Object -----> coumarin
+---------------------------------------------------------
+1: KEY: metronidazole *** RXCUI -----> 6922
+2: KEY: metronidazole *** Concept from RXNORM -----> Metronidazole
+3: KEY: metronidazole *** Concept Type -----> IN
+4: KEY: metronidazole *** Drug mention in text -----> metronidazole
+5: KEY: metronidazole *** Source language -----> RXNORM
+6 KEY: metronidazole *** CUI CODE in original terminology -----> 6922
+7: KEY: metronidazole *** Final position in text according to JSON Object -----> 250
+8: KEY: metronidazole *** Initial position according to JSON Object -----> 238
+9: KEY: metronidazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6922
+10: KEY: metronidazole *** Preferred name according to JSON Object -----> Metronidazole
+---------------------------------------------------------
+1: KEY: Metronidazole *** RXCUI -----> 6922
+2: KEY: Metronidazole *** Concept from RXNORM -----> Metronidazole
+3: KEY: Metronidazole *** Concept Type -----> IN
+4: KEY: Metronidazole *** Drug mention in text -----> Metronidazole
+5: KEY: Metronidazole *** Source language -----> RXNORM
+6 KEY: Metronidazole *** CUI CODE in original terminology -----> 6922
+7: KEY: Metronidazole *** Final position in text according to JSON Object -----> 13
+8: KEY: Metronidazole *** Initial position according to JSON Object -----> 1
+9: KEY: Metronidazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6922
+10: KEY: Metronidazole *** Preferred name according to JSON Object -----> Metronidazole
+---------------------------------------------------------
+1: KEY: FLAGYL *** RXCUI -----> 0
+2: KEY: FLAGYL *** Concept from RXNORM -----> ()
+3: KEY: FLAGYL *** Concept Type -----> ()
+4: KEY: FLAGYL *** Drug mention in text -----> FLAGYL
+5: KEY: FLAGYL *** Source language -----> RXNORM
+6 KEY: FLAGYL *** CUI CODE in original terminology -----> 202866
+7: KEY: FLAGYL *** Final position in text according to JSON Object -----> 235
+8: KEY: FLAGYL *** Initial position according to JSON Object -----> 230
+9: KEY: FLAGYL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/202866
+10: KEY: FLAGYL *** Preferred name according to JSON Object -----> Flagyl
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

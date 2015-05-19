@@ -1,0 +1,79 @@
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 307
+8: KEY: fluvoxamine *** Initial position according to JSON Object -----> 297
+9: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+10: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 307
+8: KEY: fluvoxamine *** Initial position according to JSON Object -----> 297
+9: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+10: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> MSH
+6 KEY: thioridazine *** CUI CODE in original terminology -----> D013881
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 337
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 326
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013881
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> MSH
+6 KEY: thioridazine *** CUI CODE in original terminology -----> D013881
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 337
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 326
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013881
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> MSH
+6 KEY: thioridazine *** CUI CODE in original terminology -----> D013881
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 337
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 326
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013881
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+1: KEY: mesoridazine *** RXCUI -----> 6779
+2: KEY: mesoridazine *** Concept from RXNORM -----> Mesoridazine
+3: KEY: mesoridazine *** Concept Type -----> IN
+4: KEY: mesoridazine *** Drug mention in text -----> mesoridazine
+5: KEY: mesoridazine *** Source language -----> RXNORM
+6 KEY: mesoridazine *** CUI CODE in original terminology -----> 6779
+7: KEY: mesoridazine *** Final position in text according to JSON Object -----> 229
+8: KEY: mesoridazine *** Initial position according to JSON Object -----> 218
+9: KEY: mesoridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6779
+10: KEY: mesoridazine *** Preferred name according to JSON Object -----> Mesoridazine
+---------------------------------------------------------
+1: KEY: Fluvoxamine *** RXCUI -----> 42355
+2: KEY: Fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: Fluvoxamine *** Concept Type -----> TMSY
+4: KEY: Fluvoxamine *** Drug mention in text -----> Fluvoxamine
+5: KEY: Fluvoxamine *** Source language -----> MSH
+6 KEY: Fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: Fluvoxamine *** Final position in text according to JSON Object -----> 320
+8: KEY: Fluvoxamine *** Initial position according to JSON Object -----> 310
+9: KEY: Fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+10: KEY: Fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+removed duplications 24
+Number of missed JSON elements: 1

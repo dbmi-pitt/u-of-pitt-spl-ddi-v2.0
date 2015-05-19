@@ -1,0 +1,134 @@
+1: KEY: f cisapri *** RXCUI -----> 35255
+2: KEY: f cisapri *** Concept from RXNORM -----> Cisapride
+3: KEY: f cisapri *** Concept Type -----> IN
+4: KEY: f cisapri *** Drug mention in text -----> f cisapri
+5: KEY: f cisapri *** Source language -----> MSH
+6 KEY: f cisapri *** CUI CODE in original terminology -----> D020117
+7: KEY: f cisapri *** Final position in text according to JSON Object -----> 574
+8: KEY: f cisapri *** Initial position according to JSON Object -----> 566
+9: KEY: f cisapri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020117
+10: KEY: f cisapri *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+1: KEY: t sertrali *** RXCUI -----> 36437
+2: KEY: t sertrali *** Concept from RXNORM -----> Sertraline
+3: KEY: t sertrali *** Concept Type -----> IN
+4: KEY: t sertrali *** Drug mention in text -----> t sertrali
+5: KEY: t sertrali *** Source language -----> MSH
+6 KEY: t sertrali *** CUI CODE in original terminology -----> D020280
+7: KEY: t sertrali *** Final position in text according to JSON Object -----> 524
+8: KEY: t sertrali *** Initial position according to JSON Object -----> 515
+9: KEY: t sertrali *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: t sertrali *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: h cisapri *** RXCUI -----> 35255
+2: KEY: h cisapri *** Concept from RXNORM -----> Cisapride
+3: KEY: h cisapri *** Concept Type -----> IN
+4: KEY: h cisapri *** Drug mention in text -----> h cisapri
+5: KEY: h cisapri *** Source language -----> RXNORM
+6 KEY: h cisapri *** CUI CODE in original terminology -----> 35255
+7: KEY: h cisapri *** Final position in text according to JSON Object -----> 499
+8: KEY: h cisapri *** Initial position according to JSON Object -----> 491
+9: KEY: h cisapri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/35255
+10: KEY: h cisapri *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 126
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 116
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: terfenadine *** RXCUI -----> 42330
+2: KEY: terfenadine *** Concept from RXNORM -----> Terfenadine
+3: KEY: terfenadine *** Concept Type -----> IN
+4: KEY: terfenadine *** Drug mention in text -----> terfenadine
+5: KEY: terfenadine *** Source language -----> RXNORM
+6 KEY: terfenadine *** CUI CODE in original terminology -----> 42330
+7: KEY: terfenadine *** Final position in text according to JSON Object -----> 126
+8: KEY: terfenadine *** Initial position according to JSON Object -----> 116
+9: KEY: terfenadine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42330
+10: KEY: terfenadine *** Preferred name according to JSON Object -----> Terfenadine
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 241
+8: KEY: sertraline *** Initial position according to JSON Object -----> 232
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 241
+8: KEY: sertraline *** Initial position according to JSON Object -----> 232
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 310
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 298
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> RXNORM
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> 2002
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 310
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 298
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY:  (cisapri *** RXCUI -----> 35255
+2: KEY:  (cisapri *** Concept from RXNORM -----> Cisapride
+3: KEY:  (cisapri *** Concept Type -----> IN
+4: KEY:  (cisapri *** Drug mention in text ----->  (cisapri
+5: KEY:  (cisapri *** Source language -----> MSH
+6 KEY:  (cisapri *** CUI CODE in original terminology -----> D020117
+7: KEY:  (cisapri *** Final position in text according to JSON Object -----> 585
+8: KEY:  (cisapri *** Initial position according to JSON Object -----> 577
+9: KEY:  (cisapri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020117
+10: KEY:  (cisapri *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+1: KEY: cisapride *** RXCUI -----> 35255
+2: KEY: cisapride *** Concept from RXNORM -----> Cisapride
+3: KEY: cisapride *** Concept Type -----> IN
+4: KEY: cisapride *** Drug mention in text -----> cisapride
+5: KEY: cisapride *** Source language -----> MSH
+6 KEY: cisapride *** CUI CODE in original terminology -----> D020117
+7: KEY: cisapride *** Final position in text according to JSON Object -----> 324
+8: KEY: cisapride *** Initial position according to JSON Object -----> 316
+9: KEY: cisapride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020117
+10: KEY: cisapride *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+1: KEY: cisapride *** RXCUI -----> 35255
+2: KEY: cisapride *** Concept from RXNORM -----> Cisapride
+3: KEY: cisapride *** Concept Type -----> IN
+4: KEY: cisapride *** Drug mention in text -----> cisapride
+5: KEY: cisapride *** Source language -----> MSH
+6 KEY: cisapride *** CUI CODE in original terminology -----> D020117
+7: KEY: cisapride *** Final position in text according to JSON Object -----> 324
+8: KEY: cisapride *** Initial position according to JSON Object -----> 316
+9: KEY: cisapride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020117
+10: KEY: cisapride *** Preferred name according to JSON Object -----> Cisapride
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,123 @@
+1: KEY: amlodipine *** RXCUI -----> 17767
+2: KEY: amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: amlodipine *** Concept Type -----> TMSY
+4: KEY: amlodipine *** Drug mention in text -----> amlodipine
+5: KEY: amlodipine *** Source language -----> MSH
+6 KEY: amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: amlodipine *** Final position in text according to JSON Object -----> 1252
+8: KEY: amlodipine *** Initial position according to JSON Object -----> 1243
+9: KEY: amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: REVATIO *** RXCUI -----> 0
+2: KEY: REVATIO *** Concept from RXNORM -----> ()
+3: KEY: REVATIO *** Concept Type -----> ()
+4: KEY: REVATIO *** Drug mention in text -----> REVATIO
+5: KEY: REVATIO *** Source language -----> RXNORM
+6 KEY: REVATIO *** CUI CODE in original terminology -----> 581642
+7: KEY: REVATIO *** Final position in text according to JSON Object -----> 204
+8: KEY: REVATIO *** Initial position according to JSON Object -----> 198
+9: KEY: REVATIO *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: REVATIO *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: REVATIO *** RXCUI -----> 0
+2: KEY: REVATIO *** Concept from RXNORM -----> ()
+3: KEY: REVATIO *** Concept Type -----> ()
+4: KEY: REVATIO *** Drug mention in text -----> REVATIO
+5: KEY: REVATIO *** Source language -----> RXNORM
+6 KEY: REVATIO *** CUI CODE in original terminology -----> 581642
+7: KEY: REVATIO *** Final position in text according to JSON Object -----> 204
+8: KEY: REVATIO *** Initial position according to JSON Object -----> 198
+9: KEY: REVATIO *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: REVATIO *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: REVATIO *** RXCUI -----> 0
+2: KEY: REVATIO *** Concept from RXNORM -----> ()
+3: KEY: REVATIO *** Concept Type -----> ()
+4: KEY: REVATIO *** Drug mention in text -----> REVATIO
+5: KEY: REVATIO *** Source language -----> RXNORM
+6 KEY: REVATIO *** CUI CODE in original terminology -----> 581642
+7: KEY: REVATIO *** Final position in text according to JSON Object -----> 204
+8: KEY: REVATIO *** Initial position according to JSON Object -----> 198
+9: KEY: REVATIO *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: REVATIO *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> RXNORM
+6 KEY: ritonavir *** CUI CODE in original terminology -----> 85762
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 219
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 211
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/85762
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: Ritonavir *** RXCUI -----> 85762
+2: KEY: Ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: Ritonavir *** Concept Type -----> IN
+4: KEY: Ritonavir *** Drug mention in text -----> Ritonavir
+5: KEY: Ritonavir *** Source language -----> MSH
+6 KEY: Ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: Ritonavir *** Final position in text according to JSON Object -----> 142
+8: KEY: Ritonavir *** Initial position according to JSON Object -----> 134
+9: KEY: Ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: Ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: sildenafil *** RXCUI -----> 136411
+2: KEY: sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: sildenafil *** Concept Type -----> IN
+4: KEY: sildenafil *** Drug mention in text -----> sildenafil
+5: KEY: sildenafil *** Source language -----> MSH
+6 KEY: sildenafil *** CUI CODE in original terminology -----> C101426
+7: KEY: sildenafil *** Final position in text according to JSON Object -----> 1204
+8: KEY: sildenafil *** Initial position according to JSON Object -----> 1195
+9: KEY: sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C101426
+10: KEY: sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sildenafil *** RXCUI -----> 136411
+2: KEY: sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: sildenafil *** Concept Type -----> IN
+4: KEY: sildenafil *** Drug mention in text -----> sildenafil
+5: KEY: sildenafil *** Source language -----> MSH
+6 KEY: sildenafil *** CUI CODE in original terminology -----> C101426
+7: KEY: sildenafil *** Final position in text according to JSON Object -----> 1204
+8: KEY: sildenafil *** Initial position according to JSON Object -----> 1195
+9: KEY: sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C101426
+10: KEY: sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: Amlodipine *** RXCUI -----> 17767
+2: KEY: Amlodipine *** Concept from RXNORM -----> amLODIPine
+3: KEY: Amlodipine *** Concept Type -----> TMSY
+4: KEY: Amlodipine *** Drug mention in text -----> Amlodipine
+5: KEY: Amlodipine *** Source language -----> MSH
+6 KEY: Amlodipine *** CUI CODE in original terminology -----> D017311
+7: KEY: Amlodipine *** Final position in text according to JSON Object -----> 1187
+8: KEY: Amlodipine *** Initial position according to JSON Object -----> 1178
+9: KEY: Amlodipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017311
+10: KEY: Amlodipine *** Preferred name according to JSON Object -----> Amlodipine
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 707
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 699
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 707
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 699
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+removed duplications 10
+Number of missed JSON elements: 0

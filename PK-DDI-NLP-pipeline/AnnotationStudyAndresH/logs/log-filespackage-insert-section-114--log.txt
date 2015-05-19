@@ -1,0 +1,112 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 319
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 310
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: quinupristin *** RXCUI -----> 229367
+2: KEY: quinupristin *** Concept from RXNORM -----> quinupristin
+3: KEY: quinupristin *** Concept Type -----> IN
+4: KEY: quinupristin *** Drug mention in text -----> quinupristin
+5: KEY: quinupristin *** Source language -----> MSH
+6 KEY: quinupristin *** CUI CODE in original terminology -----> C113825
+7: KEY: quinupristin *** Final position in text according to JSON Object -----> 436
+8: KEY: quinupristin *** Initial position according to JSON Object -----> 425
+9: KEY: quinupristin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C113825
+10: KEY: quinupristin *** Preferred name according to JSON Object -----> quinupristin
+---------------------------------------------------------
+1: KEY: quinupristin *** RXCUI -----> 229367
+2: KEY: quinupristin *** Concept from RXNORM -----> quinupristin
+3: KEY: quinupristin *** Concept Type -----> IN
+4: KEY: quinupristin *** Drug mention in text -----> quinupristin
+5: KEY: quinupristin *** Source language -----> MSH
+6 KEY: quinupristin *** CUI CODE in original terminology -----> C113825
+7: KEY: quinupristin *** Final position in text according to JSON Object -----> 436
+8: KEY: quinupristin *** Initial position according to JSON Object -----> 425
+9: KEY: quinupristin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C113825
+10: KEY: quinupristin *** Preferred name according to JSON Object -----> quinupristin
+---------------------------------------------------------
+1: KEY: quinupristin *** RXCUI -----> 229367
+2: KEY: quinupristin *** Concept from RXNORM -----> quinupristin
+3: KEY: quinupristin *** Concept Type -----> IN
+4: KEY: quinupristin *** Drug mention in text -----> quinupristin
+5: KEY: quinupristin *** Source language -----> MSH
+6 KEY: quinupristin *** CUI CODE in original terminology -----> C113825
+7: KEY: quinupristin *** Final position in text according to JSON Object -----> 436
+8: KEY: quinupristin *** Initial position according to JSON Object -----> 425
+9: KEY: quinupristin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C113825
+10: KEY: quinupristin *** Preferred name according to JSON Object -----> quinupristin
+---------------------------------------------------------
+1: KEY: Quinupristin *** RXCUI -----> 229367
+2: KEY: Quinupristin *** Concept from RXNORM -----> quinupristin
+3: KEY: Quinupristin *** Concept Type -----> IN
+4: KEY: Quinupristin *** Drug mention in text -----> Quinupristin
+5: KEY: Quinupristin *** Source language -----> MSH
+6 KEY: Quinupristin *** CUI CODE in original terminology -----> C113825
+7: KEY: Quinupristin *** Final position in text according to JSON Object -----> 12
+8: KEY: Quinupristin *** Initial position according to JSON Object -----> 1
+9: KEY: Quinupristin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C113825
+10: KEY: Quinupristin *** Preferred name according to JSON Object -----> quinupristin
+---------------------------------------------------------
+removed duplications 79
+Number of missed JSON elements: 0

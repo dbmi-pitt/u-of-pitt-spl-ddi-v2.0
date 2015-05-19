@@ -1,0 +1,167 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 84
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 75
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: doxazosin *** RXCUI -----> 49276
+2: KEY: doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: doxazosin *** Concept Type -----> IN
+4: KEY: doxazosin *** Drug mention in text -----> doxazosin
+5: KEY: doxazosin *** Source language -----> RXNORM
+6 KEY: doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: doxazosin *** Final position in text according to JSON Object -----> 593
+8: KEY: doxazosin *** Initial position according to JSON Object -----> 585
+9: KEY: doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+1: KEY: Doxazosin *** RXCUI -----> 49276
+2: KEY: Doxazosin *** Concept from RXNORM -----> Doxazosin
+3: KEY: Doxazosin *** Concept Type -----> IN
+4: KEY: Doxazosin *** Drug mention in text -----> Doxazosin
+5: KEY: Doxazosin *** Source language -----> RXNORM
+6 KEY: Doxazosin *** CUI CODE in original terminology -----> 49276
+7: KEY: Doxazosin *** Final position in text according to JSON Object -----> 9
+8: KEY: Doxazosin *** Initial position according to JSON Object -----> 1
+9: KEY: Doxazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/49276
+10: KEY: Doxazosin *** Preferred name according to JSON Object -----> Doxazosin
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

@@ -1,0 +1,2 @@
+nifedipine	Clopidogrel	1	1	true	negative	Clopidogrel: No clinically significant pharmacodynamic interactions were observed when clopidrogrel was coadministered with nifedipine.  		7417	32968	D009543	C055162
+nifedipine	Clopidogrel	1	1	true	negative	Clopidogrel: No clinically significant pharmacodynamic interactions were observed when clopidrogrel was coadministered with nifedipine.  		7417	32968	D009543	C055162

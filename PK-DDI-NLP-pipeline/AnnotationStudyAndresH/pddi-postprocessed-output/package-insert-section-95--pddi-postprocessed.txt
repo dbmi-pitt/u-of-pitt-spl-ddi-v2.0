@@ -1,0 +1,2 @@
+alprazolam	nefazodone	1	1	true	positive	Coadministration of nefazodone increased alprazolam concentration two-fold.  		596	31565	D000525	C051752
+alprazolam	nefazodone	1	1	true	positive	Coadministration of nefazodone increased alprazolam concentration two-fold.  		596	31565	D000525	C051752

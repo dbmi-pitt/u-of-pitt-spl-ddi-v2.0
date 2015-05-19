@@ -1,0 +1,112 @@
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> RXNORM
+6 KEY: theophylline *** CUI CODE in original terminology -----> 10438
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 332
+8: KEY: theophylline *** Initial position according to JSON Object -----> 321
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10438
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 315
+8: KEY: tacrine *** Initial position according to JSON Object -----> 309
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 315
+8: KEY: tacrine *** Initial position according to JSON Object -----> 309
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+1: KEY: tacrine *** RXCUI -----> 10318
+2: KEY: tacrine *** Concept from RXNORM -----> Tacrine
+3: KEY: tacrine *** Concept Type -----> IN
+4: KEY: tacrine *** Drug mention in text -----> tacrine
+5: KEY: tacrine *** Source language -----> MSH
+6 KEY: tacrine *** CUI CODE in original terminology -----> D013619
+7: KEY: tacrine *** Final position in text according to JSON Object -----> 315
+8: KEY: tacrine *** Initial position according to JSON Object -----> 309
+9: KEY: tacrine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013619
+10: KEY: tacrine *** Preferred name according to JSON Object -----> Tacrine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

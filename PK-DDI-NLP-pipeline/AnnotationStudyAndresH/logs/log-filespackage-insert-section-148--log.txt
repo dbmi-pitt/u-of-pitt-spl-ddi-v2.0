@@ -1,0 +1,101 @@
+1: KEY:  carbamazepin *** RXCUI -----> 2002
+2: KEY:  carbamazepin *** Concept from RXNORM -----> carBAMazepine
+3: KEY:  carbamazepin *** Concept Type -----> TMSY
+4: KEY:  carbamazepin *** Drug mention in text ----->  carbamazepin
+5: KEY:  carbamazepin *** Source language -----> MSH
+6 KEY:  carbamazepin *** CUI CODE in original terminology -----> D002220
+7: KEY:  carbamazepin *** Final position in text according to JSON Object -----> 251
+8: KEY:  carbamazepin *** Initial position according to JSON Object -----> 239
+9: KEY:  carbamazepin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY:  carbamazepin *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY:  carbamazepin *** RXCUI -----> 2002
+2: KEY:  carbamazepin *** Concept from RXNORM -----> carBAMazepine
+3: KEY:  carbamazepin *** Concept Type -----> TMSY
+4: KEY:  carbamazepin *** Drug mention in text ----->  carbamazepin
+5: KEY:  carbamazepin *** Source language -----> MSH
+6 KEY:  carbamazepin *** CUI CODE in original terminology -----> D002220
+7: KEY:  carbamazepin *** Final position in text according to JSON Object -----> 251
+8: KEY:  carbamazepin *** Initial position according to JSON Object -----> 239
+9: KEY:  carbamazepin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY:  carbamazepin *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY:  carbamazepin *** RXCUI -----> 2002
+2: KEY:  carbamazepin *** Concept from RXNORM -----> carBAMazepine
+3: KEY:  carbamazepin *** Concept Type -----> TMSY
+4: KEY:  carbamazepin *** Drug mention in text ----->  carbamazepin
+5: KEY:  carbamazepin *** Source language -----> MSH
+6 KEY:  carbamazepin *** CUI CODE in original terminology -----> D002220
+7: KEY:  carbamazepin *** Final position in text according to JSON Object -----> 251
+8: KEY:  carbamazepin *** Initial position according to JSON Object -----> 239
+9: KEY:  carbamazepin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY:  carbamazepin *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: e carbamazepi *** RXCUI -----> 2002
+2: KEY: e carbamazepi *** Concept from RXNORM -----> carBAMazepine
+3: KEY: e carbamazepi *** Concept Type -----> TMSY
+4: KEY: e carbamazepi *** Drug mention in text -----> e carbamazepi
+5: KEY: e carbamazepi *** Source language -----> RXNORM
+6 KEY: e carbamazepi *** CUI CODE in original terminology -----> 2002
+7: KEY: e carbamazepi *** Final position in text according to JSON Object -----> 352
+8: KEY: e carbamazepi *** Initial position according to JSON Object -----> 340
+9: KEY: e carbamazepi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2002
+10: KEY: e carbamazepi *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 13
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 1
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: en felbam *** RXCUI -----> 24812
+2: KEY: en felbam *** Concept from RXNORM -----> felbamate
+3: KEY: en felbam *** Concept Type -----> IN
+4: KEY: en felbam *** Drug mention in text -----> en felbam
+5: KEY: en felbam *** Source language -----> MSH
+6 KEY: en felbam *** CUI CODE in original terminology -----> C047360
+7: KEY: en felbam *** Final position in text according to JSON Object -----> 420
+8: KEY: en felbam *** Initial position according to JSON Object -----> 412
+9: KEY: en felbam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: en felbam *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: Felbatol *** RXCUI -----> 24812
+2: KEY: Felbatol *** Concept from RXNORM -----> felbamate
+3: KEY: Felbatol *** Concept Type -----> IN
+4: KEY: Felbatol *** Drug mention in text -----> Felbatol
+5: KEY: Felbatol *** Source language -----> MSH
+6 KEY: Felbatol *** CUI CODE in original terminology -----> C047360
+7: KEY: Felbatol *** Final position in text according to JSON Object -----> 23
+8: KEY: Felbatol *** Initial position according to JSON Object -----> 16
+9: KEY: Felbatol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: Felbatol *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: s in carbamaz *** RXCUI -----> 2002
+2: KEY: s in carbamaz *** Concept from RXNORM -----> carBAMazepine
+3: KEY: s in carbamaz *** Concept Type -----> TMSY
+4: KEY: s in carbamaz *** Drug mention in text -----> s in carbamaz
+5: KEY: s in carbamaz *** Source language -----> MSH
+6 KEY: s in carbamaz *** CUI CODE in original terminology -----> D002220
+7: KEY: s in carbamaz *** Final position in text according to JSON Object -----> 673
+8: KEY: s in carbamaz *** Initial position according to JSON Object -----> 661
+9: KEY: s in carbamaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: s in carbamaz *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: n of felb *** RXCUI -----> 24812
+2: KEY: n of felb *** Concept from RXNORM -----> felbamate
+3: KEY: n of felb *** Concept Type -----> IN
+4: KEY: n of felb *** Drug mention in text -----> n of felb
+5: KEY: n of felb *** Source language -----> MSH
+6 KEY: n of felb *** CUI CODE in original terminology -----> C047360
+7: KEY: n of felb *** Final position in text according to JSON Object -----> 618
+8: KEY: n of felb *** Initial position according to JSON Object -----> 610
+9: KEY: n of felb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: n of felb *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+removed duplications 53
+Number of missed JSON elements: 0

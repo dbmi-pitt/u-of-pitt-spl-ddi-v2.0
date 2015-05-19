@@ -1,0 +1,156 @@
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 1189
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 1181
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 1189
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 1181
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: amprenavir *** RXCUI -----> 0
+2: KEY: amprenavir *** Concept from RXNORM -----> ()
+3: KEY: amprenavir *** Concept Type -----> ()
+4: KEY: amprenavir *** Drug mention in text -----> amprenavir
+5: KEY: amprenavir *** Source language -----> MSH
+6 KEY: amprenavir *** CUI CODE in original terminology -----> C095108
+7: KEY: amprenavir *** Final position in text according to JSON Object -----> 154
+8: KEY: amprenavir *** Initial position according to JSON Object -----> 145
+9: KEY: amprenavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C095108
+10: KEY: amprenavir *** Preferred name according to JSON Object -----> amprenavir
+---------------------------------------------------------
+1: KEY: darunavir *** RXCUI -----> 460132
+2: KEY: darunavir *** Concept from RXNORM -----> darunavir
+3: KEY: darunavir *** Concept Type -----> IN
+4: KEY: darunavir *** Drug mention in text -----> darunavir
+5: KEY: darunavir *** Source language -----> RXNORM
+6 KEY: darunavir *** CUI CODE in original terminology -----> 460132
+7: KEY: darunavir *** Final position in text according to JSON Object -----> 177
+8: KEY: darunavir *** Initial position according to JSON Object -----> 169
+9: KEY: darunavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/460132
+10: KEY: darunavir *** Preferred name according to JSON Object -----> darunavir
+---------------------------------------------------------
+1: KEY: NORVIR *** RXCUI -----> 0
+2: KEY: NORVIR *** Concept from RXNORM -----> ()
+3: KEY: NORVIR *** Concept Type -----> ()
+4: KEY: NORVIR *** Drug mention in text -----> NORVIR
+5: KEY: NORVIR *** Source language -----> RXNORM
+6 KEY: NORVIR *** CUI CODE in original terminology -----> 196479
+7: KEY: NORVIR *** Final position in text according to JSON Object -----> 783
+8: KEY: NORVIR *** Initial position according to JSON Object -----> 778
+9: KEY: NORVIR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/196479
+10: KEY: NORVIR *** Preferred name according to JSON Object -----> Norvir
+---------------------------------------------------------
+1: KEY: NORVIR *** RXCUI -----> 0
+2: KEY: NORVIR *** Concept from RXNORM -----> ()
+3: KEY: NORVIR *** Concept Type -----> ()
+4: KEY: NORVIR *** Drug mention in text -----> NORVIR
+5: KEY: NORVIR *** Source language -----> RXNORM
+6 KEY: NORVIR *** CUI CODE in original terminology -----> 196479
+7: KEY: NORVIR *** Final position in text according to JSON Object -----> 783
+8: KEY: NORVIR *** Initial position according to JSON Object -----> 778
+9: KEY: NORVIR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/196479
+10: KEY: NORVIR *** Preferred name according to JSON Object -----> Norvir
+---------------------------------------------------------
+1: KEY: NORVIR *** RXCUI -----> 0
+2: KEY: NORVIR *** Concept from RXNORM -----> ()
+3: KEY: NORVIR *** Concept Type -----> ()
+4: KEY: NORVIR *** Drug mention in text -----> NORVIR
+5: KEY: NORVIR *** Source language -----> RXNORM
+6 KEY: NORVIR *** CUI CODE in original terminology -----> 196479
+7: KEY: NORVIR *** Final position in text according to JSON Object -----> 783
+8: KEY: NORVIR *** Initial position according to JSON Object -----> 778
+9: KEY: NORVIR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/196479
+10: KEY: NORVIR *** Preferred name according to JSON Object -----> Norvir
+---------------------------------------------------------
+1: KEY: Ritonavir *** RXCUI -----> 85762
+2: KEY: Ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: Ritonavir *** Concept Type -----> IN
+4: KEY: Ritonavir *** Drug mention in text -----> Ritonavir
+5: KEY: Ritonavir *** Source language -----> MSH
+6 KEY: Ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: Ritonavir *** Final position in text according to JSON Object -----> 1323
+8: KEY: Ritonavir *** Initial position according to JSON Object -----> 1315
+9: KEY: Ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: Ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: Ritonavir *** RXCUI -----> 85762
+2: KEY: Ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: Ritonavir *** Concept Type -----> IN
+4: KEY: Ritonavir *** Drug mention in text -----> Ritonavir
+5: KEY: Ritonavir *** Source language -----> MSH
+6 KEY: Ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: Ritonavir *** Final position in text according to JSON Object -----> 1323
+8: KEY: Ritonavir *** Initial position according to JSON Object -----> 1315
+9: KEY: Ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: Ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: Ritonavir *** RXCUI -----> 85762
+2: KEY: Ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: Ritonavir *** Concept Type -----> IN
+4: KEY: Ritonavir *** Drug mention in text -----> Ritonavir
+5: KEY: Ritonavir *** Source language -----> MSH
+6 KEY: Ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: Ritonavir *** Final position in text according to JSON Object -----> 1323
+8: KEY: Ritonavir *** Initial position according to JSON Object -----> 1315
+9: KEY: Ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: Ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: saquinavir *** RXCUI -----> 83395
+2: KEY: saquinavir *** Concept from RXNORM -----> Saquinavir
+3: KEY: saquinavir *** Concept Type -----> IN
+4: KEY: saquinavir *** Drug mention in text -----> saquinavir
+5: KEY: saquinavir *** Source language -----> MSH
+6 KEY: saquinavir *** CUI CODE in original terminology -----> D019258
+7: KEY: saquinavir *** Final position in text according to JSON Object -----> 204
+8: KEY: saquinavir *** Initial position according to JSON Object -----> 195
+9: KEY: saquinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019258
+10: KEY: saquinavir *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY: tipranavir *** RXCUI -----> 190548
+2: KEY: tipranavir *** Concept from RXNORM -----> tipranavir
+3: KEY: tipranavir *** Concept Type -----> IN
+4: KEY: tipranavir *** Drug mention in text -----> tipranavir
+5: KEY: tipranavir *** Source language -----> MSH
+6 KEY: tipranavir *** CUI CODE in original terminology -----> C107201
+7: KEY: tipranavir *** Final position in text according to JSON Object -----> 220
+8: KEY: tipranavir *** Initial position according to JSON Object -----> 211
+9: KEY: tipranavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C107201
+10: KEY: tipranavir *** Preferred name according to JSON Object -----> tipranavir
+---------------------------------------------------------
+1: KEY: fosamprenavir *** RXCUI -----> 358262
+2: KEY: fosamprenavir *** Concept from RXNORM -----> fosamprenavir
+3: KEY: fosamprenavir *** Concept Type -----> IN
+4: KEY: fosamprenavir *** Drug mention in text -----> fosamprenavir
+5: KEY: fosamprenavir *** Source language -----> RXNORM
+6 KEY: fosamprenavir *** CUI CODE in original terminology -----> 358262
+7: KEY: fosamprenavir *** Final position in text according to JSON Object -----> 192
+8: KEY: fosamprenavir *** Initial position according to JSON Object -----> 180
+9: KEY: fosamprenavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/358262
+10: KEY: fosamprenavir *** Preferred name according to JSON Object -----> fosamprenavir
+---------------------------------------------------------
+1: KEY: atazanavir *** RXCUI -----> 343047
+2: KEY: atazanavir *** Concept from RXNORM -----> Atazanavir
+3: KEY: atazanavir *** Concept Type -----> IN
+4: KEY: atazanavir *** Drug mention in text -----> atazanavir
+5: KEY: atazanavir *** Source language -----> RXNORM
+6 KEY: atazanavir *** CUI CODE in original terminology -----> 343047
+7: KEY: atazanavir *** Final position in text according to JSON Object -----> 166
+8: KEY: atazanavir *** Initial position according to JSON Object -----> 157
+9: KEY: atazanavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/343047
+10: KEY: atazanavir *** Preferred name according to JSON Object -----> Atazanavir
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

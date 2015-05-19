@@ -1,0 +1,178 @@
+1: KEY: : Aliskir *** RXCUI -----> 325646
+2: KEY: : Aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: : Aliskir *** Concept Type -----> IN
+4: KEY: : Aliskir *** Drug mention in text -----> : Aliskir
+5: KEY: : Aliskir *** Source language -----> RXNORM
+6 KEY: : Aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: : Aliskir *** Final position in text according to JSON Object -----> 2759
+8: KEY: : Aliskir *** Initial position according to JSON Object -----> 2751
+9: KEY: : Aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: : Aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: r aliskir *** RXCUI -----> 325646
+2: KEY: r aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: r aliskir *** Concept Type -----> IN
+4: KEY: r aliskir *** Drug mention in text -----> r aliskir
+5: KEY: r aliskir *** Source language -----> MSH
+6 KEY: r aliskir *** CUI CODE in original terminology -----> C446481
+7: KEY: r aliskir *** Final position in text according to JSON Object -----> 2688
+8: KEY: r aliskir *** Initial position according to JSON Object -----> 2680
+9: KEY: r aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C446481
+10: KEY: r aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: Aliskiren *** RXCUI -----> 325646
+2: KEY: Aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: Aliskiren *** Concept Type -----> IN
+4: KEY: Aliskiren *** Drug mention in text -----> Aliskiren
+5: KEY: Aliskiren *** Source language -----> RXNORM
+6 KEY: Aliskiren *** CUI CODE in original terminology -----> 325646
+7: KEY: Aliskiren *** Final position in text according to JSON Object -----> 1932
+8: KEY: Aliskiren *** Initial position according to JSON Object -----> 1924
+9: KEY: Aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: Aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: Aliskiren *** RXCUI -----> 325646
+2: KEY: Aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: Aliskiren *** Concept Type -----> IN
+4: KEY: Aliskiren *** Drug mention in text -----> Aliskiren
+5: KEY: Aliskiren *** Source language -----> RXNORM
+6 KEY: Aliskiren *** CUI CODE in original terminology -----> 325646
+7: KEY: Aliskiren *** Final position in text according to JSON Object -----> 1932
+8: KEY: Aliskiren *** Initial position according to JSON Object -----> 1924
+9: KEY: Aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: Aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: f aliskir *** RXCUI -----> 325646
+2: KEY: f aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: f aliskir *** Concept Type -----> IN
+4: KEY: f aliskir *** Drug mention in text -----> f aliskir
+5: KEY: f aliskir *** Source language -----> RXNORM
+6 KEY: f aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: f aliskir *** Final position in text according to JSON Object -----> 3427
+8: KEY: f aliskir *** Initial position according to JSON Object -----> 3419
+9: KEY: f aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: f aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: f aliskir *** RXCUI -----> 325646
+2: KEY: f aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: f aliskir *** Concept Type -----> IN
+4: KEY: f aliskir *** Drug mention in text -----> f aliskir
+5: KEY: f aliskir *** Source language -----> RXNORM
+6 KEY: f aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: f aliskir *** Final position in text according to JSON Object -----> 3427
+8: KEY: f aliskir *** Initial position according to JSON Object -----> 3419
+9: KEY: f aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: f aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: f aliskir *** RXCUI -----> 325646
+2: KEY: f aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: f aliskir *** Concept Type -----> IN
+4: KEY: f aliskir *** Drug mention in text -----> f aliskir
+5: KEY: f aliskir *** Source language -----> RXNORM
+6 KEY: f aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: f aliskir *** Final position in text according to JSON Object -----> 3427
+8: KEY: f aliskir *** Initial position according to JSON Object -----> 3419
+9: KEY: f aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: f aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: f aliskir *** RXCUI -----> 325646
+2: KEY: f aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: f aliskir *** Concept Type -----> IN
+4: KEY: f aliskir *** Drug mention in text -----> f aliskir
+5: KEY: f aliskir *** Source language -----> RXNORM
+6 KEY: f aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: f aliskir *** Final position in text according to JSON Object -----> 3427
+8: KEY: f aliskir *** Initial position according to JSON Object -----> 3419
+9: KEY: f aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: f aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: f aliskir *** RXCUI -----> 325646
+2: KEY: f aliskir *** Concept from RXNORM -----> aliskiren
+3: KEY: f aliskir *** Concept Type -----> IN
+4: KEY: f aliskir *** Drug mention in text -----> f aliskir
+5: KEY: f aliskir *** Source language -----> RXNORM
+6 KEY: f aliskir *** CUI CODE in original terminology -----> 325646
+7: KEY: f aliskir *** Final position in text according to JSON Object -----> 3427
+8: KEY: f aliskir *** Initial position according to JSON Object -----> 3419
+9: KEY: f aliskir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/325646
+10: KEY: f aliskir *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: aliskiren *** RXCUI -----> 325646
+2: KEY: aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: aliskiren *** Concept Type -----> IN
+4: KEY: aliskiren *** Drug mention in text -----> aliskiren
+5: KEY: aliskiren *** Source language -----> MSH
+6 KEY: aliskiren *** CUI CODE in original terminology -----> C446481
+7: KEY: aliskiren *** Final position in text according to JSON Object -----> 2194
+8: KEY: aliskiren *** Initial position according to JSON Object -----> 2186
+9: KEY: aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C446481
+10: KEY: aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: aliskiren *** RXCUI -----> 325646
+2: KEY: aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: aliskiren *** Concept Type -----> IN
+4: KEY: aliskiren *** Drug mention in text -----> aliskiren
+5: KEY: aliskiren *** Source language -----> MSH
+6 KEY: aliskiren *** CUI CODE in original terminology -----> C446481
+7: KEY: aliskiren *** Final position in text according to JSON Object -----> 2194
+8: KEY: aliskiren *** Initial position according to JSON Object -----> 2186
+9: KEY: aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C446481
+10: KEY: aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: aliskiren *** RXCUI -----> 325646
+2: KEY: aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: aliskiren *** Concept Type -----> IN
+4: KEY: aliskiren *** Drug mention in text -----> aliskiren
+5: KEY: aliskiren *** Source language -----> MSH
+6 KEY: aliskiren *** CUI CODE in original terminology -----> C446481
+7: KEY: aliskiren *** Final position in text according to JSON Object -----> 2194
+8: KEY: aliskiren *** Initial position according to JSON Object -----> 2186
+9: KEY: aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C446481
+10: KEY: aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: aliskiren *** RXCUI -----> 325646
+2: KEY: aliskiren *** Concept from RXNORM -----> aliskiren
+3: KEY: aliskiren *** Concept Type -----> IN
+4: KEY: aliskiren *** Drug mention in text -----> aliskiren
+5: KEY: aliskiren *** Source language -----> MSH
+6 KEY: aliskiren *** CUI CODE in original terminology -----> C446481
+7: KEY: aliskiren *** Final position in text according to JSON Object -----> 2194
+8: KEY: aliskiren *** Initial position according to JSON Object -----> 2186
+9: KEY: aliskiren *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C446481
+10: KEY: aliskiren *** Preferred name according to JSON Object -----> aliskiren
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 757
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 747
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 757
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 747
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+1: KEY: aldosterone *** RXCUI -----> 1312358
+2: KEY: aldosterone *** Concept from RXNORM -----> Aldosterone
+3: KEY: aldosterone *** Concept Type -----> IN
+4: KEY: aldosterone *** Drug mention in text -----> aldosterone
+5: KEY: aldosterone *** Source language -----> RXNORM
+6 KEY: aldosterone *** CUI CODE in original terminology -----> 1312358
+7: KEY: aldosterone *** Final position in text according to JSON Object -----> 757
+8: KEY: aldosterone *** Initial position according to JSON Object -----> 747
+9: KEY: aldosterone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1312358
+10: KEY: aldosterone *** Preferred name according to JSON Object -----> Aldosterone
+---------------------------------------------------------
+removed duplications 64
+Number of missed JSON elements: 0

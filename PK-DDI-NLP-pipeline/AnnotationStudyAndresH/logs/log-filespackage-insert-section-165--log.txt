@@ -1,0 +1,79 @@
+1: KEY: Meperidine *** RXCUI -----> 6754
+2: KEY: Meperidine *** Concept from RXNORM -----> Meperidine
+3: KEY: Meperidine *** Concept Type -----> IN
+4: KEY: Meperidine *** Drug mention in text -----> Meperidine
+5: KEY: Meperidine *** Source language -----> MSH
+6 KEY: Meperidine *** CUI CODE in original terminology -----> D008614
+7: KEY: Meperidine *** Final position in text according to JSON Object -----> 10
+8: KEY: Meperidine *** Initial position according to JSON Object -----> 1
+9: KEY: Meperidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008614
+10: KEY: Meperidine *** Preferred name according to JSON Object -----> Meperidine
+---------------------------------------------------------
+1: KEY: meperidine *** RXCUI -----> 6754
+2: KEY: meperidine *** Concept from RXNORM -----> Meperidine
+3: KEY: meperidine *** Concept Type -----> IN
+4: KEY: meperidine *** Drug mention in text -----> meperidine
+5: KEY: meperidine *** Source language -----> MSH
+6 KEY: meperidine *** CUI CODE in original terminology -----> D008614
+7: KEY: meperidine *** Final position in text according to JSON Object -----> 175
+8: KEY: meperidine *** Initial position according to JSON Object -----> 166
+9: KEY: meperidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008614
+10: KEY: meperidine *** Preferred name according to JSON Object -----> Meperidine
+---------------------------------------------------------
+1: KEY: meperidine *** RXCUI -----> 6754
+2: KEY: meperidine *** Concept from RXNORM -----> Meperidine
+3: KEY: meperidine *** Concept Type -----> IN
+4: KEY: meperidine *** Drug mention in text -----> meperidine
+5: KEY: meperidine *** Source language -----> MSH
+6 KEY: meperidine *** CUI CODE in original terminology -----> D008614
+7: KEY: meperidine *** Final position in text according to JSON Object -----> 175
+8: KEY: meperidine *** Initial position according to JSON Object -----> 166
+9: KEY: meperidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008614
+10: KEY: meperidine *** Preferred name according to JSON Object -----> Meperidine
+---------------------------------------------------------
+1: KEY: morphine *** RXCUI -----> 7052
+2: KEY: morphine *** Concept from RXNORM -----> Morphine
+3: KEY: morphine *** Concept Type -----> IN
+4: KEY: morphine *** Drug mention in text -----> morphine
+5: KEY: morphine *** Source language -----> RXNORM
+6 KEY: morphine *** CUI CODE in original terminology -----> 7052
+7: KEY: morphine *** Final position in text according to JSON Object -----> 1012
+8: KEY: morphine *** Initial position according to JSON Object -----> 1005
+9: KEY: morphine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7052
+10: KEY: morphine *** Preferred name according to JSON Object -----> Morphine
+---------------------------------------------------------
+1: KEY: chlorpromazine *** RXCUI -----> 2403
+2: KEY: chlorpromazine *** Concept from RXNORM -----> chlorproMAZINE
+3: KEY: chlorpromazine *** Concept Type -----> TMSY
+4: KEY: chlorpromazine *** Drug mention in text -----> chlorpromazine
+5: KEY: chlorpromazine *** Source language -----> RXNORM
+6 KEY: chlorpromazine *** CUI CODE in original terminology -----> 2403
+7: KEY: chlorpromazine *** Final position in text according to JSON Object -----> 1273
+8: KEY: chlorpromazine *** Initial position according to JSON Object -----> 1260
+9: KEY: chlorpromazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2403
+10: KEY: chlorpromazine *** Preferred name according to JSON Object -----> Chlorpromazine
+---------------------------------------------------------
+1: KEY: hydrocortisone *** RXCUI -----> 5492
+2: KEY: hydrocortisone *** Concept from RXNORM -----> Hydrocortisone
+3: KEY: hydrocortisone *** Concept Type -----> IN
+4: KEY: hydrocortisone *** Drug mention in text -----> hydrocortisone
+5: KEY: hydrocortisone *** Source language -----> MSH
+6 KEY: hydrocortisone *** CUI CODE in original terminology -----> D006854
+7: KEY: hydrocortisone *** Final position in text according to JSON Object -----> 1167
+8: KEY: hydrocortisone *** Initial position according to JSON Object -----> 1154
+9: KEY: hydrocortisone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006854
+10: KEY: hydrocortisone *** Preferred name according to JSON Object -----> Hydrocortisone
+---------------------------------------------------------
+1: KEY: prednisolone *** RXCUI -----> 8638
+2: KEY: prednisolone *** Concept from RXNORM -----> prednisolone
+3: KEY: prednisolone *** Concept Type -----> IN
+4: KEY: prednisolone *** Drug mention in text -----> prednisolone
+5: KEY: prednisolone *** Source language -----> RXNORM
+6 KEY: prednisolone *** CUI CODE in original terminology -----> 8638
+7: KEY: prednisolone *** Final position in text according to JSON Object -----> 1183
+8: KEY: prednisolone *** Initial position according to JSON Object -----> 1172
+9: KEY: prednisolone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8638
+10: KEY: prednisolone *** Preferred name according to JSON Object -----> prednisolone
+---------------------------------------------------------
+removed duplications 16
+Number of missed JSON elements: 0

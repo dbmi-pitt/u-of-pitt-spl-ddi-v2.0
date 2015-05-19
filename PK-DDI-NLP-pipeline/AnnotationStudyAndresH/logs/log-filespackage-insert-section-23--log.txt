@@ -1,0 +1,90 @@
+1: KEY: of fluconaz *** RXCUI -----> 4450
+2: KEY: of fluconaz *** Concept from RXNORM -----> Fluconazole
+3: KEY: of fluconaz *** Concept Type -----> IN
+4: KEY: of fluconaz *** Drug mention in text -----> of fluconaz
+5: KEY: of fluconaz *** Source language -----> RXNORM
+6 KEY: of fluconaz *** CUI CODE in original terminology -----> 4450
+7: KEY: of fluconaz *** Final position in text according to JSON Object -----> 635
+8: KEY: of fluconaz *** Initial position according to JSON Object -----> 625
+9: KEY: of fluconaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: of fluconaz *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: of fluconaz *** RXCUI -----> 4450
+2: KEY: of fluconaz *** Concept from RXNORM -----> Fluconazole
+3: KEY: of fluconaz *** Concept Type -----> IN
+4: KEY: of fluconaz *** Drug mention in text -----> of fluconaz
+5: KEY: of fluconaz *** Source language -----> RXNORM
+6 KEY: of fluconaz *** CUI CODE in original terminology -----> 4450
+7: KEY: of fluconaz *** Final position in text according to JSON Object -----> 635
+8: KEY: of fluconaz *** Initial position according to JSON Object -----> 625
+9: KEY: of fluconaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: of fluconaz *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 238
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 228
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: of cimetid *** RXCUI -----> 2541
+2: KEY: of cimetid *** Concept from RXNORM -----> Cimetidine
+3: KEY: of cimetid *** Concept Type -----> IN
+4: KEY: of cimetid *** Drug mention in text -----> of cimetid
+5: KEY: of cimetid *** Source language -----> RXNORM
+6 KEY: of cimetid *** CUI CODE in original terminology -----> 2541
+7: KEY: of cimetid *** Final position in text according to JSON Object -----> 429
+8: KEY: of cimetid *** Initial position according to JSON Object -----> 420
+9: KEY: of cimetid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: of cimetid *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY:  fluconazol *** RXCUI -----> 4450
+2: KEY:  fluconazol *** Concept from RXNORM -----> Fluconazole
+3: KEY:  fluconazol *** Concept Type -----> IN
+4: KEY:  fluconazol *** Drug mention in text ----->  fluconazol
+5: KEY:  fluconazol *** Source language -----> MSH
+6 KEY:  fluconazol *** CUI CODE in original terminology -----> D015725
+7: KEY:  fluconazol *** Final position in text according to JSON Object -----> 298
+8: KEY:  fluconazol *** Initial position according to JSON Object -----> 288
+9: KEY:  fluconazol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015725
+10: KEY:  fluconazol *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 189
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 180
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> MSH
+6 KEY: cimetidine *** CUI CODE in original terminology -----> D002927
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 189
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 180
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002927
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: Fluconazole *** RXCUI -----> 4450
+2: KEY: Fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: Fluconazole *** Concept Type -----> IN
+4: KEY: Fluconazole *** Drug mention in text -----> Fluconazole
+5: KEY: Fluconazole *** Source language -----> RXNORM
+6 KEY: Fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: Fluconazole *** Final position in text according to JSON Object -----> 11
+8: KEY: Fluconazole *** Initial position according to JSON Object -----> 1
+9: KEY: Fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: Fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

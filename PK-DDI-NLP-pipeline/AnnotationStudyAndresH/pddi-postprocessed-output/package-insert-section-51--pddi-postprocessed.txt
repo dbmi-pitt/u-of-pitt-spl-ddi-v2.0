@@ -1,0 +1,6 @@
+paroxetine	ritonavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		32937	85762	D017374	D019438
+paroxetine	ritonavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		32937	85762	D017374	D019438
+paroxetine	fosamprenavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		32937	358262	D017374	358262
+paroxetine	fosamprenavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		32937	358262	D017374	358262
+ritonavir	fosamprenavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		85762	358262	D019438	358262
+ritonavir	fosamprenavir	1	1	true	positive	Co-administration of fosamprenavir/ritonavir with paroxetine significantly decreased plasma levels of paroxetine.  		85762	358262	D019438	358262

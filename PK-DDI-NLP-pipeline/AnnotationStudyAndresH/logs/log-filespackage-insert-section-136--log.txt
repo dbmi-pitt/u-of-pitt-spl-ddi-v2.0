@@ -1,0 +1,112 @@
+1: KEY: indinavir *** RXCUI -----> 114289
+2: KEY: indinavir *** Concept from RXNORM -----> Indinavir
+3: KEY: indinavir *** Concept Type -----> IN
+4: KEY: indinavir *** Drug mention in text -----> indinavir
+5: KEY: indinavir *** Source language -----> MSH
+6 KEY: indinavir *** CUI CODE in original terminology -----> D019469
+7: KEY: indinavir *** Final position in text according to JSON Object -----> 218
+8: KEY: indinavir *** Initial position according to JSON Object -----> 210
+9: KEY: indinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019469
+10: KEY: indinavir *** Preferred name according to JSON Object -----> Indinavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 203
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 195
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 203
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 195
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 203
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 195
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> RXNORM
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> 6135
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 192
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 181
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6135
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 648
+8: KEY: trazodone *** Initial position according to JSON Object -----> 640
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 648
+8: KEY: trazodone *** Initial position according to JSON Object -----> 640
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 648
+8: KEY: trazodone *** Initial position according to JSON Object -----> 640
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 648
+8: KEY: trazodone *** Initial position according to JSON Object -----> 640
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+1: KEY: trazodone *** RXCUI -----> 10737
+2: KEY: trazodone *** Concept from RXNORM -----> Trazodone
+3: KEY: trazodone *** Concept Type -----> IN
+4: KEY: trazodone *** Drug mention in text -----> trazodone
+5: KEY: trazodone *** Source language -----> RXNORM
+6 KEY: trazodone *** CUI CODE in original terminology -----> 10737
+7: KEY: trazodone *** Final position in text according to JSON Object -----> 648
+8: KEY: trazodone *** Initial position according to JSON Object -----> 640
+9: KEY: trazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10737
+10: KEY: trazodone *** Preferred name according to JSON Object -----> Trazodone
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

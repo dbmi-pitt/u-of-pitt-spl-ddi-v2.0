@@ -1,0 +1,5 @@
+desipramine	Desipramine	1	1	true	positive	Desipramine    Blood levels of desipramine have increased with concurrent methadone administration.  		3247	3247
+desipramine	methadone	1	1	true	positive	Desipramine    Blood levels of desipramine have increased with concurrent methadone administration.  		3247	6813	3247	D008691
+desipramine	methadone	1	1	true	positive	Desipramine    Blood levels of desipramine have increased with concurrent methadone administration.  		3247	6813	3247	D008691
+Desipramine	methadone	1	1	true	positive	Desipramine    Blood levels of desipramine have increased with concurrent methadone administration.  		3247	6813	3247	D008691
+Desipramine	methadone	1	1	true	positive	Desipramine    Blood levels of desipramine have increased with concurrent methadone administration.  		3247	6813	3247	D008691

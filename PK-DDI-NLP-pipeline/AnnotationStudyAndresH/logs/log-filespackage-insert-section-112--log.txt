@@ -1,0 +1,24 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 134
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 125
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: Clopidogrel *** RXCUI -----> 32968
+2: KEY: Clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: Clopidogrel *** Concept Type -----> IN
+4: KEY: Clopidogrel *** Drug mention in text -----> Clopidogrel
+5: KEY: Clopidogrel *** Source language -----> MSH
+6 KEY: Clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: Clopidogrel *** Final position in text according to JSON Object -----> 11
+8: KEY: Clopidogrel *** Initial position according to JSON Object -----> 1
+9: KEY: Clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+10: KEY: Clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

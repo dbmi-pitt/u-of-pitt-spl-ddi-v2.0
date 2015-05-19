@@ -1,0 +1,145 @@
+1: KEY: phenytoin *** RXCUI -----> 8183
+2: KEY: phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: phenytoin *** Concept Type -----> IN
+4: KEY: phenytoin *** Drug mention in text -----> phenytoin
+5: KEY: phenytoin *** Source language -----> MSH
+6 KEY: phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: phenytoin *** Final position in text according to JSON Object -----> 821
+8: KEY: phenytoin *** Initial position according to JSON Object -----> 813
+9: KEY: phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 223
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 215
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: nelfinavir *** RXCUI -----> 0
+2: KEY: nelfinavir *** Concept from RXNORM -----> ()
+3: KEY: nelfinavir *** Concept Type -----> ()
+4: KEY: nelfinavir *** Drug mention in text -----> nelfinavir
+5: KEY: nelfinavir *** Source language -----> MSH
+6 KEY: nelfinavir *** CUI CODE in original terminology -----> D019888
+7: KEY: nelfinavir *** Final position in text according to JSON Object -----> 723
+8: KEY: nelfinavir *** Initial position according to JSON Object -----> 714
+9: KEY: nelfinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019888
+10: KEY: nelfinavir *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+1: KEY: nelfinavir *** RXCUI -----> 0
+2: KEY: nelfinavir *** Concept from RXNORM -----> ()
+3: KEY: nelfinavir *** Concept Type -----> ()
+4: KEY: nelfinavir *** Drug mention in text -----> nelfinavir
+5: KEY: nelfinavir *** Source language -----> MSH
+6 KEY: nelfinavir *** CUI CODE in original terminology -----> D019888
+7: KEY: nelfinavir *** Final position in text according to JSON Object -----> 723
+8: KEY: nelfinavir *** Initial position according to JSON Object -----> 714
+9: KEY: nelfinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019888
+10: KEY: nelfinavir *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+1: KEY: nelfinavir *** RXCUI -----> 0
+2: KEY: nelfinavir *** Concept from RXNORM -----> ()
+3: KEY: nelfinavir *** Concept Type -----> ()
+4: KEY: nelfinavir *** Drug mention in text -----> nelfinavir
+5: KEY: nelfinavir *** Source language -----> MSH
+6 KEY: nelfinavir *** CUI CODE in original terminology -----> D019888
+7: KEY: nelfinavir *** Final position in text according to JSON Object -----> 723
+8: KEY: nelfinavir *** Initial position according to JSON Object -----> 714
+9: KEY: nelfinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019888
+10: KEY: nelfinavir *** Preferred name according to JSON Object -----> Nelfinavir
+---------------------------------------------------------
+1: KEY: Tacrolimus *** RXCUI -----> 42316
+2: KEY: Tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: Tacrolimus *** Concept Type -----> IN
+4: KEY: Tacrolimus *** Drug mention in text -----> Tacrolimus
+5: KEY: Tacrolimus *** Source language -----> MSH
+6 KEY: Tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: Tacrolimus *** Final position in text according to JSON Object -----> 757
+8: KEY: Tacrolimus *** Initial position according to JSON Object -----> 748
+9: KEY: Tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: Tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: ganciclovir *** RXCUI -----> 4678
+2: KEY: ganciclovir *** Concept from RXNORM -----> Ganciclovir
+3: KEY: ganciclovir *** Concept Type -----> IN
+4: KEY: ganciclovir *** Drug mention in text -----> ganciclovir
+5: KEY: ganciclovir *** Source language -----> RXNORM
+6 KEY: ganciclovir *** CUI CODE in original terminology -----> 4678
+7: KEY: ganciclovir *** Final position in text according to JSON Object -----> 160
+8: KEY: ganciclovir *** Initial position according to JSON Object -----> 150
+9: KEY: ganciclovir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4678
+10: KEY: ganciclovir *** Preferred name according to JSON Object -----> Ganciclovir
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 486
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 477
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

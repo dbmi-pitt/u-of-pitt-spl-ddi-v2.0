@@ -1,0 +1,110 @@
+7 DRUG INTERACTIONS
+               
+               
+                  
+                     
+                        
+                           Nonsteroidal anti-inflammatory drugs (NSAIDs): Combination use increases risk of gastrointestinal bleeding. (7.2)
+                           Warfarin: Combination use increases risk of bleeding. (7.3)
+                        
+                     
+                  
+               
+               
+                  
+                     
+                     
+                     7.1   CYP2C19 Inhibitors
+                     
+                        Clopidogrel is metabolized to its active metabolite in part by CYP2C19. Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1) and Dosage and Administration (2.4)].
+                        
+                           Proton Pump Inhibitors (PPI)
+                        
+                        A study was conducted with Plavix (300 mg loading dose followed by 75 mg/day) administered with a high dose (80 mg/day) of omeprazole. As shown in Table 3 below, with concomitant dosing of omeprazole, exposure (Cmax and AUC) to the clopidogrel active metabolite and platelet inhibition were substantially reduced. Similar reductions in exposure to the clopidogrel active metabolite and platelet inhibition were observed when Plavix and omeprazole were administered 12 hours apart (data not shown). 
+                        There are no adequate studies of a lower dose of omeprazole or a higher dose of Plavix in comparison with the approved dose of Plavix.
+                        A study was conducted using Plavix (300 mg loading dose followed by 75 mg/day) and a high dose (80 mg/day) of pantoprazole, a PPI with less CYP2C19 inhibitory activity than omeprazole. The plasma concentrations of the clopidogrel active metabolite and the degree of platelet inhibition were less than observed with Plavix alone but were greater than observed when omeprazole 80 mg was co-administered with 300 mg loading dose followed by 75 mg/day of Plavix (Table 3). 
+                        
+
+<table xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" width="85%">
+                           <caption>Table 3. Comparison of Clopidogrel Active Metabolite Exposure and Platelet Inhibition with and without Proton Pump Inhibitors, Omeprazole and Pantoprazole</caption>
+                           <col width="28" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <col width="12" align="center" valign="bottom"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Botrule">&#160;</th>
+                                 <th styleCode="Lrule Rrule" colspan="6"/>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule"/>
+                                 <th styleCode="Lrule Rrule Botrule" colspan="6">% Change from Plavix (300 mg/75 mg) alone</th>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <th styleCode="Lrule">Plavix plus</th>
+                                 <th styleCode="Lrule" colspan="2">C<sub>max</sub> (ng/mL)</th>
+                                 <th styleCode="Lrule" colspan="2">AUC</th>
+                                 <th styleCode="Lrule Rrule" colspan="2">Platelet Inhibition<footnote>Inhibition of platelet aggregation with 5 mcM ADP</footnote> (%)</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule"/>
+                                 <th styleCode="Lrule">Day 1</th>
+                                 <th styleCode="Lrule">Day 5</th>
+                                 <th styleCode="Lrule">Day 1</th>
+                                 <th styleCode="Lrule Rrule">Day 5<footnote>AUC at Day 5 is AUC<sub>0&#8211;24</sub>
+                                    </footnote>
+                                 </th>
+                                 <th styleCode="Lrule">Day 1</th>
+                                 <th styleCode="Lrule Rrule">Day 5</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule">Omeprazole<footnote>Similar results seen when Plavix and omeprazole were administered 12 hours apart.</footnote> 80 mg</td>
+                                 <td styleCode="Lrule">&#8595;46%</td>
+                                 <td styleCode="Lrule">&#8595;42%</td>
+                                 <td styleCode="Lrule">&#8595;45%</td>
+                                 <td styleCode="Lrule">&#8595;40%</td>
+                                 <td styleCode="Lrule">&#8595;39%</td>
+                                 <td styleCode="Lrule Rrule">&#8595;21%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule">Pantoprazole 80 mg</td>
+                                 <td styleCode="Lrule">&#8595;24%</td>
+                                 <td styleCode="Lrule">&#8595;28%</td>
+                                 <td styleCode="Lrule">&#8595;20%</td>
+                                 <td styleCode="Lrule">&#8595;14%</td>
+                                 <td styleCode="Lrule">&#8595;15%</td>
+                                 <td styleCode="Lrule Rrule">&#8595;11%</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     
+
+
+
+                     
+                  
+               
+               
+                  
+                     
+                     
+                     7.2   Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+                     
+                        Coadministration of Plavix and NSAIDs increases the risk of gastrointestinal bleeding.
+                     
+                     
+                  
+               
+               
+                  
+                     
+                     
+                     7.3   Warfarin (CYP2C9 Substrates) 
+                     
+                        Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of Plavix with warfarin increases the risk of bleeding because of independent effects on hemostasis.
+                        However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.

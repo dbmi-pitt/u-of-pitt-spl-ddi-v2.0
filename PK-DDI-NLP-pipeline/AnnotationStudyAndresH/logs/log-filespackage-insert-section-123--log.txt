@@ -1,0 +1,1465 @@
+1: KEY: bjects, g *** RXCUI -----> 4815
+2: KEY: bjects, g *** Concept from RXNORM -----> Glyburide
+3: KEY: bjects, g *** Concept Type -----> IN
+4: KEY: bjects, g *** Drug mention in text -----> bjects, g
+5: KEY: bjects, g *** Source language -----> MSH
+6 KEY: bjects, g *** CUI CODE in original terminology -----> D005905
+7: KEY: bjects, g *** Final position in text according to JSON Object -----> 10371
+8: KEY: bjects, g *** Initial position according to JSON Object -----> 10363
+9: KEY: bjects, g *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: bjects, g *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: ptives (ethinyl e *** RXCUI -----> 4124
+2: KEY: ptives (ethinyl e *** Concept from RXNORM -----> Ethinyl Estradiol
+3: KEY: ptives (ethinyl e *** Concept Type -----> IN
+4: KEY: ptives (ethinyl e *** Drug mention in text -----> ptives (ethinyl e
+5: KEY: ptives (ethinyl e *** Source language -----> RXNORM
+6 KEY: ptives (ethinyl e *** CUI CODE in original terminology -----> 4124
+7: KEY: ptives (ethinyl e *** Final position in text according to JSON Object -----> 9205
+8: KEY: ptives (ethinyl e *** Initial position according to JSON Object -----> 9189
+9: KEY: ptives (ethinyl e *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4124
+10: KEY: ptives (ethinyl e *** Preferred name according to JSON Object -----> Ethinyl Estradiol
+---------------------------------------------------------
+1: KEY: sis. Rosiglit *** RXCUI -----> 84108
+2: KEY: sis. Rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: sis. Rosiglit *** Concept Type -----> IN
+4: KEY: sis. Rosiglit *** Drug mention in text -----> sis. Rosiglit
+5: KEY: sis. Rosiglit *** Source language -----> MSH
+6 KEY: sis. Rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: sis. Rosiglit *** Final position in text according to JSON Object -----> 4033
+8: KEY: sis. Rosiglit *** Initial position according to JSON Object -----> 4021
+9: KEY: sis. Rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: sis. Rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: tics of ni *** RXCUI -----> 7417
+2: KEY: tics of ni *** Concept from RXNORM -----> Nifedipine
+3: KEY: tics of ni *** Concept Type -----> IN
+4: KEY: tics of ni *** Drug mention in text -----> tics of ni
+5: KEY: tics of ni *** Source language -----> MSH
+6 KEY: tics of ni *** CUI CODE in original terminology -----> D009543
+7: KEY: tics of ni *** Final position in text according to JSON Object -----> 9162
+8: KEY: tics of ni *** Initial position according to JSON Object -----> 9153
+9: KEY: tics of ni *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: tics of ni *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: of rosiglitaz *** RXCUI -----> 84108
+2: KEY: of rosiglitaz *** Concept from RXNORM -----> rosiglitazone
+3: KEY: of rosiglitaz *** Concept Type -----> IN
+4: KEY: of rosiglitaz *** Drug mention in text -----> of rosiglitaz
+5: KEY: of rosiglitaz *** Source language -----> MSH
+6 KEY: of rosiglitaz *** CUI CODE in original terminology -----> C089730
+7: KEY: of rosiglitaz *** Final position in text according to JSON Object -----> 841
+8: KEY: of rosiglitaz *** Initial position according to JSON Object -----> 829
+9: KEY: of rosiglitaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: of rosiglitaz *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: of rosiglitaz *** RXCUI -----> 84108
+2: KEY: of rosiglitaz *** Concept from RXNORM -----> rosiglitazone
+3: KEY: of rosiglitaz *** Concept Type -----> IN
+4: KEY: of rosiglitaz *** Drug mention in text -----> of rosiglitaz
+5: KEY: of rosiglitaz *** Source language -----> MSH
+6 KEY: of rosiglitaz *** CUI CODE in original terminology -----> C089730
+7: KEY: of rosiglitaz *** Final position in text according to JSON Object -----> 841
+8: KEY: of rosiglitaz *** Initial position according to JSON Object -----> 829
+9: KEY: of rosiglitaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: of rosiglitaz *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: 7.1)].
+
+*** RXCUI -----> 9384
+2: KEY: 7.1)].
+
+*** Concept from RXNORM -----> Rifampin
+3: KEY: 7.1)].
+
+*** Concept Type -----> IN
+4: KEY: 7.1)].
+
+*** Drug mention in text -----> 7.1)].
+
+
+5: KEY: 7.1)].
+
+*** Source language -----> RXNORM
+6 KEY: 7.1)].
+
+*** CUI CODE in original terminology -----> 9384
+7: KEY: 7.1)].
+
+*** Final position in text according to JSON Object -----> 9729
+8: KEY: 7.1)].
+
+*** Initial position according to JSON Object -----> 9722
+9: KEY: 7.1)].
+
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: 7.1)].
+
+*** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: t, 2C9. *** RXCUI -----> 0
+2: KEY: t, 2C9. *** Concept from RXNORM -----> ()
+3: KEY: t, 2C9. *** Concept Type -----> ()
+4: KEY: t, 2C9. *** Drug mention in text -----> t, 2C9.
+5: KEY: t, 2C9. *** Source language -----> RXNORM
+6 KEY: t, 2C9. *** CUI CODE in original terminology -----> 261455
+7: KEY: t, 2C9. *** Final position in text according to JSON Object -----> 9057
+8: KEY: t, 2C9. *** Initial position according to JSON Object -----> 9051
+9: KEY: t, 2C9. *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: t, 2C9. *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ormin,  *** RXCUI -----> 0
+2: KEY: ormin,  *** Concept from RXNORM -----> ()
+3: KEY: ormin,  *** Concept Type -----> ()
+4: KEY: ormin,  *** Drug mention in text -----> ormin, 
+5: KEY: ormin,  *** Source language -----> RXNORM
+6 KEY: ormin,  *** CUI CODE in original terminology -----> 261455
+7: KEY: ormin,  *** Final position in text according to JSON Object -----> 6167
+8: KEY: ormin,  *** Initial position according to JSON Object -----> 6161
+9: KEY: ormin,  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ormin,  *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: te that rosig *** RXCUI -----> 84108
+2: KEY: te that rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: te that rosig *** Concept Type -----> IN
+4: KEY: te that rosig *** Drug mention in text -----> te that rosig
+5: KEY: te that rosig *** Source language -----> MSH
+6 KEY: te that rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: te that rosig *** Final position in text according to JSON Object -----> 8980
+8: KEY: te that rosig *** Initial position according to JSON Object -----> 8968
+9: KEY: te that rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: te that rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: dose of rosig *** RXCUI -----> 84108
+2: KEY: dose of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: dose of rosig *** Concept Type -----> IN
+4: KEY: dose of rosig *** Drug mention in text -----> dose of rosig
+5: KEY: dose of rosig *** Source language -----> MSH
+6 KEY: dose of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: dose of rosig *** Final position in text according to JSON Object -----> 9643
+8: KEY: dose of rosig *** Initial position according to JSON Object -----> 9631
+9: KEY: dose of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: dose of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: rmin or rosig *** RXCUI -----> 84108
+2: KEY: rmin or rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: rmin or rosig *** Concept Type -----> IN
+4: KEY: rmin or rosig *** Drug mention in text -----> rmin or rosig
+5: KEY: rmin or rosig *** Source language -----> MSH
+6 KEY: rmin or rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: rmin or rosig *** Final position in text according to JSON Object -----> 10993
+8: KEY: rmin or rosig *** Initial position according to JSON Object -----> 10981
+9: KEY: rmin or rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: rmin or rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: YP3A4.
+
+Gem *** RXCUI -----> 4719
+2: KEY: YP3A4.
+
+Gem *** Concept from RXNORM -----> Gemfibrozil
+3: KEY: YP3A4.
+
+Gem *** Concept Type -----> IN
+4: KEY: YP3A4.
+
+Gem *** Drug mention in text -----> YP3A4.
+
+Gem
+5: KEY: YP3A4.
+
+Gem *** Source language -----> MSH
+6 KEY: YP3A4.
+
+Gem *** CUI CODE in original terminology -----> D015248
+7: KEY: YP3A4.
+
+Gem *** Final position in text according to JSON Object -----> 9285
+8: KEY: YP3A4.
+
+Gem *** Initial position according to JSON Object -----> 9275
+9: KEY: YP3A4.
+
+Gem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015248
+10: KEY: YP3A4.
+
+Gem *** Preferred name according to JSON Object -----> Gemfibrozil
+---------------------------------------------------------
+1: KEY: ease in g *** RXCUI -----> 4815
+2: KEY: ease in g *** Concept from RXNORM -----> Glyburide
+3: KEY: ease in g *** Concept Type -----> IN
+4: KEY: ease in g *** Drug mention in text -----> ease in g
+5: KEY: ease in g *** Source language -----> MSH
+6 KEY: ease in g *** CUI CODE in original terminology -----> D005905
+7: KEY: ease in g *** Final position in text according to JSON Object -----> 10304
+8: KEY: ease in g *** Initial position according to JSON Object -----> 10296
+9: KEY: ease in g *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: ease in g *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: oses of *** RXCUI -----> 0
+2: KEY: oses of *** Concept from RXNORM -----> ()
+3: KEY: oses of *** Concept Type -----> ()
+4: KEY: oses of *** Drug mention in text -----> oses of
+5: KEY: oses of *** Source language -----> RXNORM
+6 KEY: oses of *** CUI CODE in original terminology -----> 261455
+7: KEY: oses of *** Final position in text according to JSON Object -----> 10208
+8: KEY: oses of *** Initial position according to JSON Object -----> 10202
+9: KEY: oses of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: oses of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: oses of *** RXCUI -----> 0
+2: KEY: oses of *** Concept from RXNORM -----> ()
+3: KEY: oses of *** Concept Type -----> ()
+4: KEY: oses of *** Drug mention in text -----> oses of
+5: KEY: oses of *** Source language -----> RXNORM
+6 KEY: oses of *** CUI CODE in original terminology -----> 261455
+7: KEY: oses of *** Final position in text according to JSON Object -----> 10208
+8: KEY: oses of *** Initial position according to JSON Object -----> 10202
+9: KEY: oses of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: oses of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: oses of gli *** RXCUI -----> 25789
+2: KEY: oses of gli *** Concept from RXNORM -----> glimepiride
+3: KEY: oses of gli *** Concept Type -----> IN
+4: KEY: oses of gli *** Drug mention in text -----> oses of gli
+5: KEY: oses of gli *** Source language -----> RXNORM
+6 KEY: oses of gli *** CUI CODE in original terminology -----> 25789
+7: KEY: oses of gli *** Final position in text according to JSON Object -----> 10489
+8: KEY: oses of gli *** Initial position according to JSON Object -----> 10479
+9: KEY: oses of gli *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/25789
+10: KEY: oses of gli *** Preferred name according to JSON Object -----> glimepiride
+---------------------------------------------------------
+1: KEY: azone.
+
+*** RXCUI -----> 16681
+2: KEY: azone.
+
+*** Concept from RXNORM -----> Acarbose
+3: KEY: azone.
+
+*** Concept Type -----> IN
+4: KEY: azone.
+
+*** Drug mention in text -----> azone.
+
+
+5: KEY: azone.
+
+*** Source language -----> MSH
+6 KEY: azone.
+
+*** CUI CODE in original terminology -----> D020909
+7: KEY: azone.
+
+*** Final position in text according to JSON Object -----> 11004
+8: KEY: azone.
+
+*** Initial position according to JSON Object -----> 10997
+9: KEY: azone.
+
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020909
+10: KEY: azone.
+
+*** Preferred name according to JSON Object -----> Acarbose
+---------------------------------------------------------
+1: KEY: tion of  *** RXCUI -----> 16681
+2: KEY: tion of  *** Concept from RXNORM -----> Acarbose
+3: KEY: tion of  *** Concept Type -----> IN
+4: KEY: tion of  *** Drug mention in text -----> tion of 
+5: KEY: tion of  *** Source language -----> MSH
+6 KEY: tion of  *** CUI CODE in original terminology -----> D020909
+7: KEY: tion of  *** Final position in text according to JSON Object -----> 11034
+8: KEY: tion of  *** Initial position according to JSON Object -----> 11027
+9: KEY: tion of  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020909
+10: KEY: tion of  *** Preferred name according to JSON Object -----> Acarbose
+---------------------------------------------------------
+1: KEY:  for AV *** RXCUI -----> 0
+2: KEY:  for AV *** Concept from RXNORM -----> ()
+3: KEY:  for AV *** Concept Type -----> ()
+4: KEY:  for AV *** Drug mention in text ----->  for AV
+5: KEY:  for AV *** Source language -----> RXNORM
+6 KEY:  for AV *** CUI CODE in original terminology -----> 261455
+7: KEY:  for AV *** Final position in text according to JSON Object -----> 2629
+8: KEY:  for AV *** Initial position according to JSON Object -----> 2623
+9: KEY:  for AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY:  for AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: es. In me *** RXCUI -----> 6809
+2: KEY: es. In me *** Concept from RXNORM -----> Metformin
+3: KEY: es. In me *** Concept Type -----> IN
+4: KEY: es. In me *** Drug mention in text -----> es. In me
+5: KEY: es. In me *** Source language -----> RXNORM
+6 KEY: es. In me *** CUI CODE in original terminology -----> 6809
+7: KEY: es. In me *** Final position in text according to JSON Object -----> 6233
+8: KEY: es. In me *** Initial position according to JSON Object -----> 6225
+9: KEY: es. In me *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: es. In me *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: ly with g *** RXCUI -----> 4815
+2: KEY: ly with g *** Concept from RXNORM -----> Glyburide
+3: KEY: ly with g *** Concept Type -----> IN
+4: KEY: ly with g *** Drug mention in text -----> ly with g
+5: KEY: ly with g *** Source language -----> MSH
+6 KEY: ly with g *** CUI CODE in original terminology -----> D005905
+7: KEY: ly with g *** Final position in text according to JSON Object -----> 10025
+8: KEY: ly with g *** Initial position according to JSON Object -----> 10017
+9: KEY: ly with g *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: ly with g *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: ts with rosig *** RXCUI -----> 84108
+2: KEY: ts with rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ts with rosig *** Concept Type -----> IN
+4: KEY: ts with rosig *** Drug mention in text -----> ts with rosig
+5: KEY: ts with rosig *** Source language -----> MSH
+6 KEY: ts with rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: ts with rosig *** Final position in text according to JSON Object -----> 9602
+8: KEY: ts with rosig *** Initial position according to JSON Object -----> 9590
+9: KEY: ts with rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ts with rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY:  for glyb *** RXCUI -----> 4815
+2: KEY:  for glyb *** Concept from RXNORM -----> Glyburide
+3: KEY:  for glyb *** Concept Type -----> IN
+4: KEY:  for glyb *** Drug mention in text ----->  for glyb
+5: KEY:  for glyb *** Source language -----> MSH
+6 KEY:  for glyb *** CUI CODE in original terminology -----> D005905
+7: KEY:  for glyb *** Final position in text according to JSON Object -----> 2686
+8: KEY:  for glyb *** Initial position according to JSON Object -----> 2678
+9: KEY:  for glyb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY:  for glyb *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: ed with *** RXCUI -----> 0
+2: KEY: ed with *** Concept from RXNORM -----> ()
+3: KEY: ed with *** Concept Type -----> ()
+4: KEY: ed with *** Drug mention in text -----> ed with
+5: KEY: ed with *** Source language -----> RXNORM
+6 KEY: ed with *** CUI CODE in original terminology -----> 261455
+7: KEY: ed with *** Final position in text according to JSON Object -----> 11666
+8: KEY: ed with *** Initial position according to JSON Object -----> 11660
+9: KEY: ed with *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ed with *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY:  either m *** RXCUI -----> 6809
+2: KEY:  either m *** Concept from RXNORM -----> Metformin
+3: KEY:  either m *** Concept Type -----> IN
+4: KEY:  either m *** Drug mention in text ----->  either m
+5: KEY:  either m *** Source language -----> RXNORM
+6 KEY:  either m *** CUI CODE in original terminology -----> 6809
+7: KEY:  either m *** Final position in text according to JSON Object -----> 10976
+8: KEY:  either m *** Initial position according to JSON Object -----> 10968
+9: KEY:  either m *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY:  either m *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: with AV *** RXCUI -----> 0
+2: KEY: with AV *** Concept from RXNORM -----> ()
+3: KEY: with AV *** Concept Type -----> ()
+4: KEY: with AV *** Drug mention in text -----> with AV
+5: KEY: with AV *** Source language -----> RXNORM
+6 KEY: with AV *** CUI CODE in original terminology -----> 261455
+7: KEY: with AV *** Final position in text according to JSON Object -----> 3060
+8: KEY: with AV *** Initial position according to JSON Object -----> 3054
+9: KEY: with AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: with AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: with AV *** RXCUI -----> 0
+2: KEY: with AV *** Concept from RXNORM -----> ()
+3: KEY: with AV *** Concept Type -----> ()
+4: KEY: with AV *** Drug mention in text -----> with AV
+5: KEY: with AV *** Source language -----> RXNORM
+6 KEY: with AV *** CUI CODE in original terminology -----> 261455
+7: KEY: with AV *** Final position in text according to JSON Object -----> 3060
+8: KEY: with AV *** Initial position according to JSON Object -----> 3054
+9: KEY: with AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: with AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: with AV *** RXCUI -----> 0
+2: KEY: with AV *** Concept from RXNORM -----> ()
+3: KEY: with AV *** Concept Type -----> ()
+4: KEY: with AV *** Drug mention in text -----> with AV
+5: KEY: with AV *** Source language -----> RXNORM
+6 KEY: with AV *** CUI CODE in original terminology -----> 261455
+7: KEY: with AV *** Final position in text according to JSON Object -----> 3060
+8: KEY: with AV *** Initial position according to JSON Object -----> 3054
+9: KEY: with AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: with AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: with AV *** RXCUI -----> 0
+2: KEY: with AV *** Concept from RXNORM -----> ()
+3: KEY: with AV *** Concept Type -----> ()
+4: KEY: with AV *** Drug mention in text -----> with AV
+5: KEY: with AV *** Source language -----> RXNORM
+6 KEY: with AV *** CUI CODE in original terminology -----> 261455
+7: KEY: with AV *** Final position in text according to JSON Object -----> 3060
+8: KEY: with AV *** Initial position according to JSON Object -----> 3054
+9: KEY: with AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: with AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ceiving *** RXCUI -----> 0
+2: KEY: ceiving *** Concept from RXNORM -----> ()
+3: KEY: ceiving *** Concept Type -----> ()
+4: KEY: ceiving *** Drug mention in text -----> ceiving
+5: KEY: ceiving *** Source language -----> RXNORM
+6 KEY: ceiving *** CUI CODE in original terminology -----> 261455
+7: KEY: ceiving *** Final position in text according to JSON Object -----> 8341
+8: KEY: ceiving *** Initial position according to JSON Object -----> 8335
+9: KEY: ceiving *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ceiving *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ng with *** RXCUI -----> 0
+2: KEY: ng with *** Concept from RXNORM -----> ()
+3: KEY: ng with *** Concept Type -----> ()
+4: KEY: ng with *** Drug mention in text -----> ng with
+5: KEY: ng with *** Source language -----> RXNORM
+6 KEY: ng with *** CUI CODE in original terminology -----> 261455
+7: KEY: ng with *** Final position in text according to JSON Object -----> 11398
+8: KEY: ng with *** Initial position according to JSON Object -----> 11392
+9: KEY: ng with *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ng with *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ) of rosiglit *** RXCUI -----> 84108
+2: KEY: ) of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ) of rosiglit *** Concept Type -----> IN
+4: KEY: ) of rosiglit *** Drug mention in text -----> ) of rosiglit
+5: KEY: ) of rosiglit *** Source language -----> MSH
+6 KEY: ) of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: ) of rosiglit *** Final position in text according to JSON Object -----> 3935
+8: KEY: ) of rosiglit *** Initial position according to JSON Object -----> 3923
+9: KEY: ) of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ) of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ) of rosiglit *** RXCUI -----> 84108
+2: KEY: ) of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ) of rosiglit *** Concept Type -----> IN
+4: KEY: ) of rosiglit *** Drug mention in text -----> ) of rosiglit
+5: KEY: ) of rosiglit *** Source language -----> MSH
+6 KEY: ) of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: ) of rosiglit *** Final position in text according to JSON Object -----> 3935
+8: KEY: ) of rosiglit *** Initial position according to JSON Object -----> 3923
+9: KEY: ) of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ) of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ly) and m *** RXCUI -----> 6809
+2: KEY: ly) and m *** Concept from RXNORM -----> Metformin
+3: KEY: ly) and m *** Concept Type -----> IN
+4: KEY: ly) and m *** Drug mention in text -----> ly) and m
+5: KEY: ly) and m *** Source language -----> RXNORM
+6 KEY: ly) and m *** CUI CODE in original terminology -----> 6809
+7: KEY: ly) and m *** Final position in text according to JSON Object -----> 10851
+8: KEY: ly) and m *** Initial position according to JSON Object -----> 10843
+9: KEY: ly) and m *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: ly) and m *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: teers.
+
+*** RXCUI -----> 11289
+2: KEY: teers.
+
+*** Concept from RXNORM -----> Warfarin
+3: KEY: teers.
+
+*** Concept Type -----> IN
+4: KEY: teers.
+
+*** Drug mention in text -----> teers.
+
+
+5: KEY: teers.
+
+*** Source language -----> MSH
+6 KEY: teers.
+
+*** CUI CODE in original terminology -----> D014859
+7: KEY: teers.
+
+*** Final position in text according to JSON Object -----> 11370
+8: KEY: teers.
+
+*** Initial position according to JSON Object -----> 11363
+9: KEY: teers.
+
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: teers.
+
+*** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: ecrease rosig *** RXCUI -----> 84108
+2: KEY: ecrease rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ecrease rosig *** Concept Type -----> IN
+4: KEY: ecrease rosig *** Drug mention in text -----> ecrease rosig
+5: KEY: ecrease rosig *** Source language -----> MSH
+6 KEY: ecrease rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: ecrease rosig *** Final position in text according to JSON Object -----> 9846
+8: KEY: ecrease rosig *** Initial position according to JSON Object -----> 9834
+9: KEY: ecrease rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ecrease rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY:  V/F of rosig *** RXCUI -----> 84108
+2: KEY:  V/F of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY:  V/F of rosig *** Concept Type -----> IN
+4: KEY:  V/F of rosig *** Drug mention in text ----->  V/F of rosig
+5: KEY:  V/F of rosig *** Source language -----> MSH
+6 KEY:  V/F of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY:  V/F of rosig *** Final position in text according to JSON Object -----> 7856
+8: KEY:  V/F of rosig *** Initial position according to JSON Object -----> 7844
+9: KEY:  V/F of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY:  V/F of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: jects.
+
+M *** RXCUI -----> 6809
+2: KEY: jects.
+
+M *** Concept from RXNORM -----> Metformin
+3: KEY: jects.
+
+M *** Concept Type -----> IN
+4: KEY: jects.
+
+M *** Drug mention in text -----> jects.
+
+M
+5: KEY: jects.
+
+M *** Source language -----> RXNORM
+6 KEY: jects.
+
+M *** CUI CODE in original terminology -----> 6809
+7: KEY: jects.
+
+M *** Final position in text according to JSON Object -----> 10780
+8: KEY: jects.
+
+M *** Initial position according to JSON Object -----> 10772
+9: KEY: jects.
+
+M *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: jects.
+
+M *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: onse to *** RXCUI -----> 0
+2: KEY: onse to *** Concept from RXNORM -----> ()
+3: KEY: onse to *** Concept Type -----> ()
+4: KEY: onse to *** Drug mention in text -----> onse to
+5: KEY: onse to *** Source language -----> RXNORM
+6 KEY: onse to *** CUI CODE in original terminology -----> 261455
+7: KEY: onse to *** Final position in text according to JSON Object -----> 6737
+8: KEY: onse to *** Initial position according to JSON Object -----> 6731
+9: KEY: onse to *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: onse to *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: o or glyb *** RXCUI -----> 4815
+2: KEY: o or glyb *** Concept from RXNORM -----> Glyburide
+3: KEY: o or glyb *** Concept Type -----> IN
+4: KEY: o or glyb *** Drug mention in text -----> o or glyb
+5: KEY: o or glyb *** Source language -----> MSH
+6 KEY: o or glyb *** CUI CODE in original terminology -----> D005905
+7: KEY: o or glyb *** Final position in text according to JSON Object -----> 3147
+8: KEY: o or glyb *** Initial position according to JSON Object -----> 3139
+9: KEY: o or glyb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: o or glyb *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: o or glyb *** RXCUI -----> 4815
+2: KEY: o or glyb *** Concept from RXNORM -----> Glyburide
+3: KEY: o or glyb *** Concept Type -----> IN
+4: KEY: o or glyb *** Drug mention in text -----> o or glyb
+5: KEY: o or glyb *** Source language -----> MSH
+6 KEY: o or glyb *** CUI CODE in original terminology -----> D005905
+7: KEY: o or glyb *** Final position in text according to JSON Object -----> 3147
+8: KEY: o or glyb *** Initial position according to JSON Object -----> 3139
+9: KEY: o or glyb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: o or glyb *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> MSH
+6 KEY: insulin *** CUI CODE in original terminology -----> D007328
+7: KEY: insulin *** Final position in text according to JSON Object -----> 177
+8: KEY: insulin *** Initial position according to JSON Object -----> 171
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: ore, AV *** RXCUI -----> 0
+2: KEY: ore, AV *** Concept from RXNORM -----> ()
+3: KEY: ore, AV *** Concept Type -----> ()
+4: KEY: ore, AV *** Drug mention in text -----> ore, AV
+5: KEY: ore, AV *** Source language -----> RXNORM
+6 KEY: ore, AV *** CUI CODE in original terminology -----> 261455
+7: KEY: ore, AV *** Final position in text according to JSON Object -----> 3810
+8: KEY: ore, AV *** Initial position according to JSON Object -----> 3804
+9: KEY: ore, AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ore, AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: tion of *** RXCUI -----> 0
+2: KEY: tion of *** Concept from RXNORM -----> ()
+3: KEY: tion of *** Concept Type -----> ()
+4: KEY: tion of *** Drug mention in text -----> tion of
+5: KEY: tion of *** Source language -----> RXNORM
+6 KEY: tion of *** CUI CODE in original terminology -----> 261455
+7: KEY: tion of *** Final position in text according to JSON Object -----> 10441
+8: KEY: tion of *** Initial position according to JSON Object -----> 10435
+9: KEY: tion of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: tion of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: tion of *** RXCUI -----> 0
+2: KEY: tion of *** Concept from RXNORM -----> ()
+3: KEY: tion of *** Concept Type -----> ()
+4: KEY: tion of *** Drug mention in text -----> tion of
+5: KEY: tion of *** Source language -----> RXNORM
+6 KEY: tion of *** CUI CODE in original terminology -----> 261455
+7: KEY: tion of *** Final position in text according to JSON Object -----> 10441
+8: KEY: tion of *** Initial position according to JSON Object -----> 10435
+9: KEY: tion of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: tion of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: s. Rosiglitaz *** RXCUI -----> 84108
+2: KEY: s. Rosiglitaz *** Concept from RXNORM -----> rosiglitazone
+3: KEY: s. Rosiglitaz *** Concept Type -----> IN
+4: KEY: s. Rosiglitaz *** Drug mention in text -----> s. Rosiglitaz
+5: KEY: s. Rosiglitaz *** Source language -----> MSH
+6 KEY: s. Rosiglitaz *** CUI CODE in original terminology -----> C089730
+7: KEY: s. Rosiglitaz *** Final position in text according to JSON Object -----> 1028
+8: KEY: s. Rosiglitaz *** Initial position according to JSON Object -----> 1016
+9: KEY: s. Rosiglitaz *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: s. Rosiglitaz *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: . Since m *** RXCUI -----> 6809
+2: KEY: . Since m *** Concept from RXNORM -----> Metformin
+3: KEY: . Since m *** Concept Type -----> IN
+4: KEY: . Since m *** Drug mention in text -----> . Since m
+5: KEY: . Since m *** Source language -----> RXNORM
+6 KEY: . Since m *** CUI CODE in original terminology -----> 6809
+7: KEY: . Since m *** Final position in text according to JSON Object -----> 8358
+8: KEY: . Since m *** Initial position according to JSON Object -----> 8350
+9: KEY: . Since m *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: . Since m *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY:  the in *** RXCUI -----> 5856
+2: KEY:  the in *** Concept from RXNORM -----> Insulin
+3: KEY:  the in *** Concept Type -----> IN
+4: KEY:  the in *** Drug mention in text ----->  the in
+5: KEY:  the in *** Source language -----> MSH
+6 KEY:  the in *** CUI CODE in original terminology -----> D007328
+7: KEY:  the in *** Final position in text according to JSON Object -----> 4465
+8: KEY:  the in *** Initial position according to JSON Object -----> 4459
+9: KEY:  the in *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY:  the in *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY:  the in *** RXCUI -----> 5856
+2: KEY:  the in *** Concept from RXNORM -----> Insulin
+3: KEY:  the in *** Concept Type -----> IN
+4: KEY:  the in *** Drug mention in text ----->  the in
+5: KEY:  the in *** Source language -----> MSH
+6 KEY:  the in *** CUI CODE in original terminology -----> D007328
+7: KEY:  the in *** Final position in text according to JSON Object -----> 4465
+8: KEY:  the in *** Initial position according to JSON Object -----> 4459
+9: KEY:  the in *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY:  the in *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: ife for rosig *** RXCUI -----> 84108
+2: KEY: ife for rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ife for rosig *** Concept Type -----> IN
+4: KEY: ife for rosig *** Drug mention in text -----> ife for rosig
+5: KEY: ife for rosig *** Source language -----> MSH
+6 KEY: ife for rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: ife for rosig *** Final position in text according to JSON Object -----> 7157
+8: KEY: ife for rosig *** Initial position according to JSON Object -----> 7145
+9: KEY: ife for rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ife for rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ism
+
+Rosiglit *** RXCUI -----> 84108
+2: KEY: ism
+
+Rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ism
+
+Rosiglit *** Concept Type -----> IN
+4: KEY: ism
+
+Rosiglit *** Drug mention in text -----> ism
+
+Rosiglit
+5: KEY: ism
+
+Rosiglit *** Source language -----> MSH
+6 KEY: ism
+
+Rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: ism
+
+Rosiglit *** Final position in text according to JSON Object -----> 4128
+8: KEY: ism
+
+Rosiglit *** Initial position according to JSON Object -----> 4116
+9: KEY: ism
+
+Rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ism
+
+Rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: of insu *** RXCUI -----> 5856
+2: KEY: of insu *** Concept from RXNORM -----> Insulin
+3: KEY: of insu *** Concept Type -----> IN
+4: KEY: of insu *** Drug mention in text -----> of insu
+5: KEY: of insu *** Source language -----> MSH
+6 KEY: of insu *** CUI CODE in original terminology -----> D007328
+7: KEY: of insu *** Final position in text according to JSON Object -----> 984
+8: KEY: of insu *** Initial position according to JSON Object -----> 978
+9: KEY: of insu *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: of insu *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: nge, AV *** RXCUI -----> 0
+2: KEY: nge, AV *** Concept from RXNORM -----> ()
+3: KEY: nge, AV *** Concept Type -----> ()
+4: KEY: nge, AV *** Drug mention in text -----> nge, AV
+5: KEY: nge, AV *** Source language -----> RXNORM
+6 KEY: nge, AV *** CUI CODE in original terminology -----> 261455
+7: KEY: nge, AV *** Final position in text according to JSON Object -----> 1847
+8: KEY: nge, AV *** Initial position according to JSON Object -----> 1841
+9: KEY: nge, AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: nge, AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: st that rosig *** RXCUI -----> 84108
+2: KEY: st that rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: st that rosig *** Concept Type -----> IN
+4: KEY: st that rosig *** Drug mention in text -----> st that rosig
+5: KEY: st that rosig *** Source language -----> MSH
+6 KEY: st that rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: st that rosig *** Final position in text according to JSON Object -----> 8849
+8: KEY: st that rosig *** Initial position according to JSON Object -----> 8837
+9: KEY: st that rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: st that rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: omers.
+*** RXCUI -----> 448
+2: KEY: omers.
+*** Concept from RXNORM -----> Ethanol
+3: KEY: omers.
+*** Concept Type -----> IN
+4: KEY: omers.
+*** Drug mention in text -----> omers.
+
+5: KEY: omers.
+*** Source language -----> MSH
+6 KEY: omers.
+*** CUI CODE in original terminology -----> D000431
+7: KEY: omers.
+*** Final position in text according to JSON Object -----> 11503
+8: KEY: omers.
+*** Initial position according to JSON Object -----> 11497
+9: KEY: omers.
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: omers.
+*** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: [14C]rosiglitazone ma *** RXCUI -----> 84108
+2: KEY: [14C]rosiglitazone ma *** Concept from RXNORM -----> (('rosiglitazone',),)
+3: KEY: [14C]rosiglitazone ma *** Concept Type -----> (('IN',),)
+4: KEY: [14C]rosiglitazone ma *** Drug mention in text -----> [14C]rosiglitazone ma
+5: KEY: [14C]rosiglitazone ma *** Source language -----> RXNORM
+6 KEY: [14C]rosiglitazone ma *** CUI CODE in original terminology -----> 253198
+7: KEY: [14C]rosiglitazone ma *** Final position in text according to JSON Object -----> 4751
+8: KEY: [14C]rosiglitazone ma *** Initial position according to JSON Object -----> 4731
+9: KEY: [14C]rosiglitazone ma *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/253198
+10: KEY: [14C]rosiglitazone ma *** Preferred name according to JSON Object -----> Rosiglitazone maleate
+---------------------------------------------------------
+1: KEY: tion of gem *** RXCUI -----> 4719
+2: KEY: tion of gem *** Concept from RXNORM -----> Gemfibrozil
+3: KEY: tion of gem *** Concept Type -----> IN
+4: KEY: tion of gem *** Drug mention in text -----> tion of gem
+5: KEY: tion of gem *** Source language -----> MSH
+6 KEY: tion of gem *** CUI CODE in original terminology -----> D015248
+7: KEY: tion of gem *** Final position in text according to JSON Object -----> 9328
+8: KEY: tion of gem *** Initial position according to JSON Object -----> 9318
+9: KEY: tion of gem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015248
+10: KEY: tion of gem *** Preferred name according to JSON Object -----> Gemfibrozil
+---------------------------------------------------------
+1: KEY: lly, rosiglit *** RXCUI -----> 84108
+2: KEY: lly, rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: lly, rosiglit *** Concept Type -----> IN
+4: KEY: lly, rosiglit *** Drug mention in text -----> lly, rosiglit
+5: KEY: lly, rosiglit *** Source language -----> MSH
+6 KEY: lly, rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: lly, rosiglit *** Final position in text according to JSON Object -----> 5566
+8: KEY: lly, rosiglit *** Initial position according to JSON Object -----> 5554
+9: KEY: lly, rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: lly, rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: y of rosiglit *** RXCUI -----> 84108
+2: KEY: y of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: y of rosiglit *** Concept Type -----> IN
+4: KEY: y of rosiglit *** Drug mention in text -----> y of rosiglit
+5: KEY: y of rosiglit *** Source language -----> MSH
+6 KEY: y of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: y of rosiglit *** Final position in text according to JSON Object -----> 4503
+8: KEY: y of rosiglit *** Initial position according to JSON Object -----> 4491
+9: KEY: y of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: y of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: y of rosiglit *** RXCUI -----> 84108
+2: KEY: y of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: y of rosiglit *** Concept Type -----> IN
+4: KEY: y of rosiglit *** Drug mention in text -----> y of rosiglit
+5: KEY: y of rosiglit *** Source language -----> MSH
+6 KEY: y of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: y of rosiglit *** Final position in text according to JSON Object -----> 4503
+8: KEY: y of rosiglit *** Initial position according to JSON Object -----> 4491
+9: KEY: y of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: y of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: s of AV *** RXCUI -----> 0
+2: KEY: s of AV *** Concept from RXNORM -----> ()
+3: KEY: s of AV *** Concept Type -----> ()
+4: KEY: s of AV *** Drug mention in text -----> s of AV
+5: KEY: s of AV *** Source language -----> RXNORM
+6 KEY: s of AV *** CUI CODE in original terminology -----> 261455
+7: KEY: s of AV *** Final position in text according to JSON Object -----> 1769
+8: KEY: s of AV *** Initial position according to JSON Object -----> 1763
+9: KEY: s of AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: s of AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ANDIA.
+
+Gli *** RXCUI -----> 25789
+2: KEY: ANDIA.
+
+Gli *** Concept from RXNORM -----> glimepiride
+3: KEY: ANDIA.
+
+Gli *** Concept Type -----> IN
+4: KEY: ANDIA.
+
+Gli *** Drug mention in text -----> ANDIA.
+
+Gli
+5: KEY: ANDIA.
+
+Gli *** Source language -----> RXNORM
+6 KEY: ANDIA.
+
+Gli *** CUI CODE in original terminology -----> 25789
+7: KEY: ANDIA.
+
+Gli *** Final position in text according to JSON Object -----> 10455
+8: KEY: ANDIA.
+
+Gli *** Initial position according to JSON Object -----> 10445
+9: KEY: ANDIA.
+
+Gli *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/25789
+10: KEY: ANDIA.
+
+Gli *** Preferred name according to JSON Object -----> glimepiride
+---------------------------------------------------------
+1: KEY: tics of  *** RXCUI -----> 11289
+2: KEY: tics of  *** Concept from RXNORM -----> Warfarin
+3: KEY: tics of  *** Concept Type -----> IN
+4: KEY: tics of  *** Drug mention in text -----> tics of 
+5: KEY: tics of  *** Source language -----> MSH
+6 KEY: tics of  *** CUI CODE in original terminology -----> D014859
+7: KEY: tics of  *** Final position in text according to JSON Object -----> 11481
+8: KEY: tics of  *** Initial position according to JSON Object -----> 11474
+9: KEY: tics of  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: tics of  *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: ics of rosigl *** RXCUI -----> 84108
+2: KEY: ics of rosigl *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ics of rosigl *** Concept Type -----> IN
+4: KEY: ics of rosigl *** Drug mention in text -----> ics of rosigl
+5: KEY: ics of rosigl *** Source language -----> MSH
+6 KEY: ics of rosigl *** CUI CODE in original terminology -----> C089730
+7: KEY: ics of rosigl *** Final position in text according to JSON Object -----> 5876
+8: KEY: ics of rosigl *** Initial position according to JSON Object -----> 5864
+9: KEY: ics of rosigl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ics of rosigl *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: that rosiglit *** RXCUI -----> 84108
+2: KEY: that rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: that rosiglit *** Concept Type -----> IN
+4: KEY: that rosiglit *** Drug mention in text -----> that rosiglit
+5: KEY: that rosiglit *** Source language -----> MSH
+6 KEY: that rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: that rosiglit *** Final position in text according to JSON Object -----> 4550
+8: KEY: that rosiglit *** Initial position according to JSON Object -----> 4538
+9: KEY: that rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: that rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: that rosiglit *** RXCUI -----> 84108
+2: KEY: that rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: that rosiglit *** Concept Type -----> IN
+4: KEY: that rosiglit *** Drug mention in text -----> that rosiglit
+5: KEY: that rosiglit *** Source language -----> MSH
+6 KEY: that rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: that rosiglit *** Final position in text according to JSON Object -----> 4550
+8: KEY: that rosiglit *** Initial position according to JSON Object -----> 4538
+9: KEY: that rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: that rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: of oral rosig *** RXCUI -----> 84108
+2: KEY: of oral rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: of oral rosig *** Concept Type -----> IN
+4: KEY: of oral rosig *** Drug mention in text -----> of oral rosig
+5: KEY: of oral rosig *** Source language -----> MSH
+6 KEY: of oral rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: of oral rosig *** Final position in text according to JSON Object -----> 11923
+8: KEY: of oral rosig *** Initial position according to JSON Object -----> 11911
+9: KEY: of oral rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: of oral rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ance of rosig *** RXCUI -----> 84108
+2: KEY: ance of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ance of rosig *** Concept Type -----> IN
+4: KEY: ance of rosig *** Drug mention in text -----> ance of rosig
+5: KEY: ance of rosig *** Source language -----> MSH
+6 KEY: ance of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: ance of rosig *** Final position in text according to JSON Object -----> 6907
+8: KEY: ance of rosig *** Initial position according to JSON Object -----> 6895
+9: KEY: ance of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ance of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: .
+
+Insu *** RXCUI -----> 5856
+2: KEY: .
+
+Insu *** Concept from RXNORM -----> Insulin
+3: KEY: .
+
+Insu *** Concept Type -----> IN
+4: KEY: .
+
+Insu *** Drug mention in text -----> .
+
+Insu
+5: KEY: .
+
+Insu *** Source language -----> MSH
+6 KEY: .
+
+Insu *** CUI CODE in original terminology -----> D007328
+7: KEY: .
+
+Insu *** Final position in text according to JSON Object -----> 715
+8: KEY: .
+
+Insu *** Initial position according to JSON Object -----> 709
+9: KEY: .
+
+Insu *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: .
+
+Insu *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: oses of rosig *** RXCUI -----> 84108
+2: KEY: oses of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: oses of rosig *** Concept Type -----> IN
+4: KEY: oses of rosig *** Drug mention in text -----> oses of rosig
+5: KEY: oses of rosig *** Source language -----> MSH
+6 KEY: oses of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: oses of rosig *** Final position in text according to JSON Object -----> 11836
+8: KEY: oses of rosig *** Initial position according to JSON Object -----> 11824
+9: KEY: oses of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: oses of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: tion of m *** RXCUI -----> 6809
+2: KEY: tion of m *** Concept from RXNORM -----> Metformin
+3: KEY: tion of m *** Concept Type -----> IN
+4: KEY: tion of m *** Drug mention in text -----> tion of m
+5: KEY: tion of m *** Source language -----> RXNORM
+6 KEY: tion of m *** CUI CODE in original terminology -----> 6809
+7: KEY: tion of m *** Final position in text according to JSON Object -----> 8442
+8: KEY: tion of m *** Initial position according to JSON Object -----> 8434
+9: KEY: tion of m *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: tion of m *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: sue. Rosiglit *** RXCUI -----> 84108
+2: KEY: sue. Rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: sue. Rosiglit *** Concept Type -----> IN
+4: KEY: sue. Rosiglit *** Drug mention in text -----> sue. Rosiglit
+5: KEY: sue. Rosiglit *** Source language -----> MSH
+6 KEY: sue. Rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: sue. Rosiglit *** Final position in text according to JSON Object -----> 1562
+8: KEY: sue. Rosiglit *** Initial position according to JSON Object -----> 1550
+9: KEY: sue. Rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: sue. Rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: n with me *** RXCUI -----> 6809
+2: KEY: n with me *** Concept from RXNORM -----> Metformin
+3: KEY: n with me *** Concept Type -----> IN
+4: KEY: n with me *** Drug mention in text -----> n with me
+5: KEY: n with me *** Source language -----> RXNORM
+6 KEY: n with me *** CUI CODE in original terminology -----> 6809
+7: KEY: n with me *** Final position in text according to JSON Object -----> 6158
+8: KEY: n with me *** Initial position according to JSON Object -----> 6150
+9: KEY: n with me *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6809
+10: KEY: n with me *** Preferred name according to JSON Object -----> Metformin
+---------------------------------------------------------
+1: KEY: in with *** RXCUI -----> 0
+2: KEY: in with *** Concept from RXNORM -----> ()
+3: KEY: in with *** Concept Type -----> ()
+4: KEY: in with *** Drug mention in text -----> in with
+5: KEY: in with *** Source language -----> RXNORM
+6 KEY: in with *** CUI CODE in original terminology -----> 261455
+7: KEY: in with *** Final position in text according to JSON Object -----> 8455
+8: KEY: in with *** Initial position according to JSON Object -----> 8449
+9: KEY: in with *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: in with *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: otal choles *** RXCUI -----> 2438
+2: KEY: otal choles *** Concept from RXNORM -----> Cholesterol
+3: KEY: otal choles *** Concept Type -----> IN
+4: KEY: otal choles *** Drug mention in text -----> otal choles
+5: KEY: otal choles *** Source language -----> MSH
+6 KEY: otal choles *** CUI CODE in original terminology -----> D002784
+7: KEY: otal choles *** Final position in text according to JSON Object -----> 1913
+8: KEY: otal choles *** Initial position according to JSON Object -----> 1903
+9: KEY: otal choles *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: otal choles *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: s of rosiglit *** RXCUI -----> 84108
+2: KEY: s of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: s of rosiglit *** Concept Type -----> IN
+4: KEY: s of rosiglit *** Drug mention in text -----> s of rosiglit
+5: KEY: s of rosiglit *** Source language -----> MSH
+6 KEY: s of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: s of rosiglit *** Final position in text according to JSON Object -----> 5179
+8: KEY: s of rosiglit *** Initial position according to JSON Object -----> 5167
+9: KEY: s of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: s of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: py with *** RXCUI -----> 0
+2: KEY: py with *** Concept from RXNORM -----> ()
+3: KEY: py with *** Concept Type -----> ()
+4: KEY: py with *** Drug mention in text -----> py with
+5: KEY: py with *** Source language -----> RXNORM
+6 KEY: py with *** CUI CODE in original terminology -----> 261455
+7: KEY: py with *** Final position in text according to JSON Object -----> 7266
+8: KEY: py with *** Initial position according to JSON Object -----> 7260
+9: KEY: py with *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: py with *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: week glyb *** RXCUI -----> 4815
+2: KEY: week glyb *** Concept from RXNORM -----> Glyburide
+3: KEY: week glyb *** Concept Type -----> IN
+4: KEY: week glyb *** Drug mention in text -----> week glyb
+5: KEY: week glyb *** Source language -----> MSH
+6 KEY: week glyb *** CUI CODE in original terminology -----> D005905
+7: KEY: week glyb *** Final position in text according to JSON Object -----> 2450
+8: KEY: week glyb *** Initial position according to JSON Object -----> 2442
+9: KEY: week glyb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: week glyb *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: f insul *** RXCUI -----> 5856
+2: KEY: f insul *** Concept from RXNORM -----> Insulin
+3: KEY: f insul *** Concept Type -----> IN
+4: KEY: f insul *** Drug mention in text -----> f insul
+5: KEY: f insul *** Source language -----> MSH
+6 KEY: f insul *** CUI CODE in original terminology -----> D007328
+7: KEY: f insul *** Final position in text according to JSON Object -----> 517
+8: KEY: f insul *** Initial position according to JSON Object -----> 511
+9: KEY: f insul *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: f insul *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: ized on g *** RXCUI -----> 4815
+2: KEY: ized on g *** Concept from RXNORM -----> Glyburide
+3: KEY: ized on g *** Concept Type -----> IN
+4: KEY: ized on g *** Drug mention in text -----> ized on g
+5: KEY: ized on g *** Source language -----> MSH
+6 KEY: ized on g *** CUI CODE in original terminology -----> D005905
+7: KEY: ized on g *** Final position in text according to JSON Object -----> 10175
+8: KEY: ized on g *** Initial position according to JSON Object -----> 10167
+9: KEY: ized on g *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: ized on g *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: tion of rosig *** RXCUI -----> 84108
+2: KEY: tion of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: tion of rosig *** Concept Type -----> IN
+4: KEY: tion of rosig *** Drug mention in text -----> tion of rosig
+5: KEY: tion of rosig *** Source language -----> MSH
+6 KEY: tion of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: tion of rosig *** Final position in text according to JSON Object -----> 9906
+8: KEY: tion of rosig *** Initial position according to JSON Object -----> 9894
+9: KEY: tion of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: tion of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: tion of rosig *** RXCUI -----> 84108
+2: KEY: tion of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: tion of rosig *** Concept Type -----> IN
+4: KEY: tion of rosig *** Drug mention in text -----> tion of rosig
+5: KEY: tion of rosig *** Source language -----> MSH
+6 KEY: tion of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: tion of rosig *** Final position in text according to JSON Object -----> 9906
+8: KEY: tion of rosig *** Initial position according to JSON Object -----> 9894
+9: KEY: tion of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: tion of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: n of rosiglit *** RXCUI -----> 84108
+2: KEY: n of rosiglit *** Concept from RXNORM -----> rosiglitazone
+3: KEY: n of rosiglit *** Concept Type -----> IN
+4: KEY: n of rosiglit *** Drug mention in text -----> n of rosiglit
+5: KEY: n of rosiglit *** Source language -----> MSH
+6 KEY: n of rosiglit *** CUI CODE in original terminology -----> C089730
+7: KEY: n of rosiglit *** Final position in text according to JSON Object -----> 3587
+8: KEY: n of rosiglit *** Initial position according to JSON Object -----> 3575
+9: KEY: n of rosiglit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: n of rosiglit *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: dose of *** RXCUI -----> 0
+2: KEY: dose of *** Concept from RXNORM -----> ()
+3: KEY: dose of *** Concept Type -----> ()
+4: KEY: dose of *** Drug mention in text -----> dose of
+5: KEY: dose of *** Source language -----> RXNORM
+6 KEY: dose of *** CUI CODE in original terminology -----> 261455
+7: KEY: dose of *** Final position in text according to JSON Object -----> 11185
+8: KEY: dose of *** Initial position according to JSON Object -----> 11179
+9: KEY: dose of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: dose of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: fampin
+
+*** RXCUI -----> 9384
+2: KEY: fampin
+
+*** Concept from RXNORM -----> Rifampin
+3: KEY: fampin
+
+*** Concept Type -----> IN
+4: KEY: fampin
+
+*** Drug mention in text -----> fampin
+
+
+5: KEY: fampin
+
+*** Source language -----> RXNORM
+6 KEY: fampin
+
+*** CUI CODE in original terminology -----> 9384
+7: KEY: fampin
+
+*** Final position in text according to JSON Object -----> 9739
+8: KEY: fampin
+
+*** Initial position according to JSON Object -----> 9732
+9: KEY: fampin
+
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: fampin
+
+*** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: C8, and rosig *** RXCUI -----> 84108
+2: KEY: C8, and rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: C8, and rosig *** Concept Type -----> IN
+4: KEY: C8, and rosig *** Drug mention in text -----> C8, and rosig
+5: KEY: C8, and rosig *** Source language -----> MSH
+6 KEY: C8, and rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: C8, and rosig *** Final position in text according to JSON Object -----> 9392
+8: KEY: C8, and rosig *** Initial position according to JSON Object -----> 9380
+9: KEY: C8, and rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: C8, and rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: tics of rosig *** RXCUI -----> 84108
+2: KEY: tics of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: tics of rosig *** Concept Type -----> IN
+4: KEY: tics of rosig *** Drug mention in text -----> tics of rosig
+5: KEY: tics of rosig *** Source language -----> MSH
+6 KEY: tics of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: tics of rosig *** Final position in text according to JSON Object -----> 8691
+8: KEY: tics of rosig *** Initial position according to JSON Object -----> 8679
+9: KEY: tics of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: tics of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: tics of rosig *** RXCUI -----> 84108
+2: KEY: tics of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: tics of rosig *** Concept Type -----> IN
+4: KEY: tics of rosig *** Drug mention in text -----> tics of rosig
+5: KEY: tics of rosig *** Source language -----> MSH
+6 KEY: tics of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: tics of rosig *** Final position in text according to JSON Object -----> 8691
+8: KEY: tics of rosig *** Initial position according to JSON Object -----> 8679
+9: KEY: tics of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: tics of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ANDIA.
+
+Ra *** RXCUI -----> 9143
+2: KEY: ANDIA.
+
+Ra *** Concept from RXNORM -----> Ranitidine
+3: KEY: ANDIA.
+
+Ra *** Concept Type -----> IN
+4: KEY: ANDIA.
+
+Ra *** Drug mention in text -----> ANDIA.
+
+Ra
+5: KEY: ANDIA.
+
+Ra *** Source language -----> MSH
+6 KEY: ANDIA.
+
+Ra *** CUI CODE in original terminology -----> D011899
+7: KEY: ANDIA.
+
+Ra *** Final position in text according to JSON Object -----> 11679
+8: KEY: ANDIA.
+
+Ra *** Initial position according to JSON Object -----> 11670
+9: KEY: ANDIA.
+
+Ra *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: ANDIA.
+
+Ra *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: buride
+*** RXCUI -----> 0
+2: KEY: buride
+*** Concept from RXNORM -----> ()
+3: KEY: buride
+*** Concept Type -----> ()
+4: KEY: buride
+*** Drug mention in text -----> buride
+
+5: KEY: buride
+*** Source language -----> RXNORM
+6 KEY: buride
+*** CUI CODE in original terminology -----> 261455
+7: KEY: buride
+*** Final position in text according to JSON Object -----> 9971
+8: KEY: buride
+*** Initial position according to JSON Object -----> 9965
+9: KEY: buride
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: buride
+*** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: sing of *** RXCUI -----> 0
+2: KEY: sing of *** Concept from RXNORM -----> ()
+3: KEY: sing of *** Concept Type -----> ()
+4: KEY: sing of *** Drug mention in text -----> sing of
+5: KEY: sing of *** Source language -----> RXNORM
+6 KEY: sing of *** CUI CODE in original terminology -----> 261455
+7: KEY: sing of *** Final position in text according to JSON Object -----> 11226
+8: KEY: sing of *** Initial position according to JSON Object -----> 11220
+9: KEY: sing of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: sing of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: iol and noret *** RXCUI -----> 7514
+2: KEY: iol and noret *** Concept from RXNORM -----> Norethindrone
+3: KEY: iol and noret *** Concept Type -----> IN
+4: KEY: iol and noret *** Drug mention in text -----> iol and noret
+5: KEY: iol and noret *** Source language -----> RXNORM
+6 KEY: iol and noret *** CUI CODE in original terminology -----> 7514
+7: KEY: iol and noret *** Final position in text according to JSON Object -----> 9223
+8: KEY: iol and noret *** Initial position according to JSON Object -----> 9211
+9: KEY: iol and noret *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7514
+10: KEY: iol and noret *** Preferred name according to JSON Object -----> Norethindrone
+---------------------------------------------------------
+1: KEY: ters of rosig *** RXCUI -----> 84108
+2: KEY: ters of rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: ters of rosig *** Concept Type -----> IN
+4: KEY: ters of rosig *** Drug mention in text -----> ters of rosig
+5: KEY: ters of rosig *** Source language -----> MSH
+6 KEY: ters of rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: ters of rosig *** Final position in text according to JSON Object -----> 7535
+8: KEY: ters of rosig *** Initial position according to JSON Object -----> 7523
+9: KEY: ters of rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: ters of rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: .1)].4
+
+G *** RXCUI -----> 4815
+2: KEY: .1)].4
+
+G *** Concept from RXNORM -----> Glyburide
+3: KEY: .1)].4
+
+G *** Concept Type -----> IN
+4: KEY: .1)].4
+
+G *** Drug mention in text -----> .1)].4
+
+G
+5: KEY: .1)].4
+
+G *** Source language -----> MSH
+6 KEY: .1)].4
+
+G *** CUI CODE in original terminology -----> D005905
+7: KEY: .1)].4
+
+G *** Final position in text according to JSON Object -----> 9962
+8: KEY: .1)].4
+
+G *** Initial position according to JSON Object -----> 9954
+9: KEY: .1)].4
+
+G *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY: .1)].4
+
+G *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY:  insuli *** RXCUI -----> 5856
+2: KEY:  insuli *** Concept from RXNORM -----> Insulin
+3: KEY:  insuli *** Concept Type -----> IN
+4: KEY:  insuli *** Drug mention in text ----->  insuli
+5: KEY:  insuli *** Source language -----> MSH
+6 KEY:  insuli *** CUI CODE in original terminology -----> D007328
+7: KEY:  insuli *** Final position in text according to JSON Object -----> 381
+8: KEY:  insuli *** Initial position according to JSON Object -----> 375
+9: KEY:  insuli *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY:  insuli *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: creased rosig *** RXCUI -----> 84108
+2: KEY: creased rosig *** Concept from RXNORM -----> rosiglitazone
+3: KEY: creased rosig *** Concept Type -----> IN
+4: KEY: creased rosig *** Drug mention in text -----> creased rosig
+5: KEY: creased rosig *** Source language -----> MSH
+6 KEY: creased rosig *** CUI CODE in original terminology -----> C089730
+7: KEY: creased rosig *** Final position in text according to JSON Object -----> 9445
+8: KEY: creased rosig *** Initial position according to JSON Object -----> 9433
+9: KEY: creased rosig *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: creased rosig *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ions in gli *** RXCUI -----> 25789
+2: KEY: ions in gli *** Concept from RXNORM -----> glimepiride
+3: KEY: ions in gli *** Concept Type -----> IN
+4: KEY: ions in gli *** Drug mention in text -----> ions in gli
+5: KEY: ions in gli *** Source language -----> RXNORM
+6 KEY: ions in gli *** CUI CODE in original terminology -----> 25789
+7: KEY: ions in gli *** Final position in text according to JSON Object -----> 10656
+8: KEY: ions in gli *** Initial position according to JSON Object -----> 10646
+9: KEY: ions in gli *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/25789
+10: KEY: ions in gli *** Preferred name according to JSON Object -----> glimepiride
+---------------------------------------------------------
+1: KEY: nt with ra *** RXCUI -----> 9143
+2: KEY: nt with ra *** Concept from RXNORM -----> Ranitidine
+3: KEY: nt with ra *** Concept Type -----> IN
+4: KEY: nt with ra *** Drug mention in text -----> nt with ra
+5: KEY: nt with ra *** Source language -----> MSH
+6 KEY: nt with ra *** CUI CODE in original terminology -----> D011899
+7: KEY: nt with ra *** Final position in text according to JSON Object -----> 11709
+8: KEY: nt with ra *** Initial position according to JSON Object -----> 11700
+9: KEY: nt with ra *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011899
+10: KEY: nt with ra *** Preferred name according to JSON Object -----> Ranitidine
+---------------------------------------------------------
+1: KEY: ween AV *** RXCUI -----> 0
+2: KEY: ween AV *** Concept from RXNORM -----> ()
+3: KEY: ween AV *** Concept Type -----> ()
+4: KEY: ween AV *** Drug mention in text -----> ween AV
+5: KEY: ween AV *** Source language -----> RXNORM
+6 KEY: ween AV *** CUI CODE in original terminology -----> 261455
+7: KEY: ween AV *** Final position in text according to JSON Object -----> 2766
+8: KEY: ween AV *** Initial position according to JSON Object -----> 2760
+9: KEY: ween AV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: ween AV *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: ANDIA.
+*** RXCUI -----> 3407
+2: KEY: ANDIA.
+*** Concept from RXNORM -----> Digoxin
+3: KEY: ANDIA.
+*** Concept Type -----> IN
+4: KEY: ANDIA.
+*** Drug mention in text -----> ANDIA.
+
+5: KEY: ANDIA.
+*** Source language -----> RXNORM
+6 KEY: ANDIA.
+*** CUI CODE in original terminology -----> 3407
+7: KEY: ANDIA.
+*** Final position in text according to JSON Object -----> 11195
+8: KEY: ANDIA.
+*** Initial position according to JSON Object -----> 11189
+9: KEY: ANDIA.
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: ANDIA.
+*** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: tics of *** RXCUI -----> 0
+2: KEY: tics of *** Concept from RXNORM -----> ()
+3: KEY: tics of *** Concept Type -----> ()
+4: KEY: tics of *** Drug mention in text -----> tics of
+5: KEY: tics of *** Source language -----> RXNORM
+6 KEY: tics of *** CUI CODE in original terminology -----> 261455
+7: KEY: tics of *** Final position in text according to JSON Object -----> 10603
+8: KEY: tics of *** Initial position according to JSON Object -----> 10597
+9: KEY: tics of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: tics of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: tics of *** RXCUI -----> 0
+2: KEY: tics of *** Concept from RXNORM -----> ()
+3: KEY: tics of *** Concept Type -----> ()
+4: KEY: tics of *** Drug mention in text -----> tics of
+5: KEY: tics of *** Source language -----> RXNORM
+6 KEY: tics of *** CUI CODE in original terminology -----> 261455
+7: KEY: tics of *** Final position in text according to JSON Object -----> 10603
+8: KEY: tics of *** Initial position according to JSON Object -----> 10597
+9: KEY: tics of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/261455
+10: KEY: tics of *** Preferred name according to JSON Object -----> Avandia
+---------------------------------------------------------
+1: KEY: nce of rosigl *** RXCUI -----> 84108
+2: KEY: nce of rosigl *** Concept from RXNORM -----> rosiglitazone
+3: KEY: nce of rosigl *** Concept Type -----> IN
+4: KEY: nce of rosigl *** Drug mention in text -----> nce of rosigl
+5: KEY: nce of rosigl *** Source language -----> MSH
+6 KEY: nce of rosigl *** CUI CODE in original terminology -----> C089730
+7: KEY: nce of rosigl *** Final position in text according to JSON Object -----> 5991
+8: KEY: nce of rosigl *** Initial position according to JSON Object -----> 5979
+9: KEY: nce of rosigl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: nce of rosigl *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: ed when gem *** RXCUI -----> 4719
+2: KEY: ed when gem *** Concept from RXNORM -----> Gemfibrozil
+3: KEY: ed when gem *** Concept Type -----> IN
+4: KEY: ed when gem *** Drug mention in text -----> ed when gem
+5: KEY: ed when gem *** Source language -----> MSH
+6 KEY: ed when gem *** CUI CODE in original terminology -----> D015248
+7: KEY: ed when gem *** Final position in text according to JSON Object -----> 9674
+8: KEY: ed when gem *** Initial position according to JSON Object -----> 9664
+9: KEY: ed when gem *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015248
+10: KEY: ed when gem *** Preferred name according to JSON Object -----> Gemfibrozil
+---------------------------------------------------------
+1: KEY:  and glyb *** RXCUI -----> 4815
+2: KEY:  and glyb *** Concept from RXNORM -----> Glyburide
+3: KEY:  and glyb *** Concept Type -----> IN
+4: KEY:  and glyb *** Drug mention in text ----->  and glyb
+5: KEY:  and glyb *** Source language -----> MSH
+6 KEY:  and glyb *** CUI CODE in original terminology -----> D005905
+7: KEY:  and glyb *** Final position in text according to JSON Object -----> 2780
+8: KEY:  and glyb *** Initial position according to JSON Object -----> 2772
+9: KEY:  and glyb *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005905
+10: KEY:  and glyb *** Preferred name according to JSON Object -----> Glyburide
+---------------------------------------------------------
+1: KEY: Rosiglitazone *** RXCUI -----> 84108
+2: KEY: Rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: Rosiglitazone *** Concept Type -----> IN
+4: KEY: Rosiglitazone *** Drug mention in text -----> Rosiglitazone
+5: KEY: Rosiglitazone *** Source language -----> MSH
+6 KEY: Rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: Rosiglitazone *** Final position in text according to JSON Object -----> 204
+8: KEY: Rosiglitazone *** Initial position according to JSON Object -----> 192
+9: KEY: Rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: Rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+1: KEY: Rosiglitazone *** RXCUI -----> 84108
+2: KEY: Rosiglitazone *** Concept from RXNORM -----> rosiglitazone
+3: KEY: Rosiglitazone *** Concept Type -----> IN
+4: KEY: Rosiglitazone *** Drug mention in text -----> Rosiglitazone
+5: KEY: Rosiglitazone *** Source language -----> MSH
+6 KEY: Rosiglitazone *** CUI CODE in original terminology -----> C089730
+7: KEY: Rosiglitazone *** Final position in text according to JSON Object -----> 204
+8: KEY: Rosiglitazone *** Initial position according to JSON Object -----> 192
+9: KEY: Rosiglitazone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C089730
+10: KEY: Rosiglitazone *** Preferred name according to JSON Object -----> rosiglitazone
+---------------------------------------------------------
+removed duplications 752
+Number of missed JSON elements: 0

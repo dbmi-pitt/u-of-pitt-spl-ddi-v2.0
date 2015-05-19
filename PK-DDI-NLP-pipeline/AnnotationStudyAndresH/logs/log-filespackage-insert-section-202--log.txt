@@ -1,0 +1,90 @@
+1: KEY: voriconazole *** RXCUI -----> 121243
+2: KEY: voriconazole *** Concept from RXNORM -----> voriconazole
+3: KEY: voriconazole *** Concept Type -----> IN
+4: KEY: voriconazole *** Drug mention in text -----> voriconazole
+5: KEY: voriconazole *** Source language -----> MSH
+6 KEY: voriconazole *** CUI CODE in original terminology -----> C102790
+7: KEY: voriconazole *** Final position in text according to JSON Object -----> 61
+8: KEY: voriconazole *** Initial position according to JSON Object -----> 50
+9: KEY: voriconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C102790
+10: KEY: voriconazole *** Preferred name according to JSON Object -----> voriconazole
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: methadone *** RXCUI -----> 6813
+2: KEY: methadone *** Concept from RXNORM -----> Methadone
+3: KEY: methadone *** Concept Type -----> IN
+4: KEY: methadone *** Drug mention in text -----> methadone
+5: KEY: methadone *** Source language -----> MSH
+6 KEY: methadone *** CUI CODE in original terminology -----> D008691
+7: KEY: methadone *** Final position in text according to JSON Object -----> 511
+8: KEY: methadone *** Initial position according to JSON Object -----> 503
+9: KEY: methadone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008691
+10: KEY: methadone *** Preferred name according to JSON Object -----> Methadone
+---------------------------------------------------------
+1: KEY: Voriconazole *** RXCUI -----> 121243
+2: KEY: Voriconazole *** Concept from RXNORM -----> voriconazole
+3: KEY: Voriconazole *** Concept Type -----> IN
+4: KEY: Voriconazole *** Drug mention in text -----> Voriconazole
+5: KEY: Voriconazole *** Source language -----> RXNORM
+6 KEY: Voriconazole *** CUI CODE in original terminology -----> 121243
+7: KEY: Voriconazole *** Final position in text according to JSON Object -----> 12
+8: KEY: Voriconazole *** Initial position according to JSON Object -----> 1
+9: KEY: Voriconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/121243
+10: KEY: Voriconazole *** Preferred name according to JSON Object -----> voriconazole
+---------------------------------------------------------
+removed duplications 8
+Number of missed JSON elements: 0

@@ -1,0 +1,1344 @@
+1: KEY: mg TID)  *** RXCUI -----> 75207
+2: KEY: mg TID)  *** Concept from RXNORM -----> bosentan
+3: KEY: mg TID)  *** Concept Type -----> IN
+4: KEY: mg TID)  *** Drug mention in text -----> mg TID) 
+5: KEY: mg TID)  *** Source language -----> MSH
+6 KEY: mg TID)  *** CUI CODE in original terminology -----> C086232
+7: KEY: mg TID)  *** Final position in text according to JSON Object -----> 10766
+8: KEY: mg TID)  *** Initial position according to JSON Object -----> 10759
+9: KEY: mg TID)  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C086232
+10: KEY: mg TID)  *** Preferred name according to JSON Object -----> bosentan
+---------------------------------------------------------
+1: KEY: ).
+
+Alcoho *** RXCUI -----> 136411
+2: KEY: ).
+
+Alcoho *** Concept from RXNORM -----> sildenafil
+3: KEY: ).
+
+Alcoho *** Concept Type -----> IN
+4: KEY: ).
+
+Alcoho *** Drug mention in text -----> ).
+
+Alcoho
+5: KEY: ).
+
+Alcoho *** Source language -----> RXNORM
+6 KEY: ).
+
+Alcoho *** CUI CODE in original terminology -----> 136411
+7: KEY: ).
+
+Alcoho *** Final position in text according to JSON Object -----> 12993
+8: KEY: ).
+
+Alcoho *** Initial position according to JSON Object -----> 12984
+9: KEY: ).
+
+Alcoho *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ).
+
+Alcoho *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: Sildenafil *** RXCUI -----> 136411
+2: KEY: Sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: Sildenafil *** Concept Type -----> IN
+4: KEY: Sildenafil *** Drug mention in text -----> Sildenafil
+5: KEY: Sildenafil *** Source language -----> RXNORM
+6 KEY: Sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: Sildenafil *** Final position in text according to JSON Object -----> 906
+8: KEY: Sildenafil *** Initial position according to JSON Object -----> 897
+9: KEY: Sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: Sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: Sildenafil *** RXCUI -----> 136411
+2: KEY: Sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: Sildenafil *** Concept Type -----> IN
+4: KEY: Sildenafil *** Drug mention in text -----> Sildenafil
+5: KEY: Sildenafil *** Source language -----> RXNORM
+6 KEY: Sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: Sildenafil *** Final position in text according to JSON Object -----> 906
+8: KEY: Sildenafil *** Initial position according to JSON Object -----> 897
+9: KEY: Sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: Sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: Sildenafil *** RXCUI -----> 136411
+2: KEY: Sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: Sildenafil *** Concept Type -----> IN
+4: KEY: Sildenafil *** Drug mention in text -----> Sildenafil
+5: KEY: Sildenafil *** Source language -----> RXNORM
+6 KEY: Sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: Sildenafil *** Final position in text according to JSON Object -----> 906
+8: KEY: Sildenafil *** Initial position according to JSON Object -----> 897
+9: KEY: Sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: Sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: f sildenaf *** RXCUI -----> 136411
+2: KEY: f sildenaf *** Concept from RXNORM -----> sildenafil
+3: KEY: f sildenaf *** Concept Type -----> IN
+4: KEY: f sildenaf *** Drug mention in text -----> f sildenaf
+5: KEY: f sildenaf *** Source language -----> RXNORM
+6 KEY: f sildenaf *** CUI CODE in original terminology -----> 136411
+7: KEY: f sildenaf *** Final position in text according to JSON Object -----> 2103
+8: KEY: f sildenaf *** Initial position according to JSON Object -----> 2094
+9: KEY: f sildenaf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: f sildenaf *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: f sildenaf *** RXCUI -----> 136411
+2: KEY: f sildenaf *** Concept from RXNORM -----> sildenafil
+3: KEY: f sildenaf *** Concept Type -----> IN
+4: KEY: f sildenaf *** Drug mention in text -----> f sildenaf
+5: KEY: f sildenaf *** Source language -----> RXNORM
+6 KEY: f sildenaf *** CUI CODE in original terminology -----> 136411
+7: KEY: f sildenaf *** Final position in text according to JSON Object -----> 2103
+8: KEY: f sildenaf *** Initial position according to JSON Object -----> 2094
+9: KEY: f sildenaf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: f sildenaf *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: tors (exce *** RXCUI -----> 83395
+2: KEY: tors (exce *** Concept from RXNORM -----> Saquinavir
+3: KEY: tors (exce *** Concept Type -----> IN
+4: KEY: tors (exce *** Drug mention in text -----> tors (exce
+5: KEY: tors (exce *** Source language -----> RXNORM
+6 KEY: tors (exce *** CUI CODE in original terminology -----> 83395
+7: KEY: tors (exce *** Final position in text according to JSON Object -----> 9156
+8: KEY: tors (exce *** Initial position according to JSON Object -----> 9147
+9: KEY: tors (exce *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83395
+10: KEY: tors (exce *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY:  presence of *** RXCUI -----> 8814
+2: KEY:  presence of *** Concept from RXNORM -----> Epoprostenol
+3: KEY:  presence of *** Concept Type -----> IN
+4: KEY:  presence of *** Drug mention in text ----->  presence of
+5: KEY:  presence of *** Source language -----> RXNORM
+6 KEY:  presence of *** CUI CODE in original terminology -----> 8814
+7: KEY:  presence of *** Final position in text according to JSON Object -----> 11542
+8: KEY:  presence of *** Initial position according to JSON Object -----> 11531
+9: KEY:  presence of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8814
+10: KEY:  presence of *** Preferred name according to JSON Object -----> Epoprostenol
+---------------------------------------------------------
+1: KEY: ral dose o *** RXCUI -----> 136411
+2: KEY: ral dose o *** Concept from RXNORM -----> sildenafil
+3: KEY: ral dose o *** Concept Type -----> IN
+4: KEY: ral dose o *** Drug mention in text -----> ral dose o
+5: KEY: ral dose o *** Source language -----> RXNORM
+6 KEY: ral dose o *** CUI CODE in original terminology -----> 136411
+7: KEY: ral dose o *** Final position in text according to JSON Object -----> 7352
+8: KEY: ral dose o *** Initial position according to JSON Object -----> 7343
+9: KEY: ral dose o *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ral dose o *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: l 30 mcg and l *** RXCUI -----> 6373
+2: KEY: l 30 mcg and l *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: l 30 mcg and l *** Concept Type -----> IN
+4: KEY: l 30 mcg and l *** Drug mention in text -----> l 30 mcg and l
+5: KEY: l 30 mcg and l *** Source language -----> RXNORM
+6 KEY: l 30 mcg and l *** CUI CODE in original terminology -----> 6373
+7: KEY: l 30 mcg and l *** Final position in text according to JSON Object -----> 12550
+8: KEY: l 30 mcg and l *** Initial position according to JSON Object -----> 12537
+9: KEY: l 30 mcg and l *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY: l 30 mcg and l *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: l 30 mcg and l *** RXCUI -----> 6373
+2: KEY: l 30 mcg and l *** Concept from RXNORM -----> Levonorgestrel
+3: KEY: l 30 mcg and l *** Concept Type -----> IN
+4: KEY: l 30 mcg and l *** Drug mention in text -----> l 30 mcg and l
+5: KEY: l 30 mcg and l *** Source language -----> RXNORM
+6 KEY: l 30 mcg and l *** CUI CODE in original terminology -----> 6373
+7: KEY: l 30 mcg and l *** Final position in text according to JSON Object -----> 12550
+8: KEY: l 30 mcg and l *** Initial position according to JSON Object -----> 12537
+9: KEY: l 30 mcg and l *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6373
+10: KEY: l 30 mcg and l *** Preferred name according to JSON Object -----> Levonorgestrel
+---------------------------------------------------------
+1: KEY: ).
+
+REV *** RXCUI -----> 0
+2: KEY: ).
+
+REV *** Concept from RXNORM -----> ()
+3: KEY: ).
+
+REV *** Concept Type -----> ()
+4: KEY: ).
+
+REV *** Drug mention in text -----> ).
+
+REV
+5: KEY: ).
+
+REV *** Source language -----> RXNORM
+6 KEY: ).
+
+REV *** CUI CODE in original terminology -----> 581642
+7: KEY: ).
+
+REV *** Final position in text according to JSON Object -----> 5539
+8: KEY: ).
+
+REV *** Initial position according to JSON Object -----> 5533
+9: KEY: ).
+
+REV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: ).
+
+REV *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY:  of REV *** RXCUI -----> 0
+2: KEY:  of REV *** Concept from RXNORM -----> ()
+3: KEY:  of REV *** Concept Type -----> ()
+4: KEY:  of REV *** Drug mention in text ----->  of REV
+5: KEY:  of REV *** Source language -----> RXNORM
+6 KEY:  of REV *** CUI CODE in original terminology -----> 581642
+7: KEY:  of REV *** Final position in text according to JSON Object -----> 5674
+8: KEY:  of REV *** Initial position according to JSON Object -----> 5668
+9: KEY:  of REV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY:  of REV *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY:  of REV *** RXCUI -----> 0
+2: KEY:  of REV *** Concept from RXNORM -----> ()
+3: KEY:  of REV *** Concept Type -----> ()
+4: KEY:  of REV *** Drug mention in text ----->  of REV
+5: KEY:  of REV *** Source language -----> RXNORM
+6 KEY:  of REV *** CUI CODE in original terminology -----> 581642
+7: KEY:  of REV *** Final position in text according to JSON Object -----> 5674
+8: KEY:  of REV *** Initial position according to JSON Object -----> 5668
+9: KEY:  of REV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY:  of REV *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: he effect  *** RXCUI -----> 136411
+2: KEY: he effect  *** Concept from RXNORM -----> sildenafil
+3: KEY: he effect  *** Concept Type -----> IN
+4: KEY: he effect  *** Drug mention in text -----> he effect 
+5: KEY: he effect  *** Source language -----> RXNORM
+6 KEY: he effect  *** CUI CODE in original terminology -----> 136411
+7: KEY: he effect  *** Final position in text according to JSON Object -----> 11606
+8: KEY: he effect  *** Initial position according to JSON Object -----> 11597
+9: KEY: he effect  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: he effect  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ma levels  *** RXCUI -----> 136411
+2: KEY: ma levels  *** Concept from RXNORM -----> sildenafil
+3: KEY: ma levels  *** Concept Type -----> IN
+4: KEY: ma levels  *** Drug mention in text -----> ma levels 
+5: KEY: ma levels  *** Source language -----> RXNORM
+6 KEY: ma levels  *** CUI CODE in original terminology -----> 136411
+7: KEY: ma levels  *** Final position in text according to JSON Object -----> 11258
+8: KEY: ma levels  *** Initial position according to JSON Object -----> 11249
+9: KEY: ma levels  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ma levels  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ma levels  *** RXCUI -----> 136411
+2: KEY: ma levels  *** Concept from RXNORM -----> sildenafil
+3: KEY: ma levels  *** Concept Type -----> IN
+4: KEY: ma levels  *** Drug mention in text -----> ma levels 
+5: KEY: ma levels  *** Source language -----> RXNORM
+6 KEY: ma levels  *** CUI CODE in original terminology -----> 136411
+7: KEY: ma levels  *** Final position in text according to JSON Object -----> 11258
+8: KEY: ma levels  *** Initial position according to JSON Object -----> 11249
+9: KEY: ma levels  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ma levels  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: enafil  *** RXCUI -----> 0
+2: KEY: enafil  *** Concept from RXNORM -----> ()
+3: KEY: enafil  *** Concept Type -----> ()
+4: KEY: enafil  *** Drug mention in text -----> enafil 
+5: KEY: enafil  *** Source language -----> RXNORM
+6 KEY: enafil  *** CUI CODE in original terminology -----> 581642
+7: KEY: enafil  *** Final position in text according to JSON Object -----> 10457
+8: KEY: enafil  *** Initial position according to JSON Object -----> 10451
+9: KEY: enafil  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: enafil  *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: 
+
+REVAT *** RXCUI -----> 0
+2: KEY: 
+
+REVAT *** Concept from RXNORM -----> ()
+3: KEY: 
+
+REVAT *** Concept Type -----> ()
+4: KEY: 
+
+REVAT *** Drug mention in text -----> 
+
+REVAT
+5: KEY: 
+
+REVAT *** Source language -----> RXNORM
+6 KEY: 
+
+REVAT *** CUI CODE in original terminology -----> 581642
+7: KEY: 
+
+REVAT *** Final position in text according to JSON Object -----> 3764
+8: KEY: 
+
+REVAT *** Initial position according to JSON Object -----> 3758
+9: KEY: 
+
+REVAT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: 
+
+REVAT *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: mg TID) wi *** RXCUI -----> 136411
+2: KEY: mg TID) wi *** Concept from RXNORM -----> sildenafil
+3: KEY: mg TID) wi *** Concept Type -----> IN
+4: KEY: mg TID) wi *** Drug mention in text -----> mg TID) wi
+5: KEY: mg TID) wi *** Source language -----> RXNORM
+6 KEY: mg TID) wi *** CUI CODE in original terminology -----> 136411
+7: KEY: mg TID) wi *** Final position in text according to JSON Object -----> 10341
+8: KEY: mg TID) wi *** Initial position according to JSON Object -----> 10332
+9: KEY: mg TID) wi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: mg TID) wi *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ith 10 mg of *** RXCUI -----> 83367
+2: KEY: ith 10 mg of *** Concept from RXNORM -----> (('atorvastatin',),)
+3: KEY: ith 10 mg of *** Concept Type -----> (('IN',),)
+4: KEY: ith 10 mg of *** Drug mention in text -----> ith 10 mg of
+5: KEY: ith 10 mg of *** Source language -----> MSH
+6 KEY: ith 10 mg of *** CUI CODE in original terminology -----> C065179
+7: KEY: ith 10 mg of *** Final position in text according to JSON Object -----> 12667
+8: KEY: ith 10 mg of *** Initial position according to JSON Object -----> 12656
+9: KEY: ith 10 mg of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C065179
+10: KEY: ith 10 mg of *** Preferred name according to JSON Object -----> atorvastatin
+---------------------------------------------------------
+1: KEY: ce of sild *** RXCUI -----> 136411
+2: KEY: ce of sild *** Concept from RXNORM -----> sildenafil
+3: KEY: ce of sild *** Concept Type -----> IN
+4: KEY: ce of sild *** Drug mention in text -----> ce of sild
+5: KEY: ce of sild *** Source language -----> RXNORM
+6 KEY: ce of sild *** CUI CODE in original terminology -----> 136411
+7: KEY: ce of sild *** Final position in text according to JSON Object -----> 6785
+8: KEY: ce of sild *** Initial position according to JSON Object -----> 6776
+9: KEY: ce of sild *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ce of sild *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  inhibitor *** RXCUI -----> 136411
+2: KEY:  inhibitor *** Concept from RXNORM -----> sildenafil
+3: KEY:  inhibitor *** Concept Type -----> IN
+4: KEY:  inhibitor *** Drug mention in text ----->  inhibitor
+5: KEY:  inhibitor *** Source language -----> RXNORM
+6 KEY:  inhibitor *** CUI CODE in original terminology -----> 136411
+7: KEY:  inhibitor *** Final position in text according to JSON Object -----> 9414
+8: KEY:  inhibitor *** Initial position according to JSON Object -----> 9405
+9: KEY:  inhibitor *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  inhibitor *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sildenafil.
+*** RXCUI -----> 8814
+2: KEY: sildenafil.
+*** Concept from RXNORM -----> Epoprostenol
+3: KEY: sildenafil.
+*** Concept Type -----> IN
+4: KEY: sildenafil.
+*** Drug mention in text -----> sildenafil.
+
+5: KEY: sildenafil.
+*** Source language -----> RXNORM
+6 KEY: sildenafil.
+*** CUI CODE in original terminology -----> 8814
+7: KEY: sildenafil.
+*** Final position in text according to JSON Object -----> 11273
+8: KEY: sildenafil.
+*** Initial position according to JSON Object -----> 11262
+9: KEY: sildenafil.
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8814
+10: KEY: sildenafil.
+*** Preferred name according to JSON Object -----> Epoprostenol
+---------------------------------------------------------
+1: KEY: ate silden *** RXCUI -----> 136411
+2: KEY: ate silden *** Concept from RXNORM -----> sildenafil
+3: KEY: ate silden *** Concept Type -----> IN
+4: KEY: ate silden *** Drug mention in text -----> ate silden
+5: KEY: ate silden *** Source language -----> RXNORM
+6 KEY: ate silden *** CUI CODE in original terminology -----> 136411
+7: KEY: ate silden *** Final position in text according to JSON Object -----> 5996
+8: KEY: ate silden *** Initial position according to JSON Object -----> 5987
+9: KEY: ate silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ate silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ildenafil on *** RXCUI -----> 8814
+2: KEY: ildenafil on *** Concept from RXNORM -----> Epoprostenol
+3: KEY: ildenafil on *** Concept Type -----> IN
+4: KEY: ildenafil on *** Drug mention in text -----> ildenafil on
+5: KEY: ildenafil on *** Source language -----> RXNORM
+6 KEY: ildenafil on *** CUI CODE in original terminology -----> 8814
+7: KEY: ildenafil on *** Final position in text according to JSON Object -----> 11622
+8: KEY: ildenafil on *** Initial position according to JSON Object -----> 11611
+9: KEY: ildenafil on *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8814
+10: KEY: ildenafil on *** Preferred name according to JSON Object -----> Epoprostenol
+---------------------------------------------------------
+1: KEY:  decrease  *** RXCUI -----> 136411
+2: KEY:  decrease  *** Concept from RXNORM -----> sildenafil
+3: KEY:  decrease  *** Concept Type -----> IN
+4: KEY:  decrease  *** Drug mention in text ----->  decrease 
+5: KEY:  decrease  *** Source language -----> RXNORM
+6 KEY:  decrease  *** CUI CODE in original terminology -----> 136411
+7: KEY:  decrease  *** Final position in text according to JSON Object -----> 10911
+8: KEY:  decrease  *** Initial position according to JSON Object -----> 10902
+9: KEY:  decrease  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  decrease  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  decrease  *** RXCUI -----> 136411
+2: KEY:  decrease  *** Concept from RXNORM -----> sildenafil
+3: KEY:  decrease  *** Concept Type -----> IN
+4: KEY:  decrease  *** Drug mention in text ----->  decrease 
+5: KEY:  decrease  *** Source language -----> RXNORM
+6 KEY:  decrease  *** CUI CODE in original terminology -----> 136411
+7: KEY:  decrease  *** Final position in text according to JSON Object -----> 10911
+8: KEY:  decrease  *** Initial position according to JSON Object -----> 10902
+9: KEY:  decrease  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  decrease  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  decrease  *** RXCUI -----> 136411
+2: KEY:  decrease  *** Concept from RXNORM -----> sildenafil
+3: KEY:  decrease  *** Concept Type -----> IN
+4: KEY:  decrease  *** Drug mention in text ----->  decrease 
+5: KEY:  decrease  *** Source language -----> RXNORM
+6 KEY:  decrease  *** CUI CODE in original terminology -----> 136411
+7: KEY:  decrease  *** Final position in text according to JSON Object -----> 10911
+8: KEY:  decrease  *** Initial position according to JSON Object -----> 10902
+9: KEY:  decrease  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  decrease  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: hen REV *** RXCUI -----> 0
+2: KEY: hen REV *** Concept from RXNORM -----> ()
+3: KEY: hen REV *** Concept Type -----> ()
+4: KEY: hen REV *** Drug mention in text -----> hen REV
+5: KEY: hen REV *** Source language -----> RXNORM
+6 KEY: hen REV *** CUI CODE in original terminology -----> 581642
+7: KEY: hen REV *** Final position in text according to JSON Object -----> 4010
+8: KEY: hen REV *** Initial position according to JSON Object -----> 4004
+9: KEY: hen REV *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: hen REV *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY:  sildenafi *** RXCUI -----> 136411
+2: KEY:  sildenafi *** Concept from RXNORM -----> sildenafil
+3: KEY:  sildenafi *** Concept Type -----> IN
+4: KEY:  sildenafi *** Drug mention in text ----->  sildenafi
+5: KEY:  sildenafi *** Source language -----> RXNORM
+6 KEY:  sildenafi *** CUI CODE in original terminology -----> 136411
+7: KEY:  sildenafi *** Final position in text according to JSON Object -----> 12447
+8: KEY:  sildenafi *** Initial position according to JSON Object -----> 12438
+9: KEY:  sildenafi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  sildenafi *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sistent w *** RXCUI -----> 85762
+2: KEY: sistent w *** Concept from RXNORM -----> Ritonavir
+3: KEY: sistent w *** Concept Type -----> IN
+4: KEY: sistent w *** Drug mention in text -----> sistent w
+5: KEY: sistent w *** Source language -----> MSH
+6 KEY: sistent w *** CUI CODE in original terminology -----> D019438
+7: KEY: sistent w *** Final position in text according to JSON Object -----> 9024
+8: KEY: sistent w *** Initial position according to JSON Object -----> 9016
+9: KEY: sistent w *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: sistent w *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: se inhibit *** RXCUI -----> 83395
+2: KEY: se inhibit *** Concept from RXNORM -----> Saquinavir
+3: KEY: se inhibit *** Concept Type -----> IN
+4: KEY: se inhibit *** Drug mention in text -----> se inhibit
+5: KEY: se inhibit *** Source language -----> RXNORM
+6 KEY: se inhibit *** CUI CODE in original terminology -----> 83395
+7: KEY: se inhibit *** Final position in text according to JSON Object -----> 10275
+8: KEY: se inhibit *** Initial position according to JSON Object -----> 10266
+9: KEY: se inhibit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83395
+10: KEY: se inhibit *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY:  volunteer *** RXCUI -----> 136411
+2: KEY:  volunteer *** Concept from RXNORM -----> sildenafil
+3: KEY:  volunteer *** Concept Type -----> IN
+4: KEY:  volunteer *** Drug mention in text ----->  volunteer
+5: KEY:  volunteer *** Source language -----> RXNORM
+6 KEY:  volunteer *** CUI CODE in original terminology -----> 136411
+7: KEY:  volunteer *** Final position in text according to JSON Object -----> 11980
+8: KEY:  volunteer *** Initial position according to JSON Object -----> 11971
+9: KEY:  volunteer *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  volunteer *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: nistrati *** RXCUI -----> 75207
+2: KEY: nistrati *** Concept from RXNORM -----> bosentan
+3: KEY: nistrati *** Concept Type -----> IN
+4: KEY: nistrati *** Drug mention in text -----> nistrati
+5: KEY: nistrati *** Source language -----> MSH
+6 KEY: nistrati *** CUI CODE in original terminology -----> C086232
+7: KEY: nistrati *** Final position in text according to JSON Object -----> 10652
+8: KEY: nistrati *** Initial position according to JSON Object -----> 10645
+9: KEY: nistrati *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C086232
+10: KEY: nistrati *** Preferred name according to JSON Object -----> bosentan
+---------------------------------------------------------
+1: KEY: basis *** RXCUI -----> 0
+2: KEY: basis *** Concept from RXNORM -----> ()
+3: KEY: basis *** Concept Type -----> ()
+4: KEY: basis *** Drug mention in text -----> basis
+5: KEY: basis *** Source language -----> RXNORM
+6 KEY: basis *** CUI CODE in original terminology -----> 1046801
+7: KEY: basis *** Final position in text according to JSON Object -----> 1475
+8: KEY: basis *** Initial position according to JSON Object -----> 1471
+9: KEY: basis *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1046801
+10: KEY: basis *** Preferred name according to JSON Object -----> Basis
+---------------------------------------------------------
+1: KEY: basis *** RXCUI -----> 0
+2: KEY: basis *** Concept from RXNORM -----> ()
+3: KEY: basis *** Concept Type -----> ()
+4: KEY: basis *** Drug mention in text -----> basis
+5: KEY: basis *** Source language -----> RXNORM
+6 KEY: basis *** CUI CODE in original terminology -----> 1046801
+7: KEY: basis *** Final position in text according to JSON Object -----> 1475
+8: KEY: basis *** Initial position according to JSON Object -----> 1471
+9: KEY: basis *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1046801
+10: KEY: basis *** Preferred name according to JSON Object -----> Basis
+---------------------------------------------------------
+1: KEY: oth silden *** RXCUI -----> 136411
+2: KEY: oth silden *** Concept from RXNORM -----> sildenafil
+3: KEY: oth silden *** Concept Type -----> IN
+4: KEY: oth silden *** Drug mention in text -----> oth silden
+5: KEY: oth silden *** Source language -----> RXNORM
+6 KEY: oth silden *** CUI CODE in original terminology -----> 136411
+7: KEY: oth silden *** Final position in text according to JSON Object -----> 5209
+8: KEY: oth silden *** Initial position according to JSON Object -----> 5200
+9: KEY: oth silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: oth silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: e inhibito *** RXCUI -----> 83395
+2: KEY: e inhibito *** Concept from RXNORM -----> Saquinavir
+3: KEY: e inhibito *** Concept Type -----> IN
+4: KEY: e inhibito *** Drug mention in text -----> e inhibito
+5: KEY: e inhibito *** Source language -----> RXNORM
+6 KEY: e inhibito *** CUI CODE in original terminology -----> 83395
+7: KEY: e inhibito *** Final position in text according to JSON Object -----> 12080
+8: KEY: e inhibito *** Initial position according to JSON Object -----> 12071
+9: KEY: e inhibito *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83395
+10: KEY: e inhibito *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY: etoconazole, *** RXCUI -----> 28031
+2: KEY: etoconazole, *** Concept from RXNORM -----> Itraconazole
+3: KEY: etoconazole, *** Concept Type -----> IN
+4: KEY: etoconazole, *** Drug mention in text -----> etoconazole,
+5: KEY: etoconazole, *** Source language -----> MSH
+6 KEY: etoconazole, *** CUI CODE in original terminology -----> D017964
+7: KEY: etoconazole, *** Final position in text according to JSON Object -----> 9772
+8: KEY: etoconazole, *** Initial position according to JSON Object -----> 9761
+9: KEY: etoconazole, *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+10: KEY: etoconazole, *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: uinavir *** RXCUI -----> 0
+2: KEY: uinavir *** Concept from RXNORM -----> ()
+3: KEY: uinavir *** Concept Type -----> ()
+4: KEY: uinavir *** Drug mention in text -----> uinavir
+5: KEY: uinavir *** Source language -----> RXNORM
+6 KEY: uinavir *** CUI CODE in original terminology -----> 581642
+7: KEY: uinavir *** Final position in text according to JSON Object -----> 9169
+8: KEY: uinavir *** Initial position according to JSON Object -----> 9163
+9: KEY: uinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: uinavir *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: quinavir  *** RXCUI -----> 85762
+2: KEY: quinavir  *** Concept from RXNORM -----> Ritonavir
+3: KEY: quinavir  *** Concept Type -----> IN
+4: KEY: quinavir  *** Drug mention in text -----> quinavir 
+5: KEY: quinavir  *** Source language -----> MSH
+6 KEY: quinavir  *** CUI CODE in original terminology -----> D019438
+7: KEY: quinavir  *** Final position in text according to JSON Object -----> 12094
+8: KEY: quinavir  *** Initial position according to JSON Object -----> 12086
+9: KEY: quinavir  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: quinavir  *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: se in plas *** RXCUI -----> 136411
+2: KEY: se in plas *** Concept from RXNORM -----> sildenafil
+3: KEY: se in plas *** Concept Type -----> IN
+4: KEY: se in plas *** Drug mention in text -----> se in plas
+5: KEY: se in plas *** Source language -----> RXNORM
+6 KEY: se in plas *** CUI CODE in original terminology -----> 136411
+7: KEY: se in plas *** Final position in text according to JSON Object -----> 9883
+8: KEY: se in plas *** Initial position according to JSON Object -----> 9874
+9: KEY: se in plas *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: se in plas *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: tors such as *** RXCUI -----> 6135
+2: KEY: tors such as *** Concept from RXNORM -----> Ketoconazole
+3: KEY: tors such as *** Concept Type -----> IN
+4: KEY: tors such as *** Drug mention in text -----> tors such as
+5: KEY: tors such as *** Source language -----> MSH
+6 KEY: tors such as *** CUI CODE in original terminology -----> D007654
+7: KEY: tors such as *** Final position in text according to JSON Object -----> 9758
+8: KEY: tors such as *** Initial position according to JSON Object -----> 9747
+9: KEY: tors such as *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: tors such as *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: ildenafil or *** RXCUI -----> 83367
+2: KEY: ildenafil or *** Concept from RXNORM -----> (('atorvastatin',),)
+3: KEY: ildenafil or *** Concept Type -----> (('IN',),)
+4: KEY: ildenafil or *** Drug mention in text -----> ildenafil or
+5: KEY: ildenafil or *** Source language -----> MSH
+6 KEY: ildenafil or *** CUI CODE in original terminology -----> C065179
+7: KEY: ildenafil or *** Final position in text according to JSON Object -----> 12739
+8: KEY: ildenafil or *** Initial position according to JSON Object -----> 12728
+9: KEY: ildenafil or *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C065179
+10: KEY: ildenafil or *** Preferred name according to JSON Object -----> atorvastatin
+---------------------------------------------------------
+1: KEY: d after or *** RXCUI -----> 136411
+2: KEY: d after or *** Concept from RXNORM -----> sildenafil
+3: KEY: d after or *** Concept Type -----> IN
+4: KEY: d after or *** Drug mention in text -----> d after or
+5: KEY: d after or *** Source language -----> RXNORM
+6 KEY: d after or *** CUI CODE in original terminology -----> 136411
+7: KEY: d after or *** Final position in text according to JSON Object -----> 10626
+8: KEY: d after or *** Initial position according to JSON Object -----> 10617
+9: KEY: d after or *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: d after or *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: istered with *** RXCUI -----> 4053
+2: KEY: istered with *** Concept from RXNORM -----> Erythromycin
+3: KEY: istered with *** Concept Type -----> IN
+4: KEY: istered with *** Drug mention in text -----> istered with
+5: KEY: istered with *** Source language -----> MSH
+6 KEY: istered with *** CUI CODE in original terminology -----> D004917
+7: KEY: istered with *** Final position in text according to JSON Object -----> 10045
+8: KEY: istered with *** Initial position according to JSON Object -----> 10034
+9: KEY: istered with *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: istered with *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: me increas *** RXCUI -----> 136411
+2: KEY: me increas *** Concept from RXNORM -----> sildenafil
+3: KEY: me increas *** Concept Type -----> IN
+4: KEY: me increas *** Drug mention in text -----> me increas
+5: KEY: me increas *** Source language -----> RXNORM
+6 KEY: me increas *** CUI CODE in original terminology -----> 136411
+7: KEY: me increas *** Final position in text according to JSON Object -----> 9617
+8: KEY: me increas *** Initial position according to JSON Object -----> 9608
+9: KEY: me increas *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: me increas *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: on
+
+Silden *** RXCUI -----> 136411
+2: KEY: on
+
+Silden *** Concept from RXNORM -----> sildenafil
+3: KEY: on
+
+Silden *** Concept Type -----> IN
+4: KEY: on
+
+Silden *** Drug mention in text -----> on
+
+Silden
+5: KEY: on
+
+Silden *** Source language -----> RXNORM
+6 KEY: on
+
+Silden *** CUI CODE in original terminology -----> 136411
+7: KEY: on
+
+Silden *** Final position in text according to JSON Object -----> 4483
+8: KEY: on
+
+Silden *** Initial position according to JSON Object -----> 4474
+9: KEY: on
+
+Silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: on
+
+Silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: se in AU *** RXCUI -----> 75207
+2: KEY: se in AU *** Concept from RXNORM -----> bosentan
+3: KEY: se in AU *** Concept Type -----> IN
+4: KEY: se in AU *** Drug mention in text -----> se in AU
+5: KEY: se in AU *** Source language -----> MSH
+6 KEY: se in AU *** CUI CODE in original terminology -----> C086232
+7: KEY: se in AU *** Final position in text according to JSON Object -----> 11018
+8: KEY: se in AU *** Initial position according to JSON Object -----> 11011
+9: KEY: se in AU *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C086232
+10: KEY: se in AU *** Preferred name according to JSON Object -----> bosentan
+---------------------------------------------------------
+1: KEY: sildenafil *** RXCUI -----> 136411
+2: KEY: sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: sildenafil *** Concept Type -----> IN
+4: KEY: sildenafil *** Drug mention in text -----> sildenafil
+5: KEY: sildenafil *** Source language -----> RXNORM
+6 KEY: sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: sildenafil *** Final position in text according to JSON Object -----> 1458
+8: KEY: sildenafil *** Initial position according to JSON Object -----> 1449
+9: KEY: sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sildenafil *** RXCUI -----> 136411
+2: KEY: sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: sildenafil *** Concept Type -----> IN
+4: KEY: sildenafil *** Drug mention in text -----> sildenafil
+5: KEY: sildenafil *** Source language -----> RXNORM
+6 KEY: sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: sildenafil *** Final position in text according to JSON Object -----> 1458
+8: KEY: sildenafil *** Initial position according to JSON Object -----> 1449
+9: KEY: sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sildenafil *** RXCUI -----> 136411
+2: KEY: sildenafil *** Concept from RXNORM -----> sildenafil
+3: KEY: sildenafil *** Concept Type -----> IN
+4: KEY: sildenafil *** Drug mention in text -----> sildenafil
+5: KEY: sildenafil *** Source language -----> RXNORM
+6 KEY: sildenafil *** CUI CODE in original terminology -----> 136411
+7: KEY: sildenafil *** Final position in text according to JSON Object -----> 1458
+8: KEY: sildenafil *** Initial position according to JSON Object -----> 1449
+9: KEY: sildenafil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: sildenafil *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: f REVAT *** RXCUI -----> 0
+2: KEY: f REVAT *** Concept from RXNORM -----> ()
+3: KEY: f REVAT *** Concept Type -----> ()
+4: KEY: f REVAT *** Drug mention in text -----> f REVAT
+5: KEY: f REVAT *** Source language -----> RXNORM
+6 KEY: f REVAT *** CUI CODE in original terminology -----> 581642
+7: KEY: f REVAT *** Final position in text according to JSON Object -----> 3214
+8: KEY: f REVAT *** Initial position according to JSON Object -----> 3208
+9: KEY: f REVAT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: f REVAT *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: f REVAT *** RXCUI -----> 0
+2: KEY: f REVAT *** Concept from RXNORM -----> ()
+3: KEY: f REVAT *** Concept Type -----> ()
+4: KEY: f REVAT *** Drug mention in text -----> f REVAT
+5: KEY: f REVAT *** Source language -----> RXNORM
+6 KEY: f REVAT *** CUI CODE in original terminology -----> 581642
+7: KEY: f REVAT *** Final position in text according to JSON Object -----> 3214
+8: KEY: f REVAT *** Initial position according to JSON Object -----> 3208
+9: KEY: f REVAT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: f REVAT *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: cs of eith *** RXCUI -----> 136411
+2: KEY: cs of eith *** Concept from RXNORM -----> sildenafil
+3: KEY: cs of eith *** Concept Type -----> IN
+4: KEY: cs of eith *** Drug mention in text -----> cs of eith
+5: KEY: cs of eith *** Source language -----> RXNORM
+6 KEY: cs of eith *** CUI CODE in original terminology -----> 136411
+7: KEY: cs of eith *** Final position in text according to JSON Object -----> 12723
+8: KEY: cs of eith *** Initial position according to JSON Object -----> 12714
+9: KEY: cs of eith *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: cs of eith *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: mg BID) wi *** RXCUI -----> 136411
+2: KEY: mg BID) wi *** Concept from RXNORM -----> sildenafil
+3: KEY: mg BID) wi *** Concept Type -----> IN
+4: KEY: mg BID) wi *** Drug mention in text -----> mg BID) wi
+5: KEY: mg BID) wi *** Source language -----> RXNORM
+6 KEY: mg BID) wi *** CUI CODE in original terminology -----> 136411
+7: KEY: mg BID) wi *** Final position in text according to JSON Object -----> 8708
+8: KEY: mg BID) wi *** Initial position according to JSON Object -----> 8699
+9: KEY: mg BID) wi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: mg BID) wi *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  of silden *** RXCUI -----> 136411
+2: KEY:  of silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  of silden *** Concept Type -----> IN
+4: KEY:  of silden *** Drug mention in text ----->  of silden
+5: KEY:  of silden *** Source language -----> RXNORM
+6 KEY:  of silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  of silden *** Final position in text according to JSON Object -----> 5747
+8: KEY:  of silden *** Initial position according to JSON Object -----> 5738
+9: KEY:  of silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  of silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  of silden *** RXCUI -----> 136411
+2: KEY:  of silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  of silden *** Concept Type -----> IN
+4: KEY:  of silden *** Drug mention in text ----->  of silden
+5: KEY:  of silden *** Source language -----> RXNORM
+6 KEY:  of silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  of silden *** Final position in text according to JSON Object -----> 5747
+8: KEY:  of silden *** Initial position according to JSON Object -----> 5738
+9: KEY:  of silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  of silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  of silden *** RXCUI -----> 136411
+2: KEY:  of silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  of silden *** Concept Type -----> IN
+4: KEY:  of silden *** Drug mention in text ----->  of silden
+5: KEY:  of silden *** Source language -----> RXNORM
+6 KEY:  of silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  of silden *** Final position in text according to JSON Object -----> 5747
+8: KEY:  of silden *** Initial position according to JSON Object -----> 5738
+9: KEY:  of silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  of silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: istration of *** RXCUI -----> 8814
+2: KEY: istration of *** Concept from RXNORM -----> Epoprostenol
+3: KEY: istration of *** Concept Type -----> IN
+4: KEY: istration of *** Drug mention in text -----> istration of
+5: KEY: istration of *** Source language -----> RXNORM
+6 KEY: istration of *** CUI CODE in original terminology -----> 8814
+7: KEY: istration of *** Final position in text according to JSON Object -----> 11376
+8: KEY: istration of *** Initial position according to JSON Object -----> 11365
+9: KEY: istration of *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8814
+10: KEY: istration of *** Preferred name according to JSON Object -----> Epoprostenol
+---------------------------------------------------------
+1: KEY: s A and B) *** RXCUI -----> 136411
+2: KEY: s A and B) *** Concept from RXNORM -----> sildenafil
+3: KEY: s A and B) *** Concept Type -----> IN
+4: KEY: s A and B) *** Drug mention in text -----> s A and B)
+5: KEY: s A and B) *** Source language -----> RXNORM
+6 KEY: s A and B) *** CUI CODE in original terminology -----> 136411
+7: KEY: s A and B) *** Final position in text according to JSON Object -----> 7906
+8: KEY: s A and B) *** Initial position according to JSON Object -----> 7897
+9: KEY: s A and B) *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: s A and B) *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ilability  *** RXCUI -----> 136411
+2: KEY: ilability  *** Concept from RXNORM -----> sildenafil
+3: KEY: ilability  *** Concept Type -----> IN
+4: KEY: ilability  *** Drug mention in text -----> ilability 
+5: KEY: ilability  *** Source language -----> RXNORM
+6 KEY: ilability  *** CUI CODE in original terminology -----> 136411
+7: KEY: ilability  *** Final position in text according to JSON Object -----> 12865
+8: KEY: ilability  *** Initial position according to JSON Object -----> 12856
+9: KEY: ilability  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ilability  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  increase  *** RXCUI -----> 136411
+2: KEY:  increase  *** Concept from RXNORM -----> sildenafil
+3: KEY:  increase  *** Concept Type -----> IN
+4: KEY:  increase  *** Drug mention in text ----->  increase 
+5: KEY:  increase  *** Source language -----> RXNORM
+6 KEY:  increase  *** CUI CODE in original terminology -----> 136411
+7: KEY:  increase  *** Final position in text according to JSON Object -----> 10443
+8: KEY:  increase  *** Initial position according to JSON Object -----> 10434
+9: KEY:  increase  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  increase  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  increase  *** RXCUI -----> 136411
+2: KEY:  increase  *** Concept from RXNORM -----> sildenafil
+3: KEY:  increase  *** Concept Type -----> IN
+4: KEY:  increase  *** Drug mention in text ----->  increase 
+5: KEY:  increase  *** Source language -----> RXNORM
+6 KEY:  increase  *** CUI CODE in original terminology -----> 136411
+7: KEY:  increase  *** Final position in text according to JSON Object -----> 10443
+8: KEY:  increase  *** Initial position according to JSON Object -----> 10434
+9: KEY:  increase  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  increase  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  increase  *** RXCUI -----> 136411
+2: KEY:  increase  *** Concept from RXNORM -----> sildenafil
+3: KEY:  increase  *** Concept Type -----> IN
+4: KEY:  increase  *** Drug mention in text ----->  increase 
+5: KEY:  increase  *** Source language -----> RXNORM
+6 KEY:  increase  *** CUI CODE in original terminology -----> 136411
+7: KEY:  increase  *** Final position in text according to JSON Object -----> 10443
+8: KEY:  increase  *** Initial position according to JSON Object -----> 10434
+9: KEY:  increase  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  increase  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  increase  *** RXCUI -----> 136411
+2: KEY:  increase  *** Concept from RXNORM -----> sildenafil
+3: KEY:  increase  *** Concept Type -----> IN
+4: KEY:  increase  *** Drug mention in text ----->  increase 
+5: KEY:  increase  *** Source language -----> RXNORM
+6 KEY:  increase  *** CUI CODE in original terminology -----> 136411
+7: KEY:  increase  *** Final position in text according to JSON Object -----> 10443
+8: KEY:  increase  *** Initial position according to JSON Object -----> 10434
+9: KEY:  increase  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  increase  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  increase  *** RXCUI -----> 136411
+2: KEY:  increase  *** Concept from RXNORM -----> sildenafil
+3: KEY:  increase  *** Concept Type -----> IN
+4: KEY:  increase  *** Drug mention in text ----->  increase 
+5: KEY:  increase  *** Source language -----> RXNORM
+6 KEY:  increase  *** CUI CODE in original terminology -----> 136411
+7: KEY:  increase  *** Final position in text according to JSON Object -----> 10443
+8: KEY:  increase  *** Initial position according to JSON Object -----> 10434
+9: KEY:  increase  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  increase  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: D sildenaf *** RXCUI -----> 136411
+2: KEY: D sildenaf *** Concept from RXNORM -----> sildenafil
+3: KEY: D sildenaf *** Concept Type -----> IN
+4: KEY: D sildenaf *** Drug mention in text -----> D sildenaf
+5: KEY: D sildenaf *** Source language -----> RXNORM
+6 KEY: D sildenaf *** CUI CODE in original terminology -----> 136411
+7: KEY: D sildenaf *** Final position in text according to JSON Object -----> 3027
+8: KEY: D sildenaf *** Initial position according to JSON Object -----> 3018
+9: KEY: D sildenaf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: D sildenaf *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: D sildenaf *** RXCUI -----> 136411
+2: KEY: D sildenaf *** Concept from RXNORM -----> sildenafil
+3: KEY: D sildenaf *** Concept Type -----> IN
+4: KEY: D sildenaf *** Drug mention in text -----> D sildenaf
+5: KEY: D sildenaf *** Source language -----> RXNORM
+6 KEY: D sildenaf *** CUI CODE in original terminology -----> 136411
+7: KEY: D sildenaf *** Final position in text according to JSON Object -----> 3027
+8: KEY: D sildenaf *** Initial position according to JSON Object -----> 3018
+9: KEY: D sildenaf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: D sildenaf *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: D sildenaf *** RXCUI -----> 136411
+2: KEY: D sildenaf *** Concept from RXNORM -----> sildenafil
+3: KEY: D sildenaf *** Concept Type -----> IN
+4: KEY: D sildenaf *** Drug mention in text -----> D sildenaf
+5: KEY: D sildenaf *** Source language -----> RXNORM
+6 KEY: D sildenaf *** CUI CODE in original terminology -----> 136411
+7: KEY: D sildenaf *** Final position in text according to JSON Object -----> 3027
+8: KEY: D sildenaf *** Initial position according to JSON Object -----> 3018
+9: KEY: D sildenaf *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: D sildenaf *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: tration w *** RXCUI -----> 85762
+2: KEY: tration w *** Concept from RXNORM -----> Ritonavir
+3: KEY: tration w *** Concept Type -----> IN
+4: KEY: tration w *** Drug mention in text -----> tration w
+5: KEY: tration w *** Source language -----> MSH
+6 KEY: tration w *** CUI CODE in original terminology -----> D019438
+7: KEY: tration w *** Final position in text according to JSON Object -----> 8636
+8: KEY: tration w *** Initial position according to JSON Object -----> 8628
+9: KEY: tration w *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: tration w *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: reduction  *** RXCUI -----> 136411
+2: KEY: reduction  *** Concept from RXNORM -----> sildenafil
+3: KEY: reduction  *** Concept Type -----> IN
+4: KEY: reduction  *** Drug mention in text -----> reduction 
+5: KEY: reduction  *** Source language -----> RXNORM
+6 KEY: reduction  *** CUI CODE in original terminology -----> 136411
+7: KEY: reduction  *** Final position in text according to JSON Object -----> 11783
+8: KEY: reduction  *** Initial position according to JSON Object -----> 11774
+9: KEY: reduction  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: reduction  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: reduction  *** RXCUI -----> 136411
+2: KEY: reduction  *** Concept from RXNORM -----> sildenafil
+3: KEY: reduction  *** Concept Type -----> IN
+4: KEY: reduction  *** Drug mention in text -----> reduction 
+5: KEY: reduction  *** Source language -----> RXNORM
+6 KEY: reduction  *** CUI CODE in original terminology -----> 136411
+7: KEY: reduction  *** Final position in text according to JSON Object -----> 11783
+8: KEY: reduction  *** Initial position according to JSON Object -----> 11774
+9: KEY: reduction  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: reduction  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: reduction  *** RXCUI -----> 136411
+2: KEY: reduction  *** Concept from RXNORM -----> sildenafil
+3: KEY: reduction  *** Concept Type -----> IN
+4: KEY: reduction  *** Drug mention in text -----> reduction 
+5: KEY: reduction  *** Source language -----> RXNORM
+6 KEY: reduction  *** CUI CODE in original terminology -----> 136411
+7: KEY: reduction  *** Final position in text according to JSON Object -----> 11783
+8: KEY: reduction  *** Initial position according to JSON Object -----> 11774
+9: KEY: reduction  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: reduction  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: REVATIO *** RXCUI -----> 0
+2: KEY: REVATIO *** Concept from RXNORM -----> ()
+3: KEY: REVATIO *** Concept Type -----> ()
+4: KEY: REVATIO *** Drug mention in text -----> REVATIO
+5: KEY: REVATIO *** Source language -----> RXNORM
+6 KEY: REVATIO *** CUI CODE in original terminology -----> 581642
+7: KEY: REVATIO *** Final position in text according to JSON Object -----> 1665
+8: KEY: REVATIO *** Initial position according to JSON Object -----> 1659
+9: KEY: REVATIO *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/581642
+10: KEY: REVATIO *** Preferred name according to JSON Object -----> Revatio
+---------------------------------------------------------
+1: KEY: 5 ng/mL wh *** RXCUI -----> 136411
+2: KEY: 5 ng/mL wh *** Concept from RXNORM -----> sildenafil
+3: KEY: 5 ng/mL wh *** Concept Type -----> IN
+4: KEY: 5 ng/mL wh *** Drug mention in text -----> 5 ng/mL wh
+5: KEY: 5 ng/mL wh *** Source language -----> RXNORM
+6 KEY: 5 ng/mL wh *** CUI CODE in original terminology -----> 136411
+7: KEY: 5 ng/mL wh *** Final position in text according to JSON Object -----> 8973
+8: KEY: 5 ng/mL wh *** Initial position according to JSON Object -----> 8964
+9: KEY: 5 ng/mL wh *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: 5 ng/mL wh *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: l 150 mcg).
+*** RXCUI -----> 83367
+2: KEY: l 150 mcg).
+*** Concept from RXNORM -----> (('atorvastatin',),)
+3: KEY: l 150 mcg).
+*** Concept Type -----> (('IN',),)
+4: KEY: l 150 mcg).
+*** Drug mention in text -----> l 150 mcg).
+
+5: KEY: l 150 mcg).
+*** Source language -----> MSH
+6 KEY: l 150 mcg).
+*** CUI CODE in original terminology -----> C065179
+7: KEY: l 150 mcg).
+*** Final position in text according to JSON Object -----> 12574
+8: KEY: l 150 mcg).
+*** Initial position according to JSON Object -----> 12563
+9: KEY: l 150 mcg).
+*** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C065179
+10: KEY: l 150 mcg).
+*** Preferred name according to JSON Object -----> atorvastatin
+---------------------------------------------------------
+1: KEY: istration  *** RXCUI -----> 136411
+2: KEY: istration  *** Concept from RXNORM -----> sildenafil
+3: KEY: istration  *** Concept Type -----> IN
+4: KEY: istration  *** Drug mention in text -----> istration 
+5: KEY: istration  *** Source language -----> RXNORM
+6 KEY: istration  *** CUI CODE in original terminology -----> 136411
+7: KEY: istration  *** Final position in text according to JSON Object -----> 10724
+8: KEY: istration  *** Initial position according to JSON Object -----> 10715
+9: KEY: istration  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: istration  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: for silden *** RXCUI -----> 136411
+2: KEY: for silden *** Concept from RXNORM -----> sildenafil
+3: KEY: for silden *** Concept Type -----> IN
+4: KEY: for silden *** Drug mention in text -----> for silden
+5: KEY: for silden *** Source language -----> RXNORM
+6 KEY: for silden *** CUI CODE in original terminology -----> 136411
+7: KEY: for silden *** Final position in text according to JSON Object -----> 4995
+8: KEY: for silden *** Initial position according to JSON Object -----> 4986
+9: KEY: for silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: for silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: for silden *** RXCUI -----> 136411
+2: KEY: for silden *** Concept from RXNORM -----> sildenafil
+3: KEY: for silden *** Concept Type -----> IN
+4: KEY: for silden *** Drug mention in text -----> for silden
+5: KEY: for silden *** Source language -----> RXNORM
+6 KEY: for silden *** CUI CODE in original terminology -----> 136411
+7: KEY: for silden *** Final position in text according to JSON Object -----> 4995
+8: KEY: for silden *** Initial position according to JSON Object -----> 4986
+9: KEY: for silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: for silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ty of sild *** RXCUI -----> 136411
+2: KEY: ty of sild *** Concept from RXNORM -----> sildenafil
+3: KEY: ty of sild *** Concept Type -----> IN
+4: KEY: ty of sild *** Drug mention in text -----> ty of sild
+5: KEY: ty of sild *** Source language -----> RXNORM
+6 KEY: ty of sild *** CUI CODE in original terminology -----> 136411
+7: KEY: ty of sild *** Final position in text according to JSON Object -----> 6608
+8: KEY: ty of sild *** Initial position according to JSON Object -----> 6599
+9: KEY: ty of sild *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ty of sild *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: 0 mg dose  *** RXCUI -----> 136411
+2: KEY: 0 mg dose  *** Concept from RXNORM -----> sildenafil
+3: KEY: 0 mg dose  *** Concept Type -----> IN
+4: KEY: 0 mg dose  *** Drug mention in text -----> 0 mg dose 
+5: KEY: 0 mg dose  *** Source language -----> RXNORM
+6 KEY: 0 mg dose  *** CUI CODE in original terminology -----> 136411
+7: KEY: 0 mg dose  *** Final position in text according to JSON Object -----> 10007
+8: KEY: 0 mg dose  *** Initial position according to JSON Object -----> 9998
+9: KEY: 0 mg dose  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: 0 mg dose  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: 0 mg dose  *** RXCUI -----> 136411
+2: KEY: 0 mg dose  *** Concept from RXNORM -----> sildenafil
+3: KEY: 0 mg dose  *** Concept Type -----> IN
+4: KEY: 0 mg dose  *** Drug mention in text -----> 0 mg dose 
+5: KEY: 0 mg dose  *** Source language -----> RXNORM
+6 KEY: 0 mg dose  *** CUI CODE in original terminology -----> 136411
+7: KEY: 0 mg dose  *** Final position in text according to JSON Object -----> 10007
+8: KEY: 0 mg dose  *** Initial position according to JSON Object -----> 9998
+9: KEY: 0 mg dose  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: 0 mg dose  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: e shown wit *** RXCUI -----> 10635
+2: KEY: e shown wit *** Concept from RXNORM -----> Tolbutamide
+3: KEY: e shown wit *** Concept Type -----> IN
+4: KEY: e shown wit *** Drug mention in text -----> e shown wit
+5: KEY: e shown wit *** Source language -----> RXNORM
+6 KEY: e shown wit *** CUI CODE in original terminology -----> 10635
+7: KEY: e shown wit *** Final position in text according to JSON Object -----> 12188
+8: KEY: e shown wit *** Initial position according to JSON Object -----> 12178
+9: KEY: e shown wit *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/10635
+10: KEY: e shown wit *** Preferred name according to JSON Object -----> Tolbutamide
+---------------------------------------------------------
+1: KEY: me caus *** RXCUI -----> 1191
+2: KEY: me caus *** Concept from RXNORM -----> Aspirin
+3: KEY: me caus *** Concept Type -----> IN
+4: KEY: me caus *** Drug mention in text -----> me caus
+5: KEY: me caus *** Source language -----> RXNORM
+6 KEY: me caus *** CUI CODE in original terminology -----> 1191
+7: KEY: me caus *** Final position in text according to JSON Object -----> 12962
+8: KEY: me caus *** Initial position according to JSON Object -----> 12956
+9: KEY: me caus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY: me caus *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: ns of sild *** RXCUI -----> 136411
+2: KEY: ns of sild *** Concept from RXNORM -----> sildenafil
+3: KEY: ns of sild *** Concept Type -----> IN
+4: KEY: ns of sild *** Drug mention in text -----> ns of sild
+5: KEY: ns of sild *** Source language -----> RXNORM
+6 KEY: ns of sild *** CUI CODE in original terminology -----> 136411
+7: KEY: ns of sild *** Final position in text according to JSON Object -----> 6869
+8: KEY: ns of sild *** Initial position according to JSON Object -----> 6860
+9: KEY: ns of sild *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ns of sild *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ritonavir) *** RXCUI -----> 2541
+2: KEY: ritonavir) *** Concept from RXNORM -----> Cimetidine
+3: KEY: ritonavir) *** Concept Type -----> IN
+4: KEY: ritonavir) *** Drug mention in text -----> ritonavir)
+5: KEY: ritonavir) *** Source language -----> RXNORM
+6 KEY: ritonavir) *** CUI CODE in original terminology -----> 2541
+7: KEY: ritonavir) *** Final position in text according to JSON Object -----> 9801
+8: KEY: ritonavir) *** Initial position according to JSON Object -----> 9792
+9: KEY: ritonavir) *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: ritonavir) *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: istered wi *** RXCUI -----> 136411
+2: KEY: istered wi *** Concept from RXNORM -----> sildenafil
+3: KEY: istered wi *** Concept Type -----> IN
+4: KEY: istered wi *** Drug mention in text -----> istered wi
+5: KEY: istered wi *** Source language -----> RXNORM
+6 KEY: istered wi *** CUI CODE in original terminology -----> 136411
+7: KEY: istered wi *** Final position in text according to JSON Object -----> 9935
+8: KEY: istered wi *** Initial position according to JSON Object -----> 9926
+9: KEY: istered wi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: istered wi *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: okinetics  *** RXCUI -----> 136411
+2: KEY: okinetics  *** Concept from RXNORM -----> sildenafil
+3: KEY: okinetics  *** Concept Type -----> IN
+4: KEY: okinetics  *** Drug mention in text -----> okinetics 
+5: KEY: okinetics  *** Source language -----> RXNORM
+6 KEY: okinetics  *** CUI CODE in original terminology -----> 136411
+7: KEY: okinetics  *** Final position in text according to JSON Object -----> 12435
+8: KEY: okinetics  *** Initial position according to JSON Object -----> 12426
+9: KEY: okinetics  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: okinetics  *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: l.
+
+Aspiri *** RXCUI -----> 136411
+2: KEY: l.
+
+Aspiri *** Concept from RXNORM -----> sildenafil
+3: KEY: l.
+
+Aspiri *** Concept Type -----> IN
+4: KEY: l.
+
+Aspiri *** Drug mention in text -----> l.
+
+Aspiri
+5: KEY: l.
+
+Aspiri *** Source language -----> RXNORM
+6 KEY: l.
+
+Aspiri *** CUI CODE in original terminology -----> 136411
+7: KEY: l.
+
+Aspiri *** Final position in text according to JSON Object -----> 12887
+8: KEY: l.
+
+Aspiri *** Initial position according to JSON Object -----> 12878
+9: KEY: l.
+
+Aspiri *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: l.
+
+Aspiri *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: ay increas *** RXCUI -----> 136411
+2: KEY: ay increas *** Concept from RXNORM -----> sildenafil
+3: KEY: ay increas *** Concept Type -----> IN
+4: KEY: ay increas *** Drug mention in text -----> ay increas
+5: KEY: ay increas *** Source language -----> RXNORM
+6 KEY: ay increas *** CUI CODE in original terminology -----> 136411
+7: KEY: ay increas *** Final position in text according to JSON Object -----> 8409
+8: KEY: ay increas *** Initial position according to JSON Object -----> 8400
+9: KEY: ay increas *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: ay increas *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: es. Silden *** RXCUI -----> 136411
+2: KEY: es. Silden *** Concept from RXNORM -----> sildenafil
+3: KEY: es. Silden *** Concept Type -----> IN
+4: KEY: es. Silden *** Drug mention in text -----> es. Silden
+5: KEY: es. Silden *** Source language -----> RXNORM
+6 KEY: es. Silden *** CUI CODE in original terminology -----> 136411
+7: KEY: es. Silden *** Final position in text according to JSON Object -----> 4282
+8: KEY: es. Silden *** Initial position according to JSON Object -----> 4273
+9: KEY: es. Silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: es. Silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: impairment *** RXCUI -----> 136411
+2: KEY: impairment *** Concept from RXNORM -----> sildenafil
+3: KEY: impairment *** Concept Type -----> IN
+4: KEY: impairment *** Drug mention in text -----> impairment
+5: KEY: impairment *** Source language -----> RXNORM
+6 KEY: impairment *** CUI CODE in original terminology -----> 136411
+7: KEY: impairment *** Final position in text according to JSON Object -----> 7451
+8: KEY: impairment *** Initial position according to JSON Object -----> 7442
+9: KEY: impairment *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: impairment *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: nbound) si *** RXCUI -----> 136411
+2: KEY: nbound) si *** Concept from RXNORM -----> sildenafil
+3: KEY: nbound) si *** Concept Type -----> IN
+4: KEY: nbound) si *** Drug mention in text -----> nbound) si
+5: KEY: nbound) si *** Source language -----> RXNORM
+6 KEY: nbound) si *** CUI CODE in original terminology -----> 136411
+7: KEY: nbound) si *** Final position in text according to JSON Object -----> 7107
+8: KEY: nbound) si *** Initial position according to JSON Object -----> 7098
+9: KEY: nbound) si *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: nbound) si *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: on Studies *** RXCUI -----> 136411
+2: KEY: on Studies *** Concept from RXNORM -----> sildenafil
+3: KEY: on Studies *** Concept Type -----> IN
+4: KEY: on Studies *** Drug mention in text -----> on Studies
+5: KEY: on Studies *** Source language -----> RXNORM
+6 KEY: on Studies *** CUI CODE in original terminology -----> 136411
+7: KEY: on Studies *** Final position in text according to JSON Object -----> 8165
+8: KEY: on Studies *** Initial position according to JSON Object -----> 8156
+9: KEY: on Studies *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: on Studies *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: onazole,  *** RXCUI -----> 85762
+2: KEY: onazole,  *** Concept from RXNORM -----> Ritonavir
+3: KEY: onazole,  *** Concept Type -----> IN
+4: KEY: onazole,  *** Drug mention in text -----> onazole, 
+5: KEY: onazole,  *** Source language -----> MSH
+6 KEY: onazole,  *** CUI CODE in original terminology -----> D019438
+7: KEY: onazole,  *** Final position in text according to JSON Object -----> 9787
+8: KEY: onazole,  *** Initial position according to JSON Object -----> 9779
+9: KEY: onazole,  *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: onazole,  *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY:  on silden *** RXCUI -----> 136411
+2: KEY:  on silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  on silden *** Concept Type -----> IN
+4: KEY:  on silden *** Drug mention in text ----->  on silden
+5: KEY:  on silden *** Source language -----> RXNORM
+6 KEY:  on silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  on silden *** Final position in text according to JSON Object -----> 6277
+8: KEY:  on silden *** Initial position according to JSON Object -----> 6268
+9: KEY:  on silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  on silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  to increa *** RXCUI -----> 136411
+2: KEY:  to increa *** Concept from RXNORM -----> sildenafil
+3: KEY:  to increa *** Concept Type -----> IN
+4: KEY:  to increa *** Drug mention in text ----->  to increa
+5: KEY:  to increa *** Source language -----> RXNORM
+6 KEY:  to increa *** CUI CODE in original terminology -----> 136411
+7: KEY:  to increa *** Final position in text according to JSON Object -----> 9248
+8: KEY:  to increa *** Initial position according to JSON Object -----> 9239
+9: KEY:  to increa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  to increa *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: clearance. *** RXCUI -----> 136411
+2: KEY: clearance. *** Concept from RXNORM -----> sildenafil
+3: KEY: clearance. *** Concept Type -----> IN
+4: KEY: clearance. *** Drug mention in text -----> clearance.
+5: KEY: clearance. *** Source language -----> RXNORM
+6 KEY: clearance. *** CUI CODE in original terminology -----> 136411
+7: KEY: clearance. *** Final position in text according to JSON Object -----> 8432
+8: KEY: clearance. *** Initial position according to JSON Object -----> 8423
+9: KEY: clearance. *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: clearance. *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  (250 mg *** RXCUI -----> 11289
+2: KEY:  (250 mg *** Concept from RXNORM -----> Warfarin
+3: KEY:  (250 mg *** Concept Type -----> IN
+4: KEY:  (250 mg *** Drug mention in text ----->  (250 mg
+5: KEY:  (250 mg *** Source language -----> MSH
+6 KEY:  (250 mg *** CUI CODE in original terminology -----> D014859
+7: KEY:  (250 mg *** Final position in text according to JSON Object -----> 12209
+8: KEY:  (250 mg *** Initial position according to JSON Object -----> 12202
+9: KEY:  (250 mg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY:  (250 mg *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: on, silden *** RXCUI -----> 136411
+2: KEY: on, silden *** Concept from RXNORM -----> sildenafil
+3: KEY: on, silden *** Concept Type -----> IN
+4: KEY: on, silden *** Drug mention in text -----> on, silden
+5: KEY: on, silden *** Source language -----> RXNORM
+6 KEY: on, silden *** CUI CODE in original terminology -----> 136411
+7: KEY: on, silden *** Final position in text according to JSON Object -----> 5339
+8: KEY: on, silden *** Initial position according to JSON Object -----> 5330
+9: KEY: on, silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY: on, silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  >150 µM *** RXCUI -----> 85762
+2: KEY:  >150 µM *** Concept from RXNORM -----> Ritonavir
+3: KEY:  >150 µM *** Concept Type -----> IN
+4: KEY:  >150 µM *** Drug mention in text ----->  >150 µM
+5: KEY:  >150 µM *** Source language -----> MSH
+6 KEY:  >150 µM *** CUI CODE in original terminology -----> D019438
+7: KEY:  >150 µM *** Final position in text according to JSON Object -----> 8543
+8: KEY:  >150 µM *** Initial position according to JSON Object -----> 8535
+9: KEY:  >150 µM *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY:  >150 µM *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY:  may reduc *** RXCUI -----> 136411
+2: KEY:  may reduc *** Concept from RXNORM -----> sildenafil
+3: KEY:  may reduc *** Concept Type -----> IN
+4: KEY:  may reduc *** Drug mention in text ----->  may reduc
+5: KEY:  may reduc *** Source language -----> RXNORM
+6 KEY:  may reduc *** CUI CODE in original terminology -----> 136411
+7: KEY:  may reduc *** Final position in text according to JSON Object -----> 8342
+8: KEY:  may reduc *** Initial position according to JSON Object -----> 8333
+9: KEY:  may reduc *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  may reduc *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: traceptives (ethi *** RXCUI -----> 4124
+2: KEY: traceptives (ethi *** Concept from RXNORM -----> Ethinyl Estradiol
+3: KEY: traceptives (ethi *** Concept Type -----> IN
+4: KEY: traceptives (ethi *** Drug mention in text -----> traceptives (ethi
+5: KEY: traceptives (ethi *** Source language -----> RXNORM
+6 KEY: traceptives (ethi *** CUI CODE in original terminology -----> 4124
+7: KEY: traceptives (ethi *** Final position in text according to JSON Object -----> 12524
+8: KEY: traceptives (ethi *** Initial position according to JSON Object -----> 12508
+9: KEY: traceptives (ethi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4124
+10: KEY: traceptives (ethi *** Preferred name according to JSON Object -----> Ethinyl Estradiol
+---------------------------------------------------------
+1: KEY: traceptives (ethi *** RXCUI -----> 4124
+2: KEY: traceptives (ethi *** Concept from RXNORM -----> Ethinyl Estradiol
+3: KEY: traceptives (ethi *** Concept Type -----> IN
+4: KEY: traceptives (ethi *** Drug mention in text -----> traceptives (ethi
+5: KEY: traceptives (ethi *** Source language -----> RXNORM
+6 KEY: traceptives (ethi *** CUI CODE in original terminology -----> 4124
+7: KEY: traceptives (ethi *** Final position in text according to JSON Object -----> 12524
+8: KEY: traceptives (ethi *** Initial position according to JSON Object -----> 12508
+9: KEY: traceptives (ethi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4124
+10: KEY: traceptives (ethi *** Preferred name according to JSON Object -----> Ethinyl Estradiol
+---------------------------------------------------------
+1: KEY:  to silden *** RXCUI -----> 136411
+2: KEY:  to silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  to silden *** Concept Type -----> IN
+4: KEY:  to silden *** Drug mention in text ----->  to silden
+5: KEY:  to silden *** Source language -----> RXNORM
+6 KEY:  to silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  to silden *** Final position in text according to JSON Object -----> 5182
+8: KEY:  to silden *** Initial position according to JSON Object -----> 5173
+9: KEY:  to silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  to silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY:  to silden *** RXCUI -----> 136411
+2: KEY:  to silden *** Concept from RXNORM -----> sildenafil
+3: KEY:  to silden *** Concept Type -----> IN
+4: KEY:  to silden *** Drug mention in text ----->  to silden
+5: KEY:  to silden *** Source language -----> RXNORM
+6 KEY:  to silden *** CUI CODE in original terminology -----> 136411
+7: KEY:  to silden *** Final position in text according to JSON Object -----> 5182
+8: KEY:  to silden *** Initial position according to JSON Object -----> 5173
+9: KEY:  to silden *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/136411
+10: KEY:  to silden *** Preferred name according to JSON Object -----> sildenafil
+---------------------------------------------------------
+1: KEY: sildena *** RXCUI -----> 1191
+2: KEY: sildena *** Concept from RXNORM -----> Aspirin
+3: KEY: sildena *** Concept Type -----> IN
+4: KEY: sildena *** Drug mention in text -----> sildena
+5: KEY: sildena *** Source language -----> RXNORM
+6 KEY: sildena *** CUI CODE in original terminology -----> 1191
+7: KEY: sildena *** Final position in text according to JSON Object -----> 12875
+8: KEY: sildena *** Initial position according to JSON Object -----> 12869
+9: KEY: sildena *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY: sildena *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+removed duplications 542
+Number of missed JSON elements: 0

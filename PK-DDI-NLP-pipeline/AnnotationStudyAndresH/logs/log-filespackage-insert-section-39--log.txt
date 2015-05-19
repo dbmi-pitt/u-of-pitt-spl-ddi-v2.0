@@ -1,0 +1,24 @@
+1: KEY: atropine *** RXCUI -----> 1223
+2: KEY: atropine *** Concept from RXNORM -----> Atropine
+3: KEY: atropine *** Concept Type -----> IN
+4: KEY: atropine *** Drug mention in text -----> atropine
+5: KEY: atropine *** Source language -----> RXNORM
+6 KEY: atropine *** CUI CODE in original terminology -----> 1223
+7: KEY: atropine *** Final position in text according to JSON Object -----> 229
+8: KEY: atropine *** Initial position according to JSON Object -----> 222
+9: KEY: atropine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1223
+10: KEY: atropine *** Preferred name according to JSON Object -----> Atropine
+---------------------------------------------------------
+1: KEY: thioridazine *** RXCUI -----> 10502
+2: KEY: thioridazine *** Concept from RXNORM -----> Thioridazine
+3: KEY: thioridazine *** Concept Type -----> IN
+4: KEY: thioridazine *** Drug mention in text -----> thioridazine
+5: KEY: thioridazine *** Source language -----> MSH
+6 KEY: thioridazine *** CUI CODE in original terminology -----> D013881
+7: KEY: thioridazine *** Final position in text according to JSON Object -----> 52
+8: KEY: thioridazine *** Initial position according to JSON Object -----> 41
+9: KEY: thioridazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013881
+10: KEY: thioridazine *** Preferred name according to JSON Object -----> Thioridazine
+---------------------------------------------------------
+removed duplications 11
+Number of missed JSON elements: 1

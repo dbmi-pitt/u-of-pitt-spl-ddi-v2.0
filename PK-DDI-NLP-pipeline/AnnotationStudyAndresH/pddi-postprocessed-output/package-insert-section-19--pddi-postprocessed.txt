@@ -1,0 +1,2 @@
+sertraline	digoxin	1	1	true	negative	In a placebo-controlled trial in normal volunteers, administration of sertraline for 17 days (including 200 mg/day for the last 10 days) did not change serum digoxin levels or digoxin renal clearance.  		36437	3407	D020280	3407
+sertraline	digoxin	1	1	true	negative	In a placebo-controlled trial in normal volunteers, administration of sertraline for 17 days (including 200 mg/day for the last 10 days) did not change serum digoxin levels or digoxin renal clearance.  		36437	3407	D020280	3407

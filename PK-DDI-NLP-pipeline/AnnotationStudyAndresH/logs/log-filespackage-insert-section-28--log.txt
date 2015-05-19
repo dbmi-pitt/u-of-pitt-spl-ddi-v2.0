@@ -1,0 +1,79 @@
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> MSH
+6 KEY: theophylline *** CUI CODE in original terminology -----> D013806
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 270
+8: KEY: theophylline *** Initial position according to JSON Object -----> 259
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> MSH
+6 KEY: theophylline *** CUI CODE in original terminology -----> D013806
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 270
+8: KEY: theophylline *** Initial position according to JSON Object -----> 259
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY:  of theophyl *** RXCUI -----> 10438
+2: KEY:  of theophyl *** Concept from RXNORM -----> Theophylline
+3: KEY:  of theophyl *** Concept Type -----> IN
+4: KEY:  of theophyl *** Drug mention in text ----->  of theophyl
+5: KEY:  of theophyl *** Source language -----> MSH
+6 KEY:  of theophyl *** CUI CODE in original terminology -----> D013806
+7: KEY:  of theophyl *** Final position in text according to JSON Object -----> 554
+8: KEY:  of theophyl *** Initial position according to JSON Object -----> 543
+9: KEY:  of theophyl *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY:  of theophyl *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY:  theophyllin *** RXCUI -----> 10438
+2: KEY:  theophyllin *** Concept from RXNORM -----> Theophylline
+3: KEY:  theophyllin *** Concept Type -----> IN
+4: KEY:  theophyllin *** Drug mention in text ----->  theophyllin
+5: KEY:  theophyllin *** Source language -----> MSH
+6 KEY:  theophyllin *** CUI CODE in original terminology -----> D013806
+7: KEY:  theophyllin *** Final position in text according to JSON Object -----> 366
+8: KEY:  theophyllin *** Initial position according to JSON Object -----> 355
+9: KEY:  theophyllin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY:  theophyllin *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: ). Theophyll *** RXCUI -----> 10438
+2: KEY: ). Theophyll *** Concept from RXNORM -----> Theophylline
+3: KEY: ). Theophyll *** Concept Type -----> IN
+4: KEY: ). Theophyll *** Drug mention in text -----> ). Theophyll
+5: KEY: ). Theophyll *** Source language -----> MSH
+6 KEY: ). Theophyll *** CUI CODE in original terminology -----> D013806
+7: KEY: ). Theophyll *** Final position in text according to JSON Object -----> 473
+8: KEY: ). Theophyll *** Initial position according to JSON Object -----> 462
+9: KEY: ). Theophyll *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY: ). Theophyll *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: aminophylline *** RXCUI -----> 689
+2: KEY: aminophylline *** Concept from RXNORM -----> Aminophylline
+3: KEY: aminophylline *** Concept Type -----> IN
+4: KEY: aminophylline *** Drug mention in text -----> aminophylline
+5: KEY: aminophylline *** Source language -----> MSH
+6 KEY: aminophylline *** CUI CODE in original terminology -----> D000628
+7: KEY: aminophylline *** Final position in text according to JSON Object -----> 100
+8: KEY: aminophylline *** Initial position according to JSON Object -----> 88
+9: KEY: aminophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000628
+10: KEY: aminophylline *** Preferred name according to JSON Object -----> Aminophylline
+---------------------------------------------------------
+1: KEY: fluconazole *** RXCUI -----> 4450
+2: KEY: fluconazole *** Concept from RXNORM -----> Fluconazole
+3: KEY: fluconazole *** Concept Type -----> IN
+4: KEY: fluconazole *** Drug mention in text -----> fluconazole
+5: KEY: fluconazole *** Source language -----> RXNORM
+6 KEY: fluconazole *** CUI CODE in original terminology -----> 4450
+7: KEY: fluconazole *** Final position in text according to JSON Object -----> 166
+8: KEY: fluconazole *** Initial position according to JSON Object -----> 156
+9: KEY: fluconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4450
+10: KEY: fluconazole *** Preferred name according to JSON Object -----> Fluconazole
+---------------------------------------------------------
+removed duplications 36
+Number of missed JSON elements: 0

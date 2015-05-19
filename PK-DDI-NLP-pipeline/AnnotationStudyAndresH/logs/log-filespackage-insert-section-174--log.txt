@@ -1,0 +1,46 @@
+1: KEY: tacrolimus *** RXCUI -----> 42316
+2: KEY: tacrolimus *** Concept from RXNORM -----> Tacrolimus
+3: KEY: tacrolimus *** Concept Type -----> IN
+4: KEY: tacrolimus *** Drug mention in text -----> tacrolimus
+5: KEY: tacrolimus *** Source language -----> MSH
+6 KEY: tacrolimus *** CUI CODE in original terminology -----> D016559
+7: KEY: tacrolimus *** Final position in text according to JSON Object -----> 71
+8: KEY: tacrolimus *** Initial position according to JSON Object -----> 62
+9: KEY: tacrolimus *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016559
+10: KEY: tacrolimus *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: n tacrolim *** RXCUI -----> 42316
+2: KEY: n tacrolim *** Concept from RXNORM -----> Tacrolimus
+3: KEY: n tacrolim *** Concept Type -----> IN
+4: KEY: n tacrolim *** Drug mention in text -----> n tacrolim
+5: KEY: n tacrolim *** Source language -----> RXNORM
+6 KEY: n tacrolim *** CUI CODE in original terminology -----> 42316
+7: KEY: n tacrolim *** Final position in text according to JSON Object -----> 233
+8: KEY: n tacrolim *** Initial position according to JSON Object -----> 224
+9: KEY: n tacrolim *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42316
+10: KEY: n tacrolim *** Preferred name according to JSON Object -----> Tacrolimus
+---------------------------------------------------------
+1: KEY: t rifamp *** RXCUI -----> 9384
+2: KEY: t rifamp *** Concept from RXNORM -----> Rifampin
+3: KEY: t rifamp *** Concept Type -----> IN
+4: KEY: t rifamp *** Drug mention in text -----> t rifamp
+5: KEY: t rifamp *** Source language -----> MSH
+6 KEY: t rifamp *** CUI CODE in original terminology -----> D012293
+7: KEY: t rifamp *** Final position in text according to JSON Object -----> 148
+8: KEY: t rifamp *** Initial position according to JSON Object -----> 141
+9: KEY: t rifamp *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012293
+10: KEY: t rifamp *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: ant rifa *** RXCUI -----> 9384
+2: KEY: ant rifa *** Concept from RXNORM -----> Rifampin
+3: KEY: ant rifa *** Concept Type -----> IN
+4: KEY: ant rifa *** Drug mention in text -----> ant rifa
+5: KEY: ant rifa *** Source language -----> RXNORM
+6 KEY: ant rifa *** CUI CODE in original terminology -----> 9384
+7: KEY: ant rifa *** Final position in text according to JSON Object -----> 315
+8: KEY: ant rifa *** Initial position according to JSON Object -----> 308
+9: KEY: ant rifa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: ant rifa *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

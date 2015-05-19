@@ -1,0 +1,35 @@
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 39
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 29
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 39
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 29
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+1: KEY: nisoldipine *** RXCUI -----> 7435
+2: KEY: nisoldipine *** Concept from RXNORM -----> Nisoldipine
+3: KEY: nisoldipine *** Concept Type -----> IN
+4: KEY: nisoldipine *** Drug mention in text -----> nisoldipine
+5: KEY: nisoldipine *** Source language -----> MSH
+6 KEY: nisoldipine *** CUI CODE in original terminology -----> D015737
+7: KEY: nisoldipine *** Final position in text according to JSON Object -----> 39
+8: KEY: nisoldipine *** Initial position according to JSON Object -----> 29
+9: KEY: nisoldipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015737
+10: KEY: nisoldipine *** Preferred name according to JSON Object -----> Nisoldipine
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

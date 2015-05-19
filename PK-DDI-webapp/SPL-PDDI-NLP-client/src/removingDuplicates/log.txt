@@ -1,0 +1,576 @@
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel bisulfate *** RXCUI -----> 32968
+2: KEY: clopidogrel bisulfate *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel bisulfate *** Concept Type -----> IN
+4: KEY: clopidogrel bisulfate *** Drug mention in text -----> clopidogrel bisulfate
+5: KEY: clopidogrel bisulfate *** Source language -----> MSH
+6 KEY: clopidogrel bisulfate *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel bisulfate *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel bisulfate *** Final position in text according to JSON Object -----> 1594
+9: KEY: clopidogrel bisulfate *** Initial position according to JSON Object -----> 1574
+10: KEY: clopidogrel bisulfate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel bisulfate *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: clopidogrel *** RXCUI -----> 32968
+2: KEY: clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: clopidogrel *** Concept Type -----> IN
+4: KEY: clopidogrel *** Drug mention in text -----> clopidogrel
+5: KEY: clopidogrel *** Source language -----> MSH
+6 KEY: clopidogrel *** CUI CODE in original terminology -----> C055162
+7: KEY: clopidogrel *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: clopidogrel *** Final position in text according to JSON Object -----> 804
+9: KEY: clopidogrel *** Initial position according to JSON Object -----> 794
+10: KEY: clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C055162
+11: KEY: clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> RXNORM
+6 KEY: warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: warfarin *** Final position in text according to JSON Object -----> 2849
+9: KEY: warfarin *** Initial position according to JSON Object -----> 2842
+10: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> RXNORM
+6 KEY: warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: warfarin *** Final position in text according to JSON Object -----> 2849
+9: KEY: warfarin *** Initial position according to JSON Object -----> 2842
+10: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> RXNORM
+6 KEY: warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: warfarin *** Final position in text according to JSON Object -----> 2849
+9: KEY: warfarin *** Initial position according to JSON Object -----> 2842
+10: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> RXNORM
+6 KEY: warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: warfarin *** Final position in text according to JSON Object -----> 2849
+9: KEY: warfarin *** Initial position according to JSON Object -----> 2842
+10: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: Dexlansoprazole *** RXCUI -----> 816346
+2: KEY: Dexlansoprazole *** Concept from RXNORM -----> dexlansoprazole
+3: KEY: Dexlansoprazole *** Concept Type -----> IN
+4: KEY: Dexlansoprazole *** Drug mention in text -----> Dexlansoprazole
+5: KEY: Dexlansoprazole *** Source language -----> RXNORM
+6 KEY: Dexlansoprazole *** CUI CODE in original terminology -----> 816346
+7: KEY: Dexlansoprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: Dexlansoprazole *** Final position in text according to JSON Object -----> 1750
+9: KEY: Dexlansoprazole *** Initial position according to JSON Object -----> 1736
+10: KEY: Dexlansoprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/816346
+11: KEY: Dexlansoprazole *** Preferred name according to JSON Object -----> dexlansoprazole
+---------------------------------------------------------
+1: KEY: Warfarin *** RXCUI -----> 11289
+2: KEY: Warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: Warfarin *** Concept Type -----> IN
+4: KEY: Warfarin *** Drug mention in text -----> Warfarin
+5: KEY: Warfarin *** Source language -----> RXNORM
+6 KEY: Warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: Warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Warfarin *** Final position in text according to JSON Object -----> 2542
+9: KEY: Warfarin *** Initial position according to JSON Object -----> 2535
+10: KEY: Warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: Warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: Warfarin *** RXCUI -----> 11289
+2: KEY: Warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: Warfarin *** Concept Type -----> IN
+4: KEY: Warfarin *** Drug mention in text -----> Warfarin
+5: KEY: Warfarin *** Source language -----> RXNORM
+6 KEY: Warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: Warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Warfarin *** Final position in text according to JSON Object -----> 2542
+9: KEY: Warfarin *** Initial position according to JSON Object -----> 2535
+10: KEY: Warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: Warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: Warfarin *** RXCUI -----> 11289
+2: KEY: Warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: Warfarin *** Concept Type -----> IN
+4: KEY: Warfarin *** Drug mention in text -----> Warfarin
+5: KEY: Warfarin *** Source language -----> RXNORM
+6 KEY: Warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: Warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Warfarin *** Final position in text according to JSON Object -----> 2542
+9: KEY: Warfarin *** Initial position according to JSON Object -----> 2535
+10: KEY: Warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: Warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: Warfarin *** RXCUI -----> 11289
+2: KEY: Warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: Warfarin *** Concept Type -----> IN
+4: KEY: Warfarin *** Drug mention in text -----> Warfarin
+5: KEY: Warfarin *** Source language -----> RXNORM
+6 KEY: Warfarin *** CUI CODE in original terminology -----> 11289
+7: KEY: Warfarin *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Warfarin *** Final position in text according to JSON Object -----> 2542
+9: KEY: Warfarin *** Initial position according to JSON Object -----> 2535
+10: KEY: Warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11289
+11: KEY: Warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: clopidogrel 75 mg *** RXCUI -----> 32968
+2: KEY: clopidogrel 75 mg *** Concept from RXNORM -----> (('clopidogrel',),)
+3: KEY: clopidogrel 75 mg *** Concept Type -----> (('IN',),)
+4: KEY: clopidogrel 75 mg *** Drug mention in text -----> clopidogrel 75 mg
+5: KEY: clopidogrel 75 mg *** Source language -----> RXNORM
+6 KEY: clopidogrel 75 mg *** CUI CODE in original terminology -----> 329449
+7: KEY: clopidogrel 75 mg *** Semantic type according to JSON Object -----> [u'T200', u'T200']
+8: KEY: clopidogrel 75 mg *** Final position in text according to JSON Object -----> 2657
+9: KEY: clopidogrel 75 mg *** Initial position according to JSON Object -----> 2641
+10: KEY: clopidogrel 75 mg *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/329449
+11: KEY: clopidogrel 75 mg *** Preferred name according to JSON Object -----> clopidogrel 75 MG
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: esomeprazole *** RXCUI -----> 283742
+2: KEY: esomeprazole *** Concept from RXNORM -----> Esomeprazole
+3: KEY: esomeprazole *** Concept Type -----> IN
+4: KEY: esomeprazole *** Drug mention in text -----> esomeprazole
+5: KEY: esomeprazole *** Source language -----> RXNORM
+6 KEY: esomeprazole *** CUI CODE in original terminology -----> 283742
+7: KEY: esomeprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: esomeprazole *** Final position in text according to JSON Object -----> 1151
+9: KEY: esomeprazole *** Initial position according to JSON Object -----> 1140
+10: KEY: esomeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/283742
+11: KEY: esomeprazole *** Preferred name according to JSON Object -----> Esomeprazole
+---------------------------------------------------------
+1: KEY: pantoprazole *** RXCUI -----> 40790
+2: KEY: pantoprazole *** Concept from RXNORM -----> pantoprazole
+3: KEY: pantoprazole *** Concept Type -----> IN
+4: KEY: pantoprazole *** Drug mention in text -----> pantoprazole
+5: KEY: pantoprazole *** Source language -----> RXNORM
+6 KEY: pantoprazole *** CUI CODE in original terminology -----> 40790
+7: KEY: pantoprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: pantoprazole *** Final position in text according to JSON Object -----> 1781
+9: KEY: pantoprazole *** Initial position according to JSON Object -----> 1770
+10: KEY: pantoprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40790
+11: KEY: pantoprazole *** Preferred name according to JSON Object -----> pantoprazole
+---------------------------------------------------------
+1: KEY: pantoprazole *** RXCUI -----> 40790
+2: KEY: pantoprazole *** Concept from RXNORM -----> pantoprazole
+3: KEY: pantoprazole *** Concept Type -----> IN
+4: KEY: pantoprazole *** Drug mention in text -----> pantoprazole
+5: KEY: pantoprazole *** Source language -----> RXNORM
+6 KEY: pantoprazole *** CUI CODE in original terminology -----> 40790
+7: KEY: pantoprazole *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: pantoprazole *** Final position in text according to JSON Object -----> 1781
+9: KEY: pantoprazole *** Initial position according to JSON Object -----> 1770
+10: KEY: pantoprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40790
+11: KEY: pantoprazole *** Preferred name according to JSON Object -----> pantoprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: omeprazole *** RXCUI -----> 7646
+2: KEY: omeprazole *** Concept from RXNORM -----> Omeprazole
+3: KEY: omeprazole *** Concept Type -----> IN
+4: KEY: omeprazole *** Drug mention in text -----> omeprazole
+5: KEY: omeprazole *** Source language -----> RXNORM
+6 KEY: omeprazole *** CUI CODE in original terminology -----> 7646
+7: KEY: omeprazole *** Semantic type according to JSON Object -----> [u'T121', u'T121']
+8: KEY: omeprazole *** Final position in text according to JSON Object -----> 1184
+9: KEY: omeprazole *** Initial position according to JSON Object -----> 1175
+10: KEY: omeprazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7646
+11: KEY: omeprazole *** Preferred name according to JSON Object -----> Omeprazole
+---------------------------------------------------------
+1: KEY: Clopidogrel *** RXCUI -----> 32968
+2: KEY: Clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: Clopidogrel *** Concept Type -----> IN
+4: KEY: Clopidogrel *** Drug mention in text -----> Clopidogrel
+5: KEY: Clopidogrel *** Source language -----> RXNORM
+6 KEY: Clopidogrel *** CUI CODE in original terminology -----> 32968
+7: KEY: Clopidogrel *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Clopidogrel *** Final position in text according to JSON Object -----> 589
+9: KEY: Clopidogrel *** Initial position according to JSON Object -----> 579
+10: KEY: Clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/32968
+11: KEY: Clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------
+1: KEY: Clopidogrel *** RXCUI -----> 32968
+2: KEY: Clopidogrel *** Concept from RXNORM -----> clopidogrel
+3: KEY: Clopidogrel *** Concept Type -----> IN
+4: KEY: Clopidogrel *** Drug mention in text -----> Clopidogrel
+5: KEY: Clopidogrel *** Source language -----> RXNORM
+6 KEY: Clopidogrel *** CUI CODE in original terminology -----> 32968
+7: KEY: Clopidogrel *** Semantic type according to JSON Object -----> [u'T109', u'T109']
+8: KEY: Clopidogrel *** Final position in text according to JSON Object -----> 589
+9: KEY: Clopidogrel *** Initial position according to JSON Object -----> 579
+10: KEY: Clopidogrel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/32968
+11: KEY: Clopidogrel *** Preferred name according to JSON Object -----> clopidogrel
+---------------------------------------------------------

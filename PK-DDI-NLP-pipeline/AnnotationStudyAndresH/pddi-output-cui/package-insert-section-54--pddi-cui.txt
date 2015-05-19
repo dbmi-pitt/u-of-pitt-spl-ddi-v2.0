@@ -1,0 +1,5 @@
+diltiazem	Diltiazem	1	1	true	positive	Diltiazem significantly decreases the clearance and increases the t1/2 of quinidine, but quinidine does not alter the kinetics of diltiazem.  		D004110	D004110
+diltiazem	quinidine	1	1	true	positive	Diltiazem significantly decreases the clearance and increases the t1/2 of quinidine, but quinidine does not alter the kinetics of diltiazem.  		3443	9068	D004110	D011802
+diltiazem	quinidine	1	1	true	positive	Diltiazem significantly decreases the clearance and increases the t1/2 of quinidine, but quinidine does not alter the kinetics of diltiazem.  		3443	9068	D004110	D011802
+Diltiazem	quinidine	1	1	true	positive	Diltiazem significantly decreases the clearance and increases the t1/2 of quinidine, but quinidine does not alter the kinetics of diltiazem.  		3443	9068	D004110	D011802
+Diltiazem	quinidine	1	1	true	positive	Diltiazem significantly decreases the clearance and increases the t1/2 of quinidine, but quinidine does not alter the kinetics of diltiazem.  		3443	9068	D004110	D011802

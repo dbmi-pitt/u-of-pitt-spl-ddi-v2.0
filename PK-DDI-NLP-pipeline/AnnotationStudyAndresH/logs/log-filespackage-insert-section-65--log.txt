@@ -1,0 +1,178 @@
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: triazolam *** RXCUI -----> 10767
+2: KEY: triazolam *** Concept from RXNORM -----> Triazolam
+3: KEY: triazolam *** Concept Type -----> IN
+4: KEY: triazolam *** Drug mention in text -----> triazolam
+5: KEY: triazolam *** Source language -----> MSH
+6 KEY: triazolam *** CUI CODE in original terminology -----> D014229
+7: KEY: triazolam *** Final position in text according to JSON Object -----> 742
+8: KEY: triazolam *** Initial position according to JSON Object -----> 734
+9: KEY: triazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014229
+10: KEY: triazolam *** Preferred name according to JSON Object -----> Triazolam
+---------------------------------------------------------
+1: KEY: Nefazodone *** RXCUI -----> 31565
+2: KEY: Nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: Nefazodone *** Concept Type -----> IN
+4: KEY: Nefazodone *** Drug mention in text -----> Nefazodone
+5: KEY: Nefazodone *** Source language -----> MSH
+6 KEY: Nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: Nefazodone *** Final position in text according to JSON Object -----> 209
+8: KEY: Nefazodone *** Initial position according to JSON Object -----> 200
+9: KEY: Nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: Nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> RXNORM
+6 KEY: nefazodone *** CUI CODE in original terminology -----> 31565
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 410
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 401
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/31565
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> RXNORM
+6 KEY: nefazodone *** CUI CODE in original terminology -----> 31565
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 410
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 401
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/31565
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> RXNORM
+6 KEY: nefazodone *** CUI CODE in original terminology -----> 31565
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 410
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 401
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/31565
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> RXNORM
+6 KEY: nefazodone *** CUI CODE in original terminology -----> 31565
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 410
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 401
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/31565
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> RXNORM
+6 KEY: nefazodone *** CUI CODE in original terminology -----> 31565
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 410
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 401
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/31565
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+removed duplications 54
+Number of missed JSON elements: 0

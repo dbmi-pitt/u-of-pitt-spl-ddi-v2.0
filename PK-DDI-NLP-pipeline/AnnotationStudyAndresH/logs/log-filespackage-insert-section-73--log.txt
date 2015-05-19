@@ -1,0 +1,706 @@
+1: KEY: 
+Oxycodon *** RXCUI -----> 7804
+2: KEY: 
+Oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY: 
+Oxycodon *** Concept Type -----> IN
+4: KEY: 
+Oxycodon *** Drug mention in text -----> 
+Oxycodon
+5: KEY: 
+Oxycodon *** Source language -----> MSH
+6 KEY: 
+Oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY: 
+Oxycodon *** Final position in text according to JSON Object -----> 5461
+8: KEY: 
+Oxycodon *** Initial position according to JSON Object -----> 5453
+9: KEY: 
+Oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: 
+Oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: 
+Oxycodon *** RXCUI -----> 7804
+2: KEY: 
+Oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY: 
+Oxycodon *** Concept Type -----> IN
+4: KEY: 
+Oxycodon *** Drug mention in text -----> 
+Oxycodon
+5: KEY: 
+Oxycodon *** Source language -----> MSH
+6 KEY: 
+Oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY: 
+Oxycodon *** Final position in text according to JSON Object -----> 5461
+8: KEY: 
+Oxycodon *** Initial position according to JSON Object -----> 5453
+9: KEY: 
+Oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: 
+Oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Thyroid stimulating hormone *** RXCUI -----> 10579
+2: KEY: Thyroid stimulating hormone *** Concept from RXNORM -----> Thyrotropin
+3: KEY: Thyroid stimulating hormone *** Concept Type -----> IN
+4: KEY: Thyroid stimulating hormone *** Drug mention in text -----> Thyroid stimulating hormone
+5: KEY: Thyroid stimulating hormone *** Source language -----> MSH
+6 KEY: Thyroid stimulating hormone *** CUI CODE in original terminology -----> D013972
+7: KEY: Thyroid stimulating hormone *** Final position in text according to JSON Object -----> 3188
+8: KEY: Thyroid stimulating hormone *** Initial position according to JSON Object -----> 3162
+9: KEY: Thyroid stimulating hormone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013972
+10: KEY: Thyroid stimulating hormone *** Preferred name according to JSON Object -----> Thyrotropin
+---------------------------------------------------------
+1: KEY: glucagon *** RXCUI -----> 4832
+2: KEY: glucagon *** Concept from RXNORM -----> Glucagon
+3: KEY: glucagon *** Concept Type -----> IN
+4: KEY: glucagon *** Drug mention in text -----> glucagon
+5: KEY: glucagon *** Source language -----> MSH
+6 KEY: glucagon *** CUI CODE in original terminology -----> D005934
+7: KEY: glucagon *** Final position in text according to JSON Object -----> 3116
+8: KEY: glucagon *** Initial position according to JSON Object -----> 3109
+9: KEY: glucagon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005934
+10: KEY: glucagon *** Preferred name according to JSON Object -----> Glucagon
+---------------------------------------------------------
+1: KEY:  creatinin *** RXCUI -----> 2913
+2: KEY:  creatinin *** Concept from RXNORM -----> Creatinine
+3: KEY:  creatinin *** Concept Type -----> IN
+4: KEY:  creatinin *** Drug mention in text ----->  creatinin
+5: KEY:  creatinin *** Source language -----> MSH
+6 KEY:  creatinin *** CUI CODE in original terminology -----> D003404
+7: KEY:  creatinin *** Final position in text according to JSON Object -----> 6393
+8: KEY:  creatinin *** Initial position according to JSON Object -----> 6384
+9: KEY:  creatinin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003404
+10: KEY:  creatinin *** Preferred name according to JSON Object -----> Creatinine
+---------------------------------------------------------
+1: KEY: oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: oxycodone hydrochloride *** Drug mention in text -----> oxycodone hydrochloride
+5: KEY: oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone hydrochloride *** Final position in text according to JSON Object -----> 953
+8: KEY: oxycodone hydrochloride *** Initial position according to JSON Object -----> 931
+9: KEY: oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: oxycodone hydrochloride *** Drug mention in text -----> oxycodone hydrochloride
+5: KEY: oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone hydrochloride *** Final position in text according to JSON Object -----> 953
+8: KEY: oxycodone hydrochloride *** Initial position according to JSON Object -----> 931
+9: KEY: oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: oxycodone hydrochloride *** Drug mention in text -----> oxycodone hydrochloride
+5: KEY: oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone hydrochloride *** Final position in text according to JSON Object -----> 953
+8: KEY: oxycodone hydrochloride *** Initial position according to JSON Object -----> 931
+9: KEY: oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: oxycodone hydrochloride *** Drug mention in text -----> oxycodone hydrochloride
+5: KEY: oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone hydrochloride *** Final position in text according to JSON Object -----> 953
+8: KEY: oxycodone hydrochloride *** Initial position according to JSON Object -----> 931
+9: KEY: oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: oxycodone hydrochloride *** Drug mention in text -----> oxycodone hydrochloride
+5: KEY: oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone hydrochloride *** Final position in text according to JSON Object -----> 953
+8: KEY: oxycodone hydrochloride *** Initial position according to JSON Object -----> 931
+9: KEY: oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxymorphon *** RXCUI -----> 7814
+2: KEY:  oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  oxymorphon *** Concept Type -----> IN
+4: KEY:  oxymorphon *** Drug mention in text ----->  oxymorphon
+5: KEY:  oxymorphon *** Source language -----> RXNORM
+6 KEY:  oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  oxymorphon *** Final position in text according to JSON Object -----> 4615
+8: KEY:  oxymorphon *** Initial position according to JSON Object -----> 4605
+9: KEY:  oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: oxycodone *** RXCUI -----> 7804
+2: KEY: oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: oxycodone *** Concept Type -----> IN
+4: KEY: oxycodone *** Drug mention in text -----> oxycodone
+5: KEY: oxycodone *** Source language -----> MSH
+6 KEY: oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: oxycodone *** Final position in text according to JSON Object -----> 4412
+8: KEY: oxycodone *** Initial position according to JSON Object -----> 4404
+9: KEY: oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: amylase *** RXCUI -----> 743
+2: KEY: amylase *** Concept from RXNORM -----> Amylases
+3: KEY: amylase *** Concept Type -----> IN
+4: KEY: amylase *** Drug mention in text -----> amylase
+5: KEY: amylase *** Source language -----> MSH
+6 KEY: amylase *** CUI CODE in original terminology -----> D000681
+7: KEY: amylase *** Final position in text according to JSON Object -----> 2164
+8: KEY: amylase *** Initial position according to JSON Object -----> 2158
+9: KEY: amylase *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000681
+10: KEY: amylase *** Preferred name according to JSON Object -----> Amylases
+---------------------------------------------------------
+1: KEY: prolactin *** RXCUI -----> 1426890
+2: KEY: prolactin *** Concept from RXNORM -----> Prolactin
+3: KEY: prolactin *** Concept Type -----> IN
+4: KEY: prolactin *** Drug mention in text -----> prolactin
+5: KEY: prolactin *** Source language -----> MSH
+6 KEY: prolactin *** CUI CODE in original terminology -----> D011388
+7: KEY: prolactin *** Final position in text according to JSON Object -----> 3035
+8: KEY: prolactin *** Initial position according to JSON Object -----> 3027
+9: KEY: prolactin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011388
+10: KEY: prolactin *** Preferred name according to JSON Object -----> Prolactin
+---------------------------------------------------------
+1: KEY:  voriconazol *** RXCUI -----> 121243
+2: KEY:  voriconazol *** Concept from RXNORM -----> voriconazole
+3: KEY:  voriconazol *** Concept Type -----> IN
+4: KEY:  voriconazol *** Drug mention in text ----->  voriconazol
+5: KEY:  voriconazol *** Source language -----> RXNORM
+6 KEY:  voriconazol *** CUI CODE in original terminology -----> 121243
+7: KEY:  voriconazol *** Final position in text according to JSON Object -----> 6806
+8: KEY:  voriconazol *** Initial position according to JSON Object -----> 6795
+9: KEY:  voriconazol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/121243
+10: KEY:  voriconazol *** Preferred name according to JSON Object -----> voriconazole
+---------------------------------------------------------
+1: KEY:  Oxymorphon *** RXCUI -----> 7814
+2: KEY:  Oxymorphon *** Concept from RXNORM -----> Oxymorphone
+3: KEY:  Oxymorphon *** Concept Type -----> IN
+4: KEY:  Oxymorphon *** Drug mention in text ----->  Oxymorphon
+5: KEY:  Oxymorphon *** Source language -----> RXNORM
+6 KEY:  Oxymorphon *** CUI CODE in original terminology -----> 7814
+7: KEY:  Oxymorphon *** Final position in text according to JSON Object -----> 5143
+8: KEY:  Oxymorphon *** Initial position according to JSON Object -----> 5133
+9: KEY:  Oxymorphon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/7814
+10: KEY:  Oxymorphon *** Preferred name according to JSON Object -----> Oxymorphone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY:  oxycodon *** RXCUI -----> 7804
+2: KEY:  oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  oxycodon *** Concept Type -----> IN
+4: KEY:  oxycodon *** Drug mention in text ----->  oxycodon
+5: KEY:  oxycodon *** Source language -----> MSH
+6 KEY:  oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  oxycodon *** Final position in text according to JSON Object -----> 6182
+8: KEY:  oxycodon *** Initial position according to JSON Object -----> 6174
+9: KEY:  oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: 
+Oxycodone hydrochlorid *** RXCUI -----> 7804
+2: KEY: 
+Oxycodone hydrochlorid *** Concept from RXNORM -----> Oxycodone
+3: KEY: 
+Oxycodone hydrochlorid *** Concept Type -----> IN
+4: KEY: 
+Oxycodone hydrochlorid *** Drug mention in text -----> 
+Oxycodone hydrochlorid
+5: KEY: 
+Oxycodone hydrochlorid *** Source language -----> MSH
+6 KEY: 
+Oxycodone hydrochlorid *** CUI CODE in original terminology -----> D010098
+7: KEY: 
+Oxycodone hydrochlorid *** Final position in text according to JSON Object -----> 4528
+8: KEY: 
+Oxycodone hydrochlorid *** Initial position according to JSON Object -----> 4506
+9: KEY: 
+Oxycodone hydrochlorid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: 
+Oxycodone hydrochlorid *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone *** RXCUI -----> 7804
+2: KEY: Oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone *** Concept Type -----> IN
+4: KEY: Oxycodone *** Drug mention in text -----> Oxycodone
+5: KEY: Oxycodone *** Source language -----> MSH
+6 KEY: Oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone *** Final position in text according to JSON Object -----> 1167
+8: KEY: Oxycodone *** Initial position according to JSON Object -----> 1159
+9: KEY: Oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone *** RXCUI -----> 7804
+2: KEY: Oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone *** Concept Type -----> IN
+4: KEY: Oxycodone *** Drug mention in text -----> Oxycodone
+5: KEY: Oxycodone *** Source language -----> MSH
+6 KEY: Oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone *** Final position in text according to JSON Object -----> 1167
+8: KEY: Oxycodone *** Initial position according to JSON Object -----> 1159
+9: KEY: Oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone *** RXCUI -----> 7804
+2: KEY: Oxycodone *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone *** Concept Type -----> IN
+4: KEY: Oxycodone *** Drug mention in text -----> Oxycodone
+5: KEY: Oxycodone *** Source language -----> MSH
+6 KEY: Oxycodone *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone *** Final position in text according to JSON Object -----> 1167
+8: KEY: Oxycodone *** Initial position according to JSON Object -----> 1159
+9: KEY: Oxycodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: cortisol *** RXCUI -----> 5492
+2: KEY: cortisol *** Concept from RXNORM -----> Hydrocortisone
+3: KEY: cortisol *** Concept Type -----> IN
+4: KEY: cortisol *** Drug mention in text -----> cortisol
+5: KEY: cortisol *** Source language -----> MSH
+6 KEY: cortisol *** CUI CODE in original terminology -----> D006854
+7: KEY: cortisol *** Final position in text according to JSON Object -----> 2964
+8: KEY: cortisol *** Initial position according to JSON Object -----> 2957
+9: KEY: cortisol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006854
+10: KEY: cortisol *** Preferred name according to JSON Object -----> Hydrocortisone
+---------------------------------------------------------
+1: KEY:  rifampi *** RXCUI -----> 9384
+2: KEY:  rifampi *** Concept from RXNORM -----> Rifampin
+3: KEY:  rifampi *** Concept Type -----> IN
+4: KEY:  rifampi *** Drug mention in text ----->  rifampi
+5: KEY:  rifampi *** Source language -----> RXNORM
+6 KEY:  rifampi *** CUI CODE in original terminology -----> 9384
+7: KEY:  rifampi *** Final position in text according to JSON Object -----> 6976
+8: KEY:  rifampi *** Initial position according to JSON Object -----> 6969
+9: KEY:  rifampi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY:  rifampi *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY:  Oxycodon *** RXCUI -----> 7804
+2: KEY:  Oxycodon *** Concept from RXNORM -----> Oxycodone
+3: KEY:  Oxycodon *** Concept Type -----> IN
+4: KEY:  Oxycodon *** Drug mention in text ----->  Oxycodon
+5: KEY:  Oxycodon *** Source language -----> MSH
+6 KEY:  Oxycodon *** CUI CODE in original terminology -----> D010098
+7: KEY:  Oxycodon *** Final position in text according to JSON Object -----> 4461
+8: KEY:  Oxycodon *** Initial position according to JSON Object -----> 4453
+9: KEY:  Oxycodon *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY:  Oxycodon *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: luteinizing hormone *** RXCUI -----> 6383
+2: KEY: luteinizing hormone *** Concept from RXNORM -----> Luteinizing Hormone
+3: KEY: luteinizing hormone *** Concept Type -----> IN
+4: KEY: luteinizing hormone *** Drug mention in text -----> luteinizing hormone
+5: KEY: luteinizing hormone *** Source language -----> RXNORM
+6 KEY: luteinizing hormone *** CUI CODE in original terminology -----> 6383
+7: KEY: luteinizing hormone *** Final position in text according to JSON Object -----> 2989
+8: KEY: luteinizing hormone *** Initial position according to JSON Object -----> 2971
+9: KEY: luteinizing hormone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6383
+10: KEY: luteinizing hormone *** Preferred name according to JSON Object -----> Luteinizing Hormone
+---------------------------------------------------------
+1: KEY: ACTH *** RXCUI -----> 376
+2: KEY: ACTH *** Concept from RXNORM -----> Corticotropin
+3: KEY: ACTH *** Concept Type -----> IN
+4: KEY: ACTH *** Drug mention in text -----> ACTH
+5: KEY: ACTH *** Source language -----> MSH
+6 KEY: ACTH *** CUI CODE in original terminology -----> D000324
+7: KEY: ACTH *** Final position in text according to JSON Object -----> 2954
+8: KEY: ACTH *** Initial position according to JSON Object -----> 2951
+9: KEY: ACTH *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000324
+10: KEY: ACTH *** Preferred name according to JSON Object -----> Adrenocorticotropic Hormone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: Oxycodone hydrochloride *** RXCUI -----> 7804
+2: KEY: Oxycodone hydrochloride *** Concept from RXNORM -----> Oxycodone
+3: KEY: Oxycodone hydrochloride *** Concept Type -----> IN
+4: KEY: Oxycodone hydrochloride *** Drug mention in text -----> Oxycodone hydrochloride
+5: KEY: Oxycodone hydrochloride *** Source language -----> MSH
+6 KEY: Oxycodone hydrochloride *** CUI CODE in original terminology -----> D010098
+7: KEY: Oxycodone hydrochloride *** Final position in text according to JSON Object -----> 74
+8: KEY: Oxycodone hydrochloride *** Initial position according to JSON Object -----> 52
+9: KEY: Oxycodone hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010098
+10: KEY: Oxycodone hydrochloride *** Preferred name according to JSON Object -----> Oxycodone
+---------------------------------------------------------
+1: KEY: insulin *** RXCUI -----> 5856
+2: KEY: insulin *** Concept from RXNORM -----> Insulin
+3: KEY: insulin *** Concept Type -----> IN
+4: KEY: insulin *** Drug mention in text -----> insulin
+5: KEY: insulin *** Source language -----> MSH
+6 KEY: insulin *** CUI CODE in original terminology -----> D007328
+7: KEY: insulin *** Final position in text according to JSON Object -----> 3103
+8: KEY: insulin *** Initial position according to JSON Object -----> 3097
+9: KEY: insulin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007328
+10: KEY: insulin *** Preferred name according to JSON Object -----> Insulin
+---------------------------------------------------------
+1: KEY: histamine *** RXCUI -----> 5333
+2: KEY: histamine *** Concept from RXNORM -----> Histamine
+3: KEY: histamine *** Concept Type -----> IN
+4: KEY: histamine *** Drug mention in text -----> histamine
+5: KEY: histamine *** Source language -----> MSH
+6 KEY: histamine *** CUI CODE in original terminology -----> D006632
+7: KEY: histamine *** Final position in text according to JSON Object -----> 2407
+8: KEY: histamine *** Initial position according to JSON Object -----> 2399
+9: KEY: histamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D006632
+10: KEY: histamine *** Preferred name according to JSON Object -----> Histamine
+---------------------------------------------------------
+removed duplications 725
+Number of missed JSON elements: 7

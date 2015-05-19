@@ -1,0 +1,57 @@
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 53
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 44
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: nifedipine *** RXCUI -----> 7417
+2: KEY: nifedipine *** Concept from RXNORM -----> Nifedipine
+3: KEY: nifedipine *** Concept Type -----> IN
+4: KEY: nifedipine *** Drug mention in text -----> nifedipine
+5: KEY: nifedipine *** Source language -----> MSH
+6 KEY: nifedipine *** CUI CODE in original terminology -----> D009543
+7: KEY: nifedipine *** Final position in text according to JSON Object -----> 53
+8: KEY: nifedipine *** Initial position according to JSON Object -----> 44
+9: KEY: nifedipine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D009543
+10: KEY: nifedipine *** Preferred name according to JSON Object -----> Nifedipine
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> MSH
+6 KEY: midazolam *** CUI CODE in original terminology -----> D008874
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 306
+8: KEY: midazolam *** Initial position according to JSON Object -----> 298
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008874
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: midazolam *** RXCUI -----> 6960
+2: KEY: midazolam *** Concept from RXNORM -----> Midazolam
+3: KEY: midazolam *** Concept Type -----> IN
+4: KEY: midazolam *** Drug mention in text -----> midazolam
+5: KEY: midazolam *** Source language -----> MSH
+6 KEY: midazolam *** CUI CODE in original terminology -----> D008874
+7: KEY: midazolam *** Final position in text according to JSON Object -----> 306
+8: KEY: midazolam *** Initial position according to JSON Object -----> 298
+9: KEY: midazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008874
+10: KEY: midazolam *** Preferred name according to JSON Object -----> Midazolam
+---------------------------------------------------------
+1: KEY: Synercid *** RXCUI -----> 0
+2: KEY: Synercid *** Concept from RXNORM -----> ()
+3: KEY: Synercid *** Concept Type -----> ()
+4: KEY: Synercid *** Drug mention in text -----> Synercid
+5: KEY: Synercid *** Source language -----> RXNORM
+6 KEY: Synercid *** CUI CODE in original terminology -----> 135097
+7: KEY: Synercid *** Final position in text according to JSON Object -----> 38
+8: KEY: Synercid *** Initial position according to JSON Object -----> 31
+9: KEY: Synercid *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/135097
+10: KEY: Synercid *** Preferred name according to JSON Object -----> Synercid
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,453 @@
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: f LIPIT *** RXCUI -----> 0
+2: KEY: f LIPIT *** Concept from RXNORM -----> ()
+3: KEY: f LIPIT *** Concept Type -----> ()
+4: KEY: f LIPIT *** Drug mention in text -----> f LIPIT
+5: KEY: f LIPIT *** Source language -----> RXNORM
+6 KEY: f LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: f LIPIT *** Final position in text according to JSON Object -----> 6290
+8: KEY: f LIPIT *** Initial position according to JSON Object -----> 6284
+9: KEY: f LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: f LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: LIPITOR *** RXCUI -----> 0
+2: KEY: LIPITOR *** Concept from RXNORM -----> ()
+3: KEY: LIPITOR *** Concept Type -----> ()
+4: KEY: LIPITOR *** Drug mention in text -----> LIPITOR
+5: KEY: LIPITOR *** Source language -----> RXNORM
+6 KEY: LIPITOR *** CUI CODE in original terminology -----> 153165
+7: KEY: LIPITOR *** Final position in text according to JSON Object -----> 2351
+8: KEY: LIPITOR *** Initial position according to JSON Object -----> 2345
+9: KEY: LIPITOR *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: LIPITOR *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: ith LIP *** RXCUI -----> 0
+2: KEY: ith LIP *** Concept from RXNORM -----> ()
+3: KEY: ith LIP *** Concept Type -----> ()
+4: KEY: ith LIP *** Drug mention in text -----> ith LIP
+5: KEY: ith LIP *** Source language -----> RXNORM
+6 KEY: ith LIP *** CUI CODE in original terminology -----> 153165
+7: KEY: ith LIP *** Final position in text according to JSON Object -----> 6906
+8: KEY: ith LIP *** Initial position according to JSON Object -----> 6900
+9: KEY: ith LIP *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: ith LIP *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: Cholesterol *** RXCUI -----> 2438
+2: KEY: Cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: Cholesterol *** Concept Type -----> IN
+4: KEY: Cholesterol *** Drug mention in text -----> Cholesterol
+5: KEY: Cholesterol *** Source language -----> MSH
+6 KEY: Cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: Cholesterol *** Final position in text according to JSON Object -----> 270
+8: KEY: Cholesterol *** Initial position according to JSON Object -----> 260
+9: KEY: Cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: Cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: , LIPIT *** RXCUI -----> 0
+2: KEY: , LIPIT *** Concept from RXNORM -----> ()
+3: KEY: , LIPIT *** Concept Type -----> ()
+4: KEY: , LIPIT *** Drug mention in text -----> , LIPIT
+5: KEY: , LIPIT *** Source language -----> RXNORM
+6 KEY: , LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: , LIPIT *** Final position in text according to JSON Object -----> 4885
+8: KEY: , LIPIT *** Initial position according to JSON Object -----> 4879
+9: KEY: , LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: , LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: : LIPIT *** RXCUI -----> 0
+2: KEY: : LIPIT *** Concept from RXNORM -----> ()
+3: KEY: : LIPIT *** Concept Type -----> ()
+4: KEY: : LIPIT *** Drug mention in text -----> : LIPIT
+5: KEY: : LIPIT *** Source language -----> RXNORM
+6 KEY: : LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: : LIPIT *** Final position in text according to JSON Object -----> 5748
+8: KEY: : LIPIT *** Initial position according to JSON Object -----> 5742
+9: KEY: : LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: : LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: : LIPIT *** RXCUI -----> 0
+2: KEY: : LIPIT *** Concept from RXNORM -----> ()
+3: KEY: : LIPIT *** Concept Type -----> ()
+4: KEY: : LIPIT *** Drug mention in text -----> : LIPIT
+5: KEY: : LIPIT *** Source language -----> RXNORM
+6 KEY: : LIPIT *** CUI CODE in original terminology -----> 153165
+7: KEY: : LIPIT *** Final position in text according to JSON Object -----> 5748
+8: KEY: : LIPIT *** Initial position according to JSON Object -----> 5742
+9: KEY: : LIPIT *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY: : LIPIT *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY: h erythromyc *** RXCUI -----> 4053
+2: KEY: h erythromyc *** Concept from RXNORM -----> Erythromycin
+3: KEY: h erythromyc *** Concept Type -----> IN
+4: KEY: h erythromyc *** Drug mention in text -----> h erythromyc
+5: KEY: h erythromyc *** Source language -----> MSH
+6 KEY: h erythromyc *** CUI CODE in original terminology -----> D004917
+7: KEY: h erythromyc *** Final position in text according to JSON Object -----> 5586
+8: KEY: h erythromyc *** Initial position according to JSON Object -----> 5575
+9: KEY: h erythromyc *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: h erythromyc *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: cholesterol *** RXCUI -----> 2438
+2: KEY: cholesterol *** Concept from RXNORM -----> Cholesterol
+3: KEY: cholesterol *** Concept Type -----> IN
+4: KEY: cholesterol *** Drug mention in text -----> cholesterol
+5: KEY: cholesterol *** Source language -----> MSH
+6 KEY: cholesterol *** CUI CODE in original terminology -----> D002784
+7: KEY: cholesterol *** Final position in text according to JSON Object -----> 1173
+8: KEY: cholesterol *** Initial position according to JSON Object -----> 1163
+9: KEY: cholesterol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002784
+10: KEY: cholesterol *** Preferred name according to JSON Object -----> Cholesterol
+---------------------------------------------------------
+1: KEY: atorvastatin *** RXCUI -----> 83367
+2: KEY: atorvastatin *** Concept from RXNORM -----> (('atorvastatin',),)
+3: KEY: atorvastatin *** Concept Type -----> (('IN',),)
+4: KEY: atorvastatin *** Drug mention in text -----> atorvastatin
+5: KEY: atorvastatin *** Source language -----> MSH
+6 KEY: atorvastatin *** CUI CODE in original terminology -----> C065179
+7: KEY: atorvastatin *** Final position in text according to JSON Object -----> 3888
+8: KEY: atorvastatin *** Initial position according to JSON Object -----> 3877
+9: KEY: atorvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C065179
+10: KEY: atorvastatin *** Preferred name according to JSON Object -----> atorvastatin
+---------------------------------------------------------
+1: KEY:  of LIP *** RXCUI -----> 0
+2: KEY:  of LIP *** Concept from RXNORM -----> ()
+3: KEY:  of LIP *** Concept Type -----> ()
+4: KEY:  of LIP *** Drug mention in text ----->  of LIP
+5: KEY:  of LIP *** Source language -----> RXNORM
+6 KEY:  of LIP *** CUI CODE in original terminology -----> 153165
+7: KEY:  of LIP *** Final position in text according to JSON Object -----> 7573
+8: KEY:  of LIP *** Initial position according to JSON Object -----> 7567
+9: KEY:  of LIP *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY:  of LIP *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY:  of LIP *** RXCUI -----> 0
+2: KEY:  of LIP *** Concept from RXNORM -----> ()
+3: KEY:  of LIP *** Concept Type -----> ()
+4: KEY:  of LIP *** Drug mention in text ----->  of LIP
+5: KEY:  of LIP *** Source language -----> RXNORM
+6 KEY:  of LIP *** CUI CODE in original terminology -----> 153165
+7: KEY:  of LIP *** Final position in text according to JSON Object -----> 7573
+8: KEY:  of LIP *** Initial position according to JSON Object -----> 7567
+9: KEY:  of LIP *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY:  of LIP *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY:  of LIP *** RXCUI -----> 0
+2: KEY:  of LIP *** Concept from RXNORM -----> ()
+3: KEY:  of LIP *** Concept Type -----> ()
+4: KEY:  of LIP *** Drug mention in text ----->  of LIP
+5: KEY:  of LIP *** Source language -----> RXNORM
+6 KEY:  of LIP *** CUI CODE in original terminology -----> 153165
+7: KEY:  of LIP *** Final position in text according to JSON Object -----> 7573
+8: KEY:  of LIP *** Initial position according to JSON Object -----> 7567
+9: KEY:  of LIP *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY:  of LIP *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+1: KEY:  of LIP *** RXCUI -----> 0
+2: KEY:  of LIP *** Concept from RXNORM -----> ()
+3: KEY:  of LIP *** Concept Type -----> ()
+4: KEY:  of LIP *** Drug mention in text ----->  of LIP
+5: KEY:  of LIP *** Source language -----> RXNORM
+6 KEY:  of LIP *** CUI CODE in original terminology -----> 153165
+7: KEY:  of LIP *** Final position in text according to JSON Object -----> 7573
+8: KEY:  of LIP *** Initial position according to JSON Object -----> 7567
+9: KEY:  of LIP *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/153165
+10: KEY:  of LIP *** Preferred name according to JSON Object -----> Lipitor
+---------------------------------------------------------
+removed duplications 59
+Number of missed JSON elements: 0

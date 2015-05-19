@@ -1,0 +1,2 @@
+removed duplications 6
+Number of missed JSON elements: 0

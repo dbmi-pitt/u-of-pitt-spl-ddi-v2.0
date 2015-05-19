@@ -1,0 +1,68 @@
+1: KEY:  valproat *** RXCUI -----> 40254
+2: KEY:  valproat *** Concept from RXNORM -----> (('Valproate',),)
+3: KEY:  valproat *** Concept Type -----> (('IN',),)
+4: KEY:  valproat *** Drug mention in text ----->  valproat
+5: KEY:  valproat *** Source language -----> MSH
+6 KEY:  valproat *** CUI CODE in original terminology -----> D014635
+7: KEY:  valproat *** Final position in text according to JSON Object -----> 166
+8: KEY:  valproat *** Initial position according to JSON Object -----> 158
+9: KEY:  valproat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014635
+10: KEY:  valproat *** Preferred name according to JSON Object -----> Valproic Acid
+---------------------------------------------------------
+1: KEY: valproate *** RXCUI -----> 40254
+2: KEY: valproate *** Concept from RXNORM -----> Valproate
+3: KEY: valproate *** Concept Type -----> IN
+4: KEY: valproate *** Drug mention in text -----> valproate
+5: KEY: valproate *** Source language -----> RXNORM
+6 KEY: valproate *** CUI CODE in original terminology -----> 40254
+7: KEY: valproate *** Final position in text according to JSON Object -----> 82
+8: KEY: valproate *** Initial position according to JSON Object -----> 74
+9: KEY: valproate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40254
+10: KEY: valproate *** Preferred name according to JSON Object -----> Valproate
+---------------------------------------------------------
+1: KEY:  (felbama *** RXCUI -----> 24812
+2: KEY:  (felbama *** Concept from RXNORM -----> felbamate
+3: KEY:  (felbama *** Concept Type -----> IN
+4: KEY:  (felbama *** Drug mention in text ----->  (felbama
+5: KEY:  (felbama *** Source language -----> MSH
+6 KEY:  (felbama *** CUI CODE in original terminology -----> C047360
+7: KEY:  (felbama *** Final position in text according to JSON Object -----> 245
+8: KEY:  (felbama *** Initial position according to JSON Object -----> 237
+9: KEY:  (felbama *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY:  (felbama *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: Felbatol *** RXCUI -----> 0
+2: KEY: Felbatol *** Concept from RXNORM -----> ()
+3: KEY: Felbatol *** Concept Type -----> ()
+4: KEY: Felbatol *** Drug mention in text -----> Felbatol
+5: KEY: Felbatol *** Source language -----> RXNORM
+6 KEY: Felbatol *** CUI CODE in original terminology -----> 224900
+7: KEY: Felbatol *** Final position in text according to JSON Object -----> 111
+8: KEY: Felbatol *** Initial position according to JSON Object -----> 104
+9: KEY: Felbatol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY: Felbatol *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY:  Felbato *** RXCUI -----> 0
+2: KEY:  Felbato *** Concept from RXNORM -----> ()
+3: KEY:  Felbato *** Concept Type -----> ()
+4: KEY:  Felbato *** Drug mention in text ----->  Felbato
+5: KEY:  Felbato *** Source language -----> RXNORM
+6 KEY:  Felbato *** CUI CODE in original terminology -----> 224900
+7: KEY:  Felbato *** Final position in text according to JSON Object -----> 233
+8: KEY:  Felbato *** Initial position according to JSON Object -----> 226
+9: KEY:  Felbato *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY:  Felbato *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY: Valproate *** RXCUI -----> 40254
+2: KEY: Valproate *** Concept from RXNORM -----> Valproate
+3: KEY: Valproate *** Concept Type -----> IN
+4: KEY: Valproate *** Drug mention in text -----> Valproate
+5: KEY: Valproate *** Source language -----> RXNORM
+6 KEY: Valproate *** CUI CODE in original terminology -----> 40254
+7: KEY: Valproate *** Final position in text according to JSON Object -----> 9
+8: KEY: Valproate *** Initial position according to JSON Object -----> 1
+9: KEY: Valproate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/40254
+10: KEY: Valproate *** Preferred name according to JSON Object -----> Valproate
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

@@ -1,0 +1,1223 @@
+1: KEY: clonidine *** RXCUI -----> 2599
+2: KEY: clonidine *** Concept from RXNORM -----> cloNIDine
+3: KEY: clonidine *** Concept Type -----> TMSY
+4: KEY: clonidine *** Drug mention in text -----> clonidine
+5: KEY: clonidine *** Source language -----> MSH
+6 KEY: clonidine *** CUI CODE in original terminology -----> D003000
+7: KEY: clonidine *** Final position in text according to JSON Object -----> 3605
+8: KEY: clonidine *** Initial position according to JSON Object -----> 3597
+9: KEY: clonidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003000
+10: KEY: clonidine *** Preferred name according to JSON Object -----> Clonidine
+---------------------------------------------------------
+1: KEY: clonidine *** RXCUI -----> 2599
+2: KEY: clonidine *** Concept from RXNORM -----> cloNIDine
+3: KEY: clonidine *** Concept Type -----> TMSY
+4: KEY: clonidine *** Drug mention in text -----> clonidine
+5: KEY: clonidine *** Source language -----> MSH
+6 KEY: clonidine *** CUI CODE in original terminology -----> D003000
+7: KEY: clonidine *** Final position in text according to JSON Object -----> 3605
+8: KEY: clonidine *** Initial position according to JSON Object -----> 3597
+9: KEY: clonidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003000
+10: KEY: clonidine *** Preferred name according to JSON Object -----> Clonidine
+---------------------------------------------------------
+1: KEY: cisplatin *** RXCUI -----> 2555
+2: KEY: cisplatin *** Concept from RXNORM -----> CISplatin
+3: KEY: cisplatin *** Concept Type -----> TMSY
+4: KEY: cisplatin *** Drug mention in text -----> cisplatin
+5: KEY: cisplatin *** Source language -----> RXNORM
+6 KEY: cisplatin *** CUI CODE in original terminology -----> 2555
+7: KEY: cisplatin *** Final position in text according to JSON Object -----> 4122
+8: KEY: cisplatin *** Initial position according to JSON Object -----> 4114
+9: KEY: cisplatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2555
+10: KEY: cisplatin *** Preferred name according to JSON Object -----> Cisplatin
+---------------------------------------------------------
+1: KEY: timolol *** RXCUI -----> 0
+2: KEY: timolol *** Concept from RXNORM -----> ()
+3: KEY: timolol *** Concept Type -----> ()
+4: KEY: timolol *** Drug mention in text -----> timolol
+5: KEY: timolol *** Source language -----> MSH
+6 KEY: timolol *** CUI CODE in original terminology -----> D013999
+7: KEY: timolol *** Final position in text according to JSON Object -----> 2098
+8: KEY: timolol *** Initial position according to JSON Object -----> 2092
+9: KEY: timolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013999
+10: KEY: timolol *** Preferred name according to JSON Object -----> Timolol
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 4698
+8: KEY: quinidine *** Initial position according to JSON Object -----> 4690
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 4698
+8: KEY: quinidine *** Initial position according to JSON Object -----> 4690
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 4698
+8: KEY: quinidine *** Initial position according to JSON Object -----> 4690
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 4698
+8: KEY: quinidine *** Initial position according to JSON Object -----> 4690
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 4698
+8: KEY: quinidine *** Initial position according to JSON Object -----> 4690
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: cyclophosphamide *** RXCUI -----> 3002
+2: KEY: cyclophosphamide *** Concept from RXNORM -----> Cyclophosphamide
+3: KEY: cyclophosphamide *** Concept Type -----> IN
+4: KEY: cyclophosphamide *** Drug mention in text -----> cyclophosphamide
+5: KEY: cyclophosphamide *** Source language -----> MSH
+6 KEY: cyclophosphamide *** CUI CODE in original terminology -----> D003520
+7: KEY: cyclophosphamide *** Final position in text according to JSON Object -----> 4039
+8: KEY: cyclophosphamide *** Initial position according to JSON Object -----> 4024
+9: KEY: cyclophosphamide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003520
+10: KEY: cyclophosphamide *** Preferred name according to JSON Object -----> Cyclophosphamide
+---------------------------------------------------------
+1: KEY: adriamycin *** RXCUI -----> 0
+2: KEY: adriamycin *** Concept from RXNORM -----> ()
+3: KEY: adriamycin *** Concept Type -----> ()
+4: KEY: adriamycin *** Drug mention in text -----> adriamycin
+5: KEY: adriamycin *** Source language -----> RXNORM
+6 KEY: adriamycin *** CUI CODE in original terminology -----> 42512
+7: KEY: adriamycin *** Final position in text according to JSON Object -----> 4111
+8: KEY: adriamycin *** Initial position according to JSON Object -----> 4102
+9: KEY: adriamycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/42512
+10: KEY: adriamycin *** Preferred name according to JSON Object -----> Adriamycin
+---------------------------------------------------------
+1: KEY: Flecainide *** RXCUI -----> 4441
+2: KEY: Flecainide *** Concept from RXNORM -----> Flecainide
+3: KEY: Flecainide *** Concept Type -----> IN
+4: KEY: Flecainide *** Drug mention in text -----> Flecainide
+5: KEY: Flecainide *** Source language -----> RXNORM
+6 KEY: Flecainide *** CUI CODE in original terminology -----> 4441
+7: KEY: Flecainide *** Final position in text according to JSON Object -----> 5764
+8: KEY: Flecainide *** Initial position according to JSON Object -----> 5755
+9: KEY: Flecainide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4441
+10: KEY: Flecainide *** Preferred name according to JSON Object -----> Flecainide
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 7769
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 7760
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: theophylline *** RXCUI -----> 10438
+2: KEY: theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: theophylline *** Concept Type -----> IN
+4: KEY: theophylline *** Drug mention in text -----> theophylline
+5: KEY: theophylline *** Source language -----> MSH
+6 KEY: theophylline *** CUI CODE in original terminology -----> D013806
+7: KEY: theophylline *** Final position in text according to JSON Object -----> 7715
+8: KEY: theophylline *** Initial position according to JSON Object -----> 7704
+9: KEY: theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY: theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 2197
+8: KEY: propranolol *** Initial position according to JSON Object -----> 2187
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Aspirin *** RXCUI -----> 1191
+2: KEY: Aspirin *** Concept from RXNORM -----> Aspirin
+3: KEY: Aspirin *** Concept Type -----> IN
+4: KEY: Aspirin *** Drug mention in text -----> Aspirin
+5: KEY: Aspirin *** Source language -----> RXNORM
+6 KEY: Aspirin *** CUI CODE in original terminology -----> 1191
+7: KEY: Aspirin *** Final position in text according to JSON Object -----> 4810
+8: KEY: Aspirin *** Initial position according to JSON Object -----> 4804
+9: KEY: Aspirin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY: Aspirin *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: Disopyramide *** RXCUI -----> 3541
+2: KEY: Disopyramide *** Concept from RXNORM -----> Disopyramide
+3: KEY: Disopyramide *** Concept Type -----> IN
+4: KEY: Disopyramide *** Drug mention in text -----> Disopyramide
+5: KEY: Disopyramide *** Source language -----> MSH
+6 KEY: Disopyramide *** CUI CODE in original terminology -----> D004206
+7: KEY: Disopyramide *** Final position in text according to JSON Object -----> 5563
+8: KEY: Disopyramide *** Initial position according to JSON Object -----> 5552
+9: KEY: Disopyramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004206
+10: KEY: Disopyramide *** Preferred name according to JSON Object -----> Disopyramide
+---------------------------------------------------------
+1: KEY: prazosin *** RXCUI -----> 8629
+2: KEY: prazosin *** Concept from RXNORM -----> Prazosin
+3: KEY: prazosin *** Concept Type -----> IN
+4: KEY: prazosin *** Drug mention in text -----> prazosin
+5: KEY: prazosin *** Source language -----> MSH
+6 KEY: prazosin *** CUI CODE in original terminology -----> D011224
+7: KEY: prazosin *** Final position in text according to JSON Object -----> 5543
+8: KEY: prazosin *** Initial position according to JSON Object -----> 5536
+9: KEY: prazosin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011224
+10: KEY: prazosin *** Preferred name according to JSON Object -----> Prazosin
+---------------------------------------------------------
+1: KEY: digitoxin *** RXCUI -----> 3403
+2: KEY: digitoxin *** Concept from RXNORM -----> Digitoxin
+3: KEY: digitoxin *** Concept Type -----> IN
+4: KEY: digitoxin *** Drug mention in text -----> digitoxin
+5: KEY: digitoxin *** Source language -----> MSH
+6 KEY: digitoxin *** CUI CODE in original terminology -----> D004074
+7: KEY: digitoxin *** Final position in text according to JSON Object -----> 2857
+8: KEY: digitoxin *** Initial position according to JSON Object -----> 2849
+9: KEY: digitoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004074
+10: KEY: digitoxin *** Preferred name according to JSON Object -----> Digitoxin
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Verapamil *** RXCUI -----> 11170
+2: KEY: Verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: Verapamil *** Concept Type -----> IN
+4: KEY: Verapamil *** Drug mention in text -----> Verapamil
+5: KEY: Verapamil *** Source language -----> RXNORM
+6 KEY: Verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: Verapamil *** Final position in text according to JSON Object -----> 4646
+8: KEY: Verapamil *** Initial position according to JSON Object -----> 4638
+9: KEY: Verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: Verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: Carbamazepine *** RXCUI -----> 2002
+2: KEY: Carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: Carbamazepine *** Concept Type -----> TMSY
+4: KEY: Carbamazepine *** Drug mention in text -----> Carbamazepine
+5: KEY: Carbamazepine *** Source language -----> MSH
+6 KEY: Carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: Carbamazepine *** Final position in text according to JSON Object -----> 6123
+8: KEY: Carbamazepine *** Initial position according to JSON Object -----> 6111
+9: KEY: Carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: Carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: flecainide *** RXCUI -----> 4441
+2: KEY: flecainide *** Concept from RXNORM -----> Flecainide
+3: KEY: flecainide *** Concept Type -----> IN
+4: KEY: flecainide *** Drug mention in text -----> flecainide
+5: KEY: flecainide *** Source language -----> RXNORM
+6 KEY: flecainide *** CUI CODE in original terminology -----> 4441
+7: KEY: flecainide *** Final position in text according to JSON Object -----> 5852
+8: KEY: flecainide *** Initial position according to JSON Object -----> 5843
+9: KEY: flecainide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4441
+10: KEY: flecainide *** Preferred name according to JSON Object -----> Flecainide
+---------------------------------------------------------
+1: KEY: flecainide *** RXCUI -----> 4441
+2: KEY: flecainide *** Concept from RXNORM -----> Flecainide
+3: KEY: flecainide *** Concept Type -----> IN
+4: KEY: flecainide *** Drug mention in text -----> flecainide
+5: KEY: flecainide *** Source language -----> RXNORM
+6 KEY: flecainide *** CUI CODE in original terminology -----> 4441
+7: KEY: flecainide *** Final position in text according to JSON Object -----> 5852
+8: KEY: flecainide *** Initial position according to JSON Object -----> 5843
+9: KEY: flecainide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/4441
+10: KEY: flecainide *** Preferred name according to JSON Object -----> Flecainide
+---------------------------------------------------------
+1: KEY: Rifampin *** RXCUI -----> 9384
+2: KEY: Rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: Rifampin *** Concept Type -----> IN
+4: KEY: Rifampin *** Drug mention in text -----> Rifampin
+5: KEY: Rifampin *** Source language -----> RXNORM
+6 KEY: Rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: Rifampin *** Final position in text according to JSON Object -----> 7537
+8: KEY: Rifampin *** Initial position according to JSON Object -----> 7530
+9: KEY: Rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: Rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2411
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2405
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: atenolol *** RXCUI -----> 1202
+2: KEY: atenolol *** Concept from RXNORM -----> Atenolol
+3: KEY: atenolol *** Concept Type -----> IN
+4: KEY: atenolol *** Drug mention in text -----> atenolol
+5: KEY: atenolol *** Source language -----> MSH
+6 KEY: atenolol *** CUI CODE in original terminology -----> D001262
+7: KEY: atenolol *** Final position in text according to JSON Object -----> 2348
+8: KEY: atenolol *** Initial position according to JSON Object -----> 2341
+9: KEY: atenolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D001262
+10: KEY: atenolol *** Preferred name according to JSON Object -----> Atenolol
+---------------------------------------------------------
+1: KEY: aspirin *** RXCUI -----> 1191
+2: KEY: aspirin *** Concept from RXNORM -----> Aspirin
+3: KEY: aspirin *** Concept Type -----> IN
+4: KEY: aspirin *** Drug mention in text -----> aspirin
+5: KEY: aspirin *** Source language -----> RXNORM
+6 KEY: aspirin *** CUI CODE in original terminology -----> 1191
+7: KEY: aspirin *** Final position in text according to JSON Object -----> 4950
+8: KEY: aspirin *** Initial position according to JSON Object -----> 4944
+9: KEY: aspirin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY: aspirin *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: aspirin *** RXCUI -----> 1191
+2: KEY: aspirin *** Concept from RXNORM -----> Aspirin
+3: KEY: aspirin *** Concept Type -----> IN
+4: KEY: aspirin *** Drug mention in text -----> aspirin
+5: KEY: aspirin *** Source language -----> RXNORM
+6 KEY: aspirin *** CUI CODE in original terminology -----> 1191
+7: KEY: aspirin *** Final position in text according to JSON Object -----> 4950
+8: KEY: aspirin *** Initial position according to JSON Object -----> 4944
+9: KEY: aspirin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1191
+10: KEY: aspirin *** Preferred name according to JSON Object -----> Aspirin
+---------------------------------------------------------
+1: KEY: disopyramide *** RXCUI -----> 3541
+2: KEY: disopyramide *** Concept from RXNORM -----> Disopyramide
+3: KEY: disopyramide *** Concept Type -----> IN
+4: KEY: disopyramide *** Drug mention in text -----> disopyramide
+5: KEY: disopyramide *** Source language -----> MSH
+6 KEY: disopyramide *** CUI CODE in original terminology -----> D004206
+7: KEY: disopyramide *** Final position in text according to JSON Object -----> 5680
+8: KEY: disopyramide *** Initial position according to JSON Object -----> 5669
+9: KEY: disopyramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004206
+10: KEY: disopyramide *** Preferred name according to JSON Object -----> Disopyramide
+---------------------------------------------------------
+1: KEY: disopyramide *** RXCUI -----> 3541
+2: KEY: disopyramide *** Concept from RXNORM -----> Disopyramide
+3: KEY: disopyramide *** Concept Type -----> IN
+4: KEY: disopyramide *** Drug mention in text -----> disopyramide
+5: KEY: disopyramide *** Source language -----> MSH
+6 KEY: disopyramide *** CUI CODE in original terminology -----> D004206
+7: KEY: disopyramide *** Final position in text according to JSON Object -----> 5680
+8: KEY: disopyramide *** Initial position according to JSON Object -----> 5669
+9: KEY: disopyramide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004206
+10: KEY: disopyramide *** Preferred name according to JSON Object -----> Disopyramide
+---------------------------------------------------------
+1: KEY: vindesine *** RXCUI -----> 11204
+2: KEY: vindesine *** Concept from RXNORM -----> Vindesine
+3: KEY: vindesine *** Concept Type -----> IN
+4: KEY: vindesine *** Drug mention in text -----> vindesine
+5: KEY: vindesine *** Source language -----> RXNORM
+6 KEY: vindesine *** CUI CODE in original terminology -----> 11204
+7: KEY: vindesine *** Final position in text according to JSON Object -----> 4099
+8: KEY: vindesine *** Initial position according to JSON Object -----> 4091
+9: KEY: vindesine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11204
+10: KEY: vindesine *** Preferred name according to JSON Object -----> Vindesine
+---------------------------------------------------------
+1: KEY: prednisone *** RXCUI -----> 8640
+2: KEY: prednisone *** Concept from RXNORM -----> Prednisone
+3: KEY: prednisone *** Concept Type -----> IN
+4: KEY: prednisone *** Drug mention in text -----> prednisone
+5: KEY: prednisone *** Source language -----> MSH
+6 KEY: prednisone *** CUI CODE in original terminology -----> D011241
+7: KEY: prednisone *** Final position in text according to JSON Object -----> 4074
+8: KEY: prednisone *** Initial position according to JSON Object -----> 4065
+9: KEY: prednisone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011241
+10: KEY: prednisone *** Preferred name according to JSON Object -----> Prednisone
+---------------------------------------------------------
+1: KEY: Telithromycin *** RXCUI -----> 274786
+2: KEY: Telithromycin *** Concept from RXNORM -----> telithromycin
+3: KEY: Telithromycin *** Concept Type -----> IN
+4: KEY: Telithromycin *** Drug mention in text -----> Telithromycin
+5: KEY: Telithromycin *** Source language -----> RXNORM
+6 KEY: Telithromycin *** CUI CODE in original terminology -----> 274786
+7: KEY: Telithromycin *** Final position in text according to JSON Object -----> 3731
+8: KEY: Telithromycin *** Initial position according to JSON Object -----> 3719
+9: KEY: Telithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/274786
+10: KEY: Telithromycin *** Preferred name according to JSON Object -----> telithromycin
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: verapamil *** RXCUI -----> 11170
+2: KEY: verapamil *** Concept from RXNORM -----> Verapamil
+3: KEY: verapamil *** Concept Type -----> IN
+4: KEY: verapamil *** Drug mention in text -----> verapamil
+5: KEY: verapamil *** Source language -----> RXNORM
+6 KEY: verapamil *** CUI CODE in original terminology -----> 11170
+7: KEY: verapamil *** Final position in text according to JSON Object -----> 971
+8: KEY: verapamil *** Initial position according to JSON Object -----> 963
+9: KEY: verapamil *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/11170
+10: KEY: verapamil *** Preferred name according to JSON Object -----> Verapamil
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 280
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 272
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: Cyclosporine *** RXCUI -----> 3008
+2: KEY: Cyclosporine *** Concept from RXNORM -----> Cyclosporine
+3: KEY: Cyclosporine *** Concept Type -----> IN
+4: KEY: Cyclosporine *** Drug mention in text -----> Cyclosporine
+5: KEY: Cyclosporine *** Source language -----> MSH
+6 KEY: Cyclosporine *** CUI CODE in original terminology -----> D016572
+7: KEY: Cyclosporine *** Final position in text according to JSON Object -----> 6321
+8: KEY: Cyclosporine *** Initial position according to JSON Object -----> 6310
+9: KEY: Cyclosporine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: Cyclosporine *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 6240
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 6228
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: carbamazepine *** RXCUI -----> 2002
+2: KEY: carbamazepine *** Concept from RXNORM -----> carBAMazepine
+3: KEY: carbamazepine *** Concept Type -----> TMSY
+4: KEY: carbamazepine *** Drug mention in text -----> carbamazepine
+5: KEY: carbamazepine *** Source language -----> MSH
+6 KEY: carbamazepine *** CUI CODE in original terminology -----> D002220
+7: KEY: carbamazepine *** Final position in text according to JSON Object -----> 6240
+8: KEY: carbamazepine *** Initial position according to JSON Object -----> 6228
+9: KEY: carbamazepine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D002220
+10: KEY: carbamazepine *** Preferred name according to JSON Object -----> Carbamazepine
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 7560
+8: KEY: rifampin *** Initial position according to JSON Object -----> 7553
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 7560
+8: KEY: rifampin *** Initial position according to JSON Object -----> 7553
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: ethanol *** RXCUI -----> 448
+2: KEY: ethanol *** Concept from RXNORM -----> Ethanol
+3: KEY: ethanol *** Concept Type -----> IN
+4: KEY: ethanol *** Drug mention in text -----> ethanol
+5: KEY: ethanol *** Source language -----> MSH
+6 KEY: ethanol *** CUI CODE in original terminology -----> D000431
+7: KEY: ethanol *** Final position in text according to JSON Object -----> 3342
+8: KEY: ethanol *** Initial position according to JSON Object -----> 3336
+9: KEY: ethanol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: ethanol *** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: ethanol *** RXCUI -----> 448
+2: KEY: ethanol *** Concept from RXNORM -----> Ethanol
+3: KEY: ethanol *** Concept Type -----> IN
+4: KEY: ethanol *** Drug mention in text -----> ethanol
+5: KEY: ethanol *** Source language -----> MSH
+6 KEY: ethanol *** CUI CODE in original terminology -----> D000431
+7: KEY: ethanol *** Final position in text according to JSON Object -----> 3342
+8: KEY: ethanol *** Initial position according to JSON Object -----> 3336
+9: KEY: ethanol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000431
+10: KEY: ethanol *** Preferred name according to JSON Object -----> Ethanol
+---------------------------------------------------------
+1: KEY: Clonidine *** RXCUI -----> 2599
+2: KEY: Clonidine *** Concept from RXNORM -----> cloNIDine
+3: KEY: Clonidine *** Concept Type -----> TMSY
+4: KEY: Clonidine *** Drug mention in text -----> Clonidine
+5: KEY: Clonidine *** Source language -----> MSH
+6 KEY: Clonidine *** CUI CODE in original terminology -----> D003000
+7: KEY: Clonidine *** Final position in text according to JSON Object -----> 3474
+8: KEY: Clonidine *** Initial position according to JSON Object -----> 3466
+9: KEY: Clonidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003000
+10: KEY: Clonidine *** Preferred name according to JSON Object -----> Clonidine
+---------------------------------------------------------
+1: KEY: Theophylline *** RXCUI -----> 10438
+2: KEY: Theophylline *** Concept from RXNORM -----> Theophylline
+3: KEY: Theophylline *** Concept Type -----> IN
+4: KEY: Theophylline *** Drug mention in text -----> Theophylline
+5: KEY: Theophylline *** Source language -----> MSH
+6 KEY: Theophylline *** CUI CODE in original terminology -----> D013806
+7: KEY: Theophylline *** Final position in text according to JSON Object -----> 7631
+8: KEY: Theophylline *** Initial position according to JSON Object -----> 7620
+9: KEY: Theophylline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D013806
+10: KEY: Theophylline *** Preferred name according to JSON Object -----> Theophylline
+---------------------------------------------------------
+1: KEY: telithromycin *** RXCUI -----> 274786
+2: KEY: telithromycin *** Concept from RXNORM -----> telithromycin
+3: KEY: telithromycin *** Concept Type -----> IN
+4: KEY: telithromycin *** Drug mention in text -----> telithromycin
+5: KEY: telithromycin *** Source language -----> RXNORM
+6 KEY: telithromycin *** CUI CODE in original terminology -----> 274786
+7: KEY: telithromycin *** Final position in text according to JSON Object -----> 446
+8: KEY: telithromycin *** Initial position according to JSON Object -----> 434
+9: KEY: telithromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/274786
+10: KEY: telithromycin *** Preferred name according to JSON Object -----> telithromycin
+---------------------------------------------------------
+1: KEY: paclitaxel *** RXCUI -----> 56946
+2: KEY: paclitaxel *** Concept from RXNORM -----> PACLitaxel
+3: KEY: paclitaxel *** Concept Type -----> TMSY
+4: KEY: paclitaxel *** Drug mention in text -----> paclitaxel
+5: KEY: paclitaxel *** Source language -----> RXNORM
+6 KEY: paclitaxel *** CUI CODE in original terminology -----> 56946
+7: KEY: paclitaxel *** Final position in text according to JSON Object -----> 4236
+8: KEY: paclitaxel *** Initial position according to JSON Object -----> 4227
+9: KEY: paclitaxel *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/56946
+10: KEY: paclitaxel *** Preferred name according to JSON Object -----> Paclitaxel
+---------------------------------------------------------
+1: KEY: procarbazine *** RXCUI -----> 8702
+2: KEY: procarbazine *** Concept from RXNORM -----> Procarbazine
+3: KEY: procarbazine *** Concept Type -----> IN
+4: KEY: procarbazine *** Drug mention in text -----> procarbazine
+5: KEY: procarbazine *** Source language -----> RXNORM
+6 KEY: procarbazine *** CUI CODE in original terminology -----> 8702
+7: KEY: procarbazine *** Final position in text according to JSON Object -----> 4062
+8: KEY: procarbazine *** Initial position according to JSON Object -----> 4051
+9: KEY: procarbazine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/8702
+10: KEY: procarbazine *** Preferred name according to JSON Object -----> Procarbazine
+---------------------------------------------------------
+1: KEY: Quinidine *** RXCUI -----> 9068
+2: KEY: Quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: Quinidine *** Concept Type -----> IN
+4: KEY: Quinidine *** Drug mention in text -----> Quinidine
+5: KEY: Quinidine *** Source language -----> RXNORM
+6 KEY: Quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: Quinidine *** Final position in text according to JSON Object -----> 4252
+8: KEY: Quinidine *** Initial position according to JSON Object -----> 4244
+9: KEY: Quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: Quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: cyclosporine *** RXCUI -----> 3008
+2: KEY: cyclosporine *** Concept from RXNORM -----> Cyclosporine
+3: KEY: cyclosporine *** Concept Type -----> IN
+4: KEY: cyclosporine *** Drug mention in text -----> cyclosporine
+5: KEY: cyclosporine *** Source language -----> MSH
+6 KEY: cyclosporine *** CUI CODE in original terminology -----> D016572
+7: KEY: cyclosporine *** Final position in text according to JSON Object -----> 6382
+8: KEY: cyclosporine *** Initial position according to JSON Object -----> 6371
+9: KEY: cyclosporine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016572
+10: KEY: cyclosporine *** Preferred name according to JSON Object -----> Cyclosporine
+---------------------------------------------------------
+1: KEY: Phenobarbital *** RXCUI -----> 8134
+2: KEY: Phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: Phenobarbital *** Concept Type -----> IN
+4: KEY: Phenobarbital *** Drug mention in text -----> Phenobarbital
+5: KEY: Phenobarbital *** Source language -----> MSH
+6 KEY: Phenobarbital *** CUI CODE in original terminology -----> D010634
+7: KEY: Phenobarbital *** Final position in text according to JSON Object -----> 7480
+8: KEY: Phenobarbital *** Initial position according to JSON Object -----> 7468
+9: KEY: Phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010634
+10: KEY: Phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: Phenobarbital *** RXCUI -----> 8134
+2: KEY: Phenobarbital *** Concept from RXNORM -----> Phenobarbital
+3: KEY: Phenobarbital *** Concept Type -----> IN
+4: KEY: Phenobarbital *** Drug mention in text -----> Phenobarbital
+5: KEY: Phenobarbital *** Source language -----> MSH
+6 KEY: Phenobarbital *** CUI CODE in original terminology -----> D010634
+7: KEY: Phenobarbital *** Final position in text according to JSON Object -----> 7480
+8: KEY: Phenobarbital *** Initial position according to JSON Object -----> 7468
+9: KEY: Phenobarbital *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010634
+10: KEY: Phenobarbital *** Preferred name according to JSON Object -----> Phenobarbital
+---------------------------------------------------------
+1: KEY: doxorubicin *** RXCUI -----> 3639
+2: KEY: doxorubicin *** Concept from RXNORM -----> Doxorubicin
+3: KEY: doxorubicin *** Concept Type -----> IN
+4: KEY: doxorubicin *** Drug mention in text -----> doxorubicin
+5: KEY: doxorubicin *** Source language -----> RXNORM
+6 KEY: doxorubicin *** CUI CODE in original terminology -----> 3639
+7: KEY: doxorubicin *** Final position in text according to JSON Object -----> 3964
+8: KEY: doxorubicin *** Initial position according to JSON Object -----> 3954
+9: KEY: doxorubicin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3639
+10: KEY: doxorubicin *** Preferred name according to JSON Object -----> Doxorubicin
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Final position in text according to JSON Object -----> 269
+8: KEY: erythromycin *** Initial position according to JSON Object -----> 258
+9: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 7733
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 7724
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 2181
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 2172
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: oncovin *** RXCUI -----> 11202
+2: KEY: oncovin *** Concept from RXNORM -----> Vincristine
+3: KEY: oncovin *** Concept Type -----> IN
+4: KEY: oncovin *** Drug mention in text -----> oncovin
+5: KEY: oncovin *** Source language -----> MSH
+6 KEY: oncovin *** CUI CODE in original terminology -----> D014750
+7: KEY: oncovin *** Final position in text according to JSON Object -----> 4048
+8: KEY: oncovin *** Initial position according to JSON Object -----> 4042
+9: KEY: oncovin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014750
+10: KEY: oncovin *** Preferred name according to JSON Object -----> Vincristine
+---------------------------------------------------------
+removed duplications 496
+Number of missed JSON elements: 2

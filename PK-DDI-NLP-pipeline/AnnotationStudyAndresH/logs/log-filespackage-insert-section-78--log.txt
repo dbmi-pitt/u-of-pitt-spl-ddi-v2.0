@@ -1,0 +1,57 @@
+1: KEY: citalopram *** RXCUI -----> 2556
+2: KEY: citalopram *** Concept from RXNORM -----> Citalopram
+3: KEY: citalopram *** Concept Type -----> IN
+4: KEY: citalopram *** Drug mention in text -----> citalopram
+5: KEY: citalopram *** Source language -----> MSH
+6 KEY: citalopram *** CUI CODE in original terminology -----> D015283
+7: KEY: citalopram *** Final position in text according to JSON Object -----> 84
+8: KEY: citalopram *** Initial position according to JSON Object -----> 75
+9: KEY: citalopram *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D015283
+10: KEY: citalopram *** Preferred name according to JSON Object -----> Citalopram
+---------------------------------------------------------
+1: KEY: Citalopram *** RXCUI -----> 2556
+2: KEY: Citalopram *** Concept from RXNORM -----> Citalopram
+3: KEY: Citalopram *** Concept Type -----> IN
+4: KEY: Citalopram *** Drug mention in text -----> Citalopram
+5: KEY: Citalopram *** Source language -----> RXNORM
+6 KEY: Citalopram *** CUI CODE in original terminology -----> 2556
+7: KEY: Citalopram *** Final position in text according to JSON Object -----> 239
+8: KEY: Citalopram *** Initial position according to JSON Object -----> 230
+9: KEY: Citalopram *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2556
+10: KEY: Citalopram *** Preferred name according to JSON Object -----> Citalopram
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> MSH
+6 KEY: pimozide *** CUI CODE in original terminology -----> D010868
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 48
+8: KEY: pimozide *** Initial position according to JSON Object -----> 41
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010868
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> MSH
+6 KEY: pimozide *** CUI CODE in original terminology -----> D010868
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 48
+8: KEY: pimozide *** Initial position according to JSON Object -----> 41
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010868
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+1: KEY: pimozide *** RXCUI -----> 8331
+2: KEY: pimozide *** Concept from RXNORM -----> Pimozide
+3: KEY: pimozide *** Concept Type -----> IN
+4: KEY: pimozide *** Drug mention in text -----> pimozide
+5: KEY: pimozide *** Source language -----> MSH
+6 KEY: pimozide *** CUI CODE in original terminology -----> D010868
+7: KEY: pimozide *** Final position in text according to JSON Object -----> 48
+8: KEY: pimozide *** Initial position according to JSON Object -----> 41
+9: KEY: pimozide *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010868
+10: KEY: pimozide *** Preferred name according to JSON Object -----> Pimozide
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

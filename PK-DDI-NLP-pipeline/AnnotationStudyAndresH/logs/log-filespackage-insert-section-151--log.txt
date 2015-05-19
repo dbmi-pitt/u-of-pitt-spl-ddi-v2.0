@@ -1,0 +1,79 @@
+1: KEY: Phenytoin *** RXCUI -----> 8183
+2: KEY: Phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: Phenytoin *** Concept Type -----> IN
+4: KEY: Phenytoin *** Drug mention in text -----> Phenytoin
+5: KEY: Phenytoin *** Source language -----> MSH
+6 KEY: Phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: Phenytoin *** Final position in text according to JSON Object -----> 20
+8: KEY: Phenytoin *** Initial position according to JSON Object -----> 12
+9: KEY: Phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: Phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: Phenytoin *** RXCUI -----> 8183
+2: KEY: Phenytoin *** Concept from RXNORM -----> Phenytoin
+3: KEY: Phenytoin *** Concept Type -----> IN
+4: KEY: Phenytoin *** Drug mention in text -----> Phenytoin
+5: KEY: Phenytoin *** Source language -----> MSH
+6 KEY: Phenytoin *** CUI CODE in original terminology -----> D010672
+7: KEY: Phenytoin *** Final position in text according to JSON Object -----> 20
+8: KEY: Phenytoin *** Initial position according to JSON Object -----> 12
+9: KEY: Phenytoin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY: Phenytoin *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY:  phenytoi *** RXCUI -----> 8183
+2: KEY:  phenytoi *** Concept from RXNORM -----> Phenytoin
+3: KEY:  phenytoi *** Concept Type -----> IN
+4: KEY:  phenytoi *** Drug mention in text ----->  phenytoi
+5: KEY:  phenytoi *** Source language -----> MSH
+6 KEY:  phenytoi *** CUI CODE in original terminology -----> D010672
+7: KEY:  phenytoi *** Final position in text according to JSON Object -----> 151
+8: KEY:  phenytoi *** Initial position according to JSON Object -----> 143
+9: KEY:  phenytoi *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D010672
+10: KEY:  phenytoi *** Preferred name according to JSON Object -----> Phenytoin
+---------------------------------------------------------
+1: KEY: f Felbat *** RXCUI -----> 0
+2: KEY: f Felbat *** Concept from RXNORM -----> ()
+3: KEY: f Felbat *** Concept Type -----> ()
+4: KEY: f Felbat *** Drug mention in text -----> f Felbat
+5: KEY: f Felbat *** Source language -----> RXNORM
+6 KEY: f Felbat *** CUI CODE in original terminology -----> 224900
+7: KEY: f Felbat *** Final position in text according to JSON Object -----> 282
+8: KEY: f Felbat *** Initial position according to JSON Object -----> 275
+9: KEY: f Felbat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY: f Felbat *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY: (felbamat *** RXCUI -----> 24812
+2: KEY: (felbamat *** Concept from RXNORM -----> felbamate
+3: KEY: (felbamat *** Concept Type -----> IN
+4: KEY: (felbamat *** Drug mention in text -----> (felbamat
+5: KEY: (felbamat *** Source language -----> MSH
+6 KEY: (felbamat *** CUI CODE in original terminology -----> C047360
+7: KEY: (felbamat *** Final position in text according to JSON Object -----> 92
+8: KEY: (felbamat *** Initial position according to JSON Object -----> 84
+9: KEY: (felbamat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C047360
+10: KEY: (felbamat *** Preferred name according to JSON Object -----> felbamate
+---------------------------------------------------------
+1: KEY: Felbatol *** RXCUI -----> 0
+2: KEY: Felbatol *** Concept from RXNORM -----> ()
+3: KEY: Felbatol *** Concept Type -----> ()
+4: KEY: Felbatol *** Drug mention in text -----> Felbatol
+5: KEY: Felbatol *** Source language -----> RXNORM
+6 KEY: Felbatol *** CUI CODE in original terminology -----> 224900
+7: KEY: Felbatol *** Final position in text according to JSON Object -----> 80
+8: KEY: Felbatol *** Initial position according to JSON Object -----> 73
+9: KEY: Felbatol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY: Felbatol *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+1: KEY:  Felbato *** RXCUI -----> 0
+2: KEY:  Felbato *** Concept from RXNORM -----> ()
+3: KEY:  Felbato *** Concept Type -----> ()
+4: KEY:  Felbato *** Drug mention in text ----->  Felbato
+5: KEY:  Felbato *** Source language -----> RXNORM
+6 KEY:  Felbato *** CUI CODE in original terminology -----> 224900
+7: KEY:  Felbato *** Final position in text according to JSON Object -----> 240
+8: KEY:  Felbato *** Initial position according to JSON Object -----> 233
+9: KEY:  Felbato *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/224900
+10: KEY:  Felbato *** Preferred name according to JSON Object -----> Felbatol
+---------------------------------------------------------
+removed duplications 9
+Number of missed JSON elements: 0

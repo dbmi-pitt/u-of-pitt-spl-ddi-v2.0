@@ -1,0 +1,13 @@
+1: KEY: acebutolol *** RXCUI -----> 149
+2: KEY: acebutolol *** Concept from RXNORM -----> Acebutolol
+3: KEY: acebutolol *** Concept Type -----> IN
+4: KEY: acebutolol *** Drug mention in text -----> acebutolol
+5: KEY: acebutolol *** Source language -----> MSH
+6 KEY: acebutolol *** CUI CODE in original terminology -----> D000070
+7: KEY: acebutolol *** Final position in text according to JSON Object -----> 38
+8: KEY: acebutolol *** Initial position according to JSON Object -----> 29
+9: KEY: acebutolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000070
+10: KEY: acebutolol *** Preferred name according to JSON Object -----> Acebutolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

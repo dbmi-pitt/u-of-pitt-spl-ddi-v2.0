@@ -1,0 +1,57 @@
+1: KEY: lithium carbonate *** RXCUI -----> 42351
+2: KEY: lithium carbonate *** Concept from RXNORM -----> Lithium Carbonate
+3: KEY: lithium carbonate *** Concept Type -----> IN
+4: KEY: lithium carbonate *** Drug mention in text -----> lithium carbonate
+5: KEY: lithium carbonate *** Source language -----> MSH
+6 KEY: lithium carbonate *** CUI CODE in original terminology -----> D016651
+7: KEY: lithium carbonate *** Final position in text according to JSON Object -----> 165
+8: KEY: lithium carbonate *** Initial position according to JSON Object -----> 149
+9: KEY: lithium carbonate *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016651
+10: KEY: lithium carbonate *** Preferred name according to JSON Object -----> Lithium Carbonate
+---------------------------------------------------------
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> RXNORM
+6 KEY: paroxetine *** CUI CODE in original terminology -----> 32937
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 143
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 134
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/32937
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine hydrochloride *** RXCUI -----> 32937
+2: KEY: paroxetine hydrochloride *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine hydrochloride *** Concept Type -----> TMSY
+4: KEY: paroxetine hydrochloride *** Drug mention in text -----> paroxetine hydrochloride
+5: KEY: paroxetine hydrochloride *** Source language -----> MSH
+6 KEY: paroxetine hydrochloride *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine hydrochloride *** Final position in text according to JSON Object -----> 69
+8: KEY: paroxetine hydrochloride *** Initial position according to JSON Object -----> 46
+9: KEY: paroxetine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine hydrochloride *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: paroxetine hydrochloride *** RXCUI -----> 32937
+2: KEY: paroxetine hydrochloride *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine hydrochloride *** Concept Type -----> TMSY
+4: KEY: paroxetine hydrochloride *** Drug mention in text -----> paroxetine hydrochloride
+5: KEY: paroxetine hydrochloride *** Source language -----> MSH
+6 KEY: paroxetine hydrochloride *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine hydrochloride *** Final position in text according to JSON Object -----> 69
+8: KEY: paroxetine hydrochloride *** Initial position according to JSON Object -----> 46
+9: KEY: paroxetine hydrochloride *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine hydrochloride *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: serotonin *** RXCUI -----> 1311214
+2: KEY: serotonin *** Concept from RXNORM -----> Serotonin
+3: KEY: serotonin *** Concept Type -----> IN
+4: KEY: serotonin *** Drug mention in text -----> serotonin
+5: KEY: serotonin *** Source language -----> MSH
+6 KEY: serotonin *** CUI CODE in original terminology -----> D012701
+7: KEY: serotonin *** Final position in text according to JSON Object -----> 210
+8: KEY: serotonin *** Initial position according to JSON Object -----> 202
+9: KEY: serotonin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D012701
+10: KEY: serotonin *** Preferred name according to JSON Object -----> Serotonin
+---------------------------------------------------------
+removed duplications 14
+Number of missed JSON elements: 0

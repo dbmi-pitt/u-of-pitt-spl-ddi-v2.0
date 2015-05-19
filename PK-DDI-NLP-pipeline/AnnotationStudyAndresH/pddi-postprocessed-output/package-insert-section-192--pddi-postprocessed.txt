@@ -1,0 +1,2 @@
+fluvastatin	Erythromycin	1	1	true	negative	Erythromycin:    Erythromycin (500 mg, single dose) did not affect steady-state plasma levels of fluvastatin (40 mg daily).  		41127	4053	41127	D004917
+fluvastatin	Erythromycin	1	1	true	negative	Erythromycin:    Erythromycin (500 mg, single dose) did not affect steady-state plasma levels of fluvastatin (40 mg daily).  		41127	4053	41127	D004917

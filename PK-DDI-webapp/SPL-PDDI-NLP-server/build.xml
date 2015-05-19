@@ -1,0 +1,68 @@
+<project name="splPDDIExtractor" basedir="." >
+  <!-- Put README Style comments Here -->
+
+  <!-- ******************************************************************************** -->
+  <!-- GLOBAL PROPERTIES FOR THIS BUILD - use pddiextractor.properties first!  -->
+  <!-- ******************************************************************************** -->  
+  <property file="pddiextractor.properties"/>
+  <property name="version"   value="1.0"/>                            
+
+  <target name="clean">
+    <delete dir="target/classes/" />
+  </target>
+
+  <target name="compile" depends="clean">
+    <mkdir dir="target"/>
+    <mkdir dir="target/classes"/>  
+    <mkdir dir="target/classes/splPDDIExtractor"/>
+    
+    <javac srcdir="src/splPDDIExtractor/"
+	   destdir="target/classes/"
+	   debug="on" 
+	   debuglevel="lines,vars,source" 
+	   >
+      <compilerarg value="-Xlint:unchecked" />
+      <compilerarg value="-Xlint:deprecation" />
+      <classpath> 
+	<pathelement path="${NLP_BASEPATH}" />
+	<fileset dir="lib/">
+	  <include name="*.jar"/>
+	</fileset>           
+	<fileset dir="${NLP_BASEPATH}/lib/">
+	  <include name="*.jar"/>
+	</fileset>
+	<fileset dir="${NLP_BASEPATH}/ddi/">
+	  <include name="*.class"/>
+	</fileset>
+      </classpath>
+    </javac>                          
+  </target>  
+  
+
+  <target name="run-pddi-NLP-service" depends="compile">  
+    <record name="logfile.txt" action="start" append="false" />
+    <symlink overwrite="true" 
+	     link="${basedir}/etc" 
+	     resource="${NLP_BASEPATH}/etc"/>
+
+    <java classname="splPDDIExtractor.SPL_PDDI_NLP_Endpoint"
+      	  fork="true"
+	  failonerror="true">
+      <classpath> 
+	<pathelement path="target/classes/" />
+	<pathelement path="${NLP_BASEPATH}" />
+	<fileset dir="lib/">
+	  <include name="*.jar"/>
+	</fileset>           
+	<fileset dir="${NLP_BASEPATH}/lib/">
+	  <include name="*.jar"/>
+	</fileset>
+	<fileset dir="${NLP_BASEPATH}/ddi/">
+	  <include name="*.class"/>
+	</fileset>
+      </classpath>
+    </java>                          
+    <record name="logfile.txt" action="stop"/>
+  </target>  
+  
+</project>

@@ -1,0 +1,2 @@
+glipizide	fluconazole	1	1	true	positive	The AUC and Cmax of glipizide (2.5 mg single dose) were significantly increased following the administration of fluconazole in 13 normal male volunteers.  		4821	4450	4821	4450
+glipizide	fluconazole	1	1	true	positive	The AUC and Cmax of glipizide (2.5 mg single dose) were significantly increased following the administration of fluconazole in 13 normal male volunteers.  		4821	4450	4821	4450

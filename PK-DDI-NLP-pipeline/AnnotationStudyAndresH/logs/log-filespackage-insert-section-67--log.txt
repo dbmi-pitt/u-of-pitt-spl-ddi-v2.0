@@ -1,0 +1,68 @@
+1: KEY: fazodone u *** RXCUI -----> 31565
+2: KEY: fazodone u *** Concept from RXNORM -----> nefazodone
+3: KEY: fazodone u *** Concept Type -----> IN
+4: KEY: fazodone u *** Drug mention in text -----> fazodone u
+5: KEY: fazodone u *** Source language -----> MSH
+6 KEY: fazodone u *** CUI CODE in original terminology -----> C051752
+7: KEY: fazodone u *** Final position in text according to JSON Object -----> 830
+8: KEY: fazodone u *** Initial position according to JSON Object -----> 821
+9: KEY: fazodone u *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: fazodone u *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Final position in text according to JSON Object -----> 126
+8: KEY: nefazodone *** Initial position according to JSON Object -----> 117
+9: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: e as follo *** RXCUI -----> 31565
+2: KEY: e as follo *** Concept from RXNORM -----> nefazodone
+3: KEY: e as follo *** Concept Type -----> IN
+4: KEY: e as follo *** Drug mention in text -----> e as follo
+5: KEY: e as follo *** Source language -----> MSH
+6 KEY: e as follo *** CUI CODE in original terminology -----> C051752
+7: KEY: e as follo *** Final position in text according to JSON Object -----> 622
+8: KEY: e as follo *** Initial position according to JSON Object -----> 613
+9: KEY: e as follo *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: e as follo *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: ncope’ ( *** RXCUI -----> 31565
+2: KEY: ncope’ ( *** Concept from RXNORM -----> nefazodone
+3: KEY: ncope’ ( *** Concept Type -----> IN
+4: KEY: ncope’ ( *** Drug mention in text -----> ncope’ (
+5: KEY: ncope’ ( *** Source language -----> MSH
+6 KEY: ncope’ ( *** CUI CODE in original terminology -----> C051752
+7: KEY: ncope’ ( *** Final position in text according to JSON Object -----> 502
+8: KEY: ncope’ ( *** Initial position according to JSON Object -----> 493
+9: KEY: ncope’ ( *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: ncope’ ( *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: ociation w *** RXCUI -----> 31565
+2: KEY: ociation w *** Concept from RXNORM -----> nefazodone
+3: KEY: ociation w *** Concept Type -----> IN
+4: KEY: ociation w *** Drug mention in text -----> ociation w
+5: KEY: ociation w *** Source language -----> MSH
+6 KEY: ociation w *** CUI CODE in original terminology -----> C051752
+7: KEY: ociation w *** Final position in text according to JSON Object -----> 814
+8: KEY: ociation w *** Initial position according to JSON Object -----> 805
+9: KEY: ociation w *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: ociation w *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: on of nefa *** RXCUI -----> 31565
+2: KEY: on of nefa *** Concept from RXNORM -----> nefazodone
+3: KEY: on of nefa *** Concept Type -----> IN
+4: KEY: on of nefa *** Drug mention in text -----> on of nefa
+5: KEY: on of nefa *** Source language -----> MSH
+6 KEY: on of nefa *** CUI CODE in original terminology -----> C051752
+7: KEY: on of nefa *** Final position in text according to JSON Object -----> 420
+8: KEY: on of nefa *** Initial position according to JSON Object -----> 411
+9: KEY: on of nefa *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+10: KEY: on of nefa *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+removed duplications 34
+Number of missed JSON elements: 0

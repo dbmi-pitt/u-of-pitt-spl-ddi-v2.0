@@ -1,0 +1,2 @@
+Zonisamide	cimetidine	1	1	true	negative	Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).  		39998	2541	39998	2541
+Zonisamide	cimetidine	1	1	true	negative	Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).  		39998	2541	39998	2541

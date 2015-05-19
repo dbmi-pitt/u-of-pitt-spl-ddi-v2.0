@@ -1,0 +1,2 @@
+quinidine	propranolol	1	1	true	positive	The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.  		9068	8787	9068	D011433
+quinidine	propranolol	1	1	true	positive	The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.  		9068	8787	9068	D011433

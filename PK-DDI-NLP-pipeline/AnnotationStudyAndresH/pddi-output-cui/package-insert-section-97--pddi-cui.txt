@@ -1,0 +1,2 @@
+alprazolam	cimetidine	1	1	true	positive	Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.  		596	2541	D000525	2541
+alprazolam	cimetidine	1	1	true	positive	Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.  		596	2541	D000525	2541

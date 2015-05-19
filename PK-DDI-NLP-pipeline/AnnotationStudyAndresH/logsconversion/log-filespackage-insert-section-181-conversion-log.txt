@@ -1,0 +1,2 @@
+norverapamil	http://purl.bioontology.org/ontology/MSH/C016904	MSH	C016904
+curare	http://purl.bioontology.org/ontology/MSH/D003472	MSH	D003472

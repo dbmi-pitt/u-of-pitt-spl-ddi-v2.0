@@ -1,0 +1,35 @@
+1: KEY: fluvastatin *** RXCUI -----> 41127
+2: KEY: fluvastatin *** Concept from RXNORM -----> fluvastatin
+3: KEY: fluvastatin *** Concept Type -----> IN
+4: KEY: fluvastatin *** Drug mention in text -----> fluvastatin
+5: KEY: fluvastatin *** Source language -----> RXNORM
+6 KEY: fluvastatin *** CUI CODE in original terminology -----> 41127
+7: KEY: fluvastatin *** Final position in text according to JSON Object -----> 106
+8: KEY: fluvastatin *** Initial position according to JSON Object -----> 96
+9: KEY: fluvastatin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/41127
+10: KEY: fluvastatin *** Preferred name according to JSON Object -----> fluvastatin
+---------------------------------------------------------
+1: KEY: Erythromycin *** RXCUI -----> 4053
+2: KEY: Erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: Erythromycin *** Concept Type -----> IN
+4: KEY: Erythromycin *** Drug mention in text -----> Erythromycin
+5: KEY: Erythromycin *** Source language -----> MSH
+6 KEY: Erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: Erythromycin *** Final position in text according to JSON Object -----> 12
+8: KEY: Erythromycin *** Initial position according to JSON Object -----> 1
+9: KEY: Erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: Erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: Erythromycin *** RXCUI -----> 4053
+2: KEY: Erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: Erythromycin *** Concept Type -----> IN
+4: KEY: Erythromycin *** Drug mention in text -----> Erythromycin
+5: KEY: Erythromycin *** Source language -----> MSH
+6 KEY: Erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: Erythromycin *** Final position in text according to JSON Object -----> 12
+8: KEY: Erythromycin *** Initial position according to JSON Object -----> 1
+9: KEY: Erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: Erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

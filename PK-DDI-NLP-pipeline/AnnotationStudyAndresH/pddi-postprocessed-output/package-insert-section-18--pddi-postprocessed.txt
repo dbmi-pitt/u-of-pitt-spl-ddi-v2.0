@@ -1,0 +1,2 @@
+Sertraline	atenolol	1	1	true	negative	Sertraline (100 mg) when administered to 10 healthy male subjects had no effect on the beta-adrenergic blocking ability of atenolol.  		36437	1202	D020280	D001262
+Sertraline	atenolol	1	1	true	negative	Sertraline (100 mg) when administered to 10 healthy male subjects had no effect on the beta-adrenergic blocking ability of atenolol.  		36437	1202	D020280	D001262

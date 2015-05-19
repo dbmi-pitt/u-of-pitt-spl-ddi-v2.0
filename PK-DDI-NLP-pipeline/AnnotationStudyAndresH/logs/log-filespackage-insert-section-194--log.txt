@@ -1,0 +1,871 @@
+1: KEY: paroxetine *** RXCUI -----> 32937
+2: KEY: paroxetine *** Concept from RXNORM -----> PARoxetine
+3: KEY: paroxetine *** Concept Type -----> TMSY
+4: KEY: paroxetine *** Drug mention in text -----> paroxetine
+5: KEY: paroxetine *** Source language -----> MSH
+6 KEY: paroxetine *** CUI CODE in original terminology -----> D017374
+7: KEY: paroxetine *** Final position in text according to JSON Object -----> 113
+8: KEY: paroxetine *** Initial position according to JSON Object -----> 104
+9: KEY: paroxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017374
+10: KEY: paroxetine *** Preferred name according to JSON Object -----> Paroxetine
+---------------------------------------------------------
+1: KEY: RYTHMOL *** RXCUI -----> 0
+2: KEY: RYTHMOL *** Concept from RXNORM -----> ()
+3: KEY: RYTHMOL *** Concept Type -----> ()
+4: KEY: RYTHMOL *** Drug mention in text -----> RYTHMOL
+5: KEY: RYTHMOL *** Source language -----> RXNORM
+6 KEY: RYTHMOL *** CUI CODE in original terminology -----> 82079
+7: KEY: RYTHMOL *** Final position in text according to JSON Object -----> 525
+8: KEY: RYTHMOL *** Initial position according to JSON Object -----> 519
+9: KEY: RYTHMOL *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/82079
+10: KEY: RYTHMOL *** Preferred name according to JSON Object -----> Rythmol
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 136
+8: KEY: sertraline *** Initial position according to JSON Object -----> 127
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1243
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1235
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1243
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1235
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1243
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1235
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: quinidine *** RXCUI -----> 9068
+2: KEY: quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: quinidine *** Concept Type -----> IN
+4: KEY: quinidine *** Drug mention in text -----> quinidine
+5: KEY: quinidine *** Source language -----> RXNORM
+6 KEY: quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: quinidine *** Final position in text according to JSON Object -----> 1243
+8: KEY: quinidine *** Initial position according to JSON Object -----> 1235
+9: KEY: quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: Warfarin *** RXCUI -----> 11289
+2: KEY: Warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: Warfarin *** Concept Type -----> IN
+4: KEY: Warfarin *** Drug mention in text -----> Warfarin
+5: KEY: Warfarin *** Source language -----> MSH
+6 KEY: Warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: Warfarin *** Final position in text according to JSON Object -----> 2832
+8: KEY: Warfarin *** Initial position according to JSON Object -----> 2825
+9: KEY: Warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: Warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: saquinavir *** RXCUI -----> 83395
+2: KEY: saquinavir *** Concept from RXNORM -----> Saquinavir
+3: KEY: saquinavir *** Concept Type -----> IN
+4: KEY: saquinavir *** Drug mention in text -----> saquinavir
+5: KEY: saquinavir *** Source language -----> RXNORM
+6 KEY: saquinavir *** CUI CODE in original terminology -----> 83395
+7: KEY: saquinavir *** Final position in text according to JSON Object -----> 193
+8: KEY: saquinavir *** Initial position according to JSON Object -----> 184
+9: KEY: saquinavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/83395
+10: KEY: saquinavir *** Preferred name according to JSON Object -----> Saquinavir
+---------------------------------------------------------
+1: KEY: Digoxin *** RXCUI -----> 3407
+2: KEY: Digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: Digoxin *** Concept Type -----> IN
+4: KEY: Digoxin *** Drug mention in text -----> Digoxin
+5: KEY: Digoxin *** Source language -----> RXNORM
+6 KEY: Digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: Digoxin *** Final position in text according to JSON Object -----> 2541
+8: KEY: Digoxin *** Initial position according to JSON Object -----> 2535
+9: KEY: Digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: Digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: cimetidine *** RXCUI -----> 2541
+2: KEY: cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: cimetidine *** Concept Type -----> IN
+4: KEY: cimetidine *** Drug mention in text -----> cimetidine
+5: KEY: cimetidine *** Source language -----> RXNORM
+6 KEY: cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: cimetidine *** Final position in text according to JSON Object -----> 901
+8: KEY: cimetidine *** Initial position according to JSON Object -----> 892
+9: KEY: cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 3826
+8: KEY: propranolol *** Initial position according to JSON Object -----> 3816
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 3826
+8: KEY: propranolol *** Initial position according to JSON Object -----> 3816
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 3826
+8: KEY: propranolol *** Initial position according to JSON Object -----> 3816
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+1: KEY: Orlistat *** RXCUI -----> 37925
+2: KEY: Orlistat *** Concept from RXNORM -----> orlistat
+3: KEY: Orlistat *** Concept Type -----> IN
+4: KEY: Orlistat *** Drug mention in text -----> Orlistat
+5: KEY: Orlistat *** Source language -----> RXNORM
+6 KEY: Orlistat *** CUI CODE in original terminology -----> 37925
+7: KEY: Orlistat *** Final position in text according to JSON Object -----> 3148
+8: KEY: Orlistat *** Initial position according to JSON Object -----> 3141
+9: KEY: Orlistat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/37925
+10: KEY: Orlistat *** Preferred name according to JSON Object -----> orlistat
+---------------------------------------------------------
+1: KEY: Orlistat *** RXCUI -----> 37925
+2: KEY: Orlistat *** Concept from RXNORM -----> orlistat
+3: KEY: Orlistat *** Concept Type -----> IN
+4: KEY: Orlistat *** Drug mention in text -----> Orlistat
+5: KEY: Orlistat *** Source language -----> RXNORM
+6 KEY: Orlistat *** CUI CODE in original terminology -----> 37925
+7: KEY: Orlistat *** Final position in text according to JSON Object -----> 3148
+8: KEY: Orlistat *** Initial position according to JSON Object -----> 3141
+9: KEY: Orlistat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/37925
+10: KEY: Orlistat *** Preferred name according to JSON Object -----> orlistat
+---------------------------------------------------------
+1: KEY: Fluoxetine *** RXCUI -----> 4493
+2: KEY: Fluoxetine *** Concept from RXNORM -----> Fluoxetine
+3: KEY: Fluoxetine *** Concept Type -----> IN
+4: KEY: Fluoxetine *** Drug mention in text -----> Fluoxetine
+5: KEY: Fluoxetine *** Source language -----> MSH
+6 KEY: Fluoxetine *** CUI CODE in original terminology -----> D005473
+7: KEY: Fluoxetine *** Final position in text according to JSON Object -----> 1017
+8: KEY: Fluoxetine *** Initial position according to JSON Object -----> 1008
+9: KEY: Fluoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: Fluoxetine *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 2892
+8: KEY: warfarin *** Initial position according to JSON Object -----> 2885
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 2892
+8: KEY: warfarin *** Initial position according to JSON Object -----> 2885
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 2892
+8: KEY: warfarin *** Initial position according to JSON Object -----> 2885
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: warfarin *** RXCUI -----> 11289
+2: KEY: warfarin *** Concept from RXNORM -----> Warfarin
+3: KEY: warfarin *** Concept Type -----> IN
+4: KEY: warfarin *** Drug mention in text -----> warfarin
+5: KEY: warfarin *** Source language -----> MSH
+6 KEY: warfarin *** CUI CODE in original terminology -----> D014859
+7: KEY: warfarin *** Final position in text according to JSON Object -----> 2892
+8: KEY: warfarin *** Initial position according to JSON Object -----> 2885
+9: KEY: warfarin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D014859
+10: KEY: warfarin *** Preferred name according to JSON Object -----> Warfarin
+---------------------------------------------------------
+1: KEY: prothrombin *** RXCUI -----> 1441688
+2: KEY: prothrombin *** Concept from RXNORM -----> Prothrombin
+3: KEY: prothrombin *** Concept Type -----> IN
+4: KEY: prothrombin *** Drug mention in text -----> prothrombin
+5: KEY: prothrombin *** Source language -----> RXNORM
+6 KEY: prothrombin *** CUI CODE in original terminology -----> 1441688
+7: KEY: prothrombin *** Final position in text according to JSON Object -----> 3008
+8: KEY: prothrombin *** Initial position according to JSON Object -----> 2998
+9: KEY: prothrombin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/1441688
+10: KEY: prothrombin *** Preferred name according to JSON Object -----> Prothrombin
+---------------------------------------------------------
+1: KEY: Rifampin *** RXCUI -----> 9384
+2: KEY: Rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: Rifampin *** Concept Type -----> IN
+4: KEY: Rifampin *** Drug mention in text -----> Rifampin
+5: KEY: Rifampin *** Source language -----> RXNORM
+6 KEY: Rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: Rifampin *** Final position in text according to JSON Object -----> 1856
+8: KEY: Rifampin *** Initial position according to JSON Object -----> 1849
+9: KEY: Rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: Rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: Amiodarone *** RXCUI -----> 703
+2: KEY: Amiodarone *** Concept from RXNORM -----> Amiodarone
+3: KEY: Amiodarone *** Concept Type -----> IN
+4: KEY: Amiodarone *** Drug mention in text -----> Amiodarone
+5: KEY: Amiodarone *** Source language -----> MSH
+6 KEY: Amiodarone *** CUI CODE in original terminology -----> D000638
+7: KEY: Amiodarone *** Final position in text according to JSON Object -----> 682
+8: KEY: Amiodarone *** Initial position according to JSON Object -----> 673
+9: KEY: Amiodarone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000638
+10: KEY: Amiodarone *** Preferred name according to JSON Object -----> Amiodarone
+---------------------------------------------------------
+1: KEY: Lidocaine *** RXCUI -----> 6387
+2: KEY: Lidocaine *** Concept from RXNORM -----> Lidocaine
+3: KEY: Lidocaine *** Concept Type -----> IN
+4: KEY: Lidocaine *** Drug mention in text -----> Lidocaine
+5: KEY: Lidocaine *** Source language -----> MSH
+6 KEY: Lidocaine *** CUI CODE in original terminology -----> D008012
+7: KEY: Lidocaine *** Final position in text according to JSON Object -----> 4034
+8: KEY: Lidocaine *** Initial position according to JSON Object -----> 4026
+9: KEY: Lidocaine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008012
+10: KEY: Lidocaine *** Preferred name according to JSON Object -----> Lidocaine
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 170
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 159
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: orlistat *** RXCUI -----> 37925
+2: KEY: orlistat *** Concept from RXNORM -----> orlistat
+3: KEY: orlistat *** Concept Type -----> IN
+4: KEY: orlistat *** Drug mention in text -----> orlistat
+5: KEY: orlistat *** Source language -----> RXNORM
+6 KEY: orlistat *** CUI CODE in original terminology -----> 37925
+7: KEY: orlistat *** Final position in text according to JSON Object -----> 3278
+8: KEY: orlistat *** Initial position according to JSON Object -----> 3271
+9: KEY: orlistat *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/37925
+10: KEY: orlistat *** Preferred name according to JSON Object -----> orlistat
+---------------------------------------------------------
+1: KEY: fluoxetine *** RXCUI -----> 4493
+2: KEY: fluoxetine *** Concept from RXNORM -----> Fluoxetine
+3: KEY: fluoxetine *** Concept Type -----> IN
+4: KEY: fluoxetine *** Drug mention in text -----> fluoxetine
+5: KEY: fluoxetine *** Source language -----> MSH
+6 KEY: fluoxetine *** CUI CODE in original terminology -----> D005473
+7: KEY: fluoxetine *** Final position in text according to JSON Object -----> 1075
+8: KEY: fluoxetine *** Initial position according to JSON Object -----> 1066
+9: KEY: fluoxetine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D005473
+10: KEY: fluoxetine *** Preferred name according to JSON Object -----> Fluoxetine
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 124
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 116
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: ritonavir *** RXCUI -----> 85762
+2: KEY: ritonavir *** Concept from RXNORM -----> Ritonavir
+3: KEY: ritonavir *** Concept Type -----> IN
+4: KEY: ritonavir *** Drug mention in text -----> ritonavir
+5: KEY: ritonavir *** Source language -----> MSH
+6 KEY: ritonavir *** CUI CODE in original terminology -----> D019438
+7: KEY: ritonavir *** Final position in text according to JSON Object -----> 124
+8: KEY: ritonavir *** Initial position according to JSON Object -----> 116
+9: KEY: ritonavir *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D019438
+10: KEY: ritonavir *** Preferred name according to JSON Object -----> Ritonavir
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2740
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2734
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2740
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2734
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2740
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2734
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2740
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2734
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: digoxin *** RXCUI -----> 3407
+2: KEY: digoxin *** Concept from RXNORM -----> Digoxin
+3: KEY: digoxin *** Concept Type -----> IN
+4: KEY: digoxin *** Drug mention in text -----> digoxin
+5: KEY: digoxin *** Source language -----> RXNORM
+6 KEY: digoxin *** CUI CODE in original terminology -----> 3407
+7: KEY: digoxin *** Final position in text according to JSON Object -----> 2740
+8: KEY: digoxin *** Initial position according to JSON Object -----> 2734
+9: KEY: digoxin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3407
+10: KEY: digoxin *** Preferred name according to JSON Object -----> Digoxin
+---------------------------------------------------------
+1: KEY: desipramine *** RXCUI -----> 3247
+2: KEY: desipramine *** Concept from RXNORM -----> Desipramine
+3: KEY: desipramine *** Concept Type -----> IN
+4: KEY: desipramine *** Drug mention in text -----> desipramine
+5: KEY: desipramine *** Source language -----> RXNORM
+6 KEY: desipramine *** CUI CODE in original terminology -----> 3247
+7: KEY: desipramine *** Final position in text according to JSON Object -----> 101
+8: KEY: desipramine *** Initial position according to JSON Object -----> 91
+9: KEY: desipramine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/3247
+10: KEY: desipramine *** Preferred name according to JSON Object -----> Desipramine
+---------------------------------------------------------
+1: KEY: amiodarone *** RXCUI -----> 703
+2: KEY: amiodarone *** Concept from RXNORM -----> Amiodarone
+3: KEY: amiodarone *** Concept Type -----> IN
+4: KEY: amiodarone *** Drug mention in text -----> amiodarone
+5: KEY: amiodarone *** Source language -----> MSH
+6 KEY: amiodarone *** CUI CODE in original terminology -----> D000638
+7: KEY: amiodarone *** Final position in text according to JSON Object -----> 740
+8: KEY: amiodarone *** Initial position according to JSON Object -----> 731
+9: KEY: amiodarone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000638
+10: KEY: amiodarone *** Preferred name according to JSON Object -----> Amiodarone
+---------------------------------------------------------
+1: KEY: lidocaine *** RXCUI -----> 6387
+2: KEY: lidocaine *** Concept from RXNORM -----> Lidocaine
+3: KEY: lidocaine *** Concept Type -----> IN
+4: KEY: lidocaine *** Drug mention in text -----> lidocaine
+5: KEY: lidocaine *** Source language -----> MSH
+6 KEY: lidocaine *** CUI CODE in original terminology -----> D008012
+7: KEY: lidocaine *** Final position in text according to JSON Object -----> 4110
+8: KEY: lidocaine *** Initial position according to JSON Object -----> 4102
+9: KEY: lidocaine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008012
+10: KEY: lidocaine *** Preferred name according to JSON Object -----> Lidocaine
+---------------------------------------------------------
+1: KEY: lidocaine *** RXCUI -----> 6387
+2: KEY: lidocaine *** Concept from RXNORM -----> Lidocaine
+3: KEY: lidocaine *** Concept Type -----> IN
+4: KEY: lidocaine *** Drug mention in text -----> lidocaine
+5: KEY: lidocaine *** Source language -----> MSH
+6 KEY: lidocaine *** CUI CODE in original terminology -----> D008012
+7: KEY: lidocaine *** Final position in text according to JSON Object -----> 4110
+8: KEY: lidocaine *** Initial position according to JSON Object -----> 4102
+9: KEY: lidocaine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008012
+10: KEY: lidocaine *** Preferred name according to JSON Object -----> Lidocaine
+---------------------------------------------------------
+1: KEY: lidocaine *** RXCUI -----> 6387
+2: KEY: lidocaine *** Concept from RXNORM -----> Lidocaine
+3: KEY: lidocaine *** Concept Type -----> IN
+4: KEY: lidocaine *** Drug mention in text -----> lidocaine
+5: KEY: lidocaine *** Source language -----> MSH
+6 KEY: lidocaine *** CUI CODE in original terminology -----> D008012
+7: KEY: lidocaine *** Final position in text according to JSON Object -----> 4110
+8: KEY: lidocaine *** Initial position according to JSON Object -----> 4102
+9: KEY: lidocaine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008012
+10: KEY: lidocaine *** Preferred name according to JSON Object -----> Lidocaine
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 3485
+8: KEY: propafenone *** Initial position according to JSON Object -----> 3475
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: Quinidine *** RXCUI -----> 9068
+2: KEY: Quinidine *** Concept from RXNORM -----> Quinidine
+3: KEY: Quinidine *** Concept Type -----> IN
+4: KEY: Quinidine *** Drug mention in text -----> Quinidine
+5: KEY: Quinidine *** Source language -----> RXNORM
+6 KEY: Quinidine *** CUI CODE in original terminology -----> 9068
+7: KEY: Quinidine *** Final position in text according to JSON Object -----> 1217
+8: KEY: Quinidine *** Initial position according to JSON Object -----> 1209
+9: KEY: Quinidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9068
+10: KEY: Quinidine *** Preferred name according to JSON Object -----> Quinidine
+---------------------------------------------------------
+1: KEY: rifampin *** RXCUI -----> 9384
+2: KEY: rifampin *** Concept from RXNORM -----> Rifampin
+3: KEY: rifampin *** Concept Type -----> IN
+4: KEY: rifampin *** Drug mention in text -----> rifampin
+5: KEY: rifampin *** Source language -----> RXNORM
+6 KEY: rifampin *** CUI CODE in original terminology -----> 9384
+7: KEY: rifampin *** Final position in text according to JSON Object -----> 1896
+8: KEY: rifampin *** Initial position according to JSON Object -----> 1889
+9: KEY: rifampin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/9384
+10: KEY: rifampin *** Preferred name according to JSON Object -----> Rifampin
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Final position in text according to JSON Object -----> 207
+8: KEY: erythromycin *** Initial position according to JSON Object -----> 196
+9: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+10: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: Cimetidine *** RXCUI -----> 2541
+2: KEY: Cimetidine *** Concept from RXNORM -----> Cimetidine
+3: KEY: Cimetidine *** Concept Type -----> IN
+4: KEY: Cimetidine *** Drug mention in text -----> Cimetidine
+5: KEY: Cimetidine *** Source language -----> RXNORM
+6 KEY: Cimetidine *** CUI CODE in original terminology -----> 2541
+7: KEY: Cimetidine *** Final position in text according to JSON Object -----> 817
+8: KEY: Cimetidine *** Initial position according to JSON Object -----> 808
+9: KEY: Cimetidine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2541
+10: KEY: Cimetidine *** Preferred name according to JSON Object -----> Cimetidine
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 3840
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 3831
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 3840
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 3831
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+1: KEY: metoprolol *** RXCUI -----> 6918
+2: KEY: metoprolol *** Concept from RXNORM -----> Metoprolol
+3: KEY: metoprolol *** Concept Type -----> IN
+4: KEY: metoprolol *** Drug mention in text -----> metoprolol
+5: KEY: metoprolol *** Source language -----> MSH
+6 KEY: metoprolol *** CUI CODE in original terminology -----> D008790
+7: KEY: metoprolol *** Final position in text according to JSON Object -----> 3840
+8: KEY: metoprolol *** Initial position according to JSON Object -----> 3831
+9: KEY: metoprolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D008790
+10: KEY: metoprolol *** Preferred name according to JSON Object -----> Metoprolol
+---------------------------------------------------------
+removed duplications 66
+Number of missed JSON elements: 0

@@ -1,0 +1,46 @@
+1: KEY: citalopram *** RXCUI -----> 2556
+2: KEY: citalopram *** Concept from RXNORM -----> Citalopram
+3: KEY: citalopram *** Concept Type -----> IN
+4: KEY: citalopram *** Drug mention in text -----> citalopram
+5: KEY: citalopram *** Source language -----> RXNORM
+6 KEY: citalopram *** CUI CODE in original terminology -----> 2556
+7: KEY: citalopram *** Final position in text according to JSON Object -----> 37
+8: KEY: citalopram *** Initial position according to JSON Object -----> 28
+9: KEY: citalopram *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2556
+10: KEY: citalopram *** Preferred name according to JSON Object -----> Citalopram
+---------------------------------------------------------
+1: KEY: citalopram *** RXCUI -----> 2556
+2: KEY: citalopram *** Concept from RXNORM -----> Citalopram
+3: KEY: citalopram *** Concept Type -----> IN
+4: KEY: citalopram *** Drug mention in text -----> citalopram
+5: KEY: citalopram *** Source language -----> RXNORM
+6 KEY: citalopram *** CUI CODE in original terminology -----> 2556
+7: KEY: citalopram *** Final position in text according to JSON Object -----> 37
+8: KEY: citalopram *** Initial position according to JSON Object -----> 28
+9: KEY: citalopram *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/2556
+10: KEY: citalopram *** Preferred name according to JSON Object -----> Citalopram
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> RXNORM
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> 6135
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 114
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 103
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6135
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> RXNORM
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> 6135
+7: KEY: ketoconazole *** Final position in text according to JSON Object -----> 114
+8: KEY: ketoconazole *** Initial position according to JSON Object -----> 103
+9: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/RXNORM/6135
+10: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

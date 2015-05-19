@@ -1,0 +1,2 @@
+Benzodiazepines	http://purl.bioontology.org/ontology/MSH/D001569	MSH	D001569
+benzodiazepines	http://purl.bioontology.org/ontology/MSH/D001569	MSH	D001569

@@ -1,0 +1,170 @@
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 310
+9: KEY: fluvoxamine *** Initial position according to JSON Object -----> 300
+10: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+11: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: fluvoxamine *** RXCUI -----> 42355
+2: KEY: fluvoxamine *** Concept from RXNORM -----> fluvoxaMINE
+3: KEY: fluvoxamine *** Concept Type -----> TMSY
+4: KEY: fluvoxamine *** Drug mention in text -----> fluvoxamine
+5: KEY: fluvoxamine *** Source language -----> MSH
+6 KEY: fluvoxamine *** CUI CODE in original terminology -----> D016666
+7: KEY: fluvoxamine *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: fluvoxamine *** Final position in text according to JSON Object -----> 310
+9: KEY: fluvoxamine *** Initial position according to JSON Object -----> 300
+10: KEY: fluvoxamine *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D016666
+11: KEY: fluvoxamine *** Preferred name according to JSON Object -----> Fluvoxamine
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: nefazodone *** Final position in text according to JSON Object -----> 286
+9: KEY: nefazodone *** Initial position according to JSON Object -----> 277
+10: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+11: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: nefazodone *** RXCUI -----> 31565
+2: KEY: nefazodone *** Concept from RXNORM -----> nefazodone
+3: KEY: nefazodone *** Concept Type -----> IN
+4: KEY: nefazodone *** Drug mention in text -----> nefazodone
+5: KEY: nefazodone *** Source language -----> MSH
+6 KEY: nefazodone *** CUI CODE in original terminology -----> C051752
+7: KEY: nefazodone *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: nefazodone *** Final position in text according to JSON Object -----> 286
+9: KEY: nefazodone *** Initial position according to JSON Object -----> 277
+10: KEY: nefazodone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/C051752
+11: KEY: nefazodone *** Preferred name according to JSON Object -----> nefazodone
+---------------------------------------------------------
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: alprazolam *** Final position in text according to JSON Object -----> 93
+9: KEY: alprazolam *** Initial position according to JSON Object -----> 84
+10: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+11: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: alprazolam *** Final position in text according to JSON Object -----> 93
+9: KEY: alprazolam *** Initial position according to JSON Object -----> 84
+10: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+11: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: alprazolam *** Final position in text according to JSON Object -----> 93
+9: KEY: alprazolam *** Initial position according to JSON Object -----> 84
+10: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+11: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: alprazolam *** RXCUI -----> 596
+2: KEY: alprazolam *** Concept from RXNORM -----> Alprazolam
+3: KEY: alprazolam *** Concept Type -----> IN
+4: KEY: alprazolam *** Drug mention in text -----> alprazolam
+5: KEY: alprazolam *** Source language -----> MSH
+6 KEY: alprazolam *** CUI CODE in original terminology -----> D000525
+7: KEY: alprazolam *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: alprazolam *** Final position in text according to JSON Object -----> 93
+9: KEY: alprazolam *** Initial position according to JSON Object -----> 84
+10: KEY: alprazolam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D000525
+11: KEY: alprazolam *** Preferred name according to JSON Object -----> Alprazolam
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: erythromycin *** Final position in text according to JSON Object -----> 339
+9: KEY: erythromycin *** Initial position according to JSON Object -----> 328
+10: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+11: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: erythromycin *** RXCUI -----> 4053
+2: KEY: erythromycin *** Concept from RXNORM -----> Erythromycin
+3: KEY: erythromycin *** Concept Type -----> IN
+4: KEY: erythromycin *** Drug mention in text -----> erythromycin
+5: KEY: erythromycin *** Source language -----> MSH
+6 KEY: erythromycin *** CUI CODE in original terminology -----> D004917
+7: KEY: erythromycin *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: erythromycin *** Final position in text according to JSON Object -----> 339
+9: KEY: erythromycin *** Initial position according to JSON Object -----> 328
+10: KEY: erythromycin *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D004917
+11: KEY: erythromycin *** Preferred name according to JSON Object -----> Erythromycin
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: ketoconazole *** Final position in text according to JSON Object -----> 238
+9: KEY: ketoconazole *** Initial position according to JSON Object -----> 227
+10: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+11: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: ketoconazole *** RXCUI -----> 6135
+2: KEY: ketoconazole *** Concept from RXNORM -----> Ketoconazole
+3: KEY: ketoconazole *** Concept Type -----> IN
+4: KEY: ketoconazole *** Drug mention in text -----> ketoconazole
+5: KEY: ketoconazole *** Source language -----> MSH
+6 KEY: ketoconazole *** CUI CODE in original terminology -----> D007654
+7: KEY: ketoconazole *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: ketoconazole *** Final position in text according to JSON Object -----> 238
+9: KEY: ketoconazole *** Initial position according to JSON Object -----> 227
+10: KEY: ketoconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D007654
+11: KEY: ketoconazole *** Preferred name according to JSON Object -----> Ketoconazole
+---------------------------------------------------------
+1: KEY: itraconazole *** RXCUI -----> 28031
+2: KEY: itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: itraconazole *** Concept Type -----> IN
+4: KEY: itraconazole *** Drug mention in text -----> itraconazole
+5: KEY: itraconazole *** Source language -----> MSH
+6 KEY: itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: itraconazole *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: itraconazole *** Final position in text according to JSON Object -----> 263
+9: KEY: itraconazole *** Initial position according to JSON Object -----> 252
+10: KEY: itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+11: KEY: itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+1: KEY: itraconazole *** RXCUI -----> 28031
+2: KEY: itraconazole *** Concept from RXNORM -----> Itraconazole
+3: KEY: itraconazole *** Concept Type -----> IN
+4: KEY: itraconazole *** Drug mention in text -----> itraconazole
+5: KEY: itraconazole *** Source language -----> MSH
+6 KEY: itraconazole *** CUI CODE in original terminology -----> D017964
+7: KEY: itraconazole *** Semantic type according to JSON Object -----> [u'T999', u'T999']
+8: KEY: itraconazole *** Final position in text according to JSON Object -----> 263
+9: KEY: itraconazole *** Initial position according to JSON Object -----> 252
+10: KEY: itraconazole *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D017964
+11: KEY: itraconazole *** Preferred name according to JSON Object -----> Itraconazole
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

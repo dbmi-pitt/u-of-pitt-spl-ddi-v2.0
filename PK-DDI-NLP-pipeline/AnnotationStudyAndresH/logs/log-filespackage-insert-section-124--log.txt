@@ -1,0 +1,24 @@
+1: KEY: propafenone *** RXCUI -----> 8754
+2: KEY: propafenone *** Concept from RXNORM -----> Propafenone
+3: KEY: propafenone *** Concept Type -----> IN
+4: KEY: propafenone *** Drug mention in text -----> propafenone
+5: KEY: propafenone *** Source language -----> MSH
+6 KEY: propafenone *** CUI CODE in original terminology -----> D011405
+7: KEY: propafenone *** Final position in text according to JSON Object -----> 22
+8: KEY: propafenone *** Initial position according to JSON Object -----> 12
+9: KEY: propafenone *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011405
+10: KEY: propafenone *** Preferred name according to JSON Object -----> Propafenone
+---------------------------------------------------------
+1: KEY: propranolol *** RXCUI -----> 8787
+2: KEY: propranolol *** Concept from RXNORM -----> Propranolol
+3: KEY: propranolol *** Concept Type -----> IN
+4: KEY: propranolol *** Drug mention in text -----> propranolol
+5: KEY: propranolol *** Source language -----> MSH
+6 KEY: propranolol *** CUI CODE in original terminology -----> D011433
+7: KEY: propranolol *** Final position in text according to JSON Object -----> 89
+8: KEY: propranolol *** Initial position according to JSON Object -----> 79
+9: KEY: propranolol *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D011433
+10: KEY: propranolol *** Preferred name according to JSON Object -----> Propranolol
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0

@@ -1,0 +1,68 @@
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 238
+8: KEY: diazepam *** Initial position according to JSON Object -----> 231
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: diazepam *** RXCUI -----> 3322
+2: KEY: diazepam *** Concept from RXNORM -----> Diazepam
+3: KEY: diazepam *** Concept Type -----> IN
+4: KEY: diazepam *** Drug mention in text -----> diazepam
+5: KEY: diazepam *** Source language -----> MSH
+6 KEY: diazepam *** CUI CODE in original terminology -----> D003975
+7: KEY: diazepam *** Final position in text according to JSON Object -----> 238
+8: KEY: diazepam *** Initial position according to JSON Object -----> 231
+9: KEY: diazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003975
+10: KEY: diazepam *** Preferred name according to JSON Object -----> Diazepam
+---------------------------------------------------------
+1: KEY: desmethyldiazepam *** RXCUI -----> 3155
+2: KEY: desmethyldiazepam *** Concept from RXNORM -----> Nordazepam
+3: KEY: desmethyldiazepam *** Concept Type -----> IN
+4: KEY: desmethyldiazepam *** Drug mention in text -----> desmethyldiazepam
+5: KEY: desmethyldiazepam *** Source language -----> MSH
+6 KEY: desmethyldiazepam *** CUI CODE in original terminology -----> D003708
+7: KEY: desmethyldiazepam *** Final position in text according to JSON Object -----> 411
+8: KEY: desmethyldiazepam *** Initial position according to JSON Object -----> 395
+9: KEY: desmethyldiazepam *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D003708
+10: KEY: desmethyldiazepam *** Preferred name according to JSON Object -----> Nordazepam
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 267
+8: KEY: sertraline *** Initial position according to JSON Object -----> 258
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 267
+8: KEY: sertraline *** Initial position according to JSON Object -----> 258
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+1: KEY: sertraline *** RXCUI -----> 36437
+2: KEY: sertraline *** Concept from RXNORM -----> Sertraline
+3: KEY: sertraline *** Concept Type -----> IN
+4: KEY: sertraline *** Drug mention in text -----> sertraline
+5: KEY: sertraline *** Source language -----> MSH
+6 KEY: sertraline *** CUI CODE in original terminology -----> D020280
+7: KEY: sertraline *** Final position in text according to JSON Object -----> 267
+8: KEY: sertraline *** Initial position according to JSON Object -----> 258
+9: KEY: sertraline *** Full ID according to JSON Object -----> http://purl.bioontology.org/ontology/MSH/D020280
+10: KEY: sertraline *** Preferred name according to JSON Object -----> Sertraline
+---------------------------------------------------------
+removed duplications 6
+Number of missed JSON elements: 0
