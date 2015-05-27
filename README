@@ -5,11 +5,13 @@ Authors: Richard D Boyce, Peter Randall, Greg Gardner
 ------------------------------------------------------------
 DEPENDENCIES
 ------------------------------------------------------------
-* u-of-pitt-SPL-drug-NER : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-SPL-drug-NER>. Be sure to configure the 'dictionary_path' variable in etc/file_properties.xml so the the path to the WordNet dictionary resolves correctly
+* u-of-pitt-SPL-drug-NER : available from <https://github.com/dbmi-pitt/u-of-pitt-SPL-drug-NER>. Be sure to configure the 'dictionary_path' variable in etc/file_properties.xml so the the path to the WordNet dictionary resolves correctly
 
-* SPL-PDDI-NLP-server : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-server>. Be sure to read the README in that project's folder and configure for your site
+* SPL-PDDI-NLP-server : available from <https://github.com/dbmi-pitt/u-of-pitt-spl-ddi-v2.0/tree/master/PK-DDI-webapp/SPL-PDDI-NLP-server>. Be sure to read the README in that project's folder and configure for your site
 
-* SPL-PDDI-NLP-client : available from <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-client>. The client requires Python 2.7, simplejson, and the Python Suds SOAP client.
+* SPL-PDDI-NLP-client : available from <https://github.com/dbmi-pitt/u-of-pitt-spl-ddi-v2.0/tree/master/PK-DDI-webapp/SPL-PDDI-NLP-client>. The client requires Python 2.7, simplejson, and the Python Suds SOAP client.
+
+* library available from <http://dbmi-icode-01.dbmi.pitt.edu/dikb-evidence/libs/u-of-pitt-spl-ddi-v1.0-total-package.zip>
 
 ------------------------------------------------------------
 INSTRUCTIONS
