@@ -22,9 +22,9 @@
 ## Boston, MA 02111-1307, USA.
 
 CURRENT_DATE=$(date +'%F%r' | tr -d ':' | tr -d 'PM' | tr -d 'AM')
-DRUG_NER_BASEPATH=/home/PITT/rdb20/u-of-pitt-SPL-drug-NER
-PDDI_CLIENT_PATH=/home/PITT/rdb20/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-client/src
-PIPELINE_BASEPATH=/home/PITT/rdb20/u-of-pitt-spl-ddi-v2.0/PK-DDI-NLP-pipeline
+DRUG_NER_BASEPATH=/home/rdb20/u-of-pitt-SPL-drug-NER
+PDDI_CLIENT_PATH=/home/rdb20/u-of-pitt-spl-ddi-v2.0/PK-DDI-webapp/SPL-PDDI-NLP-client/src
+PIPELINE_BASEPATH=/home/rdb20/u-of-pitt-spl-ddi-v2.0/PK-DDI-NLP-pipeline
 
 parse_to_JSON(){
     FILES=$DRUG_NER_BASEPATH/processed-output/*
