@@ -6,7 +6,7 @@ labels
 DEPENDENCIES
 ------------------------------------------------------------
 * Java >= 1.6
-* The PDDI classifier program available at <https://swat-4-med-safety.googlecode.com/svn/trunk/u-of-pitt-spl-ddi-v2.0/u-of-pitt-spl-ddi-v1.0-total-package.zip>
+* The PDDI classifier program available at <https://dbmi-icode-01.dbmi.pitt.edu/dikb-evidence/libs/u-of-pitt-spl-ddi-v1.0-total-package.zip>
 * The Ant build program >= 1.8 (not tested on previous versions but might work)
 
 ------------------------------------------------------------

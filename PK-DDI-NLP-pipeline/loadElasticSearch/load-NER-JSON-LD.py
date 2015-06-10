@@ -1,3 +1,4 @@
+
 '''
 Created 06/05/2014
 
@@ -84,8 +85,11 @@ def parseSingleResource(ann):
 
     
     ## Label URL for proxy of alive dailymed labels 
-    dict_paras["annotates_url"] = "http://"+LOCAL_IP + ":" + PORT +"/proxy/http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=" + ann["setId"]
+    #dict_paras["annotates_url"] = "http://"+LOCAL_IP + ":" + PORT +"/proxy/http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=" + ann["setId"]
 
+    ## Label URL for development server served dailymed labels 
+    dict_paras["annotates_url"] = "http://"+LOCAL_IP + ":" + PORT +"/DDI-labels/" + ann["setId"] + ".html"
+    
     dict_paras["exact"] = ann["exact"].replace("\n\n"," ").replace("\n"," ")
 
     prefix = ann["prefix"]
@@ -254,31 +258,34 @@ def insert_annotation (dict_paras):
 
 def loadNerOutputs(anndir):
 
-    setIds = ["44dcbf97-99ec-427c-ba50-207e0069d6d2", "39a5dae2-49f7-4662-9eac-aa7b4c7807a4", "c66a11c1-3093-45ef-b348-3b196c05ba0c" ,"50914a46-eab6-4c83-97cf-6ab0234c8126"]
+    setIds = ["b891bd9f-fdb8-4862-89c5-ecdd700398a3","ac387aa0-3f04-4865-a913-db6ed6f4fdc5","513a41d0-37d4-4355-8a6d-a2c643bce6fa","2e7350bd-ab32-4619-a3f9-12fdf56fc5e2"]
     
-    index = 1
     ann_ner = loadJsonFromDir(anndir)
-    print len(ann_ner)
+    #print len(ann_ner)
 
+    #idx = 1
     for ann in ann_ner:
         
-        if ann["setId"] in setIds:
-            dict_paras = parseSingleResource(ann)
-            ann_domeo = buildAnnotation(dict_paras, SAMPLE_DOMEO)
+        #if ann["setId"] in setIds:
+        dict_paras = parseSingleResource(ann)
+        ann_domeo = buildAnnotation(dict_paras, SAMPLE_DOMEO)
 
-            # load all annotations
-            if ann_domeo:
+        # load all annotations
+        if ann_domeo:
 
-                # load 11 - 208
-                #if ann_domeo and (int(dict_paras["fileId"]) > 10):
-        
-                es = Elasticsearch()
-                es.index(index="domeo", doc_type=COLLECTION, id=dict_paras["mongo_uuid"], body=json.dumps(ann_domeo))
+            # load 11 - 208
+            #if ann_domeo and (int(dict_paras["fileId"]) > 10):
 
-                insert_annotation (dict_paras)
-                print "load annotations for " + dict_paras["annotates_url"]
-            else:
-                print "annotation empty"
+            es = Elasticsearch()
+            es.index(index="domeo", doc_type=COLLECTION, id=dict_paras["mongo_uuid"], body=json.dumps(ann_domeo))
+
+            insert_annotation(dict_paras)
+            print "[INFO] load annotations:" +str(ann["setId"]) 
+            #print "load annotations for " + dict_paras["annotates_url"]
+
+            #idx = idx + 1
+        else:
+            print "[ERROR] annotation empty"
 
 
 # ----------------------main--------------------------------------
@@ -293,3 +300,4 @@ if __name__ == "__main__":
     main()
     
 
+## "urn:domeoclient:uuid:7f910d24-f1a8-411d-8ae5-d31f1eea0b84","urn:domeoclient:uuid:5cb3ef05-9d02-4426-8a72-c4a92d4f43c6
