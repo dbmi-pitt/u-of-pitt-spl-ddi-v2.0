@@ -25,7 +25,8 @@ sys.setdefaultencoding('UTF8')
 
 DB_CONFIG = "Domeo-DB-config.txt"
 SAMPLE_DOMEO = "PKDDI/Sample-PKDDI-10222015.json"
-ANNOT_CSV = "PKDDI/pkddi-katrina-auto-10202015.csv"
+#ANNOT_CSV = "PKDDI/pkddi-katrina-auto-10202015.csv"
+ANNOT_CSV = "PKDDI/debug-1.csv"
 
 DB_USER = None
 DB_PWD = None
@@ -164,15 +165,20 @@ def buildAnnotation(dict_paras, sampledir, annotation):
         ann_to_domeo["domeo_!DOMEO_NS!_agents"][0]["@id"] = "urn:person:uuid:" + dict_paras["created_by_id"]
         ann_to_domeo["domeo_!DOMEO_NS!_resources"][0]["url"] = dict_paras["annotates_url"]
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["domeo_!DOMEO_NS!_belongsToSet"] = dict_paras["last_version_uri"]
+
+        ## evidence type and assertion type
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["dikbD2R_!DOMEO_NS!_assertionType"] = annotation["assertionType"]
+        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["dikbD2R_!DOMEO_NS!_evidenceType"] = annotation["evidenceType"]
+
 
         # context
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["@id"] = "urn:domeoclient:uuid:" + str(uuid.uuid4())
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSource"] = dict_paras["annotates_url"]
-        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["pav_!DOMEO_NS!_createdOn"] = dict_paras["date"] + " -0400"
-        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["@id"] = "urn:domeoclient:uuid:" + str(uuid.uuid4())
+        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["domeo_!DOMEO_NS!_uuid"] = str(uuid.uuid4())
 
-        # # selector
+        # selector
+        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["@id"] = "urn:domeoclient:uuid:" + str(uuid.uuid4())
+        ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["pav_!DOMEO_NS!_createdOn"] = dict_paras["date"] + " -0400"
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["domeo_!DOMEO_NS!_uuid"] = str(uuid.uuid4())
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["ao_!DOMEO_NS!_exact"] = dict_paras["exact"]
         ann_to_domeo["ao_!DOMEO_NS!_item"][0]["ao_!DOMEO_NS!_context"][0]["ao_!DOMEO_NS!_hasSelector"]["ao_!DOMEO_NS!_prefix"] = dict_paras["prefix"]
